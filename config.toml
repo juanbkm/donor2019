@@ -1,3 +1,5 @@
 baseURL = "http://donor2019.fightpompe.com/"
 languageCode = "en-us"
 title = "Donor Report 2019"
+theme = "donor2019"
+summaryLength = 10
