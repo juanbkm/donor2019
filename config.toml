@@ -3,3 +3,8 @@ languageCode = "en-us"
 title = "Donor Report 2019"
 theme = "donor2019"
 summaryLength = 10
+
+
+# meta data
+author = "Juan"
+description = "This is meta description"
