@@ -3,7 +3,7 @@ install:
   - sudo dpkg -i hugo*.deb
   - hugo version
 before script:
-  - rm rf public 
+  - rm rf public/ 
 script:
   hugo
 branches:

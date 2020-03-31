@@ -3,22 +3,22 @@
 <head>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    {{ with .Site.Params.author }} <meta name="author" content="{{ . }}">{{ end }}
+    <meta name="author" content="">
 
 
 	<!-- Stylesheets
 	============================================= -->
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
     {{ "<!-- bootstrap css -->" | safeHTML}}
-	<link rel="stylesheet" href="{{ `css/bootstrap.css` | absURL }}"  />
-	<link rel="stylesheet" href="{{ `style.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/swiper.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/dark.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/font-icons.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/animate.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/bootstrap.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `style.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/swiper.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/dark.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/font-icons.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/animate.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | relURL }}" type="text/css" />
 
-	<link rel="stylesheet" href="{{ `css/responsive.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/responsive.css` | relURL }}" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<!-- Document Title
@@ -128,12 +128,12 @@
 
 	<!-- External JavaScripts
 	============================================= -->
-	<script src="{{ `js/jquery.js` | absURL }}"></script>
-	<script src="{{ `js/plugins.js` | absURL }}"></script>
+	<script src="{{ `js/jquery.js` | relURL }}"></script>
+	<script src="{{ `js/plugins.js` | relURL }}"></script>
 
 	<!-- Footer Scripts
 	============================================= -->
-	<script src="{{ `js/functions.js` | absURL }}"></script>
+	<script src="{{ `js/functions.js` | relURL }}"></script>
 
 </body>
 </html>
