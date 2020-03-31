@@ -217,7 +217,7 @@ body.stretched {
 	#header.full-header & {
 		padding-right: 30px;
 		margin-right: 30px;
-		border-right: 1px solid set-border-color($header-bg);
+		//border-right: 1px solid set-border-color($header-bg);
 	}
 
 	a {
@@ -235,6 +235,9 @@ body.stretched {
 	}
 	img {
 		display: block;
+		width: 389px;
+		height: 80px !important;
+		margin-top: 10px;
 		max-width: 100%;
 	}
 }

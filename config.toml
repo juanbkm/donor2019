@@ -1,4 +1,4 @@
-baseURL = "http://donor2019.fightpompe.com/"
+baseURL = "http://fightpompe.com/donor2019/"
 languageCode = "en-us"
 title = "Donor Report 2019"
 theme = "donor2019"

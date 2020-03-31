@@ -4,22 +4,22 @@
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="author" content="">
-
+    <base href="{{ .Site.BaseURL }}">
 
 	<!-- Stylesheets
 	============================================= -->
     <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
     {{ "<!-- bootstrap css -->" | safeHTML}}
-	<link rel="stylesheet" href="{{ `css/bootstrap.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/bootstrap.css` | absURL }}" type="text/css" />
 
-	<link rel="stylesheet" href="{{ `style.css` | relURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/swiper.css` | relURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/dark.css` | relURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/font-icons.css` | relURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/animate.css` | relURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `style.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/swiper.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/dark.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/font-icons.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/animate.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | absURL }}" type="text/css" />
 
-	<link rel="stylesheet" href="{{ `css/responsive.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/responsive.css` | absURL }}" type="text/css" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<!-- Document Title
@@ -56,10 +56,10 @@
 					<nav id="primary-menu" class="dark">
 
 						<ul>
-							<li class="current"><a href="{{ .Site.BaseURL }}"><div>Home</div></a></li>
+							<li class=""><a href="{{ .Site.BaseURL }}"><div>Home</div></a></li>
 							<li class=""><a href="#"><div>Strategy 2030</div></a></li>
                             <li class=""><a href="#"><div>Cofinancing Highlights</div></a></li>
-                            <li class=""><a href="#"><div>Stories</div></a></li>
+                            <li class=""><a href="{{ .Site.BaseURL }}stories/"><div>Stories</div></a></li>
 							<li class=""><a href="#"><div>Projects</div></a></li>
 							<li class=""><a href="#"><div>Partner</div></a></li>
 							<li class=""><a href="#"><div>Partnership</div></a></li>
@@ -93,15 +93,28 @@
 
 		<!-- Footer
 		============================================= -->
-		<footer id="footer" class="dark">
+		<footer id="footer" class="">
 
 			<div class="container">
-
+                
 				<!-- Footer Widgets
 				============================================= -->
 				<div class="footer-widgets-wrap clearfix">
-
-					
+					<div class="col_half">
+						<h4>PARTNERING FOR DEVELOPMENT</h4>
+						<h3>DONOR REPORT 2019</h3>
+						<p>This publication showcases activities and results of financing partnerships of the Asian Development Bank (ADB) in 2018. Stories illustrate how these partnerships have made a significant difference in the lives of the poor. ADB partners benefit from the wide range of financing options as they seek to begin or expand their commitment to developing Asia and the Pacific as well as support ADB’s strategic priorities as indicated in its Strategy 2030. The donor report is intended for current and prospective official and other concessional development financing partners of ADB.
+						</p>
+					</div>
+					<div class="col_half col_last">
+						<h4>ABOUT THE</h4>
+						<h3>ASIAN DEVELOPMENT BANK</h3>
+						<p>ADB is committed to achieving a prosperous, inclusive, resilient, and sustainable Asia and the Pacific, while sustaining its efforts to eradicate extreme poverty. Established in 1966, it is owned by 68 members—49 from the region. Its main instruments for helping its developing member countries are policy dialogue, loans, equity investments, guarantees, grants, and technical assistance.
+						</p>
+						<h5>Headquarters</h5>
+						<p>6 ADB Avenue, Mandaluyong City 1550, Metro Manila, Philippines <br>
+							+63 2 632 4444     +63 2 636 2444</p>
+					</div>    
 
 				</div><!-- .footer-widgets-wrap end -->
 
@@ -129,12 +142,12 @@
 
 	<!-- External JavaScripts
 	============================================= -->
-	<script src="{{ `js/jquery.js` | relURL }}"></script>
-	<script src="{{ `js/plugins.js` | relURL }}"></script>
+	<script src="{{ `js/jquery.js` | absURL }}"></script>
+	<script src="{{ `js/plugins.js` | absURL }}"></script>
 
 	<!-- Footer Scripts
 	============================================= -->
-	<script src="{{ `js/functions.js` | relURL }}"></script>
+	<script src="{{ `js/functions.js` | absURL }}"></script>
 
 </body>
 </html>
