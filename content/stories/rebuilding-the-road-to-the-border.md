@@ -4,6 +4,7 @@ date: 2020-03-31T17:47:33+08:00
 image: images/stories/rebuilding-the-road-to-the-border.jpg
 author: Admin
 description: "This is meta description"
+summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. The new road links to a transport corridor supporting regional trade and cooperation. "
 draft: false
 ---
 

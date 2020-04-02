@@ -235,9 +235,10 @@ body.stretched {
 	}
 	img {
 		display: block;
-		width: 389px;
+		//width: 389px;
 		height: 80px !important;
 		margin-top: 10px;
+		margin-bottom: 10px;
 		max-width: 100%;
 	}
 }
@@ -1442,7 +1443,7 @@ body.top-search-open #top-account { opacity: 0; }
 
 #header.sticky-header:not(.static-sticky),
 #header.sticky-header:not(.static-sticky) #header-wrap,
-#header.sticky-header:not(.static-sticky):not(.sticky-style-2):not(.sticky-style-3) #logo img { height: $sticky-header-height; }
+#header.sticky-header:not(.static-sticky):not(.sticky-style-2):not(.sticky-style-3) #logo img { height: $sticky-header-height !important; margin-top: 0; }
 
 #header.sticky-header:not(.static-sticky) #primary-menu > ul > li > a {
 	padding-top: $sticky-menu-padding;

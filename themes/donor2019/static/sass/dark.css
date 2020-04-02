@@ -1,3 +1,227 @@
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Light.eot");
+  src: local("Ideal Sans Light"), local("./css/fonts/IdealSans-Light"), url("./css/fonts/IdealSans-Light.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Light.woff2") format("woff2"), url("./css/fonts/IdealSans-Light.woff") format("woff"), url("./css/fonts/IdealSans-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans Extra';
+  src: url("./css/fonts/IdealSans-ExtraLight.eot");
+  src: local("Ideal Sans Extra Light"), local("./css/fonts/IdealSans-ExtraLight"), url("./css/fonts/IdealSans-ExtraLight.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-ExtraLight.woff2") format("woff2"), url("./css/fonts/IdealSans-ExtraLight.woff") format("woff"), url("./css/fonts/IdealSans-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans Book';
+  src: url("./css/fonts/IdealSans-Book.eot");
+  src: local("Ideal Sans Book"), local("./css/fonts/IdealSans-Book"), url("./css/fonts/IdealSans-Book.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Book.woff2") format("woff2"), url("./css/fonts/IdealSans-Book.woff") format("woff"), url("./css/fonts/IdealSans-Book.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Medium.eot");
+  src: local("Ideal Sans Medium"), local("./css/fonts/IdealSans-Medium"), url("./css/fonts/IdealSans-Medium.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Medium.woff2") format("woff2"), url("./css/fonts/IdealSans-Medium.woff") format("woff"), url("./css/fonts/IdealSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-MediumItalic.eot");
+  src: local("Ideal Sans Medium Italic"), local("./css/fonts/IdealSans-MediumItalic"), url("./css/fonts/IdealSans-MediumItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-MediumItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-MediumItalic.woff") format("woff"), url("./css/fonts/IdealSans-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Bold.eot");
+  src: local("Ideal Sans Bold"), local("./css/fonts/IdealSans-Bold"), url("./css/fonts/IdealSans-Bold.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Bold.woff2") format("woff2"), url("./css/fonts/IdealSans-Bold.woff") format("woff"), url("./css/fonts/IdealSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Thin.eot");
+  src: local("Ideal Sans Thin"), local("./css/fonts/IdealSans-Thin"), url("./css/fonts/IdealSans-Thin.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Thin.woff2") format("woff2"), url("./css/fonts/IdealSans-Thin.woff") format("woff"), url("./css/fonts/IdealSans-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Black.eot");
+  src: local("Ideal Sans Black"), local("./css/fonts/IdealSans-Black"), url("./css/fonts/IdealSans-Black.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Black.woff2") format("woff2"), url("./css/fonts/IdealSans-Black.woff") format("woff"), url("./css/fonts/IdealSans-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-SemiboldItalic.eot");
+  src: local("Ideal Sans Semibold Italic"), local("./css/fonts/IdealSans-SemiboldItalic"), url("./css/fonts/IdealSans-SemiboldItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-SemiboldItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-SemiboldItalic.woff") format("woff"), url("./css/fonts/IdealSans-SemiboldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-ThinItalic.eot");
+  src: local("Ideal Sans Thin Italic"), local("./css/fonts/IdealSans-ThinItalic"), url("./css/fonts/IdealSans-ThinItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-ThinItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-ThinItalic.woff") format("woff"), url("./css/fonts/IdealSans-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-BlackItalic.eot");
+  src: local("Ideal Sans Black Italic"), local("./css/fonts/IdealSans-BlackItalic"), url("./css/fonts/IdealSans-BlackItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-BlackItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-BlackItalic.woff") format("woff"), url("./css/fonts/IdealSans-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans Book';
+  src: url("./css/fonts/IdealSans-BookItalic.eot");
+  src: local("Ideal Sans Book Italic"), local("./css/fonts/IdealSans-BookItalic"), url("./css/fonts/IdealSans-BookItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-BookItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-BookItalic.woff") format("woff"), url("./css/fonts/IdealSans-BookItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-LightItalic.eot");
+  src: local("Ideal Sans Light Italic"), local("./css/fonts/IdealSans-LightItalic"), url("./css/fonts/IdealSans-LightItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-LightItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-LightItalic.woff") format("woff"), url("./css/fonts/IdealSans-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-BoldItalic.eot");
+  src: local("Ideal Sans Bold Italic"), local("./css/fonts/IdealSans-BoldItalic"), url("./css/fonts/IdealSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-BoldItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-BoldItalic.woff") format("woff"), url("./css/fonts/IdealSans-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Semibold.eot");
+  src: local("Ideal Sans Semibold"), local("./css/fonts/IdealSans-Semibold"), url("./css/fonts/IdealSans-Semibold.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Semibold.woff2") format("woff2"), url("./css/fonts/IdealSans-Semibold.woff") format("woff"), url("./css/fonts/IdealSans-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans Extra';
+  src: url("./css/fonts/IdealSans-ExtraLightItalic.eot");
+  src: local("Ideal Sans Extra Light Italic"), local("./css/fonts/IdealSans-ExtraLightItalic"), url("./css/fonts/IdealSans-ExtraLightItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-ExtraLightItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-ExtraLightItalic.woff") format("woff"), url("./css/fonts/IdealSans-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Light.eot");
+  src: local("Ideal Sans Light"), local("./css/fonts/IdealSans-Light"), url("./css/fonts/IdealSans-Light.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Light.woff2") format("woff2"), url("./css/fonts/IdealSans-Light.woff") format("woff"), url("./css/fonts/IdealSans-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans Extra';
+  src: url("./css/fonts/IdealSans-ExtraLight.eot");
+  src: local("Ideal Sans Extra Light"), local("./css/fonts/IdealSans-ExtraLight"), url("./css/fonts/IdealSans-ExtraLight.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-ExtraLight.woff2") format("woff2"), url("./css/fonts/IdealSans-ExtraLight.woff") format("woff"), url("./css/fonts/IdealSans-ExtraLight.ttf") format("truetype");
+  font-weight: 200;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans Book';
+  src: url("./css/fonts/IdealSans-Book.eot");
+  src: local("Ideal Sans Book"), local("./css/fonts/IdealSans-Book"), url("./css/fonts/IdealSans-Book.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Book.woff2") format("woff2"), url("./css/fonts/IdealSans-Book.woff") format("woff"), url("./css/fonts/IdealSans-Book.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Medium.eot");
+  src: local("Ideal Sans Medium"), local("./css/fonts/IdealSans-Medium"), url("./css/fonts/IdealSans-Medium.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Medium.woff2") format("woff2"), url("./css/fonts/IdealSans-Medium.woff") format("woff"), url("./css/fonts/IdealSans-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-MediumItalic.eot");
+  src: local("Ideal Sans Medium Italic"), local("./css/fonts/IdealSans-MediumItalic"), url("./css/fonts/IdealSans-MediumItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-MediumItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-MediumItalic.woff") format("woff"), url("./css/fonts/IdealSans-MediumItalic.ttf") format("truetype");
+  font-weight: 500;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Bold.eot");
+  src: local("Ideal Sans Bold"), local("./css/fonts/IdealSans-Bold"), url("./css/fonts/IdealSans-Bold.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Bold.woff2") format("woff2"), url("./css/fonts/IdealSans-Bold.woff") format("woff"), url("./css/fonts/IdealSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Thin.eot");
+  src: local("Ideal Sans Thin"), local("./css/fonts/IdealSans-Thin"), url("./css/fonts/IdealSans-Thin.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Thin.woff2") format("woff2"), url("./css/fonts/IdealSans-Thin.woff") format("woff"), url("./css/fonts/IdealSans-Thin.ttf") format("truetype");
+  font-weight: 100;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Black.eot");
+  src: local("Ideal Sans Black"), local("./css/fonts/IdealSans-Black"), url("./css/fonts/IdealSans-Black.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Black.woff2") format("woff2"), url("./css/fonts/IdealSans-Black.woff") format("woff"), url("./css/fonts/IdealSans-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-SemiboldItalic.eot");
+  src: local("Ideal Sans Semibold Italic"), local("./css/fonts/IdealSans-SemiboldItalic"), url("./css/fonts/IdealSans-SemiboldItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-SemiboldItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-SemiboldItalic.woff") format("woff"), url("./css/fonts/IdealSans-SemiboldItalic.ttf") format("truetype");
+  font-weight: 600;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-ThinItalic.eot");
+  src: local("Ideal Sans Thin Italic"), local("./css/fonts/IdealSans-ThinItalic"), url("./css/fonts/IdealSans-ThinItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-ThinItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-ThinItalic.woff") format("woff"), url("./css/fonts/IdealSans-ThinItalic.ttf") format("truetype");
+  font-weight: 100;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-BlackItalic.eot");
+  src: local("Ideal Sans Black Italic"), local("./css/fonts/IdealSans-BlackItalic"), url("./css/fonts/IdealSans-BlackItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-BlackItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-BlackItalic.woff") format("woff"), url("./css/fonts/IdealSans-BlackItalic.ttf") format("truetype");
+  font-weight: 900;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans Book';
+  src: url("./css/fonts/IdealSans-BookItalic.eot");
+  src: local("Ideal Sans Book Italic"), local("./css/fonts/IdealSans-BookItalic"), url("./css/fonts/IdealSans-BookItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-BookItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-BookItalic.woff") format("woff"), url("./css/fonts/IdealSans-BookItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-LightItalic.eot");
+  src: local("Ideal Sans Light Italic"), local("./css/fonts/IdealSans-LightItalic"), url("./css/fonts/IdealSans-LightItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-LightItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-LightItalic.woff") format("woff"), url("./css/fonts/IdealSans-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-BoldItalic.eot");
+  src: local("Ideal Sans Bold Italic"), local("./css/fonts/IdealSans-BoldItalic"), url("./css/fonts/IdealSans-BoldItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-BoldItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-BoldItalic.woff") format("woff"), url("./css/fonts/IdealSans-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Ideal Sans';
+  src: url("./css/fonts/IdealSans-Semibold.eot");
+  src: local("Ideal Sans Semibold"), local("./css/fonts/IdealSans-Semibold"), url("./css/fonts/IdealSans-Semibold.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-Semibold.woff2") format("woff2"), url("./css/fonts/IdealSans-Semibold.woff") format("woff"), url("./css/fonts/IdealSans-Semibold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'Ideal Sans Extra';
+  src: url("./css/fonts/IdealSans-ExtraLightItalic.eot");
+  src: local("Ideal Sans Extra Light Italic"), local("./css/fonts/IdealSans-ExtraLightItalic"), url("./css/fonts/IdealSans-ExtraLightItalic.eot?#iefix") format("embedded-opentype"), url("./css/fonts/IdealSans-ExtraLightItalic.woff2") format("woff2"), url("./css/fonts/IdealSans-ExtraLightItalic.woff") format("woff"), url("./css/fonts/IdealSans-ExtraLightItalic.ttf") format("truetype");
+  font-weight: 200;
+  font-style: italic; }
+
 /*-----------------------------------------------------------------------------------
 	Dark Scheme - sass/dark.scss
 -----------------------------------------------------------------------------------*/
