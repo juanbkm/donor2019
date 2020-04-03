@@ -5,6 +5,10 @@ image: images/stories/rebuilding-the-road-to-the-border.jpg
 author: Admin
 description: "This is meta description"
 summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. The new road links to a transport corridor supporting regional trade and cooperation. "
+project_title: "Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni–Uzbekistan Border Road) Improvement Project"
+approval: "September 2012"
+completion: "August 2017"
+cost: "$136 million"
 draft: false
 ---
 

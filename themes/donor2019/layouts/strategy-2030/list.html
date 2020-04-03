@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="container clearfix">
+    <div class="dr-section-header">
+        <h2>{{ .CurrentSection.Title }}</h2>
+        <p class="lead">{{ .Params.section_summary }}</p>
+    </div>
+    <ul>
+    {{ range .Pages }}
+        <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+    {{ end }}
+    </ul>
+</div>
+{{ end }}

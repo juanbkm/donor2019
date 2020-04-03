@@ -9311,6 +9311,83 @@ td.actions {
       .ievent .entry-meta li:first-child {
         padding-left: 0; }
 
+/* line 3, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+.dr-stories-single .dr-story-head {
+  position: relative; }
+  /* line 5, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-stories-single .dr-story-head .dr-story-head-text {
+    position: absolute;
+    padding: 20px;
+    bottom: 0;
+    width: 60%; }
+    /* line 10, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+    .dr-stories-single .dr-story-head .dr-story-head-text h2, .dr-stories-single .dr-story-head .dr-story-head-text h3, .dr-stories-single .dr-story-head .dr-story-head-text p {
+      color: #ffffff;
+      line-height: 1;
+      margin: 0; }
+    /* line 15, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+    .dr-stories-single .dr-story-head .dr-story-head-text h2 {
+      font-size: 64px;
+      font-weight: 700; }
+    /* line 19, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+    .dr-stories-single .dr-story-head .dr-story-head-text h3 {
+      font-size: 24px;
+      font-weight: 300; }
+
+/* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+.dr-stories-single .dr-story-summary {
+  padding: 20px; }
+  /* line 28, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-stories-single .dr-story-summary .lead {
+    font-weight: 700; }
+
+/* line 32, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+.dr-stories-single .dr-story-details {
+  background-color: #eb6440;
+  background-image: linear-gradient(#eb6440 20%, #fdb515);
+  margin-top: -200px;
+  margin-right: 40px;
+  padding: 40px 40px 20px 40px; }
+  /* line 38, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-stories-single .dr-story-details h4 {
+    color: #ffffff;
+    font-weight: 100;
+    font-size: 14px;
+    line-height: .8;
+    margin: 0;
+    text-transform: uppercase; }
+  /* line 46, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-stories-single .dr-story-details p {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 100;
+    font-family: "Ideal Sans", sans-serif;
+    line-height: .8;
+    margin: 0 0 10px 0; }
+  /* line 54, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-stories-single .dr-story-details .dr-project_title {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: .5; }
+
+/* line 61, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+.dr-stories-single .dr-story-content {
+  padding: 40px 0; }
+  /* line 63, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-stories-single .dr-story-content h3 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300; }
+  /* line 68, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-stories-single .dr-story-content h3:after {
+    content: '';
+    display: block;
+    margin-top: 30px;
+    width: 60px;
+    border-top: 2px solid #00A5D2;
+    margin: 10px auto; }
+
 /*-----------------------------------------------------------------------------------
 	shortcodes
 -----------------------------------------------------------------------------------*/
