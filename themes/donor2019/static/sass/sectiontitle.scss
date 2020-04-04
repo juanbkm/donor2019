@@ -1,0 +1,54 @@
+
+/* ----------------------------------------------------------------
+
+	sectiontitle.scss
+
+-----------------------------------------------------------------*/
+
+
+/* ----------------------------------------------------------------
+	Section Title
+-----------------------------------------------------------------*/
+
+#dr-section-title {
+	position: relative;
+	padding: $page-title-padding;
+    background-color: $adb-main-blue-one;
+    background-image: linear-gradient(120deg, $adb-main-blue-one 40%, $adb-accent-green-two);
+	border-bottom: $page-title-border;
+	
+	@include media-breakpoint-down(sm) {
+		padding: round($page-title-padding / 2.5) 0 round($page-title-padding / 2);
+		text-align: center;
+	}
+
+	.container { position: relative; }
+    h2, h3, p {
+        color: #ffffff;
+        line-height: 1;
+        margin: 0;
+    }
+	h2 {
+		padding: 0;
+		margin: 0;
+		line-height: 1;
+		font-weight: 300;
+		letter-spacing: 1px;
+		font-size: 64px;
+		
+		.dark & { color: rgba($white,0.9) !important; }
+		@include media-breakpoint-down(sm) {
+			line-height: 1.5;
+			font-size: round($page-title-size / 1.17);
+		}
+	}
+
+	span {
+		display: block;
+		margin-top: 10px;
+		font-weight: 300;
+		color: lighten($page-title-color, 26.67%);
+		.dark & { color: rgba($white,0.7); }
+		font-size: $page-title-subtitle-size;
+	}
+}

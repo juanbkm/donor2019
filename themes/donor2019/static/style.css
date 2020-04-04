@@ -5472,6 +5472,61 @@ body.stretched .container-fullwidth .breadcrumb {
 
 /* ----------------------------------------------------------------
 
+	sectiontitle.scss
+
+-----------------------------------------------------------------*/
+/* ----------------------------------------------------------------
+	Section Title
+-----------------------------------------------------------------*/
+/* line 13, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+#dr-section-title {
+  position: relative;
+  padding: 50px;
+  background-color: #007db7;
+  background-image: linear-gradient(120deg, #007db7 40%, #cdde40);
+  border-bottom: 1px solid #eeeeee; }
+  @media (max-width: 767.98px) {
+    /* line 13, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+    #dr-section-title {
+      padding: 20px 0 25px;
+      text-align: center; } }
+  /* line 25, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  #dr-section-title .container {
+    position: relative; }
+  /* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  #dr-section-title h2, #dr-section-title h3, #dr-section-title p {
+    color: #ffffff;
+    line-height: 1;
+    margin: 0; }
+  /* line 31, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  #dr-section-title h2 {
+    padding: 0;
+    margin: 0;
+    line-height: 1;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-size: 64px; }
+    /* line 39, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+    .dark #dr-section-title h2 {
+      color: rgba(255, 255, 255, 0.9) !important; }
+    @media (max-width: 767.98px) {
+      /* line 31, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+      #dr-section-title h2 {
+        line-height: 1.5;
+        font-size: 24px; } }
+  /* line 46, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  #dr-section-title span {
+    display: block;
+    margin-top: 10px;
+    font-weight: 300;
+    color: #777777;
+    font-size: 18px; }
+    /* line 51, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+    .dark #dr-section-title span {
+      color: rgba(255, 255, 255, 0.7); }
+
+/* ----------------------------------------------------------------
+
 	content.scss
 
 -----------------------------------------------------------------*/

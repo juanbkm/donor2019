@@ -1,0 +1,9 @@
+<div class="row">
+    <div class="col">
+        <div id="dr-section-title" class="dr-section-header">
+            <h2>{{ .CurrentSection.Title }}</h2>
+            <p class="lead">{{ .Params.section_summary }}</p>
+            <img src="{{ with .Params.section_image }}{{ . | absURL }}{{ end }}" alt="">
+        </div>
+    </div>
+</div>
