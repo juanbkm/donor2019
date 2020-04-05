@@ -383,7 +383,7 @@ $primary-menu-padding:					round($header-height - 22) / 2;
 $sticky-menu-padding:					round($sticky-header-height - 22) / 2;
 
 $primary-menu-font:             		$heading-font;
-$primary-menu-font-weight:      		bold;
+$primary-menu-font-weight:      		300; // default was bold // 
 $primary-menu-font-size:        		13px;
 $primary-menu-font-tt:          		capitalize;
 $primary-menu-font-color:       		$text-color;  // Leave as a "$text-color" for auto bg contrast

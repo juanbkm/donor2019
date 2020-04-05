@@ -1,9 +1,11 @@
 <div class="row">
     <div class="col">
-        <div id="dr-section-title" class="dr-section-header">
+        <div id="dr-section-title" class="dr-section-header dr-section-stories">
             <h2>{{ .CurrentSection.Title }}</h2>
             <p class="lead">{{ .Params.section_summary }}</p>
-            <img src="{{ with .Params.section_image }}{{ . | absURL }}{{ end }}" alt="">
+            {{ with .Params.section_image }}
+            <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
+            {{ end }}
         </div>
     </div>
 </div>

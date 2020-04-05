@@ -326,16 +326,22 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 	float: left;
 	padding-right: 15px;
 	margin-right: 15px;
-	border-right: 1px solid set-border-color($header-bg);
+	//border-right: 1px solid set-border-color($header-bg);
 }
 
-#header.transparent-header.full-header #primary-menu > ul { border-right-color: rgba($black-color,0.1); }
+#header.transparent-header.full-header #primary-menu > ul { 
+	//border-right-color: rgba($black-color,0.1); 
+}
 
 .dark #header.full-header #header-wrap:not(.not-dark) #primary-menu > ul,
-#header.full-header.dark #header-wrap:not(.not-dark) #primary-menu > ul { border-right-color: set-border-color($header-bg-dark); }
+#header.full-header.dark #header-wrap:not(.not-dark) #primary-menu > ul { 
+	//border-right-color: set-border-color($header-bg-dark); 
+}
 
 .dark #header.transparent-header.full-header:not(.sticky-header) #header-wrap:not(.not-dark) #primary-menu > ul,
-#header.transparent-header.full-header.dark:not(.sticky-header) #header-wrap:not(.not-dark) #primary-menu > ul { border-right-color: rgba($white,0.2); }
+#header.transparent-header.full-header.dark:not(.sticky-header) #header-wrap:not(.not-dark) #primary-menu > ul { 
+	//border-right-color: rgba($white,0.2);
+ }
 
 #primary-menu-trigger,
 #page-submenu-trigger {
