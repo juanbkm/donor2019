@@ -10,7 +10,7 @@
 
 		<!-- Header
 		============================================= -->
-		<header id="header" class="transparent-header full-header" data-sticky-class="not-dark">
+		<header id="header" class="full-header" data-sticky-class="not-dark">
 
 			<div id="header-wrap">
 
@@ -50,20 +50,11 @@
 
 		</header><!-- #header end -->
 
+		{{ block "main" . }}
+		<!-- The part of the page that begins to differ between templates -->
+    
 
-		<!-- Content
-		============================================= -->
-		<section id="content">
-
-			<div class="content-wrap">
-
-                {{ block "main" . }}
-                <!-- The part of the page that begins to differ between templates -->
-                {{ end }}
-
-			</div>
-
-		</section><!-- #content end -->
+		{{ end }}
 		
 		<!-- Footer
 		============================================= -->

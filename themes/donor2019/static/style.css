@@ -5025,7 +5025,7 @@ html[xmlns] .slider-wrap {
 .slider-caption h2 {
   font-size: 4rem;
   letter-spacing: 2px;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 700;
   line-height: 1;
   margin-bottom: 0; }
@@ -5248,6 +5248,18 @@ html[xmlns] .slider-wrap {
   display: block;
   font-size: 32px;
   line-height: 40px; }
+
+/* line 2, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drslider.scss */
+.dr-slide-1 {
+  background: url(./images/two-girls.png) no-repeat bottom right, linear-gradient(120deg, #007db7 30%, #98cc52 60%, #cdde40) !important; }
+
+/* line 6, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drslider.scss */
+.dr-slide-2 {
+  background: url(./images/two-boys.png) no-repeat bottom right, linear-gradient(120deg, #eb6440 30%, #f68c3e 60%, #fdb515) !important; }
+
+/* line 10, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drslider.scss */
+.dr-slide-3 {
+  background: url(./images/two-girls.png) no-repeat bottom right, linear-gradient(120deg, #007db7 30%, #98cc52 60%, #cdde40) !important; }
 
 /* ----------------------------------------------------------------
 

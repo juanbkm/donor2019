@@ -1,17 +1,21 @@
 {{ define "main" }}
-
-<div class="container clearfix">
-    {{- partial "sectiontitle.html" . -}}
-    <div class="row">
-        <div class="col">
-            <ul>
-            {{ range .Pages }}
-                <li><a href="{{.Permalink}}">{{.Title}}</a></li>
-            {{ end }}
-            </ul>
+<!-- Content
+============================================= -->
+<section id="content">
+    <div class="content-wrap">
+        <div class="container clearfix">
+            {{- partial "sectiontitle.html" . -}}
+            <div class="row">
+                <div class="col">
+                    <ul>
+                    {{ range .Pages }}
+                        <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+                    {{ end }}
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
-    
-</div>
+</section><!-- #content end -->
 
 {{ end }}

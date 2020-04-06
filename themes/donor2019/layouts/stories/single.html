@@ -1,48 +1,51 @@
 {{ define "main" }}
+<!-- Content
+============================================= -->
+<section id="content">
+    <div class="content-wrap">
+        <section class="dr-stories-single">
+            <div class="container clearfix">
+                <div class="row">
+                    <div class="col-md-12 mx-auto">
+                        <div class="dr-story-head">
+                            <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="w-100 mb-3" alt="Post-Image">
+                            <div class="dr-story-head-text">
+                                <h3>Stories / category</h3>
+                                <h2>{{ .Title }}</h2>
+                                <p>Published on: 01 March 2020</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-7">
+                        <div class="dr-story-summary">
+                            <p class="lead">{{ .Params.summary }}</p>
+                        </div>
+                    </div>
+                    <div class="col-md-5">
+                        <div class="dr-story-details">
+                            <h4>Project</h4>
+                            <p class="dr-project_title">{{ .Params.project_title }}</p>
 
-<section class="dr-stories-single">
-    <div class="container clearfix">
-        <div class="row">
-            <div class="col-md-12 mx-auto">
-                <div class="dr-story-head">
-                    <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="w-100 mb-3" alt="Post-Image">
-                    <div class="dr-story-head-text">
-                        <h3>Stories / category</h3>
-                        <h2>{{ .Title }}</h2>
-                        <p>Published on: 01 March 2020</p>
+                            <h4>Approval Date</h4>
+                            <p>{{ .Params.approval }}</p>
+
+                            <h4>Completion</h4>
+                            <p>{{ .Params.completion }}</p>
+
+                            <h4>Project Cost</h4>
+                            <p>{{ .Params.cost }}</p>
+                        </div>
+                    </div>    
+                </div>
+                <div class="row">
+                    <div class="col-md-10 mx-auto dr-story-content">
+                        {{ .Content }}
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-7">
-                <div class="dr-story-summary">
-                    <p class="lead">{{ .Params.summary }}</p>
-                </div>
-            </div>
-            <div class="col-md-5">
-                <div class="dr-story-details">
-                    <h4>Project</h4>
-                    <p class="dr-project_title">{{ .Params.project_title }}</p>
-
-                    <h4>Approval Date</h4>
-                    <p>{{ .Params.approval }}</p>
-
-                    <h4>Completion</h4>
-                    <p>{{ .Params.completion }}</p>
-
-                    <h4>Project Cost</h4>
-                    <p>{{ .Params.cost }}</p>
-                </div>
-            </div>    
-        </div>
-        <div class="row">
-            <div class="col-md-10 mx-auto dr-story-content">
-                {{ .Content }}
-            </div>
-        </div>
-        </div>
+        </section>
     </div>
-</section>
-
+</section><!-- #content end -->
 {{ end }}

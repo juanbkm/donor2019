@@ -471,7 +471,7 @@ html[xmlns] .slider-wrap {display: block;}
 	h2 {
 		font-size: round($slider-caption-font-size * 2.90);
 		letter-spacing: 2px;
-		text-transform: uppercase;
+		text-transform: capitalize;
 		font-weight: 700;
 		line-height: 1;
 		margin-bottom: 0;

@@ -1,17 +1,35 @@
 {{ define "main" }}
+<!-- Content
+============================================= -->
+<section id="content">
+    <div class="content-wrap">
+        <div class="container clearfix">
+            {{- partial "sectiontitle.html" . -}}
+           
+            <!-- Portfolio Items
+            ============================================= -->
+            <div id="portfolio" class="portfolio grid-container portfolio-3 clearfix">
+                {{ range .Pages }}
+                <article class="portfolio-item pf-media pf-icons">
+                    <div class="portfolio-image">
+                        <a href="{{.Permalink}}">
+                            <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" alt="">
+                        </a>
+                        <div class="portfolio-overlay">
+                            <a href="{{.Permalink}}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                            <a href="{{.Permalink}}" class="right-icon"><i class="icon-line-ellipsis"></i></a>
+                        </div>
+                    </div>
+                    <div class="portfolio-desc">
+                        <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
+                        <span><a href="#">RCI</a>
+                    </div>
+                </article>
+                {{ end }}
+            </div><!-- #portfolio end -->
 
-<div class="container clearfix">
-    {{- partial "sectiontitle.html" . -}}
-    <div class="row">
-        <div class="col">
-            <ul>
-            {{ range .Pages }}
-                <li><a href="{{.Permalink}}">{{.Title}}</a></li>
-            {{ end }}
-            </ul>
+           
         </div>
     </div>
-    
-</div>
-
+</section><!-- #content end -->
 {{ end }}
