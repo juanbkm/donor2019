@@ -1,7 +1,7 @@
 {{ define "main" }}
 <!-- Content
 ============================================= -->
-<section id="content">
+<section id="content" class="clearfix">
     <div class="content-wrap">
         <div class="container clearfix">
             {{- partial "sectiontitle.html" . -}}
@@ -22,6 +22,7 @@
                     </div>
                     <div class="portfolio-desc">
                         <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
+                        <p>{{.Summary}}</p>
                         <span><a href="#">RCI</a>
                     </div>
                 </article>

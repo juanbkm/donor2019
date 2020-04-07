@@ -394,7 +394,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 			letter-spacing: $primary-menu-font-spacing;
 			text-transform: $primary-menu-font-tt;
 			font-family: $heading-font;
-			@include transition(margin .4s ease, padding .4s ease);
+			@include transition(margin .4s ease, padding .4s ease, color .4s ease);
 
 			span { display: none; }
 
@@ -430,6 +430,28 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 
 #primary-menu ul li:hover > a,
 #primary-menu ul li.current > a { color: $primary-menu-active-color; }
+
+#primary-menu ul li > a > div,
+#primary-menu ul li > a > div { 
+	position: relative;
+	&:before {
+		border-top: 3px solid $primary-menu-active-color; 
+		content: "";
+		display: block;
+		position: absolute;
+		top: -10px;
+		width: 0;
+		transition: width 0.5s ease;
+	}
+ }
+
+#primary-menu ul li:hover > a > div,
+#primary-menu ul li.current > a > div 
+{ 
+	&:before {
+		width: 100%;
+	}
+}
 
 #primary-menu > ul > li.sub-menu > a > div { border: none;  }
 
