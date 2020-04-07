@@ -8,3 +8,57 @@ summaryLength = 10
   title = "Donor Report 2019"
   author = "Juan"
   description = "This is meta description"
+
+# Site Menus
+[menu]
+# Navbar Menus
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight  = 2
+
+[[menu.main]]
+  identifier = "strategy-2030"
+  name = "Strategy 2030"
+  url = "/strategy-2030/"
+  weight  = 3
+
+[[menu.main]]
+  identifier = "cofinancing-highlights"
+  name = "Cofinancing Highlights"
+  url = "/cofinancing-highlights/"
+  weight  = 4
+
+[[menu.main]]
+  identifier = "stories"
+  name = "Stories"
+  url = "/stories/"
+  weight  = 5
+
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects/"
+  weight  = 6
+
+[[menu.main]]
+  identifier = "partners"
+  name = "Partners"
+  url = "/partners/"
+  weight  = 7
+
+[[menu.main]]
+  identifier = "modalities"
+  name = "Modalities"
+  url = "/modalities/"
+  weight  = 8
+
+[[menu.main]]
+  identifier = "historical-data"
+  name = "Historical Data"
+  url = "/historical-data/"
+  weight  = 9
+
+
+
