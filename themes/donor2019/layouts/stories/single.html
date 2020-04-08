@@ -4,11 +4,14 @@
             <div class="container clearfix">
                 <div class="row">
                     <div class="col-md-12 mx-auto">
+                        <div class="dr-story-title">
+                            <h3>{{ .Section }} / category</h3>
+                            <h2>{{ .Title }}</h2>
+                            <p>Published on: {{ .Date.Format "Jan 2, 2006" }}</p>
+                        </div>
                         <div class="dr-story-head">
                             <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="w-100 mb-3" alt="Post-Image">
                             <div class="dr-story-head-text">
-                                <h3>Stories / category</h3>
-                                <h2>{{ .Title }}</h2>
                                 <p>Published on: 01 March 2020</p>
                             </div>
                         </div>
