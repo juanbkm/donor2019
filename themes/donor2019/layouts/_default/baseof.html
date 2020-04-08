@@ -32,13 +32,20 @@
 
 			</div>
 
-		</header><!-- #header end -->
+		</header>
+		{{ "<!-- #header end -->" | safeHTML }}
 
-		{{ block "main" . }}
-		<!-- The part of the page that begins to differ between templates -->
-    
+		{{ "<!-- Content -->" | safeHTML }}
+		
+		<section id="content" class="clearfix">
+			<div class="content-wrap">
+			{{ block "main" . }}
 
-		{{ end }}
+			<!-- The part of the page that begins to differ between templates -->
+		
+			{{ end }}
+			</div>
+		</section><!-- #content end -->
 		
 		<!-- Footer
 		============================================= -->
