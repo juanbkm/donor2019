@@ -5,29 +5,28 @@
                 <div class="row">
                     <div class="col-md-12 mx-auto">
                         <div class="dr-story-title">
-                            <h3>{{ .Section }} / category</h3>
-                            <h2>{{ .Title }}</h2>
+                            <h3>{{ .Section }} / {{ range .Params.categories }}<a href="">{{ . }}</a>{{ end }}</h3>
+                            <h2 data-animate="fadeIn">{{ .Title }}</h2>
                             <p>Published on: {{ .Date.Format "Jan 2, 2006" }}</p>
-                        </div>
-                        <div class="dr-story-head">
-                            <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="w-100 mb-3" alt="Post-Image">
-                            <div class="dr-story-head-text">
-                                <p>Published on: 01 March 2020</p>
-                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-7">
+                <div class="row dr-story-head">
+                    <div class="col-md-8">
+                        {{ with .Params.image }}<img src="{{ . | absURL }}" class="w-100 mb-3" alt="Post-Image"  data-animate="fadeIn" data-delay="400">{{ end }}
+                        {{ with .Params.image_caption }} <p class="dr-story-caption">{{ . }}</p> {{ end }}  
+                    </div>
+                    <div class="col-md-4">
                         <div class="dr-story-summary">
                             <p class="lead">{{ .Params.summary }}</p>
                         </div>
-                    </div>
-                    <div class="col-md-5">
                         <div class="dr-story-details">
                             <h4>Project</h4>
                             <p class="dr-project_title">{{ .Params.project_title }}</p>
 
+                            <h4>Financing Partner​</h4>
+                            <p>{{ .Params.partner }}</p>
+                            
                             <h4>Approval Date</h4>
                             <p>{{ .Params.approval }}</p>
 

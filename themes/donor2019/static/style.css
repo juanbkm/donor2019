@@ -9299,7 +9299,7 @@ td.actions {
         padding-left: 0; }
 
 /* line 5, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-.dr-stories-single .dr-story-title h2 {
+#content .dr-stories-single .dr-story-title h2 {
   color: #3f4d56;
   font-size: 84px;
   font-weight: 400;
@@ -9307,91 +9307,104 @@ td.actions {
   margin: 0; }
 
 /* line 12, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-.dr-stories-single .dr-story-title h3 {
+#content .dr-stories-single .dr-story-title h3 {
   border-bottom: 1px solid #c2ccd2;
   color: #556773;
   font-size: 18px;
   font-weight: 300;
   margin: 0;
   margin-bottom: 20px;
-  padding: 20px 0; }
+  padding: 20px 0;
+  text-transform: capitalize; }
 
-/* line 24, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-.dr-stories-single .dr-story-head {
-  position: relative; }
-  /* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-  .dr-stories-single .dr-story-head .dr-story-head-text {
-    position: absolute;
-    padding: 20px;
-    bottom: 0;
-    width: 60%; }
-    /* line 31, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-    .dr-stories-single .dr-story-head .dr-story-head-text h2, .dr-stories-single .dr-story-head .dr-story-head-text h3, .dr-stories-single .dr-story-head .dr-story-head-text p {
-      color: #ffffff;
-      line-height: 1;
-      margin: 0; }
-    /* line 36, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-    .dr-stories-single .dr-story-head .dr-story-head-text h2 {
-      font-size: 64px;
-      font-weight: 700; }
-    /* line 40, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-    .dr-stories-single .dr-story-head .dr-story-head-text h3 {
-      font-size: 24px;
-      font-weight: 300; }
+/* line 25, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+#content .dr-stories-single .dr-story-head {
+  position: relative;
+  border-bottom: 1px solid #c2ccd2;
+  /* .dr-story-head-text {
+            position: absolute;
+            padding: 20px;
+            bottom: 0;
+            width: 60%;
+            h2, h3, p {
+                color: #ffffff;
+                line-height: 1;
+                margin: 0;
+            }
+            h2 {
+                font-size: 64px;
+                font-weight: 700;
+            }
+            h3 {
+                font-size: 24px;
+                font-weight: 300;
+            }
+        }*/ }
 
-/* line 47, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-.dr-stories-single .dr-story-summary {
-  padding: 20px; }
-  /* line 49, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-  .dr-stories-single .dr-story-summary .lead {
-    font-weight: 700; }
+/* line 50, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+#content .dr-stories-single .dr-story-summary .lead {
+  font-size: 1.1rem;
+  font-weight: 300; }
 
-/* line 53, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-.dr-stories-single .dr-story-details {
-  background-color: #eb6440;
-  background-image: linear-gradient(#eb6440 20%, #fdb515);
-  margin-top: -200px;
-  margin-right: 40px;
-  padding: 40px 40px 20px 40px; }
-  /* line 59, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-  .dr-stories-single .dr-story-details h4 {
-    color: #ffffff;
-    font-weight: 100;
-    font-size: 14px;
-    line-height: .8;
+/* line 55, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+#content .dr-stories-single .dr-story-details {
+  padding: 0; }
+  /* line 57, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  #content .dr-stories-single .dr-story-details h4 {
+    color: #eb6440;
+    font-weight: 400;
+    font-size: .8rem;
+    line-height: 1rem;
+    letter-spacing: 1px;
     margin: 0;
     text-transform: uppercase; }
-  /* line 67, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-  .dr-stories-single .dr-story-details p {
-    color: #ffffff;
-    font-size: 32px;
-    font-weight: 100;
-    font-family: "Ideal Sans", sans-serif;
-    line-height: .8;
-    margin: 0 0 10px 0; }
-  /* line 75, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-  .dr-stories-single .dr-story-details .dr-project_title {
-    color: #ffffff;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: .5; }
+  /* line 66, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  #content .dr-stories-single .dr-story-details p {
+    font-size: 1rem;
+    line-height: 1.8rem;
+    margin: 0 0 20px 0; }
+  /* line 73, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  #content .dr-stories-single .dr-story-details .dr-project_title {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.8rem; }
 
-/* line 82, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-.dr-stories-single .dr-story-content {
+/* line 79, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+#content .dr-stories-single .dr-story-content {
   padding: 40px 0; }
-  /* line 84, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-  .dr-stories-single .dr-story-content h3 {
+  /* line 81, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  #content .dr-stories-single .dr-story-content h3 {
+    font-size: 1.8rem;
     text-align: center;
     text-transform: uppercase;
-    font-weight: 300; }
-  /* line 89, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
-  .dr-stories-single .dr-story-content h3:after {
+    font-weight: 300;
+    letter-spacing: .8rem;
+    color: #556773;
+    margin-top: 80px; }
+  /* line 90, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  #content .dr-stories-single .dr-story-content h3:after {
     content: '';
     display: block;
-    margin-top: 30px;
-    width: 60px;
-    border-top: 2px solid #00A5D2;
-    margin: 10px auto; }
+    width: 100px;
+    border-top: 1px solid #c2ccd2;
+    margin: 20px auto 80px auto; }
+  /* line 97, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  #content .dr-stories-single .dr-story-content p {
+    font-size: 1rem;
+    line-height: 1.8;
+    margin: 0 0 40px 0; }
+  /* line 102, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  #content .dr-stories-single .dr-story-content .dr-results {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-gap: 1em; }
+    /* line 106, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+    #content .dr-stories-single .dr-story-content .dr-results li {
+      font-size: 1.2rem;
+      list-style: none; }
+    /* line 110, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+    #content .dr-stories-single .dr-story-content .dr-results i {
+      color: #eb6440; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes
@@ -17297,15 +17310,18 @@ body:not(.device-touch) .tagcloud a {
 blockquote {
   padding: 10px 20px;
   margin: 0 0 20px;
-  font-size: 17px;
-  border-left: 5px solid #eeeeee; }
+  background-color: #dfe4e8; }
   /* line 314, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
-  blockquote .float-left {
-    max-width: 300px;
-    margin: 5px 20px 10px 0;
+  blockquote p {
+    font-size: 1.5rem !important;
+    font-weight: 300; }
+  /* line 318, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  blockquote.float-left {
+    max-width: 30vw;
+    margin: 5px 20px 10px -100px;
     padding-right: 0; }
 
-/* line 321, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 325, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .blockquote-reverse {
   padding-right: 15px;
   padding-left: 0;
@@ -17315,34 +17331,34 @@ blockquote {
 
 /* Twitter Feed Widget
 -----------------------------------------------------------------*/
-/* line 334, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 338, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-twitter-feed li {
   margin: 15px 0 0 0; }
-  /* line 336, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  /* line 340, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .widget-twitter-feed li:first-child {
     margin-top: 0; }
 
-/* line 340, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 344, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-twitter-feed small {
   display: block;
   margin-top: 3px; }
-  /* line 343, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  /* line 347, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .widget-twitter-feed small a {
     color: #999; }
 
-/* line 347, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 351, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-twitter-feed .twitter-feed:not(.twitter-feed-avatar) a.twitter-avatar {
   display: none; }
 
-/* line 349, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 353, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-twitter-feed .twitter-feed.twitter-feed-avatar i.icon-twitter {
   display: none; }
 
-/* line 351, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 355, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-twitter-feed .twitter-feed-avatar {
   margin-left: 44px; }
 
-/* line 353, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 357, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-twitter-feed .twitter-feed-avatar > li a.twitter-avatar {
   display: block;
   position: absolute;
@@ -17351,18 +17367,18 @@ blockquote {
   top: 2px;
   width: 32px;
   height: 32px; }
-  /* line 361, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  /* line 365, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .widget-twitter-feed .twitter-feed-avatar > li a.twitter-avatar a.twitter-avatar img {
     border-radius: 50%; }
 
 /* Widget Filter Links
 -----------------------------------------------------------------*/
-/* line 368, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 372, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links ul {
   list-style: none;
   margin-bottom: 0; }
 
-/* line 373, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 377, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links .widget-filter-reset {
   position: absolute;
   top: 0;
@@ -17371,36 +17387,36 @@ blockquote {
   font-size: 12px;
   line-height: 22px; }
 
-/* line 382, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 386, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget:not(:first-child) .widget-filter-reset {
   top: 50px; }
 
-/* line 384, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 388, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links .widget-filter-reset a {
   color: red; }
 
-/* line 386, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 390, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links .widget-filter-reset.active-filter {
   display: none; }
 
-/* line 388, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 392, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links li {
   position: relative;
   font-size: 15px;
   line-height: 24px; }
 
-/* line 394, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 398, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links li:not(:first-child) {
   margin-top: 10px; }
 
-/* line 396, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 400, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links li a {
   display: block;
   color: #444444;
   font-family: "Ideal Sans", sans-serif;
   font-weight: 500; }
 
-/* line 403, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 407, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links li span {
   position: absolute;
   top: 1px;
@@ -17415,15 +17431,15 @@ blockquote {
   background-color: #eeeeee;
   border-radius: 50%; }
 
-/* line 418, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 422, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links li:hover a {
   color: #777777; }
 
-/* line 420, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 424, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links li.active-filter a {
   font-weight: 700; }
 
-/* line 422, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 426, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links li.active-filter span {
   color: #FFF;
   background-color: #007DB7;
@@ -17431,21 +17447,21 @@ blockquote {
 
 /* Navigation Tree
 -----------------------------------------------------------------*/
-/* line 431, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+/* line 435, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .nav-tree {
   position: relative;
   margin-bottom: 40px; }
-  /* line 434, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  /* line 438, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .nav-tree ul {
     margin-bottom: 0;
     list-style: none; }
-  /* line 438, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  /* line 442, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .nav-tree > ul {
     margin: -8px 0; }
-  /* line 441, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  /* line 445, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .nav-tree li {
     position: relative; }
-    /* line 443, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+    /* line 447, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree li a {
       display: block;
       padding: 8px 0;
@@ -17455,52 +17471,52 @@ blockquote {
       font-weight: 700;
       letter-spacing: 2px;
       font-family: "Ideal Sans", sans-serif; }
-      /* line 452, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+      /* line 456, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
       .dark .nav-tree li a {
         color: #bbbbbb; }
-    /* line 454, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+    /* line 458, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree li i {
       font-size: 14px;
       width: 16px;
       text-align: center; }
-      /* line 458, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+      /* line 462, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
       .nav-tree li i:not(.icon-angle-down) {
         margin-right: 8px;
         position: relative;
         top: 1px; }
-      /* line 463, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+      /* line 467, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
       .nav-tree li i.icon-angle-down {
         width: auto;
         font-size: 12px;
         margin-left: 2px; }
-    /* line 472, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+    /* line 476, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree li:hover > a, .nav-tree li.current > a, .nav-tree li.active > a {
       color: #007DB7 !important; }
-  /* line 475, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  /* line 479, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .nav-tree ul ul {
     display: none; }
-    /* line 477, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+    /* line 481, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree ul ul a {
       font-size: 12px;
       padding: 6px 0;
       letter-spacing: 1px;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
-      /* line 482, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+      /* line 486, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
       .nav-tree ul ul a i.icon-angle-down {
         font-size: 12px; }
-    /* line 484, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+    /* line 488, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree ul ul a {
       padding-left: 20px; }
-    /* line 485, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+    /* line 489, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree ul ul ul a {
       padding-left: 40px; }
-    /* line 486, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+    /* line 490, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree ul ul ul ul a {
       padding-left: 60px; }
-    /* line 487, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+    /* line 491, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree ul ul ul ul ul a {
       padding-left: 80px; }
-  /* line 489, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
+  /* line 493, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .nav-tree li.current > ul {
     display: block; }
 
