@@ -1,6 +1,7 @@
 ---
 title: "Cofinancing Highlights"
 date: 2020-04-03T14:59:47+08:00
-section_summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere sit amet metus id auctor. Duis eget ante nisl. Aenean auctor purus eget finibus consequat. Sed a urna urna. Aliquam pharetra, risus sed egestas mattis, purus risus accumsan nisl, quis molestie ligula augue eget tellus. Vivamus ut massa congue, suscipit magna sed, volutpat metus. Curabitur venenatis felis sit amet quam consequat, eu fringilla est finibus. Duis at leo a nisl dictum laoreet id sit amet elit. Ut pellentesque dui ut eleifend dictum. Morbi sed maximus ligula. Nullam auctor luctus urna, a consectetur ante convallis eu. Morbi ut orci felis. Curabitur eu sagittis nunc. Etiam quis ipsum at justo finibus fermentum gravida non massa. Vivamus mattis, eros a iaculis ornare, ex lectus gravida odio, a euismod arcu dui ut sem."
+section_image: images/stories/section-image-stories.png
+section_summary: "Cofinancing commitments for sovereign operations reached $4.89 billion in 2019. These went to 36 investment projects and 112 technical assistance. Which developing member country or what sector benefited the most from partner resources? This section gives numerical highlights of 2019’s sovereign cofinancing operations."
 ---
 

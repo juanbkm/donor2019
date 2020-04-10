@@ -13,10 +13,10 @@
 #dr-section-title {
 	position: relative;
 	padding: $page-title-padding;
-    background-color: $adb-main-blue-one;
-    background-image: linear-gradient(120deg, $adb-main-blue-one 40%, $adb-accent-green-two);
-	border-bottom: $page-title-border;
-	
+    //background-color: $adb-main-blue-one;
+    //background-image: linear-gradient(120deg, $adb-main-blue-one 40%, $adb-accent-green-two);
+	border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+	margin-bottom: $margin-big;
 	@include media-breakpoint-down(sm) {
 		padding: round($page-title-padding / 2.5) 0 round($page-title-padding / 2);
 		text-align: center;
@@ -24,7 +24,7 @@
 
 	.container { position: relative; }
     h2, h3, p {
-        color: #ffffff;
+       // color: #ffffff;
         line-height: 1;
         margin: 0;
     }
@@ -32,10 +32,11 @@
 		padding: 0;
 		margin: 0;
 		line-height: 1;
-		font-weight: 300;
+		font-weight: 400;
 		letter-spacing: 1px;
-		font-size: 64px;
-		
+		color: darken($adb-dr-gray, 10%);
+		font-size: 84px;
+		margin-right: 50%;
 		.dark & { color: rgba($white,0.9) !important; }
 		@include media-breakpoint-down(sm) {
 			line-height: 1.5;

@@ -20,7 +20,7 @@
                     <div class="portfolio-desc">
                         <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
                         <p>{{.Summary}}</p>
-                        <span><a href="#">RCI</a>
+                        <span>{{ range .Params.categories }}<a href="">{{ . }}</a>{{ end }}</span>
                     </div>
                 </article>
                 {{ end }}

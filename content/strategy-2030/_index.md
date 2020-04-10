@@ -2,7 +2,7 @@
 title: "Strategy 2030"
 date: 2020-04-03T14:27:23+08:00
 section_image: images/two-boys.png
-section_summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam posuere sit amet metus id auctor. Duis eget ante nisl. Aenean auctor purus eget finibus consequat. Sed a urna urna. Aliquam pharetra, risus sed egestas mattis, purus risus accumsan nisl, quis molestie ligula augue eget tellus. Vivamus ut massa congue, suscipit magna sed, volutpat metus. Curabitur venenatis felis sit amet quam consequat, eu fringilla est finibus."
+section_summary: "ADB’s Strategy 2030 aims to eradicate extreme poverty while working for a prosperous, inclusive, resilient, and sustainable Asia and the Pacific.   Financing partnerships are working intensely─ designing and implementing projects, testing ideas, and sharing knowledge ─to achieve the targets of Strategy 2030’s seven operational priorities."
 draft: false
 ---
 
