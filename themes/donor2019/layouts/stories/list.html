@@ -5,9 +5,9 @@
            
             <!-- Portfolio Items
             ============================================= -->
-            <div id="portfolio" class="portfolio grid-container portfolio-3 clearfix">
+            <div id="portfolio" class="portfolio grid-container portfolio-1 clearfix">
                 {{ range .Pages }}
-                <article class="portfolio-item pf-media pf-icons">
+                <article class="portfolio-item pf-media pf-icons clearfix">
                     <div class="portfolio-image">
                         <a href="{{.Permalink}}">
                             <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" alt="">
