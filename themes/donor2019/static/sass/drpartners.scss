@@ -1,0 +1,14 @@
+
+#content  {
+    .dr-funds {
+        border-left: 1px solid lighten($adb-dr-gray, 40%);
+    }
+    .dr-type {
+        display: block;
+        text-transform: uppercase;
+    }
+    .dr-amount {
+        display: block;
+        font-size: 3rem;
+    }
+}

@@ -85,6 +85,51 @@ body.stretched .container-fullwidth .breadcrumb { right: $section-padding !impor
 	i { width: auto !important; }
 }
 
+
+/* ----------------------------------------------------------------
+	DR Page Title
+-----------------------------------------------------------------*/
+
+
+#dr-page-title {
+	position: relative;
+	//padding: $page-title-padding 0;
+	//background-color: $page-title-bg;
+	border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+	margin-bottom: $margin-big;
+	@include media-breakpoint-down(sm) {
+		padding: round($page-title-padding / 2.5) 0 round($page-title-padding / 2);
+		text-align: center;
+	}
+
+	.container { position: relative; }
+
+	h2 {
+		color: darken($adb-dr-gray, 10%);
+		font-size: 84px;
+		font-weight: 400;
+		line-height: 1;
+		margin: 0;
+	}
+	h3 {
+		color: $adb-dr-gray;
+		font-size: 18px;
+		font-weight: 300;
+		margin: 0;
+		padding: 0;
+		text-transform: capitalize;
+	}
+
+	span {
+		display: block;
+		margin-top: 10px;
+		font-weight: 300;
+		color: lighten($page-title-color, 26.67%);
+		.dark & { color: rgba($white,0.7); }
+		font-size: $page-title-subtitle-size;
+	}
+}
+
 /* Page Title - Dark
 -----------------------------------------------------------------*/
 
