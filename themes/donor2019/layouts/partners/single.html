@@ -2,20 +2,39 @@
 
     <div class="container">
         <div class="row">
+            <div class="col">
+                {{- partial "pager.html" . -}}
+            </div>
+        </div>
+        <div class="row">
+            
             <div id="dr-page-title" class="col mx-auto">
                 {{$section_heading := .Site.GetPage "section" .Section }}
                 <h3>{{with $section_heading}}{{- .Title -}}{{end}} / {{ .Params.partner_type }}</h3>
                 <h2>{{ .Title }}</h2>
             </div>
         </div>
-        {{ .Content }}
+        <div class="row">
+            <div class="col">
+                <div class="dr-funds">
+                    {{with .Params.project_specific_cofinancing}}
+                    <div class="">
+                        <span class="dr-type">Cumulative project-specific cofinancing</span> <span class="dr-amount"> {{- . -}}</span>   
+                    </div>
+                    {{end}}
+                    {{with .Params.trust_funds_contribution}}
+                    <div class="">
+                        <span class="dr-type">Cumulative trust funds contribution</span> <span class="dr-amount">{{- . -}}</span>    
+                    </div>
+                    {{end}}
+                    
+                </div>
+                {{ .Content }}
+            </div>
+        </div>
+        
+        {{- partial "pager.html" . -}}
 
-        {{ with .PrevInSection }}
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-        {{ end }}
-        {{ with .NextInSection }}
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-        {{ end }}
-    </div>
+    </div> 
 
 {{ end }}

@@ -1,0 +1,8 @@
+<div class="dr-pager">
+    {{ with .PrevInSection }}
+    <a href="{{ .Permalink }}" class="btn btn-outline-primary">&laquo; {{ .Title }}</a>
+    {{ end }}
+    {{ with .NextInSection }}
+    <a href="{{ .Permalink }}" class="btn btn-outline-primary">{{ .Title }} &raquo;</a>
+    {{ end }}
+</div>

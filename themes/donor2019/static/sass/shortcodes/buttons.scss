@@ -373,6 +373,16 @@
 	}
 }
 
+.btn-outline-primary {
+    color: $adb-main-blue-one;
+    border-color: $adb-main-blue-one;
+}
+
+.btn-outline-primary:hover {
+    color: #fff;
+    background-color: $adb-main-blue-one;
+    border-color: $adb-main-blue-one;
+}
 
 /* Buttons - Promo 100% Width
 -----------------------------------------------------------------*/

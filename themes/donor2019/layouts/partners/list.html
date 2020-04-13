@@ -6,10 +6,12 @@
             <div class="row">
                 <div class="col">
                     <ul>
-                    {{ range .Pages.ByTitle }}
+                    {{ range .Data.Pages.ByTitle }}
                         <li><a href="{{.Permalink}}">{{.Title}}</a></li>
                     {{ end }}
                     </ul>
+
+                    
                 </div>
             </div>
         </div>
