@@ -103,7 +103,7 @@
 
 #copyrights {
 	padding: round($content-padding / 2) 0;
-	background-color: darken($footer-bg, 6.67);
+	background-color: #ffffff; //darken($footer-bg, 6.67)
 	font-size: $font-size-body;
 	line-height: $line-height-content;
 	.dark & {

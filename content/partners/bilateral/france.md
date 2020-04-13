@@ -1,0 +1,327 @@
+---
+title: "France"
+date: 2020-04-11T19:36:20+08:00
+partner_type: Bilateral
+project_specific_cofinancing: "$3,762.7 million"
+trust_funds_contribution: "$32.1 million"
+partner_logo:
+draft: false
+---
+
+<a href="https://www.adb.org/publications/france-fact-sheet" target="_blank">France</a>’s support to Asia focuses on sustainable cities, urban transport, climate change, social protection, railways, and air pollution. ADB works with the Direction Générale du Trésor and the <a href="https://www.afd.fr/en" target="_blank">Agence Française de Développement</a> (AFD), which oversees France’s development assistance globally. France supports two ADB-administered trust funds, the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries and the France Technical Assistance Grant Fund. 
+
+In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 2016–2022 with the aim of reaching $1.5 billion in cofinancing from each for the first 3 years of collaboration. By 2018, AFD cofinancing has reached US$1.58 billion. In 2018 alone, AFD loan cofinancing reached US$795.10 for 6 investment projects. For the remaining 3 years, ADB and AFD have decided to increase the amount to $2.5 billion each and signed the Amendment to the PFA in February 2019. ADB and AFD also agreed to partner on the Cities Development Initiative in Asia and the Mobilise Your City Asia Program.
+
+##### _1 January 2014–31 December 2018_ Cofinancing with France
+
+<table class="table">
+
+<tr>
+<th>Country</th>
+<th>Project</th>
+<th>Cofinancing Amount <em>($ million)</em></th>
+<th>Type of Cofinancing<sup>a</sup></th>
+</tr>
+<tr>
+<td>Azerbaijan</td>
+<td><a
+href="https://www.adb.org/projects/48386-004/main" target="_blank">Railway
+Sector Development Program</a></td>
+<td>100.00 </td>
+<td>L</td>                                
+</tr>
+<tr>
+<td rowspan="3">Bangladesh</td>
+<td><a
+href="https://www.adb.org/projects/42173-013/main" target="_blank">Dhaka
+Environmentally Sustainable Water Supply</a></td>
+<td>64.00 </td>
+<td>L</td>                         
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47254-003/main" target="_blank">Dhaka
+Water Supply Network Improvement</a></td>
+<td>128.00 </td>
+<td>L</td>                                   
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/42378-016/main" target="_blank">Power
+System Expansion and Efficiency Improvement Investment Plan – Tranche 2</a></td>
+<td>125.00 </td>
+<td>L</td>
+</tr>
+<tr>
+<td rowspan="5">Cambodia</td>
+<td rowspan="2"><a
+href="https://www.adb.org/projects/48158-002/main" target="_blank">Provincial
+Water Supply and Sanitation</a></td>
+<td>43.54 </td>
+<td><a
+href="https://www.adb.org/projects/48158-002/main" target="_blank">L</a></td>                                 
+</tr>
+<tr>
+<td>0.50 </td>
+<td><a
+href="https://www.adb.org/projects/48158-001/main" target="_blank">TA</a></td>                             
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/42334-014/main" target="_blank">Rural
+Roads Improvement II – Additional Financing</a></td>
+<td>40.00 </td>
+<td>L</td>                                              
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/46064-002/main" target="_blank">Technical
+and Vocational Education and Training Sector Development Program – Additional
+Financing</a></td>
+<td>15.00 </td>
+<td>L</td>                                  
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/41403-013/main" target="_blank">Urban
+Water Supply</a></td>
+<td>9.00 </td>
+<td>L</td>
+</tr>
+<tr>
+<td>People’s Republic of China</td>
+<td><a
+href="https://www.adb.org/projects/51194-003/main" target="_blank">Green
+Finance Catalyzing Facility</a></td>
+<td>0.15 </td>
+<td>TA</td>
+</tr>
+<tr>
+<td rowspan="5">Indonesia</td>
+<td><a href="https://www.adb.org/projects/48172-001/main" target="_blank">Strengthening
+Knowledge Sharing in Indonesia—Supplementary</a></td>
+<td>1.01 </td>
+<td>TA</td>                                   
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/49043-001/main" target="_blank">Sustainable
+and Inclusive Energy Program – Subprogram 1</a></td>
+<td>150.00 </td>
+<td>L</td>                                   
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/49043-002/main" target="_blank">Sustainable
+and Inclusive Energy Program – Subprogram 2</a></td>
+<td>110.00 </td>
+<td>L</td>
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/48323-001/main" target="_blank">Sustainable
+and Inclusive Energy Program – Supplementary</a></td>
+<td>0.54 </td>
+<td>TA</td>
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/41074-013/main" target="_blank">West
+Kalimantan Power Grid Strengthening</a></td>
+<td>49.50 </td>
+<td>L</td>
+</tr>
+<tr>
+<td rowspan="4">Myanmar</td>
+<td><a
+href="https://www.adb.org/projects/47152-002/main" target="_blank">Irrigated
+Agriculture Inclusive Development</a></td>
+<td>27.90 </td>
+<td>L</td>
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47152-001/main" target="_blank">Irrigation
+Command Area Development (Supplementary)</a></td>
+<td>0.35 </td>
+<td>TA</td>
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47127-001/main" target="_blank">Mandalay
+City Urban Services Improvement (Supplementary)</a></td>
+<td>0.30 </td>
+<td>TA</td>
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47127-002/main" target="_blank">Mandalay
+Urban Services Improvement</a></td>
+<td>46.00 </td>
+<td>L</td>
+</tr>
+<tr>
+<td rowspan="4">Pakistan</td>
+<td><a
+href="https://www.adb.org/projects/49056-002/main" target="_blank">Access to
+Clean Energy Investment Program</a></td>
+<td>78.60 </td>
+<td>L</td>
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/48289-002/main" target="_blank">Peshawar
+Sustainable Bus Rapid Transit Corridor</a></td>
+<td>150.00 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/37192-044/main" target="_blank">Power
+Transmission Enhancement Investment Program – Tranche 4</a></td>
+<td>82.50 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47015-003/main" target="_blank">Sustainable
+Energy Sector Reform Program – Subprogram 3</a></td>
+<td>108.00 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td rowspan="5">Philippines</td>
+<td><a
+href="https://www.adb.org/projects/48458-003/main" target="_blank">Expanding
+Private Participation in Infrastructure Program – Subprogram 2</a></td>
+<td>179.00 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/51309-001/main" target="_blank">Inclusive
+Finance Development Program – Subprogram 1</a></td>
+<td>174.00 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/51294-002/main" target="_blank">Integrated
+Flood Risk Management Sector</a></td>
+<td>0.30 </td>
+<td>TA</td>
+
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/44253-013/main" target="_blank">Local
+Government Finance and Fiscal Decentralization Reform Program – Subprogram 1</a></td>
+<td>150.00 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/44253-016/main" target="_blank">Local
+Government Finance and Fiscal Decentralization Reform Program – Subprogram 2</a></td>
+<td>150.00 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td rowspan="2">Sri Lanka</td>
+<td><a
+href="https://www.adb.org/projects/45148-007/main" target="_blank">Greater
+Colombo Water and Wastewater Management Improvement Investment Program –
+Tranche 2</a></td>
+<td>70.00 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47037-004/main" target="_blank">Green
+Power Development and Energy Efficiency Improvement Investment Program –
+Tranche 1</a></td>
+<td>30.00 </td>
+<td>L</td>
+
+
+
+
+</tr>
+<tr>
+<td>Uzbekistan</td>
+<td><a
+href="https://www.adb.org/projects/51350-001/main" target="_blank">Economic
+Management Improvement Program—Subprogram 1</a></td>
+<td>170.56 </td>
+<td>L</td>
+
+
+</tr>
+<tr>
+<td>Viet Nam</td>
+<td><a
+href="https://www.adb.org/projects/40080-025/main" target="_blank">Ha Noi
+Metro Rail System (Line 3: Nhon–Ha Noi Station Section)</a></td>
+<td>637.40 </td>
+<td>L</td>
+
+</tr>
+<tr>
+<td rowspan="2">Regional</td>
+<td><a
+href="https://www.adb.org/projects/49208-001/main" target="_blank">Integrated
+Resource Planning with Strategic Environmental Assessment for Sustainable
+Power Sector Development in the Greater Mekong Subregion</a></td>
+<td>1.65 </td>
+<td>TA</td>
+
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47285-001/main" target="_blank">Supporting
+the Cities Development Initiative Asia (Supplementary)</a></td>
+<td>0.40 </td>
+<td>TA</td>
+
+
+</tr>
+
+
+</table>
+
+
+<p class="dr-footnote"><sup>a</sup> L = official loan cofinancing, TA = technical assistance cofinancing.</p>
