@@ -9362,6 +9362,13 @@ td.actions {
 #content .dr-pager {
   text-align: right; }
 
+/* line 22, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+#content h5 em {
+  display: block;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 300; }
+
 /* line 5, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
 #content .dr-stories-single .dr-story-title h2 {
   color: #3f4d56;

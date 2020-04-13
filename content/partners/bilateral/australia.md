@@ -8,8 +8,6 @@ trust_funds_contribution: "$156.7 million"
 draft: false
 ---
 
-test
-
 <a href="https://www.adb.org/publications/australia-fact-sheet" target="_blank">Australia</a> plays a huge role in the economic stability and growth of the Indo-Pacific region and provides more aid to the Pacific island countries than any other donor. In 2016, Australia and ADB signed a framework for cooperation covering 2016−2020, focused on trade and investment, international competitiveness, private sector growth, and transformative initiatives in the Pacific.
 
 <a href="https://www.adb.org/publications/australia-fact-sheet" target="_blank">Australia</a> contributes to nine active ADB-administered trust funds.  The Department of Foreign Affairs and Trade channels funds toward development work in agriculture, building resilience (humanitarian assistance, disaster risk reduction and social protection), climate change, education, fisheries, gender equality, governance, health, infrastructure, trade facilitation and international competitiveness, and water.
