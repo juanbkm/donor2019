@@ -16,7 +16,7 @@ UNICEF and ADB signed a 5-year agreement to increase access for disadvantaged ch
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with United Nations Children's Fund
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

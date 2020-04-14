@@ -14,7 +14,7 @@ Several agencies including the Department for International Development, the Dep
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with United Kingdom
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

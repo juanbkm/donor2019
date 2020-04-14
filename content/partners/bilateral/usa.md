@@ -16,7 +16,7 @@ ADB also worked with the U.S. State Department, Bureau of International Narcotic
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Unites States of America
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
     <th>Country</th>
     <th>Project</th>

@@ -14,7 +14,7 @@ Development cooperation is coordinated between the <a href="https://www.eda.admi
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Switzerland
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

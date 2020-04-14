@@ -1,6 +1,43 @@
 
 #content  {
+    .dr-partner-nav {
+        
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-gap: 2em;
+            li {
+                border: 1px solid lighten($adb-dr-gray, 40%);
+                color: $adb-dr-gray;
+                list-style: none;
+                
+                a {
+                    background-color: lighten($adb-dr-gray, 60%);;
+                    display: block;
+                    padding: 20px;
+                    color: $body-color;
+                    &:hover {
+                        background-color: $adb-accent-green;
+                        color: #fff;
+                        transition: all 0.5s ease-in-out;
+                    }
+                    &:hover h3 {
+                        color: #fff;
+                        transition: all 0.5s ease-in-out;
+                    }
+                    h3 {
+                        margin: 0;
+                        display: block;
+                        &:hover {
+                            color: #fff;
+                            transition: all 0.3s ease;
+                        }
+                    }
+                }
+            }
+            
+        }
     .dr-funds {
+        
         border-left: 1px solid lighten($adb-dr-gray, 40%);
         float: right;
         margin-left: 40px;

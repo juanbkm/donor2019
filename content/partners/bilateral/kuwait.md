@@ -15,7 +15,7 @@ In 2015, ADB and the Kuwait Fund signed an MOU on establishing cooperation arran
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Kuwait
 
-<table class="table">
+<table class="table table-striped table-bordered">
 
 <tr>
 <th>Country</th>

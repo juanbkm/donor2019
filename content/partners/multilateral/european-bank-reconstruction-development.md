@@ -14,7 +14,7 @@ Over the last three years, ADB and EBRD have negotiated a Procurement Framework 
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with European Bank for Reconstruction and Development
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

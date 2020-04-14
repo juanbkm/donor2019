@@ -12,7 +12,7 @@ The China Construction Bank Corporation, one of the biggest banks in the People'
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with China Construction Bank Corporation
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

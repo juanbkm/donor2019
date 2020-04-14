@@ -14,7 +14,7 @@ Currently, NDF contributes to the Project Readiness Improvement Trust Fund, a tr
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Nordic Development Fund
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

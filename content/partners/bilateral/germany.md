@@ -14,7 +14,7 @@ In 2018, ADB approved three cofinanced projects with Germany worth $889 million.
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Germany
 
-<table class="table">
+<table class="table table-striped table-bordered">
 
 <tr>
 <th>Country</th>

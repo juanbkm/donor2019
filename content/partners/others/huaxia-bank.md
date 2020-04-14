@@ -12,7 +12,7 @@ Huaxia Bank, founded in 1992, is a Beijing-based, publicly traded commercial ban
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Huaxia Bank
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

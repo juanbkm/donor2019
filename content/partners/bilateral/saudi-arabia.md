@@ -14,7 +14,7 @@ The Saudi Fund provided $20 million cofinancing to support a road investment pro
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Saudi Arabia
 
-<table class="table">
+<table class="table table-striped table-bordered">
 
 <tr>
 <th>Country</th>

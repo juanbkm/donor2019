@@ -14,7 +14,7 @@ ADB and OFID signed a new framework cofinancing agreement in August 2016, where 
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with OPEC Fund for International Development
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

@@ -14,7 +14,7 @@ In 2018, ADB and New Zealand cofinanced projects in Cook Islands, Kiribati, Papu
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with New Zealand
 
-<table class="table">
+<table class="table table-striped table-bordered">
                                     
 <tr>
     <th>Country</th>

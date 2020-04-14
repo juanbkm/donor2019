@@ -14,7 +14,7 @@ The World Bank Group has been working with ADB since 1972. It prioritizes develo
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with World Bank 
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

@@ -14,7 +14,7 @@ In 2018, two new facilities were created within the fund on a three-year pilot b
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with ASEAN Infrastructure Fund
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

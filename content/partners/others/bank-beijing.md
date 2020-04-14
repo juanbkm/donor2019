@@ -14,7 +14,7 @@ BOB is a Sino-foreign joint stock commercial bank with a brand value of CNY 36.6
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Bank of Beijing
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
     <th>Country</th>
     <th>Project</th>

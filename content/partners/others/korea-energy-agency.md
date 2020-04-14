@@ -14,7 +14,7 @@ KEA started working with ADB in 1980, assisting DMCs through sharing of knowledg
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Korea Energy Agency
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr height=40 style='mso-height-source:userset;height:30.0pt'>
 <td colspan=4 height=40 class=xl109 width=868 style='height:30.0pt;
 width:651pt'>Cofinancing with Korea Energy Agency, 1 January 2014–31 December

@@ -14,7 +14,7 @@ In September 2017, IDB signed a cofinancing agreement with ADB committing $2 bil
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Islamic Development Bank
 
-<table class="table">
+<table class="table table-striped table-bordered">
 
 <tr>
 <th>Country</th>

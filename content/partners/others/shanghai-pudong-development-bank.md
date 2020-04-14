@@ -14,7 +14,7 @@ SPD has seen rapid growth since its inception, now with 1,660 outlets including 
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Shanghai Pudong Development Bank
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

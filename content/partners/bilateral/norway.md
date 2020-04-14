@@ -14,7 +14,7 @@ Development assistance is managed by the Ministry of Foreign Affairs with suppor
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Norway
 
-<table class="table">
+<table class="table table-striped table-bordered">
 
 <tr>
 <th>Country</th>

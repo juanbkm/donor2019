@@ -9341,6 +9341,40 @@ td.actions {
         padding-left: 0; }
 
 /* line 3, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+#content .dr-partner-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2em; }
+  /* line 8, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+  #content .dr-partner-nav li {
+    border: 1px solid #c2ccd2;
+    color: #556773;
+    list-style: none; }
+    /* line 13, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+    #content .dr-partner-nav li a {
+      background-color: #fdfdfd;
+      display: block;
+      padding: 20px;
+      color: #555; }
+      /* line 18, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+      #content .dr-partner-nav li a:hover {
+        background-color: #98cc52;
+        color: #fff;
+        transition: all 0.5s ease-in-out; }
+      /* line 23, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+      #content .dr-partner-nav li a:hover h3 {
+        color: #fff;
+        transition: all 0.5s ease-in-out; }
+      /* line 27, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+      #content .dr-partner-nav li a h3 {
+        margin: 0;
+        display: block; }
+        /* line 30, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+        #content .dr-partner-nav li a h3:hover {
+          color: #fff;
+          transition: all 0.3s ease; }
+
+/* line 39, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-funds {
   border-left: 1px solid #c2ccd2;
   float: right;
@@ -9348,21 +9382,21 @@ td.actions {
   padding: 0 40px;
   width: 30%; }
 
-/* line 10, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 47, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-type {
   display: block;
   text-transform: uppercase; }
 
-/* line 14, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 51, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-amount {
   display: block;
   font-size: 3rem; }
 
-/* line 18, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 55, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-pager {
   text-align: right; }
 
-/* line 22, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 59, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content h5 em {
   display: block;
   font-size: 1rem;

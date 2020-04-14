@@ -14,7 +14,7 @@ In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with France
 
-<table class="table">
+<table class="table table-striped table-bordered">
 
 <tr>
 <th>Country</th>

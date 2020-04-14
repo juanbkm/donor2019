@@ -14,7 +14,7 @@ Swedish development aid is managed through the Swedish International Development
 
 ##### _1 January 2014–31 December 2018_ Cofinancing with Sweden
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>

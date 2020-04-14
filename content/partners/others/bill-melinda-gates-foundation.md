@@ -13,7 +13,7 @@ The Bill & Melinda Gates Foundation is a private foundation founded by Bill and 
 ADB has received a grant from the foundation to pilot innovative sanitation solutions (new policies, business models, and technologies) and strengthen regional response to malaria and other communicable diseases.    
 ##### _1 January 2014–31 December 2018_ Cofinancing with Bill & Melinda Gates Foundation
 
-<table class="table">
+<table class="table table-striped table-bordered">
 <tr>
 <th>Country</th>
 <th>Project</th>
