@@ -3,6 +3,7 @@ title: "Rural Development and Food Security"
 date: 2020-04-15T14:43:20+08:00
 weight: 7
 subtitle: Strategy 2030 and Rural Development and Food Security
+lead: "Market connectivity and agricultural value chain linkages, agricultural productivity and food security, food safety."
 draft: false
 ---
 

@@ -2,6 +2,7 @@
 title: "Climate Change"
 date: 2020-04-15T17:05:31+08:00
 weight: 2
+lead: "Low greenhouse gas emissions development, approach to building climate and disaster resilience, environmental sustainability, water-food-energy security nexus."
 draft: false
 ---
 

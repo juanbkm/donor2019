@@ -2,6 +2,7 @@
 title: "Regional Cooperation and Integration "
 date: 2020-04-15T22:02:14+08:00
 weight: 6
+lead: "Connectivity and competitiveness, regional public goods, cooperation in finance sector, subregional initiatives."
 draft: false
 ---
 

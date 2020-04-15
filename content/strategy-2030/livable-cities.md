@@ -2,6 +2,7 @@
 title: "Livable Cities"
 date: 2020-04-15T20:56:25+08:00
 weight: 5
+lead: "Integrated solutions, funding for cities, inclusive and participatory urban planning, climate resilience, and disaster management."
 draft: false
 ---
 
