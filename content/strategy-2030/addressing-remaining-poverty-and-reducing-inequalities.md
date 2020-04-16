@@ -3,6 +3,8 @@ title: "Addressing Remaining Poverty and Reducing Inequalities"
 date: 2020-04-15T15:51:40+08:00
 weight: 1
 lead: "Human development and social inclusion, quality jobs, education and training, better health, social protection."
+main_image: images/strategy-2030/climate-change.jpg
+main_image_thumb: images/strategy-2030/climate-change-th.jpg
 draft: false
 ---
 

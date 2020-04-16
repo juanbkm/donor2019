@@ -9511,6 +9511,67 @@ td.actions {
     #content .dr-stories-single .dr-story-content .dr-results i {
       color: #eb6440; }
 
+/* line 3, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+#content .dr-s2030-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 4em; }
+  /* line 8, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  #content .dr-s2030-nav li {
+    border-left: 3px solid #c2ccd2;
+    padding: 0;
+    padding-left: 40px;
+    color: #556773;
+    list-style: none; }
+    /* line 14, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    #content .dr-s2030-nav li > a {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-gap: 1em; }
+    /* line 19, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    #content .dr-s2030-nav li a {
+      display: block;
+      color: #555; }
+      /* line 24, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+      #content .dr-s2030-nav li a:hover {
+        transition: all 0.5s ease-in-out; }
+      /* line 29, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+      #content .dr-s2030-nav li a:hover h3 {
+        transition: all 0.5s ease-in-out; }
+      /* line 33, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+      #content .dr-s2030-nav li a h3 {
+        margin: 0;
+        display: block; }
+
+/* line 42, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+#content .dr-funds {
+  border-left: 1px solid #c2ccd2;
+  float: right;
+  margin-left: 40px;
+  padding: 0 40px;
+  width: 30%; }
+
+/* line 50, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+#content .dr-type {
+  display: block;
+  text-transform: uppercase; }
+
+/* line 54, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+#content .dr-amount {
+  display: block;
+  font-size: 3rem; }
+
+/* line 58, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+#content .dr-pager {
+  text-align: right; }
+
+/* line 62, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+#content h5 em {
+  display: block;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 300; }
+
 /*-----------------------------------------------------------------------------------
 	shortcodes
 -----------------------------------------------------------------------------------*/

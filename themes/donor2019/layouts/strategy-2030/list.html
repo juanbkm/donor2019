@@ -5,11 +5,16 @@
             {{- partial "sectiontitle.html" . -}}
             <div class="row">
                 <div class="col">
-                    <ul class="dr-partner-nav">
+                    <ul class="dr-s2030-nav">
                     {{ range .Pages.ByWeight }}
                         <li><a href="{{.Permalink}}">
-                            <h3>{{.Title}}</h3>
-                            <div class="">{{ .Params.lead }}</div>
+                            <div>
+                                <img src="{{ .Params.main_image_thumb }}" />
+                            </div>
+                            <div>
+                                <h3>{{.Title}}</h3>
+                                <p class="">{{ .Params.lead }}</p>
+                            </div>
                         </a></li>
                     {{ end }}
                     </ul>

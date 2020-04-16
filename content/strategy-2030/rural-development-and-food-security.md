@@ -4,6 +4,8 @@ date: 2020-04-15T14:43:20+08:00
 weight: 7
 subtitle: Strategy 2030 and Rural Development and Food Security
 lead: "Market connectivity and agricultural value chain linkages, agricultural productivity and food security, food safety."
+main_image: images/strategy-2030/climate-change.jpg
+main_image_thumb: images/strategy-2030/climate-change-th.jpg
 draft: false
 ---
 

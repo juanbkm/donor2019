@@ -1,0 +1,69 @@
+
+#content  {
+    .dr-s2030-nav {
+        
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-gap: 4em;
+            li {
+                border-left: 3px solid lighten($adb-dr-gray, 40%);
+                padding: 0;
+                padding-left: 40px;
+                color: $adb-dr-gray;
+                list-style: none;
+                > a {
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                    grid-gap: 1em;
+                }
+                a {
+                    //background-color: lighten($adb-dr-gray, 60%);;
+                    display: block;
+                    //padding: 20px;
+                    color: $body-color;
+                    &:hover {
+                        //background-color: $adb-accent-green;
+                        //color: #fff;
+                        transition: all 0.5s ease-in-out;
+                    }
+                    &:hover h3 {
+                        //color: #fff;
+                        transition: all 0.5s ease-in-out;
+                    }
+                    h3 {
+                        margin: 0;
+                        display: block;
+                        
+                    }
+                }
+            }
+            
+        }
+    .dr-funds {
+        
+        border-left: 1px solid lighten($adb-dr-gray, 40%);
+        float: right;
+        margin-left: 40px;
+        padding: 0 40px;
+        width: 30%;
+    }
+    .dr-type {
+        display: block;
+        text-transform: uppercase;
+    }
+    .dr-amount {
+        display: block;
+        font-size: 3rem;
+    }
+    .dr-pager {
+        text-align: right;
+    }
+    h5 {
+        em {
+            display: block;
+            font-size: 1rem;
+            font-style: normal;
+            font-weight: 300;
+        }
+    }
+}

@@ -3,6 +3,8 @@ title: "Governance and Capacity Building"
 date: 2020-04-15T18:51:33+08:00
 weight: 4
 lead: "Public management reforms and financial sustainability, service delivery, capacity and standards."
+main_image: images/strategy-2030/climate-change.jpg
+main_image_thumb: images/strategy-2030/climate-change-th.jpg
 draft: false
 ---
 ### Strategy 2030 and strengthening government systems through partnerships 
