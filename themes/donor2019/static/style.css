@@ -5352,29 +5352,29 @@ body.stretched .container-fullwidth .breadcrumb {
     font-size: 84px;
     font-weight: 400;
     line-height: 1;
+    padding-bottom: 20px;
     margin: 0; }
-  /* line 114, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 115, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #dr-page-title h3 {
     color: #556773;
     font-size: 18px;
     font-weight: 300;
     margin: 0;
     padding: 0;
+    padding-bottom: 10px;
     text-transform: capitalize; }
-  /* line 123, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
-  #dr-page-title span {
+  /* line 125, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  #dr-page-title .dr-icon {
     display: block;
-    margin-top: 10px;
-    font-weight: 300;
-    color: #777777;
-    font-size: 18px; }
-    /* line 128, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
-    .dark #dr-page-title span {
-      color: rgba(255, 255, 255, 0.7); }
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 96px;
+    height: auto; }
 
 /* Page Title - Dark
 -----------------------------------------------------------------*/
-/* line 136, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+/* line 138, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
 #page-title {
   /* Page Title - Right Aligned
 	-----------------------------------------------------------------*/
@@ -5390,42 +5390,42 @@ body.stretched .container-fullwidth .breadcrumb {
 	-----------------------------------------------------------------*/
   /* Page Title - Video
 	-----------------------------------------------------------------*/ }
-  /* line 137, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 139, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #page-title.page-title-dark {
     background-color: #333333;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15) !important;
     border-bottom: none; }
-    /* line 142, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 144, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-dark h1 {
       color: rgba(255, 255, 255, 0.9) !important; }
-    /* line 146, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 148, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-dark span {
       color: rgba(255, 255, 255, 0.7); }
-    /* line 150, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 152, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-dark .breadcrumb > .active {
       color: rgba(255, 255, 255, 0.6); }
-    /* line 154, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 156, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-dark .breadcrumb a {
       color: rgba(255, 255, 255, 0.8); }
-    /* line 158, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 160, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-dark .breadcrumb a:hover {
       color: rgba(255, 255, 255, 0.95); }
-  /* line 166, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 168, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #page-title.page-title-right {
     text-align: right; }
-    /* line 169, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 171, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-right .breadcrumb {
       left: 15px !important;
       right: auto !important; }
-  /* line 178, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 180, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #page-title.page-title-center {
     text-align: center; }
-    /* line 181, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 183, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-center span {
       max-width: 700px;
       margin-left: auto;
       margin-right: auto; }
-    /* line 187, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 189, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-center .breadcrumb {
       position: relative !important;
       top: 0 !important;
@@ -5433,15 +5433,15 @@ body.stretched .container-fullwidth .breadcrumb {
       right: 0 !important;
       margin: 20px 0 0 !important;
       justify-content: center; }
-  /* line 200, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 202, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #page-title.page-title-pattern {
     background-image: url("images/pattern.png");
     background-repeat: repeat;
     background-attachment: fixed; }
-    /* line 204, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 206, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     .dark #page-title.page-title-pattern {
       background-image: url("../images/pattern2.png"); }
-  /* line 210, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 212, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #page-title.page-title-parallax {
     padding: 100px 0;
     text-shadow: none;
@@ -5451,49 +5451,49 @@ body.stretched .container-fullwidth .breadcrumb {
     background-attachment: fixed;
     background-position: 50% 0;
     background-repeat: no-repeat; }
-    /* line 220, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 222, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-parallax h1 {
       font-size: 40px;
       font-weight: 600;
       letter-spacing: 2px; }
-    /* line 226, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 228, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-parallax span {
       font-size: 22px; }
-    /* line 230, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 232, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-parallax .breadcrumb {
       font-size: 13px; }
-  /* line 238, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 240, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #page-title.page-title-mini {
     padding: 20px 0; }
-    /* line 241, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 243, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-mini h1 {
       font-weight: 600;
       font-size: 18px;
       color: #444444; }
-    /* line 247, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 249, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-mini span {
       display: none; }
-  /* line 255, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 257, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #page-title.page-title-nobg {
     background: transparent !important;
     border-bottom: 1px solid #eeeeee;
     border-bottom-color: #e5e5e5; }
-  /* line 264, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+  /* line 266, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   #page-title.page-title-video {
     background: none;
     position: relative;
     overflow: hidden; }
-    /* line 269, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 271, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-video .container {
       z-index: 3; }
-    /* line 273, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+    /* line 275, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     #page-title.page-title-video .video-wrap {
       position: absolute;
       width: 100%;
       height: 100%;
       top: 0;
       left: 0; }
-      /* line 280, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
+      /* line 282, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
       #page-title.page-title-video .video-wrap video {
         width: 100%; }
 
@@ -9519,25 +9519,25 @@ td.actions {
   padding: 0;
   color: #556773;
   list-style: none; }
-  /* line 12, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 10, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-s2030-sectors a {
     display: block;
     color: #555; }
-    /* line 15, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 13, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a:hover {
       opacity: 50%;
       transition: all 0.5s ease-in-out; }
-    /* line 21, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 19, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a:hover h3 {
       transition: all 0.5s ease-in-out; }
-    /* line 25, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 23, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a h3 {
       margin: 0 140px 0 0;
       display: block; }
-    /* line 29, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 27, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a p {
       margin: 0 140px 0 0; }
-    /* line 32, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 30, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a .dr-icon {
       display: block;
       width: 96px;
@@ -9545,16 +9545,28 @@ td.actions {
       position: absolute;
       top: 10px;
       right: 0; }
-  /* line 42, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 40, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-s2030-sectors .dr-sector-img {
     margin-bottom: 20px; }
-  /* line 45, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 43, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-s2030-sectors .dr-sector-text {
     border-left: 6px solid #c2ccd2;
     margin-bottom: 10px;
     padding: 10px;
     padding-left: 20px;
     position: relative; }
+
+/* line 52, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+#content .dr-s2030-page-sector .dr-sector-img {
+  float: left;
+  display: block;
+  width: 50%;
+  margin: 0 80px 80px 0; }
+
+/* line 58, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+#content .dr-s2030-page-sector .lead {
+  font-size: 2rem;
+  padding: 20px; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes
