@@ -3,8 +3,9 @@ title: "Livable Cities"
 date: 2020-04-15T20:56:25+08:00
 weight: 5
 lead: "Integrated solutions, funding for cities, inclusive and participatory urban planning, climate resilience, and disaster management."
-main_image: images/strategy-2030/climate-change.jpg
-main_image_thumb: images/strategy-2030/climate-change-th.jpg
+main_image: images/strategy-2030/livable-cities.jpg
+main_image_thumb: images/strategy-2030/livable-cities-th.jpg
+icon: images/strategy-2030/icn-cities-128.png
 draft: false
 ---
 
@@ -56,9 +57,7 @@ As the new reality with the 2019 novel Coronavirus (COVID-19) unfolds, cities ar
 
 In the area of the environment, the travel restrictions and a slowing down of economic activities have resulted in an initial drop in carbon emissions in many parts of the globe. But history has shown that this is likely to be temporary; that this will become an issue again once travel resumes or factories recover. The need to focus on urban air pollution, water scarcity, and natural resource degradation, and biodiversity loss remain. Moreover, the DMCs may be given more assistance in incorporating sustainable environmental goals into their national development plans, especially those with challenging city planning issues.
 
-ADB has been [responding fast](https://www.adb.org/what-we-do/covid19-coronavirus) to assist its DMCs dealing with the COVID-19 fallout. Short to long term responses may require ADB and its partners to ramp up their partnerships, which ADB [has done](https://www.adb.org/news/adb-president-strengthens-collaboration-uk-dfid-its-response-covid-19) with some of its bilateral partners. There is an opportunity for ADB and its partners to put more focus on
-
-public health and pandemic preparedness into disaster-resilience programs and urban planning for livable cities.
+ADB has been [responding fast](https://www.adb.org/what-we-do/covid19-coronavirus) to assist its DMCs dealing with the COVID-19 fallout. Short to long term responses may require ADB and its partners to ramp up their partnerships, which ADB [has done](https://www.adb.org/news/adb-president-strengthens-collaboration-uk-dfid-its-response-covid-19) with some of its bilateral partners. There is an opportunity for ADB and its partners to put more focus on public health and pandemic preparedness into disaster-resilience programs and urban planning for livable cities.
 
 In the next years, partners have pledged more support for the urban financing facility. For the UFPF, additional support is expected toward making cities more livable from the latest trust fund to join UFPF, the ASEAN Australia Smart Cities Trust Fund. In November 2019, during the ADB's consultation with donors, UFPF got a commitment from the Government of the UK to provide additional financing for Phase 2 of UCCRTF. The indicative funding replenishment committed by the UK Government is about $100 million (£75million) over seven years from April 2021 to March 2028.
 

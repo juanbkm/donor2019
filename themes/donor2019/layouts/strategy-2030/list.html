@@ -4,22 +4,19 @@
         <div class="container clearfix">
             {{- partial "sectiontitle.html" . -}}
             <div class="row">
-                <div class="col">
-                    <ul class="dr-s2030-nav">
+                <div class="col dr-s2030-sectors">
                     {{ range .Pages.ByWeight }}
-                        <li><a href="{{.Permalink}}">
-                            <div>
-                                <img src="{{ .Params.main_image_thumb }}" />
-                            </div>
-                            <div>
+                    <div class="dr-s2030-sector">
+                        <a href="{{.Permalink}}">
+                            <div class="dr-sector-img"><img src="{{ .Params.main_image_thumb }}" /></div>
+                            <div class="dr-sector-text">
                                 <h3>{{.Title}}</h3>
                                 <p class="">{{ .Params.lead }}</p>
+                                <img src="{{ .Params.icon }}" class="dr-icon" />
                             </div>
-                        </a></li>
+                        </a>
+                    </div>
                     {{ end }}
-                    </ul>
-                    
-                    
                 </div>
             </div>
         </div>

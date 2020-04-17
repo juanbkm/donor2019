@@ -1,69 +1,53 @@
 
 #content  {
-    .dr-s2030-nav {
+    .dr-s2030-sectors {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 5em;
         
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            grid-gap: 4em;
-            li {
-                border-left: 3px solid lighten($adb-dr-gray, 40%);
-                padding: 0;
-                padding-left: 40px;
-                color: $adb-dr-gray;
-                list-style: none;
-                > a {
-                    display: grid;
-                    grid-template-columns: 1fr 1fr;
-                    grid-gap: 1em;
-                }
-                a {
-                    //background-color: lighten($adb-dr-gray, 60%);;
-                    display: block;
-                    //padding: 20px;
-                    color: $body-color;
-                    &:hover {
-                        //background-color: $adb-accent-green;
-                        //color: #fff;
-                        transition: all 0.5s ease-in-out;
-                    }
-                    &:hover h3 {
-                        //color: #fff;
-                        transition: all 0.5s ease-in-out;
-                    }
-                    h3 {
-                        margin: 0;
-                        display: block;
-                        
-                    }
-                }
-            }
-            
-        }
-    .dr-funds {
-        
-        border-left: 1px solid lighten($adb-dr-gray, 40%);
-        float: right;
-        margin-left: 40px;
-        padding: 0 40px;
-        width: 30%;
-    }
-    .dr-type {
-        display: block;
-        text-transform: uppercase;
-    }
-    .dr-amount {
-        display: block;
-        font-size: 3rem;
-    }
-    .dr-pager {
-        text-align: right;
-    }
-    h5 {
-        em {
+        padding: 0;
+        //padding-left: 40px;
+        color: $adb-dr-gray;
+        list-style: none;
+        a {
             display: block;
-            font-size: 1rem;
-            font-style: normal;
-            font-weight: 300;
+            color: $body-color;
+            &:hover {
+                //background-color: $adb-accent-green;
+                //color: #fff;
+                opacity: 50%;
+                transition: all 0.5s ease-in-out;
+            }
+            &:hover h3 {
+                //color: #fff;
+                transition: all 0.5s ease-in-out;
+            }
+            h3 {
+                margin: 0 140px 0 0;
+                display: block;
+            }
+            p {
+                margin: 0 140px 0 0;
+            }
+            .dr-icon {
+                display: block;
+                width: 96px;
+                height: auto;
+                position: absolute;
+                top: 10px;
+                right: 0;
+            }
+        }
+        
+        .dr-sector-img {
+            margin-bottom: 20px;
+        }
+        .dr-sector-text {
+            border-left: 6px solid lighten($adb-dr-gray, 40%);
+            margin-bottom: 10px;
+            padding: 10px;
+            padding-left: 20px;
+            position: relative;
         }
     }
 }

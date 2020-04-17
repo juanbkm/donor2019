@@ -3,8 +3,9 @@ title: "Regional Cooperation and Integration "
 date: 2020-04-15T22:02:14+08:00
 weight: 6
 lead: "Connectivity and competitiveness, regional public goods, cooperation in finance sector, subregional initiatives."
-main_image: images/strategy-2030/climate-change.jpg
-main_image_thumb: images/strategy-2030/climate-change-th.jpg
+main_image: images/strategy-2030/regional-cooperation.jpg
+main_image_thumb: images/strategy-2030/regional-cooperation-th.jpg
+icon: images/strategy-2030/icn-regional-128.png
 draft: false
 ---
 
