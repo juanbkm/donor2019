@@ -18,9 +18,11 @@
                         </div>
                     </div>
                     <div class="portfolio-desc">
+                        <p class="dr-categories">Topics: {{ range .Params.categories }}{{ . }}{{ end }} </p>
                         <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
                         <p>{{.Summary}}</p>
-                        <span>{{ range .Params.categories }}<a href="">{{ . }}</a>{{ end }}</span>
+                        
+                        <a href="{{.Permalink}}" class="button button-3d noleftmargin">Read the story</a>
                     </div>
                 </article>
                 {{ end }}

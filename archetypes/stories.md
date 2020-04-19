@@ -6,9 +6,11 @@ image_caption: ""
 image_thumb: images/stories/
 author: Admin
 description: "This is meta description"
+country: 
 summary: ""
 project_title: ""
-partner: ""
+partners: 
+  - ""
 approval: ""
 completion: ""
 cost: ""

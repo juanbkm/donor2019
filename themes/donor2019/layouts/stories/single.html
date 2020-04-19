@@ -6,7 +6,7 @@
                     <div class="col-md-12 mx-auto">
                         <div class="dr-story-title">
                             <h3>{{ .Section }} / {{ range .Params.categories }}<a href="">{{ . }}</a>{{ end }}</h3>
-                            <h2 data-animate="fadeIn">{{ .Title }}</h2>
+                            <h2 data-animate="fadeIn">{{ .Params.country }}: {{ .Title }}</h2>
                             <p>Published on: {{ .Date.Format "Jan 2, 2006" }}</p>
                         </div>
                     </div>
@@ -25,8 +25,9 @@
                             <p class="dr-project_title">{{ .Params.project_title }}</p>
 
                             <h4>Financing Partner​</h4>
-                            <p>{{ .Params.partner }}</p>
-                            
+                            {{ range .Params.partners }}
+                            <p>{{ . }}</p>
+                            {{ end }}
                             <h4>Approval Date</h4>
                             <p>{{ .Params.approval }}</p>
 

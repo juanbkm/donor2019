@@ -5,9 +5,11 @@ image: images/stories/rebuilding-the-road-to-the-border.jpg
 image_caption: "Mirror, mirror, on the road: Spherical convex mirrors on Tajikistan’s Ayni–Panjakent road that connects to the Uzbekistan border provide increased road safety at dangerous curves and junctions."
 author: Admin
 description: "This is meta description"
+country: Tajikistan
 summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. The new road links to a transport corridor supporting regional trade and cooperation. "
 project_title: "Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni–Uzbekistan Border Road) Improvement Project"
-partner: "Loan: OPEC Fund for International Development - $14 million"
+partners:
+  - "OPEC Fund for International Development - $14 million"
 approval: "September 2012"
 completion: "August 2017"
 cost: "$136 million"

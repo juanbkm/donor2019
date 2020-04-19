@@ -6,9 +6,11 @@ image_caption: "The Mekong subregion’s incredible rural landscape is just one 
 image_thumb: images/stories/start-ups-to-deliver-inclusive-tourism-in-the-mekong-region-th.jpg
 author: Admin
 description: "This is meta description"
+country: Regional
 summary: "The Mekong region is set to introduce tourists to a wider array of attractions after several tourism start-ups are placed under an innovation accelerator program. If the success of these start-ups gains and sustains momentum, the Mekong region will soon see a more inclusive and sustainable tourism industry."
 project_title: "REG: Mekong Tourism Innovation"
-partner: "TA, Government of Australia"
+partners: 
+  - "TA, Government of Australia"
 approval: "March 2018"
 completion: "October 2018"
 cost: "$150,000"

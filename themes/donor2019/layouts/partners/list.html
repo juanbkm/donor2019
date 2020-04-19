@@ -1,24 +1,22 @@
 {{ define "main" }}
 
-
-        <div class="container clearfix">
-            {{- partial "sectiontitle.html" . -}}
-            <div class="row">
-                <div class="col">
-                    <ul class="dr-partner-nav">
-                    {{ range .Data.Pages.ByTitle }}
-                        <li><a href="{{.Permalink}}">
-                            <h3>{{.Title}}</h3>
-                            <div class="">{{ .Params.section_summary }}</div>
-                        </a></li>
-                    {{ end }}
-                    </ul>
-                    
-                    
-                </div>
-            </div>
-        </div>
-
-    
+<div class="container clearfix">
+  {{- partial "sectiontitle.html" . -}}
+  <div class="row">
+    <div class="col">
+      <ul class="dr-partner-nav">
+        {{ range .Data.Pages.ByTitle }}
+        <li>
+          <a href="{{.Permalink}}">
+            <h3>{{.Title}}</h3>
+            <div class="">{{ .Params.section_summary }}</div>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+      
+    </div>
+  </div>
+</div>
 
 {{ end }}

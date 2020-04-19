@@ -5,16 +5,16 @@ weight:
 draft: false
 ---
 
-<table>
+<table class="table table-bordered">
   <tr>
-    <td rowspan="2">Project Name</td>
-    <td rowspan="2">ADB</td>
-    <td colspan="2">Sovereign Cofinancing</td>
-    <td rowspan="2">Financing Partner</td>
+    <th rowspan="2">Project Name</th>
+    <th rowspan="2">ADB</th>
+    <th colspan="2">Sovereign Cofinancing</th>
+    <th rowspan="2">Financing Partner</th>
   </tr>
   <tr>
-    <td>Loans</td>
-    <td>Grant</td>
+    <th>Loans</th>
+    <th>Grant</th>
   </tr>
   <tr>
     <td>CENTRAL AND WEST ASIA</td>
@@ -76,7 +76,7 @@ draft: false
   </tr>
   <tr>
     <td>National Disaster Risk Management Fund – Additional Financing
-        <span class="s6">a</span></td>
+        <sup>a</sup></td>
     <td></td>
     <td>1.50</td>
     <td></td>
@@ -105,24 +105,20 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>Power Generation Efficiency Improvement <span class="s6">a</span></td>
+    <td>Power Generation Efficiency Improvement <sup>a</span></td>
     <td></td>
     <td></td>
     <td>240.00</td>
     <td>EBRD</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="5"></td>
   </tr>
   <tr>
     <td>EAST ASIA</td>
     <td>444.64</td>
     <td>4.98</td>
-    <td353.22</td>
+    <td>353.22</td>
     <td></td>
   </tr>
   <tr>
@@ -183,19 +179,7 @@ draft: false
     <td>113.69</td>
     <td>Kreditanstalt für Wiederaufbau (KfW)</td>
   </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2">Project Name</td>
-    <td rowspan="2">ADB</td>
-    <td colspan="2">Sovereign Cofinancing</td>
-    <td rowspan="2">Financing Partner</td>
-  </tr>
-  <tr>
-    <td>Loans</td>
-    <td>Grant</td>
-  </tr>
+  
   <tr>
     <td>PACIFIC</td>
     <td>123.20</td>
@@ -233,7 +217,7 @@ draft: false
   </tr>
   <tr>
     <td>Health Services Development Program, Subprogram 1– Additional
-        Financing <span class="s6">a</span></td>
+        Financing <sup>a</sup></td>
     <td></td>
     <td>38.00</td>
     <td></td>
@@ -357,7 +341,7 @@ draft: false
     <td>SOUTH ASIA</td>
     <td>1,926.00</td>
     <td>0.75</td>
-    <td1,102.67</td>
+    <td>1,102.67</td>
     <td></td>
   </tr>
   <tr>
@@ -383,7 +367,7 @@ draft: false
   </tr>
   <tr>
     <td>Green Energy Corridor and Grid Strengthening
-        <span class="s6">a</span></td>
+        <sup>a</sup></td>
     <td></td>
     <td></td>
     <td>223.94</td>
@@ -425,19 +409,6 @@ draft: false
     <td></td>
     <td>342.73</td>
     <td>Japan International Cooperation Agency (JICA)</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td rowspan="2">Project Name</td>
-    <td rowspan="2">ADB</td>
-    <td colspan="2">Sovereign Cofinancing</td>
-    <td rowspan="2">Financing Partner</td>
-  </tr>
-  <tr>
-    <td>Loans</td>
-    <td>Grant</td>
   </tr>
   <tr>
     <td>SOUTHEAST ASIA</td>
@@ -571,6 +542,13 @@ draft: false
     <td>5,985.00</td>
     <td>152.41</td>
     <td>4,515.59</td>
-    <thead></thead>
+    <td></td>
   </tr>
 </table>
+
+---
+
+**Note**: Totals may not add up because of rounding.
+
+<sup>a</sup> Anchor project was approved in prior year(s) with cofinancing committed in 2019  
+<sup>b</sup> Under the Scaling Up Renewable Energy Program in Low-Income Countries

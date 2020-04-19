@@ -6,9 +6,14 @@ image_caption: "Women make up more than half of Sri Lanka’s 21 million populat
 image_thumb: images/stories/smes-mainstream-women-into-sri-lankas-economy-th.jpg
 author: Admin
 description: "This is meta description"
+country: Sri Lanka
 summary: "Women in Sri Lanka now find it easier to borrow long-term capital from banks under the ADB’s Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project that is supported by Women Entrepreneurs Finance Initiative (We-Fi) grant and the Japan Fund for Poverty Reduction (JFPR)."
 project_title: "Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project"
-partner: "Loan, ADB/OCR, US$ 100.00 million, Technical Assistance, Japan Fund for Poverty Reduction, US$ 2.00 million, Loan, ADB/OCR, US$ 75.00 million, Grant and Technical Assistance, Women Entrepreneurs Finance Initiative, US$ 12.60 million"
+partners: 
+  - "Loan: ADB/OCR, US$ 100.00 million"
+  - "Technical Assistance: Japan Fund for Poverty Reduction, US$ 2.00 million"
+  - "Loan: ADB/OCR, US$ 75.00 million, Grant and Technical Assistance"
+  - "Women Entrepreneurs Finance Initiative, US$ 12.60 million"
 approval: "15 Feb 2016"
 completion: "30 Sep 2020"
 cost: ""
