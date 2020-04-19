@@ -1,11 +1,15 @@
 ---
-title: "Sovereign Cofinancing for Projects, 2019"
+title: "Projects"
 date: 2020-04-18T00:24:25+08:00
-weight:
+pretitle: "Sovereign Cofinancing for"
+date_range: "2019"
+units: "$ million"
+weight: 4
 draft: false
 ---
 
-<table class="table table-bordered">
+<table class="table table-bordered table-hover dr-table">
+  <thead>
   <tr>
     <th rowspan="2">Project Name</th>
     <th rowspan="2">ADB</th>
@@ -16,6 +20,8 @@ draft: false
     <th>Loans</th>
     <th>Grant</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>CENTRAL AND WEST ASIA</td>
     <td>932.00</td>
@@ -537,6 +543,8 @@ draft: false
     <td></td>
     <td></td>
   </tr>
+  </tbody>
+  <tfoot>
   <tr>
     <td>TOTAL</td>
     <td>5,985.00</td>
@@ -544,6 +552,7 @@ draft: false
     <td>4,515.59</td>
     <td></td>
   </tr>
+  <tfoot>
 </table>
 
 ---

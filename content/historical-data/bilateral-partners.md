@@ -1,11 +1,15 @@
 ---
-title: "Official Cofinancing from Bilateral Partners, 1967–2019"
+title: "Bilateral Partners"
 date: 2020-04-17T18:46:06+08:00
-weight:
+pretitle: "Official Cofinancing from"
+date_range: "1967–2019"
+units: "$ million"
+weight: 1
 draft: false
 ---
 
-<table class="table table-bordered">
+<table class="table table-bordered table-hover dr-table">
+  <thead>
   <tr>
     <th rowspan="2">Financing Partner</th>
     <th rowspan="2">Contribution to Trust Funds <sup>a</sup></th>
@@ -17,6 +21,8 @@ draft: false
     <th>Grant</th>
     <th>Technical Assistance</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>Australia</td>
     <td>172.50</td>
@@ -249,6 +255,8 @@ draft: false
     <td>–</td>
     <td>740.00</td>
   </tr>
+  </tbody>
+  <tfoot>
   <tr>
     <td>TOTAL Bilaterals</td>
     <td>3,824.20</td>
@@ -257,6 +265,7 @@ draft: false
     <td>709.89</td>
     <td>34,034.48</td>
   </tr>
+  </tfoot>
 </table>
 
 ---

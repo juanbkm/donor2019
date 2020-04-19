@@ -1,20 +1,24 @@
 ---
-title: "Sovereign Cofinancing for Technical Assistance, 2019"
+title: "Technical Assistance"
 date: 2020-04-18T22:35:40+08:00
-weight:
+pretitle: "Sovereign Cofinancing for"
+date_range: "2019"
+units: "$ million"
+weight: 5
 draft: false
 ---
 
-<table class="table table-bordered">
+<table class="table table-bordered table-hover dr-table">
+  <thead>
   <tr>
-    <td>Project / Technical Assistance Name</td>
-    <td>Amount</td>
-    <td>Financing Partner</td>
+    <th>Project / Technical Assistance Name</th>
+    <th>Amount</th>
+    <th>Financing Partner</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <td>SOUTHEAST ASIA</td>
@@ -145,9 +149,7 @@ draft: false
     <td>RCIFPF-ARTCF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <td>East Asia</td>
@@ -310,9 +312,7 @@ draft: false
     <td>Clean Technology Fund (CIF-CTF)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <td>Pacific</td>
@@ -427,9 +427,7 @@ draft: false
   </tr>
 
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <td>South Asia</td>
@@ -565,9 +563,7 @@ draft: false
     <td>RCIFPF-ARTCF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <td>Southeast Asia</td>
@@ -798,9 +794,7 @@ draft: false
     <td>GEF</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"></td>
   </tr>
   <tr>
     <td>Across Regions</td>
@@ -1059,13 +1053,14 @@ draft: false
     <td>JFPR</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td colspan="3"></td>
   </tr>
+  </tbody>
+  <tfoot>
   <tr>
     <td>Total</td>
     <td>218,903.96</td>
     <td></td>
   </tr>
+  </tfoot>
 </table>

@@ -1,22 +1,28 @@
 ---
 title: "Private Financing Partners"
 date: 2020-04-17T22:58:58+08:00
-weight:
+pretitle: "Official Cofinancing from"
+date_range: "1967–2019"
+units: "$ million"
+weight: 3
 draft: false
 ---
 
-<table class="table table-bordered">
+<table class="table table-bordered table-hover dr-table">
+  <thead>
   <tr>
-    <td rowspan="2">Financing Partner</td>
-    <td rowspan="2">Contribution to Trust Funds <span class="s4">a</span></td>
-    <td colspan="3">Contributions to Project–Specific Cofinancing</td>
-    <td rowspan="2">Total</td>
+    <th rowspan="2">Financing Partner</th>
+    <th rowspan="2">Contribution to Trust Funds <sup>a</sup></th>
+    <th colspan="3">Contributions to Project–Specific Cofinancing</th>
+    <th rowspan="2">Total</th>
   </tr>
   <tr>
-    <td>Loans, Equities and Gurantees <span class="s4">b</span></td>
-    <td>Grant</td>
-    <td>Technical Assistance</td>
+    <th>Loans, Equities and Gurantees <sup>b</sup></th>
+    <th>Grant</th>
+    <th>Technical Assistance</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>Bill &amp; Melinda Gates Foundation</td>
     <td>19.00</td>
@@ -105,12 +111,15 @@ draft: false
     <td>–</td>
     <td>5.00</td>
   </tr>
+  </tbody>
+  <tfoot>
   <tr>
-    <td>TOTAL Private Financing Partners</td>
+    <td>TOTAL<br> <em>Private Financing Partners</em></td>
     <td>85.00</td>
     <td>119.91</td>
     <td>7.00</td>
     <td>133.00</td>
     <td>218.00</td>
   </tr>
+  </tfoot>
 </table>

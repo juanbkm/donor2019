@@ -1,22 +1,28 @@
 ---
-title: "Official Cofinancing from Multilateral Partners, 1967–2019"
+title: "Multilateral Partners"
 date: 2020-04-17T21:18:07+08:00
-weight:
+pretitle: "Official Cofinancing from"
+date_range: "1967–2019"
+units: "$ million"
+weight: 2
 draft: false
 ---
 
-<table class="table table-bordered">
+<table class="table table-bordered table-hover dr-table">
+  <thead>
   <tr>
-    <td rowspan="2">Financing Partner</td>
-    <td rowspan="2">Contribution to Trust Funds <sup>a</sup></td>
-    <td colspan="3">Contributions to Project–Specific Cofinancing</td>
-    <td rowspan="2">Total</td>
+    <th rowspan="2">Financing Partner</th>
+    <th rowspan="2">Contribution to Trust Funds <sup>a</sup></th>
+    <th colspan="3">Contributions to Project–Specific Cofinancing</th>
+    <th rowspan="2">Total</th>
   </tr>
   <tr>
-    <td>Loans, Equities and Gurantees <sup>b</sup></td>
-    <td>Grant</td>
-    <td>Technical Assistance</td>
+    <th>Loans, Equities and Gurantees <sup>b</sup></th>
+    <th>Grant</th>
+    <th>Technical Assistance</th>
   </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>African Development Bank</td>
     <td>0.10</td>
@@ -372,6 +378,8 @@ draft: false
     <td>-</td>
     <td>0.48</td>
   </tr>
+  </tbody>
+  <tfoot>
   <tr>
     <td>TOTAL Multilaterals</td>
     <td>301.01</td>
@@ -380,6 +388,7 @@ draft: false
     <td>425.23</td>
     <td>24,799.45</td>
   </tr>
+  </tfoot>
 </table>
 
 ---

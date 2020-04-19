@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+
+        <div class="container clearfix">
+            {{- partial "sectiontitle.html" . -}}
+            <div class="row">
+                <div class="col">
+                    <ul class="dr-data-nav">
+                    {{ range .Pages }}
+                        <li><a href="{{.Permalink}}"><em>{{ .Params.pretitle }}</em> {{ .Title }}, {{ .Params.date_range }}
+                        </a></li>
+                    {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    
+
+{{ end }}
