@@ -3,8 +3,8 @@ title: "Canada"
 date: 2020-04-11T19:19:39+08:00
 partner_type: Bilateral
 partner_logo:
-project_specific_cofinancing: "$234.8 million"
-trust_funds_contribution: "$261.8 million"
+project_specific_cofinancing: "$234.81 million"
+trust_funds_contribution: "$264.63 million"
 draft: false
 ---
 
@@ -29,9 +29,6 @@ to Primary Education Development (Supplementary)</a></td>
 <td>1.17 </td>
 <td>TA</td>
 
-
-
-
 </tr>
 <tr>
 <td>Bhutan</td>
@@ -40,9 +37,6 @@ href="https://www.adb.org/projects/49280-001/main" target="_blank">Climate-Resil
 Hazelnut Value Chain</a></td>
 <td>1.30 </td>
 <td>TA</td>
-
-
-
 
 </tr>
 <tr>
@@ -53,9 +47,6 @@ Solar Power</a></td>
 <td>3.25 </td>
 <td>L</td>
 
-
-
-
 </tr>
 <tr>
 <td>Georgia</td>
@@ -64,9 +55,6 @@ href="https://www.adb.org/projects/47919-014/main" target="_blank">Adjaristsqali
 Hydropower</a></td>
 <td>15.00 </td>
 <td>L</td>
-
-
-
 
 </tr>
 <tr>
@@ -77,9 +65,6 @@ and South Sulawesi Wind Power Development</a></td>
 <td>0.50 </td>
 <td>TA</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -87,8 +72,6 @@ href="https://www.adb.org/projects/51209-001/main" target="_blank">Eastern
 Indonesia Renewable Energy – Phase 1</a></td>
 <td>8.10 </td>
 <td>L</td>
-
-
 
 </tr>
 <tr>
@@ -98,9 +81,6 @@ Indonesia Renewable Energy – Phase 2</a></td>
 <td>21.90 </td>
 <td>L</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -109,9 +89,6 @@ Capacity Building of Indonesia Eximbank (Supplementary)</a></td>
 <td>0.23 </td>
 <td>TA</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -119,9 +96,6 @@ href="https://www.adb.org/projects/42916-014/main" target="_blank">Sarulla
 Geothermal Power Development</a></td>
 <td>20.00 </td>
 <td>L</td>
-
-
-
 
 </tr>
 <tr>
@@ -132,9 +106,6 @@ Climate and Disaster Resilience of Myanmar Communities</a></td>
 <td>7.50 </td>
 <td>TA</td>
 
-
-
-
 </tr>
 <tr>
 <td>Mongolia</td>
@@ -144,9 +115,6 @@ Khunsight Kundi Solar</a></td>
 <td>0.23 </td>
 <td>TA</td>
 
-
-
-
 </tr>
 <tr>
 <td rowspan="2">Philippines</td>
@@ -155,8 +123,6 @@ href="https://www.adb.org/projects/47336-001/main" target="_blank">Support for P
 <td>0.16 </td>
 <td>TA</td>
 
-
-
 </tr>
 <tr>
 <td><a
@@ -164,9 +130,6 @@ href="https://www.adb.org/projects/49117-001/main" target="_blank">Support
 for the Nationwide Rollout of JobStart Philippines (Supplementary)</a></td>
 <td>7.50 </td>
 <td>TA</td>
-
-
-
 
 </tr>
 <tr>
@@ -177,8 +140,6 @@ of Solar Power IPP</a></td>
 <td>0.23 </td>
 <td>TA</td>
 
-
-
 </tr>
 <tr>
 <td><a
@@ -186,9 +147,6 @@ href="https://www.adb.org/projects/49339-001/main" target="_blank">Solar
 Power Development</a></td>
 <td>1.00 </td>
 <td>L</td>
-
-
-
 
 </tr>
 <tr>
@@ -208,9 +166,6 @@ href="https://www.adb.org/projects/50410-001/main" target="_blank">ASEAN Distrib
 <td>20.00 </td>
 <td>L</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -219,9 +174,6 @@ Agribusiness Value Chains Sector</a></td>
 <td>1.00 </td>
 <td>TA</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -229,8 +181,6 @@ href="https://www.adb.org/projects/48264-001/main" target="_blank">Enhanced
 Use of Disaster Risk Information for Decision Making in Southeast Asia</a></td>
 <td>3.08 </td>
 <td>TA</td>
-
-
 
 </tr>
 <tr>
@@ -249,8 +199,6 @@ Chain (Subproject 1)</a></td>
 <td>0.10 </td>
 <td>TA</td>
 
-
-
 </tr>
 <tr>
 <td><a
@@ -260,8 +208,6 @@ Chain (Subproject 2)</a></td>
 <td>0.16 </td>
 <td>TA</td>
 
-
-
 </tr>
 <tr>
 <td><a
@@ -269,9 +215,6 @@ href="https://www.adb.org/projects/46443-001/main" target="_blank">Second
 Greater Mekong Subregion Corridor Towns Development (Supplementary)</a></td>
 <td>0.39 </td>
 <td>TA</td>
-
-
-
 
 </tr>
 <tr>
@@ -281,9 +224,6 @@ Disaster Resilience in Selected Urban Areas of Southeast Asia</a></td>
 <td>0.03 </td>
 <td>TA</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -291,9 +231,6 @@ href="https://www.adb.org/projects/48436-001/main" target="_blank">Strengthening
 Disaster Resilience of Small and Medium Enterprises in Southeast Asia</a></td>
 <td>0.23 </td>
 <td>TA</td>
-
-
-
 
 </tr>
 <tr>
@@ -303,15 +240,6 @@ to Community-Based Disaster Risk Management in Southeast Asia (Supplementary)</a
 <td>0.75 </td>
 <td>TA</td>
 
-
-
-
 </tr>
-
-
 </table>
-
-
-
-
 <p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing</p>

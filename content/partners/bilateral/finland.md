@@ -4,7 +4,7 @@ date: 2020-04-11T19:35:12+08:00
 partner_type: Bilateral
 partner_logo:
 project_specific_cofinancing: "$79.3 million"
-trust_funds_contribution: "$48.1 million"
+trust_funds_contribution: "$58.14 million"
 draft: false
 ---
 
@@ -37,9 +37,6 @@ href="https://www.adb.org/projects/49270-001/main" target="_blank">Supporting Lo
 <td>TA</td>
 </tr>
 
-
 </table>
-
-
 
 <p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>

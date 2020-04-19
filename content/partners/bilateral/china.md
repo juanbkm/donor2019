@@ -3,11 +3,12 @@ title: "China, People’s Republic of"
 date: 2020-04-11T19:25:03+08:00
 partner_type: Bilateral
 partner_logo:
-project_specific_cofinancing: "$75.6 million"
+project_specific_cofinancing: "$1,295.13 million"
 trust_funds_contribution: "$90 million"
 draft: false
 ---
-The People’s Republic of China (PRC) is a major contributor to ADB development finance and knowledge sharing initiatives and is the singular donor to the People's Republic of China (PRC) Poverty Reduction and Regional Cooperation Fund (PRCF). Established in 2005, PRCF has supported development in Central Asia and the Greater Mekong Subregion. In 2017, PRC provided a $50 million replenishment to the fund. In 2018, an online project monitoring system was launched for fund applications, reporting, and monitoring. PRCF has also prioritized technical assistance that directly benefits a project, particularly project preparation, in its future funding consideration.
+
+The People’s Republic of China (PRC) is a major contributor to ADB development finance and knowledge sharing initiatives and is the singular donor to the People's Republic of China (PRC) Poverty Reduction and Regional Cooperation Fund (PRCF). Established in 2005, PRCF has supported development in Central Asia and the Greater Mekong Subregion. In 2017, PRC provided a \$50 million replenishment to the fund. In 2018, an online project monitoring system was launched for fund applications, reporting, and monitoring. PRCF has also prioritized technical assistance that directly benefits a project, particularly project preparation, in its future funding consideration.
 
 ADB works with the PRC’s Ministry of Finance, the <a href="http://english.eximbank.gov.cn/en/" target="_blank">Export–Import Bank of China (China Eximbank)</a>, and domestic commercial entities such as the China Construction Bank, on directing development finance to investment projects. The PRC prioritizes investments on projects that promote regional connectivity and cooperation, poverty reduction, and knowledge sharing.
 
@@ -28,7 +29,6 @@ Supply Improvement Investment Program – Tranche 2</a></td>
 <td>1.00 </td>
 <td>G</td>
 
-
 </tr>
 <tr>
 <td>Bangladesh</td>
@@ -37,7 +37,6 @@ href="https://www.adb.org/projects/52121-001/main" target="_blank">Knowledge
 Solutions for Inclusive and Sustainable Development</a></td>
 <td>0.50 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -49,7 +48,6 @@ the Risks (Supplementary)</a></td>
 <td>0.20 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td>Mongolia</td>
@@ -58,7 +56,6 @@ href="https://www.adb.org/projects/48030-001/main" target="_blank">Strategy
 for Northeast Asia Power System Inteconnection</a></td>
 <td>0.50 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -70,7 +67,6 @@ Reconstruction Program (Supplementary)</a></td>
 <td>0.60 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td>Pakistan</td>
@@ -79,7 +75,6 @@ href="https://www.adb.org/projects/51324-001/main" target="_blank">Revitalizing
 the Ecosystem of Ravi River Basin</a></td>
 <td>0.55 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -90,7 +85,6 @@ Delingha Concentrated Solar Thermal Power</a></td>
 <td>75.58 </td>
 <td>L</td>
 
-
 </tr>
 <tr>
 <td>Uzbekistan</td>
@@ -99,7 +93,6 @@ href="https://www.adb.org/projects/51197-001/main" target="_blank">Water and
 Sanitation Strategy Development and Capacity Building</a></td>
 <td>0.80 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -112,7 +105,6 @@ Indonesia-Malaysia-Thailand Growth Triangle</a></td>
 <td>0.70 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -122,7 +114,6 @@ Tajikistan</a></td>
 <td>0.80 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -130,7 +121,6 @@ href="https://www.adb.org/projects/48290-001/main" target="_blank">Building
 Capacity for Enhanced Connectivity in Southeast Asia</a></td>
 <td>0.25 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -141,7 +131,6 @@ Training Initiative</a></td>
 <td>0.60 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -150,7 +139,6 @@ Asia Regional Economic Cooperation: Knowledge Sharing and Services in
 Transport and Transport Facilitation</a></td>
 <td>0.40 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -161,7 +149,6 @@ CAREC 2020 (Supplementary)</a></td>
 <td>0.50 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -171,7 +158,6 @@ Facilitation (Phase 2)</a></td>
 <td>0.50 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -179,7 +165,6 @@ href="https://www.adb.org/projects/42518-024/main" target="_blank">Connecting
 the Railways of the Greater Mekong Subregion</a></td>
 <td>0.50 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -190,7 +175,6 @@ Testing</a></td>
 <td>0.70 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -200,7 +184,6 @@ Integration in Southeast Asia</a></td>
 <td>0.70 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -208,7 +191,6 @@ href="https://www.adb.org/projects/51331-001/main" target="_blank">Enhancing
 Regional Knowledge Sharing Partnerships</a></td>
 <td>0.75 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -218,7 +200,6 @@ Mekong Subregion: Capacity Development for Economic Zones in Border Areas</a></t
 <td>0.40 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -227,7 +208,6 @@ the Greater Mekong Subregion Power Systems to Facilitate Regional Power Trade</a
 <td>0.50 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -235,7 +215,6 @@ href="https://www.adb.org/projects/48350-001/main" target="_blank">Infrastructur
 Public-Private Partnership Pipeline Development Support</a></td>
 <td>0.75 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -246,7 +225,6 @@ Asia-Pacific Community of Practice on Managing for Development Results</a></td>
 <td>0.50 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -254,7 +232,6 @@ href="https://www.adb.org/projects/49190-001/main" target="_blank">Modernizing
 Sanitary and Phytosanitary Measures to Facilitate Trade</a></td>
 <td>0.80 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -265,7 +242,6 @@ of China and Viet Nam</a></td>
 <td>0.40 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -274,7 +250,6 @@ Green Local Currency-Denominated Bonds for Infrastructure Development in
 ASEAN+3</a></td>
 <td>0.50 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -285,7 +260,6 @@ Cities</a></td>
 <td>0.70 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -293,7 +267,6 @@ href="https://www.adb.org/projects/46310-001/main" target="_blank">Promoting
 Regional Knowledge Sharing Partnerships (Supplementary)</a></td>
 <td>0.50 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -312,7 +285,6 @@ Sector Development in Central Asia Regional Economic Cooperation Countries</a></
 <td>1.00 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -320,7 +292,6 @@ href="https://www.adb.org/projects/49330-001/main" target="_blank">Regional
 Evaluation Capacity Development II</a></td>
 <td>0.50 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -330,7 +301,6 @@ Greater Mekong Subregion Corridor Towns Development</a></td>
 <td>0.50 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -338,7 +308,6 @@ href="https://www.adb.org/projects/51118-001/main" target="_blank">Strengthening
 Asia's Financial Safety Nets and Resolution Mechanisms</a></td>
 <td>0.13 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -349,7 +318,6 @@ Intermediaries</a></td>
 <td>0.23 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -359,7 +327,6 @@ Institutions for Localizing Agenda 2030 for Sustainable Development
 <td>0.50 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -368,7 +335,6 @@ Knowledge and Actions for Air Quality Improvement</a></td>
 <td>0.80 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -376,7 +342,6 @@ href="https://www.adb.org/projects/49045-001/main" target="_blank">Strengthening
 Knowledge Management in Central and West Asia (Supplementary)</a></td>
 <td>0.65 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -387,7 +352,6 @@ Cooperation</a></td>
 <td>0.50 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -395,7 +359,6 @@ href="https://www.adb.org/projects/48430-001/main" target="_blank">Supporting
 the Asian EXIM Banks Forum</a></td>
 <td>0.50 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -405,13 +368,8 @@ Operational Plan for Health 2015-2020 (Supplementary)</a></td>
 <td>0.50 </td>
 <td>TA</td>
 
-
 </tr>
 
-
-
 </table>
-
-
 
 <p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing</p>

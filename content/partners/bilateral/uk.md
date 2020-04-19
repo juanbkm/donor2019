@@ -2,8 +2,8 @@
 title: "United Kingdom"
 date: 2020-04-11T19:56:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$1,148.6 million"
-trust_funds_contribution: "$1,034.1 million"
+project_specific_cofinancing: "$1,054.33 million"
+trust_funds_contribution: "$443.28 million"
 partner_logo:
 draft: false
 ---
@@ -47,7 +47,6 @@ Subregional Road Connectivity (Subproject 25) (Supplementary)</a></td>
 <td>0.20 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -67,7 +66,6 @@ and Implementing Agencies to Achieve Gender Equality Results (Subproject 29)
 <td>0.10 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -76,8 +74,6 @@ Project Preparedness for Poverty Reduction - Project Preparation and
 Implementation Support for Uttarakhand Emergency Assistance (Subproject 30)</a></td>
 <td>2.00 </td>
 <td>TA</td>
-
-
 
 </tr>
 <tr>
@@ -89,7 +85,6 @@ Implementation Support for Odisha Power Sector Emergency Assistance
 <td>0.10 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -98,7 +93,6 @@ Project Preparedness for Poverty Reduction - Capacity Development of
 Institutions in the Urban Sector in Rajasthan (Subproject 32) (Supplementary)</a></td>
 <td>0.23 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -158,7 +152,6 @@ href="https://www.adb.org/projects/49128-002/main" target="_blank">Enhancing
 Public-Private Partnerships in Punjab</a></td>
 <td>19.62 </td>
 <td>G</td>
-
 
 </tr>
 <tr>
@@ -222,7 +215,6 @@ Infrastructure Financing Support</a></td>
 <td>3.27 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -238,7 +230,6 @@ href="https://www.adb.org/projects/46538-002/main" target="_blank">Supporting
 Public–Private Partnership Investments in Sindh Province</a></td>
 <td>19.23 </td>
 <td>G</td>
-
 
 </tr>
 <tr>
@@ -257,7 +248,6 @@ target="_blank">Climate Public-Private Partnership Fund</a></td>
 <td>94.28 </td>
 <td>E</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -275,7 +265,6 @@ South Asia Subregions</a></td>
 <td>1.50 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -283,7 +272,6 @@ href="https://www.adb.org/projects/52137-001/main" target="_blank">Railway
 Sector Development in Central Asia Regional Economic Cooperation Countries</a></td>
 <td>1.00 </td>
 <td>TA</td>
-
 
 </tr>
 <tr>
@@ -294,12 +282,8 @@ Asia Economic Integration Partnership - Power Trading in Bangladesh and Nepal
 <td>1.00 </td>
 <td>TA</td>
 
-
-
 </tr>
 
 </table>
 
-            
-            
 <p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, TA = technical assistance cofinancing</p>

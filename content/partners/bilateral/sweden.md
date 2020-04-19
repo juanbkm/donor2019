@@ -2,13 +2,13 @@
 title: "Sweden"
 date: 2020-04-11T19:52:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$13.3 million"
-trust_funds_contribution: "$11 million"
+project_specific_cofinancing: "$368.32 million"
+trust_funds_contribution: "$113.6 million"
 partner_logo:
 draft: false
 ---
 
-Swedish development aid is managed through the Swedish International Development Cooperation Agency (Sida), while core resources for ADB are decided by the Ministry for Foreign Affairs. Previously focused on Southeast Asia, Sida’s regional geographical priority now includes South Asia and small island states in the Pacific. In 2016, Sida expanded its partnership with ADB with a portfolio risk transfer guarantee and a General Agreement for cofinancing operations. In 2018, the Swedish Energy Agency provided $1 million for a technical assistance project on climate change. 
+Swedish development aid is managed through the Swedish International Development Cooperation Agency (Sida), while core resources for ADB are decided by the Ministry for Foreign Affairs. Previously focused on Southeast Asia, Sida’s regional geographical priority now includes South Asia and small island states in the Pacific. In 2016, Sida expanded its partnership with ADB with a portfolio risk transfer guarantee and a General Agreement for cofinancing operations. In 2018, the Swedish Energy Agency provided \$1 million for a technical assistance project on climate change.
 
 <a href="https://www.adb.org/publications/sweden-fact-sheet" target="_blank">Sweden</a> contributes to the Clean Energy Fund and the Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility and is a partner to Cities Development Initiative for Asia. Sweden maintains bilateral development cooperation with Afghanistan, Bangladesh, Cambodia, and Myanmar.
 

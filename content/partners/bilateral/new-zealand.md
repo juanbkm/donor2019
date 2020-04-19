@@ -2,13 +2,13 @@
 title: "New Zealand"
 date: 2020-04-11T19:46:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$13.3 million"
-trust_funds_contribution: "$11 million"
+project_specific_cofinancing: "$136.61 million"
+trust_funds_contribution: "$0.46 million"
 partner_logo:
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/new-zealand-fact-sheet" target="_blank">New Zealand</a> channels development assistance mainly to Pacific countries and the ASEAN, including Cambodia, Indonesia, the Lao People's Democratic Republic, Myanmar, the Philippines, Timor-Leste, and Viet Nam. <a href="https://www.mfat.govt.nz/en/aid-and-development/" target="_blank">The New Zealand Aid Programme</a> delivers New Zealand’s development support focusing on governance, security, economic development, climate change, disaster risk management, economic and policy work, human development and labor mobility, social protection, trade and private sector. 
+<a href="https://www.adb.org/publications/new-zealand-fact-sheet" target="_blank">New Zealand</a> channels development assistance mainly to Pacific countries and the ASEAN, including Cambodia, Indonesia, the Lao People's Democratic Republic, Myanmar, the Philippines, Timor-Leste, and Viet Nam. <a href="https://www.mfat.govt.nz/en/aid-and-development/" target="_blank">The New Zealand Aid Programme</a> delivers New Zealand’s development support focusing on governance, security, economic development, climate change, disaster risk management, economic and policy work, human development and labor mobility, social protection, trade and private sector.
 
 In 2018, ADB and New Zealand cofinanced projects in Cook Islands, Kiribati, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu. The Ministry of Foreign Affairs and Trade oversees development work.
 
@@ -30,6 +30,22 @@ Internet Connectivity for the South Pacific</a></td>
 <td>10.00 </td>
 <td>G</td>
 </tr>
+
+<tr>
+<td rowspan="2">Fiji</td>
+<td><a
+href="https://www.adb.org/projects/53289-001/main" target="_blank">Supporting Competition Policy and Law Reform</a></td>
+<td>0.225 </td>
+<td>TA</td>
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/48490-003/main" target="_blank">Sustained Private Sector-Led Growth Reform Program—Subprogram 2</a></td>
+<td>1.7 </td>
+<td>G</td>
+</tr>
+
 <tr>
 <td rowspan="3">Kiribati</td>
 <td><a
@@ -106,13 +122,21 @@ Ian Recovery</a></td>
 <td>G</td>
 </tr>
 <tr>
-<td>Tuvalu</td>
+<td rowspan="2">Tuvalu</td>
 <td><a
 href="https://www.adb.org/projects/47318-001/main" target="_blank">Strengthened
 Fiscal Sustainability Program</a></td>
 <td>0.40 </td>
 <td>G</td>
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50377-001/main" target="_blank">Improved Fiscal and Infrastructure Management Program</a></td>
+<td>0.6 </td>
+<td>G</td>
+</tr>
+
 <tr>
 <td>Vanuatu</td>
 <td><a
@@ -122,7 +146,7 @@ Shipping Support – Additional Financing</a></td>
 <td>G</td>
 </tr>
 <tr>
-<td rowspan="3">Regional</td>
+<td rowspan="4">Regional</td>
 <td><a
 href="https://www.adb.org/projects/46500-001/main" target="_blank">Establishment
 of the Pacific Region Infrastructure Facility Coordination Office
@@ -144,8 +168,14 @@ and Thematic Analyses in Policy Development (Supplementary)</a></td>
 <td>0.40 </td>
 <td>TA</td>
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53103-001/main" target="_blank">Pacific Region Infrastructure Facility Coordination Office - Leveraging Infrastructure for Sustainable Development</a></td>
+<td>3 </td>
+<td>TA</td>
+</tr>
+
 </table>
-
-
 
 <p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>

@@ -2,13 +2,13 @@
 title: "France"
 date: 2020-04-11T19:36:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$3,762.7 million"
-trust_funds_contribution: "$32.1 million"
+project_specific_cofinancing: "$3,877.27 million"
+trust_funds_contribution: "$32.23 million"
 partner_logo:
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/france-fact-sheet" target="_blank">France</a>’s support to Asia focuses on sustainable cities, urban transport, climate change, social protection, railways, and air pollution. ADB works with the Direction Générale du Trésor and the <a href="https://www.afd.fr/en" target="_blank">Agence Française de Développement</a> (AFD), which oversees France’s development assistance globally. France supports two ADB-administered trust funds, the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries and the France Technical Assistance Grant Fund. 
+<a href="https://www.adb.org/publications/france-fact-sheet" target="_blank">France</a>’s support to Asia focuses on sustainable cities, urban transport, climate change, social protection, railways, and air pollution. ADB works with the Direction Générale du Trésor and the <a href="https://www.afd.fr/en" target="_blank">Agence Française de Développement</a> (AFD), which oversees France’s development assistance globally. France supports two ADB-administered trust funds, the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries and the France Technical Assistance Grant Fund.
 
 In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 2016–2022 with the aim of reaching $1.5 billion in cofinancing from each for the first 3 years of collaboration. By 2018, AFD cofinancing has reached US$1.58 billion. In 2018 alone, AFD loan cofinancing reached US$795.10 for 6 investment projects. For the remaining 3 years, ADB and AFD have decided to increase the amount to $2.5 billion each and signed the Amendment to the PFA in February 2019. ADB and AFD also agreed to partner on the Cities Development Initiative in Asia and the Mobilise Your City Asia Program.
 
@@ -28,7 +28,7 @@ In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 
 href="https://www.adb.org/projects/48386-004/main" target="_blank">Railway
 Sector Development Program</a></td>
 <td>100.00 </td>
-<td>L</td>                                
+<td>L</td>
 </tr>
 <tr>
 <td rowspan="3">Bangladesh</td>
@@ -89,13 +89,21 @@ Water Supply</a></td>
 <td>L</td>
 </tr>
 <tr>
-<td>People’s Republic of China</td>
+<td rowspan="2">People’s Republic of China</td>
 <td><a
 href="https://www.adb.org/projects/51194-003/main" target="_blank">Green
 Finance Catalyzing Facility</a></td>
 <td>0.15 </td>
 <td>TA</td>
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/51194-001/main" target="_blank">Shandong Green Development Fund</a></td>
+<td>84.53 </td>
+<td>L</td>                                   
+</tr>
+
 <tr>
 <td rowspan="5">Indonesia</td>
 <td><a href="https://www.adb.org/projects/48172-001/main" target="_blank">Strengthening
@@ -175,9 +183,6 @@ Sustainable Bus Rapid Transit Corridor</a></td>
 <td>150.00 </td>
 <td>L</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -186,9 +191,6 @@ Transmission Enhancement Investment Program – Tranche 4</a></td>
 <td>82.50 </td>
 <td>L</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -196,9 +198,6 @@ href="https://www.adb.org/projects/47015-003/main" target="_blank">Sustainable
 Energy Sector Reform Program – Subprogram 3</a></td>
 <td>108.00 </td>
 <td>L</td>
-
-
-
 
 </tr>
 <tr>
@@ -209,9 +208,6 @@ Private Participation in Infrastructure Program – Subprogram 2</a></td>
 <td>179.00 </td>
 <td>L</td>
 
-
-
-
 </tr>
 <tr>
 <td><a
@@ -219,9 +215,6 @@ href="https://www.adb.org/projects/51309-001/main" target="_blank">Inclusive
 Finance Development Program – Subprogram 1</a></td>
 <td>174.00 </td>
 <td>L</td>
-
-
-
 
 </tr>
 <tr>
@@ -231,7 +224,6 @@ Flood Risk Management Sector</a></td>
 <td>0.30 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -239,9 +231,6 @@ href="https://www.adb.org/projects/44253-013/main" target="_blank">Local
 Government Finance and Fiscal Decentralization Reform Program – Subprogram 1</a></td>
 <td>150.00 </td>
 <td>L</td>
-
-
-
 
 </tr>
 <tr>
@@ -251,21 +240,15 @@ Government Finance and Fiscal Decentralization Reform Program – Subprogram 2</
 <td>150.00 </td>
 <td>L</td>
 
-
-
-
 </tr>
 <tr>
-<td rowspan="2">Sri Lanka</td>
+<td rowspan="3">Sri Lanka</td>
 <td><a
 href="https://www.adb.org/projects/45148-007/main" target="_blank">Greater
 Colombo Water and Wastewater Management Improvement Investment Program –
 Tranche 2</a></td>
 <td>70.00 </td>
 <td>L</td>
-
-
-
 
 </tr>
 <tr>
@@ -276,8 +259,12 @@ Tranche 1</a></td>
 <td>30.00 </td>
 <td>L</td>
 
-
-
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47037-005/main" target="_blank">Green Power Development and Energy Efficiency Improvement Investment Program—Tranche 2</a></td>
+<td>30.00 </td>
+<td>L</td>
 
 </tr>
 <tr>
@@ -287,7 +274,6 @@ href="https://www.adb.org/projects/51350-001/main" target="_blank">Economic
 Management Improvement Program—Subprogram 1</a></td>
 <td>170.56 </td>
 <td>L</td>
-
 
 </tr>
 <tr>
@@ -308,7 +294,6 @@ Power Sector Development in the Greater Mekong Subregion</a></td>
 <td>1.65 </td>
 <td>TA</td>
 
-
 </tr>
 <tr>
 <td><a
@@ -317,11 +302,8 @@ the Cities Development Initiative Asia (Supplementary)</a></td>
 <td>0.40 </td>
 <td>TA</td>
 
-
 </tr>
 
-
 </table>
-
 
 <p class="dr-footnote"><sup>a</sup> L = official loan cofinancing, TA = technical assistance cofinancing.</p>

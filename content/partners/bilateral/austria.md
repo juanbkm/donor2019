@@ -3,8 +3,8 @@ title: "Austria"
 date: 2020-04-11T19:06:20+08:00
 partner_type: Bilateral
 partner_logo:
-project_specific_cofinancing: "$13.3 million"
-trust_funds_contribution: "$11 million"
+project_specific_cofinancing: "$13.32 million"
+trust_funds_contribution: "$11.04 million"
 draft: false
 ---
 
