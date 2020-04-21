@@ -5,7 +5,7 @@ weight: 6
 lead: "Connectivity and competitiveness, regional public goods, cooperation in finance sector, subregional initiatives."
 main_image: images/strategy-2030/regional-cooperation.jpg
 main_image_thumb: images/strategy-2030/regional-cooperation-th.jpg
-icon: images/strategy-2030/icn-regional-128.png
+icon: images/strategy-2030/icn-regional.svg
 draft: false
 ---
 

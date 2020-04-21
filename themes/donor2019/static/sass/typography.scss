@@ -11,7 +11,29 @@ li {
   margin: 0;
   padding: 0;
 }
+.dr-article-body {
+  li {
+    list-style-position: inside;
+    margin-bottom: 5px;
+  }
 
+  h3 {
+    font-size: 1.8rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: .8rem;
+    color: $adb-dr-gray;
+    margin-top: $margin-big;
+  }
+  h3:after {
+    content: '';
+    display: block;
+    width: 100px;
+    border-top: 1px solid lighten($adb-dr-gray, 40%);
+    margin: $margin-big/4 auto $margin-big auto;
+  }
+}
 .clear {
   clear: both;
   display: block;

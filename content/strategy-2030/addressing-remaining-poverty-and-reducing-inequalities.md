@@ -5,7 +5,7 @@ weight: 1
 lead: "Human development and social inclusion, quality jobs, education and training, better health, social protection."
 main_image: images/strategy-2030/poverty-and-reducing-inequalities.jpg
 main_image_thumb: images/strategy-2030/poverty-and-reducing-inequalities-th.jpg
-icon: images/strategy-2030/icn-poverty-128.png
+icon: images/strategy-2030/icn-poverty.svg
 draft: false
 ---
 

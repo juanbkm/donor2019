@@ -38,7 +38,9 @@
 		{{ "<!-- Content -->" | safeHTML }}
 		
 		<section id="content" class="clearfix">
+			
 			<div class="content-wrap">
+			{{ if not .IsHome }}{{- partial "breadcrumb.html" . -}}{{ end }}	
 			{{ block "main" . }}
 
 			<!-- The part of the page that begins to differ between templates -->

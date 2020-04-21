@@ -3,6 +3,7 @@
     <div class="container dr-s2030-page-sector">
         <div class="row">
             <div class="col">
+                {{- partial "pager.html" . -}}
                 
             </div>
         </div>
@@ -11,16 +12,17 @@
                 {{$section_heading := .Site.GetPage "section" .Section }}
                 <h3>{{with $section_heading}}{{- .Title -}}{{end}} and </h3>
                 <h2>{{ .Title }}</h2>
-                <img src="{{ .Params.icon }}" class="dr-icon" />
+                
             </div>
         </div>
         <div class="row">
-            <div class="col">
+            <div class="col-md-10 mx-auto">
+                <img src="{{ .Params.icon }}" class="dr-icon" />
                 <p class="lead">{{ .Params.lead }}</p>
             </div>
         </div>
-        <div class="row">
-            <div class="col">
+        <div class="row dr-article-body">
+            <div class="col-md-10 mx-auto">
                 <div class="dr-sector-img"><img src="{{ .Params.main_image_thumb }}" /></div>
                 {{ .Content }}
             </div>

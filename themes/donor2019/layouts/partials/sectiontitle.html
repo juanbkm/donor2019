@@ -2,7 +2,7 @@
     <div class="col">
         <div id="dr-section-title" class="dr-section-header dr-section-stories">
             <h2>{{ .CurrentSection.Title }}</h2>
-            <p class="lead">{{ .Params.section_summary }}</p>
+            <p class="lead">{{.Params.section_summary | markdownify}}</p>
             {{ with .Params.section_image }}
             <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
 

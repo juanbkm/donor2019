@@ -5,7 +5,7 @@ weight: 4
 lead: "Public management reforms and financial sustainability, service delivery, capacity and standards."
 main_image: images/strategy-2030/governance.jpg
 main_image_thumb: images/strategy-2030/governance-th.jpg
-icon: images/strategy-2030/icn-governance-128.png
+icon: images/strategy-2030/icn-governance.svg
 draft: false
 ---
 ### Strategy 2030 and strengthening government systems through partnerships 

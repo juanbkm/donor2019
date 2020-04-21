@@ -6,7 +6,7 @@ subtitle: Strategy 2030 and Rural Development and Food Security
 lead: "Market connectivity and agricultural value chain linkages, agricultural productivity and food security, food safety."
 main_image: images/strategy-2030/rural-development.jpg
 main_image_thumb: images/strategy-2030/rural-development-th.jpg
-icon: images/strategy-2030/icn-rural-128.png
+icon: images/strategy-2030/icn-rural.svg
 draft: false
 ---
 

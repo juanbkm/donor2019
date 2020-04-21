@@ -5,7 +5,7 @@ weight: 3
 lead: "Scaled-up support for gender equality; women’s economic empowerment; gender equality in human development, decision-making, and leadership; reducing time poverty for women; strengthening women’s resilience to shocks."
 main_image: images/strategy-2030/gender-equality.jpg
 main_image_thumb: images/strategy-2030/gender-equality-th.jpg
-icon: images/strategy-2030/icn-gender-128.png
+icon: images/strategy-2030/icn-gender.svg
 draft: false
 ---
 
