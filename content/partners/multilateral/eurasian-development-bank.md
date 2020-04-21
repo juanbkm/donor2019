@@ -12,7 +12,7 @@ The Eurasian Development Bank or (EDB), established in 2006 by Russia and Kazakh
 
 EDB started working with ADB in 2013 in the areas of agriculture, transport, energy, and public services and, until 2020, is in partnership following a Framework Cofinancing Agreement. EDB and ADB renewed their partnership to deepen the two organization's cooperation and cofinancing opportunities for the next five years amounting to $1 billion. Recently, EDB approved $395 million for four projects.  
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Eurasian Development Bank
+##### _1 January 2014–31 December 2019_ Cofinancing with Eurasian Development Bank
 
 <table class="table table-striped table-bordered">
 

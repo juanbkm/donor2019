@@ -2,7 +2,7 @@
 title: "Islamic Development Bank"
 date: 2020-04-11T19:06:27+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$2,130.3 million"
+project_specific_cofinancing: "$2,130.31 million"
 trust_funds_contribution: 
 partner_logo:
 draft: false
@@ -12,7 +12,7 @@ The Islamic Development Bank was established in 1973. It is a multilateral devel
 
 In September 2017, IDB signed a cofinancing agreement with ADB committing $2 billion for implementation from 2018 to 2022. 
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Islamic Development Bank
+##### _1 January 2014–31 December 2019_ Cofinancing with Islamic Development Bank
 
 <table class="table table-striped table-bordered">
 

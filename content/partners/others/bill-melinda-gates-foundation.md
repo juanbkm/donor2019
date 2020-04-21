@@ -2,8 +2,8 @@
 title: "Bill & Melinda Gates Foundation"
 date: 2020-04-11T19:06:41+08:00
 partner_type: Others
-project_specific_cofinancing: "$3.5 million"
-trust_funds_contribution: "$16 million"
+project_specific_cofinancing: "$3.49 million"
+trust_funds_contribution: "$19 million"
 partner_logo:
 draft: false
 ---
@@ -11,7 +11,7 @@ draft: false
 The Bill & Melinda Gates Foundation is a private foundation founded by Bill and Melinda Gates. It was established in 2000 with the goals to globally enhance healthcare, reduce extreme poverty, and expand educational opportunities and access to information technology. It supports all countries all around the world in the areas of healthcare, education, and poverty alleviation.  
 
 ADB has received a grant from the foundation to pilot innovative sanitation solutions (new policies, business models, and technologies) and strengthen regional response to malaria and other communicable diseases.    
-##### _1 January 2014–31 December 2018_ Cofinancing with Bill & Melinda Gates Foundation
+##### _1 January 2014–31 December 2019_ Cofinancing with Bill & Melinda Gates Foundation
 
 <table class="table table-striped table-bordered">
 <tr>

@@ -12,7 +12,7 @@ The ASEAN Infrastructure Fund is a dedicated fund established by the ASEAN membe
 
 In 2018, two new facilities were created within the fund on a three-year pilot basis: Inclusive Finance Facility (IFF) and ASEAN Catalytic Green Finance Facility (AGCF). IFF offers limited concessional loans to members that fall within ADB’s Group A classification while the ACGF aims to leverage the fund’s existing resources to bridge the viability gap for green infrastructure projects and attract private capital into these projects. 
 
-##### _1 January 2014–31 December 2018_ Cofinancing with ASEAN Infrastructure Fund
+##### _1 January 2014–31 December 2019_ Cofinancing with ASEAN Infrastructure Fund
 
 <table class="table table-striped table-bordered">
 <tr>

@@ -12,7 +12,7 @@ Chevron Corporation is one of the world’s leading integrated energy companies.
 
 Chevron has committed to support the scaling-up of high-quality training programs in information technology, construction, and light engineering in connection with ADB’s Skills for Employment Investment Program.  
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Chevron Corporation
+##### _1 January 2014–31 December 2019_ Cofinancing with Chevron Corporation
 
 <table class="table table-striped table-bordered">
 

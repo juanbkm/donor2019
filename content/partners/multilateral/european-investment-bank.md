@@ -2,7 +2,7 @@
 title: "European Investment Bank"
 date: 2020-04-11T19:06:24+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$2,248.2 million"
+project_specific_cofinancing: "$2,248.17 million"
 trust_funds_contribution: 
 partner_logo:
 draft: false
@@ -12,7 +12,7 @@ The European Investment Bank is part of the European Investment Bank Group, the 
 
 EIB’s cofinancing with ADB focuses on projects that mitigate carbon emissions and contribute to the adaptation to climate change. In 2018, through collaborative cofinancing, EIB supported the improvement of Georgia's East-West highway for $560.55 million. 
 
-##### _1 January 2014–31 December 2018_ Cofinancing with European Bank for European Investment Bank
+##### _1 January 2014–31 December 2019_ Cofinancing with European Bank for European Investment Bank
 
 <table class="table table-striped table-bordered">
 <tr>

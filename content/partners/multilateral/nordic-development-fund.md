@@ -2,8 +2,8 @@
 title: "Nordic Development Fund"
 date: 2020-04-11T19:06:28+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$64.5 million"
-trust_funds_contribution: "$7.8 million"
+project_specific_cofinancing: "$64.51 million"
+trust_funds_contribution: "$7.80 million"
 partner_logo:
 draft: false
 ---
@@ -12,7 +12,7 @@ The Nordic Development Fund (NDF) is a joint development finance institution of 
 
 Currently, NDF contributes to the Project Readiness Improvement Trust Fund, a trust fund that supports the development of sound climate change-related projects in areas of design and procurement readiness.  ADB and NDF have a grant portfolio of 21 projects amounting to $64.5 million. For its collaborations with ADB, NDF prioritizes projects on climate change mitigation and adaptation, infrastructure, natural resources management, and capacity building in Bangladesh, Cambodia, Lao People's Democratic Republic, Myanmar, Nepal, Sri Lanka, and Viet Nam.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Nordic Development Fund
+##### _1 January 2014–31 December 2019_ Cofinancing with Nordic Development Fund
 
 <table class="table table-striped table-bordered">
 <tr>

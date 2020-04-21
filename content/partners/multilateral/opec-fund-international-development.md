@@ -2,7 +2,7 @@
 title: "OPEC Fund for International Development"
 date: 2020-04-11T19:06:29+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$1,037.5 million"
+project_specific_cofinancing: "$1,077.53 million"
 trust_funds_contribution: 
 partner_logo:
 draft: false
@@ -12,7 +12,7 @@ The OPEC Fund for International Development (OFID) is a developmental funding ag
 
 ADB and OFID signed a new framework cofinancing agreement in August 2016, where OFID committed $600 million for projects implemented in 2016-2021.  
 
-##### _1 January 2014–31 December 2018_ Cofinancing with OPEC Fund for International Development
+##### _1 January 2014–31 December 2019_ Cofinancing with OPEC Fund for International Development
 
 <table class="table table-striped table-bordered">
 <tr>
@@ -55,11 +55,18 @@ ADB and OFID signed a new framework cofinancing agreement in August 2016, where 
 <td>L</td>
 </tr>
 <tr>
-<td>Tajikistan</td>
+<td rowspan="2">Tajikistan</td>
 <td><a href="https://www.adb.org/projects/49042-004/main" target="_parent">Central Asia Regional Economic Cooperation Corridors 2, 5, and 6 (Dushanbe–Kurgonteppa) Road</a></td>
 <td>12.00 </td>
 <td>L</td>
 </tr>
+
+<tr>
+<td><a href="https://www.adb.org/projects/52042-001/main" target="_parent">Central Asia Regional Economic Cooperation Corridors 2, 3, and 5 (Obigarm-Nurobod) Road</a></td>
+<td>40.00 </td>
+<td>L</td>
+</tr>
+
 </table>
 
 

@@ -2,7 +2,7 @@
 title: "International Fund for Agricultural Development"
 date: 2020-04-11T19:06:26+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$616.9 million"
+project_specific_cofinancing: "$616.92 million"
 trust_funds_contribution: 
 partner_logo:
 draft: false
@@ -12,7 +12,7 @@ The International Fund for Agricultural Development was established in 1977 and 
 
 With ADB, IFAD supports projects that advance agriculture, rural sector development, and gender parity/empowerment. ADB and IFAD's first Cooperation Agreement in 1978 was superseded by an MOU in 2013.  A Framework Cofinancing Agreement was signed by ADB and IFAD in Rome in December 2014 to strengthen the institutions’ collaboration toward increased agricultural development and food security in select countries in Asia and the Pacific. In 2018, ADB and IFAD renewed its framework cofinancing agreement until 2020. IFAD currently supports specific projects in Cambodia, Bangladesh, and the Philippines. 
 
-##### _1 January 2014–31 December 2018_ Cofinancing with International Fund for Agricultural Development
+##### _1 January 2014–31 December 2019_ Cofinancing with International Fund for Agricultural Development
 
 <table class="table table-striped table-bordered">
 

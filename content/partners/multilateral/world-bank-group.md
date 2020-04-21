@@ -2,7 +2,7 @@
 title: "World Bank Group"
 date: 2020-04-11T19:06:31+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$13,094.6 million"
+project_specific_cofinancing: "$13,171.62 million"
 trust_funds_contribution: 
 partner_logo:
 draft: false
@@ -12,7 +12,7 @@ The World Bank Group (WBG) is the premiere multilateral development bank working
 
 The World Bank Group has been working with ADB since 1972. It prioritizes development projects on health, education, infrastructure, agriculture, public administration, macroeconomic management, institutional development, governance, financial and private-sector development, environmental protection, and natural resource management. In 2018, the WBG’s cofinancing contribution to ADB was $2 billion. This focused on projects in South Asia, the Pacific, and Central Asia. In December 2018, the WBG and the ADB signed the first Alternative Procurement Arrangement, allowing procedures on cofinanced projects to follow a single procurement framework. ADB also helps its developing member countries gain access to six global funds for which World Bank serves as the Trustee: Climate Investment Funds, Global Agriculture and Food Security Program, Global Environment Facility, Global Infrastructure Facility, Global Partnership for Education, and Women Entrepreneurs Finance Initiative.   
 
-##### _1 January 2014–31 December 2018_ Cofinancing with World Bank 
+##### _1 January 2014–31 December 2019_ Cofinancing with World Bank 
 
 <table class="table table-striped table-bordered">
 <tr>
@@ -80,7 +80,7 @@ Air Quality Improvement-Hebei Policy Reforms Program</a></td>
 <td>L</td>
 </tr>
 <tr>
-<td rowspan=3>Fiji</td>
+<td rowspan=4>Fiji</td>
 <td><a
 href="https://www.adb.org/projects/50181-001/main" target="_blank">Emergency
 Assistance for Recovery from Tropical Cyclone Winston</a></td>
@@ -94,6 +94,15 @@ Private Sector-Led Growth Reform Program—Subprogram 1</a></td>
 <td>15.00 </td>
 <td>L</td>
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/48490-003/main" target="_blank">Sustained
+Private Sector-Led Growth Reform Program—Subprogram 2</a></td>
+<td>64.00 </td>
+<td>L</td>
+</tr>
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/48141-001/main" target="_blank">Transport
@@ -277,7 +286,7 @@ Sector Enhancement Program</a></td>
 <td>L</td>
 </tr>
 <tr>
-<td rowspan="2">Tonga</td>
+<td rowspan="3">Tonga</td>
 <td><a
 href="https://www.adb.org/projects/48361-001/main" target="_blank">Building
 Macroeconomic Resilience Program—Subprogram 1</a></td>
@@ -291,14 +300,31 @@ Macroeconomic Resilience Program—Subprogram 2</a></td>
 <td>5.00 </td>
 <td>G/L</td>
 </tr>
+
 <tr>
-<td>Tuvalu</td>
+<td><a
+href="https://www.adb.org/projects/48361-003/main" target="_blank">Building
+Macroeconomic Resilience Program—Subprogram 3</a></td>
+<td>5.50 </td>
+<td>G</td>
+</tr>
+
+<tr>
+<td rowspan="2">Tuvalu</td>
 <td><a
 href="https://www.adb.org/projects/47318-001/main" target="_blank">Strengthened
 Fiscal Sustainability Program</a></td>
 <td>1.50 </td>
 <td>G</td>
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50377-001/main" target="_blank">Improved Fiscal and Infrastructure Management Program</a></td>
+<td>7.50 </td>
+<td>G</td>
+</tr>
+
 <tr>
 <td>Uzbekistan</td>
 <td><a

@@ -2,7 +2,7 @@
 title: "European Union"
 date: 2020-04-11T19:06:25+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$883.8 million"
+project_specific_cofinancing: "$912.29 million"
 trust_funds_contribution: 
 partner_logo:
 draft: false
@@ -12,7 +12,7 @@ The European Union is a political and economic union of 28 sovereign states in E
 
 In 2018, two projects on fiscal reform for the Solomon Islands, and education sector development in Bangladesh, were approved. The total cofinancing for these two projects is $180.8 million.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with European Union
+##### _1 January 2014–31 December 2019_ Cofinancing with European Union
 
 <table class="table table-striped table-bordered">
 <tr>
@@ -49,6 +49,14 @@ In 2018, two projects on fiscal reform for the Solomon Islands, and education se
 <td>7.26 </td>
 <td>G</td>
 </tr>
+
+<tr>
+<td>Lao People’s Democratic Republic</td>
+<td><a href="http://www.adb.org/projects/50236-002/main" target="_blank">Sustainable Rural Infrastructure and Watershed Management Sector</a></td>
+<td>4.46 </td>
+<td>G</td>
+</tr>
+
 <tr>
 <td>Nauru</td>
 <td><a href="http://www.adb.org/projects/46455-002/main" target="_blank">Electricity Supply Security and Sustainability</a></td>
@@ -84,11 +92,18 @@ In 2018, two projects on fiscal reform for the Solomon Islands, and education se
 <td>G</td>
 </tr>
 <tr>
-<td>Solomon Islands</td>
+<td rowspan="2">Solomon Islands</td>
 <td><a href="https://www.adb.org/projects/52074-001/main" target="_blank">Improved Fiscal Sustainability Reform Program</a></td>
 <td>2.90 </td>
 <td>G</td>
 </tr>
+
+<tr>
+<td><a href="https://www.adb.org/projects/51271-001/main" target="_blank">Urban Water Supply and Sanitation Sector</a></td>
+<td>20.35 </td>
+<td>G</td>
+</tr>
+
 <tr>
 <td>Timor Leste</td>
 <td><a href="https://www.adb.org/projects/45094-001/main" target="_blank">Road Network Upgrading</a></td>
@@ -96,7 +111,7 @@ In 2018, two projects on fiscal reform for the Solomon Islands, and education se
 <td>G</td>
 </tr>
 <tr>
-<td rowspan="3">Tonga</td>
+<td rowspan="4">Tonga</td>
 <td><a href="https://www.adb.org/projects/48361-001/main" target="_blank">Building Macroeconomic Resilience Program—Subprogram 1</a></td>
 <td>2.80 </td>
 <td>G</td>
@@ -106,11 +121,26 @@ In 2018, two projects on fiscal reform for the Solomon Islands, and education se
 <td>2.10 </td>
 <td>G</td>
 </tr>
+
+<tr>
+<td><a href="https://www.adb.org/projects/48361-003/main" target="_blank">Building Macroeconomic Resilience Program—Subprogram 2</a></td>
+<td>2.20 </td>
+<td>G</td>
+</tr>
+
 <tr>
 <td><a href="https://www.adb.org/projects/43452-022/main" target="_blank">Outer Island Renewable Energy—Additional Financing</a></td>
 <td>3.57 </td>
 <td>G</td>
 </tr>
+
+<tr>
+<td>Tuvalu</td>
+<td><a href="https://www.adb.org/projects/50377-001/main" target="_blank">Improved Fiscal and Infrastructure Management Program</a></td>
+<td>1.50 </td>
+<td>G</td>
+</tr>
+
 </table>
 
 <p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p>
