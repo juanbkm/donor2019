@@ -1,6 +1,6 @@
 ---
 title: "Islamic Development Bank"
-date: 2020-04-11T19:06:27+08:00
+date: 2020-04-11T19:06:50+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$2,130.31 million"
 trust_funds_contribution: 

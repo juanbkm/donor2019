@@ -1,6 +1,6 @@
 ---
 title: "China Construction Bank Corporation"
-date: 2020-04-11T19:06:43+08:00
+date: 2020-04-11T19:08:03+08:00
 partner_type: Others
 project_specific_cofinancing: "$147.1 million"
 trust_funds_contribution: 

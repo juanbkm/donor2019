@@ -1,6 +1,6 @@
 ---
 title: "Neighbourhood Investment Facility"
-date: 2020-04-11T19:06:28+08:00
+date: 2020-04-11T19:06:53+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$7.90 million"
 trust_funds_contribution:

@@ -1,6 +1,6 @@
 ---
 title: "Women Entrepreneurs Finance Initiative"
-date: 2020-04-11T19:06:28+08:00
+date: 2020-04-11T19:07:05+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$17.73 million"
 trust_funds_contribution:

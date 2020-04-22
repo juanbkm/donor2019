@@ -1,6 +1,6 @@
 ---
 title: "International Federation of Red Cross and Red Crescent Societies"
-date: 2020-04-11T19:06:28+08:00
+date: 2020-04-11T19:06:48+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$1.50 million"
 trust_funds_contribution:

@@ -1,6 +1,6 @@
 ---
 title: "European Bank for Reconstruction and Development"
-date: 2020-04-11T19:06:23+08:00
+date: 2020-04-11T19:06:39+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$526.51 million"
 trust_funds_contribution: 

@@ -1,6 +1,6 @@
 ---
 title: "ASEAN Infrastructure Fund"
-date: 2020-04-11T19:06:20+08:00
+date: 2020-04-11T19:06:31+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$520 million"
 trust_funds_contribution: 

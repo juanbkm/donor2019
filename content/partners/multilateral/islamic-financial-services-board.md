@@ -1,6 +1,6 @@
 ---
 title: "Islamic Financial Services Board"
-date: 2020-04-11T19:06:28+08:00
+date: 2020-04-11T19:06:51+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$0.63 million"
 trust_funds_contribution:

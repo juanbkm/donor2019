@@ -1,6 +1,6 @@
 ---
 title: "World Bank Group"
-date: 2020-04-11T19:06:31+08:00
+date: 2020-04-11T19:07:06+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$13,171.62 million"
 trust_funds_contribution: 

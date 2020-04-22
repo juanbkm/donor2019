@@ -1,6 +1,6 @@
 ---
 title: "European Union"
-date: 2020-04-11T19:06:25+08:00
+date: 2020-04-11T19:06:41+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$912.29 million"
 trust_funds_contribution: 

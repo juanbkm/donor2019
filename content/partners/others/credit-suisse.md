@@ -1,6 +1,6 @@
 ---
 title: "Credit Suisse"
-date: 2020-04-11T19:06:44+08:00
+date: 2020-04-11T19:08:05+08:00
 partner_type: Others
 project_specific_cofinancing: "$0.1 million"
 trust_funds_contribution: 

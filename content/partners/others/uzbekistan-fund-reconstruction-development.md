@@ -1,6 +1,6 @@
 ---
 title: "Uzbekistan Fund for Reconstruction and Development"
-date: 2020-04-11T19:06:49+08:00
+date: 2020-04-11T19:08:15+08:00
 partner_type: Others
 project_specific_cofinancing: "$740 million"
 trust_funds_contribution: 

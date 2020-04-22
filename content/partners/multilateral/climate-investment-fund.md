@@ -1,6 +1,6 @@
 ---
 title: "Climate Investment Fund"
-date: 2020-04-11T19:06:28+08:00
+date: 2020-04-11T19:06:35+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$978.26 million"
 trust_funds_contribution:

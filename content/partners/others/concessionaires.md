@@ -1,6 +1,6 @@
 ---
 title: "Concessionaires"
-date: 2020-04-11T19:06:44+08:00
+date: 2020-04-11T19:08:04+08:00
 partner_type: Others
 project_specific_cofinancing: "$119.91 million"
 trust_funds_contribution:

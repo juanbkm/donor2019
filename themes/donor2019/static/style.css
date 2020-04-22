@@ -5320,8 +5320,8 @@ html[xmlns] .slider-wrap {
   position: absolute !important;
   width: auto !important;
   top: 50% !important;
-  left: auto !important;
-  right: 15px !important;
+  right: auto !important;
+  left: 15px !important;
   margin: 0 !important;
   transform: translateY(-50%);
   background-color: transparent !important;
@@ -9398,7 +9398,12 @@ td.actions {
           color: #fff;
           transition: all 0.3s ease; }
 
-/* line 37, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 41, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+#content .dr-partner-group li {
+  margin-left: 20px;
+  margin-bottom: 10px; }
+
+/* line 46, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-funds {
   border-left: 1px solid #c2ccd2;
   float: right;
@@ -9406,21 +9411,21 @@ td.actions {
   padding: 0 40px;
   width: 30%; }
 
-/* line 45, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 54, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-type {
   display: block;
   text-transform: uppercase; }
 
-/* line 49, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 58, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-amount {
   display: block;
   font-size: 3rem; }
 
-/* line 53, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 62, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-pager {
   text-align: right; }
 
-/* line 57, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 66, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content h5 em {
   display: block;
   font-size: 1rem;

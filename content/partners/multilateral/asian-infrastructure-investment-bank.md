@@ -1,6 +1,6 @@
 ---
 title: "Asian Infrastructure Investment Bank"
-date: 2020-04-11T19:06:21+08:00
+date: 2020-04-11T19:06:32+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$574 million"
 trust_funds_contribution: 

@@ -1,6 +1,6 @@
 ---
 title: "Arab Fund for Economic and Social Development"
-date: 2020-04-11T19:06:28+08:00
+date: 2020-04-11T19:06:30+08:00
 partner_type: Multilateral
 project_specific_cofinancing:
 trust_funds_contribution: "$0.05 million"

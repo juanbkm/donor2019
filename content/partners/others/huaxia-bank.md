@@ -1,6 +1,6 @@
 ---
 title: "Huaxia Bank"
-date: 2020-04-11T19:06:45+08:00
+date: 2020-04-11T19:08:07+08:00
 partner_type: Others
 project_specific_cofinancing: "$400 million"
 trust_funds_contribution: 

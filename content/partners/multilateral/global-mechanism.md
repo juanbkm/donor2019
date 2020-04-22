@@ -1,6 +1,6 @@
 ---
 title: "Global  Mechanism"
-date: 2020-04-11T19:06:28+08:00
+date: 2020-04-11T19:06:44+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$0.25 million"
 trust_funds_contribution:
