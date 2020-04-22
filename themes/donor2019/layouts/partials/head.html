@@ -18,6 +18,13 @@
 	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | absURL }}" type="text/css" />
 
 	<link rel="stylesheet" href="{{ `css/responsive.css` | absURL }}" type="text/css" />
+
+  <link rel="stylesheet" href="{{ `css/tooltipster.bundle.css` | absURL }}" type="text/css" />
+  <link rel="stylesheet" href="{{ `css/tooltipster-sideTip-shadow.min.css` | absURL }}" type="text/css" />
+  <link rel="stylesheet" href="{{ `css/accordion.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/map.css` | absURL }}" type="text/css" />
+	
+
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 	<!-- Document Title
@@ -25,6 +32,8 @@
 
 	{{ $title := print .Title " | " .Site.Title }}
     {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
-    <title>{{ $title }}</title>
+		<title>{{ $title }}</title>
+		
+		
 
 </head>

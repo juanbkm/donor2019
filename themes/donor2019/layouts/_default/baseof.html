@@ -61,12 +61,64 @@
 
 	<!-- External JavaScripts
 	============================================= -->
-	<script src="{{ `js/jquery.js` | absURL }}"></script>
+	<script src="{{ `js/jquery.js` | absURL }}"></script> 
 	<script src="{{ `js/plugins.js` | absURL }}"></script>
+
+	<script src="{{ `js/tooltipster.bundle.js` | absURL }}"></script>
+
+    <script>
+    $(document).ready(function() {
+      $('.maptooltip').tooltipster({
+      	interactive: true,
+        contentAsHTML: true, 
+        theme: 'tooltipster-shadow',
+        trigger:"custom",
+        triggerOpen: {
+          click: true,  // For mouse
+          tap: true    // For touch device
+        },
+        triggerClose: {
+          click: true,  // For mouse
+          tap: true    // For touch device
+        }
+
+      });
+    });
+  </script>
 
 	<!-- Footer Scripts
 	============================================= -->
 	<script src="{{ `js/functions.js` | absURL }}"></script>
+
+	<!-- Map Scripts
+	============================================= -->
+	<script src="{{ `js/accordion.js` | absURL }}"></script>
+<script>
+  new Accordion('.accordion-container'); 
+  new Accordion('.azerbaijan-container');
+  new Accordion('.georgia-container');
+  new Accordion('.cambodia-container');
+  new Accordion('.laos-container');
+  new Accordion('.fiji-container');
+  new Accordion('.maldives-container');
+  new Accordion('.mongolia-container');
+  new Accordion('.myanmar-container');
+  new Accordion('.nepal-container');
+  new Accordion('.pakistan-container');
+  new Accordion('.ph-container');
+  new Accordion('.papua-container');
+  new Accordion('.solomon-container');
+  new Accordion('.taji-container');
+  new Accordion('.timor-container');
+  new Accordion('.tonga-container');
+  new Accordion('.tuvalu-container');
+  new Accordion('.viet-container');
+  new Accordion('.bang-container');
+  new Accordion('.sri-container');
+  new Accordion('.uzbek-container');
+  new Accordion('.india-container');
+  new Accordion('.indo-container');
+</script>
 
 </body>
 </html>
