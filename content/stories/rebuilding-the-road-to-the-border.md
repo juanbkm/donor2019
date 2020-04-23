@@ -46,6 +46,9 @@ The rehabilitation and upgrading of 112.7 kilometers of the Ayni–Uzbekistan bo
 
 An important part of the project is the development of a National Road Safety Strategy and Action Plan and the conduct of road safety audits, which allayed concerns about increased frequency of road accidents. Road maintenance vehicles and equipment were also procured, and public information campaigns and trainings were conducted.
 
+{{< youtube 0Q9B9BTfarg >}}
+
+
 At the Sarazm border post, new facilities provide comfort and ease to tourists─a new administrative building, a new customs control building, two new checkpoints, gender-friendly toilet facilities, parking lots, street lighting, and landscaping.
 
 ### Results
@@ -54,7 +57,7 @@ Shops, street vendors, and a small hotel have sprouted along the rehabilitated r
 
 Travel time from Ayni to the Uzbekistan border has been reduced from 3.5 hours to 1.4 hours for cars and taxis and 1.8 hours for buses and trucks.
 
-{{< dr-quote align="left" quote="I used to spend 7-8 hours on the road between Dushanbe and Panjakent, Now, I can make the trip in 4 hours thanks to the improved road." >}}
+{{< dr-quote align="right" quote="I used to spend 7-8 hours on the road between Dushanbe and Panjakent, Now, I can make the trip in 4 hours thanks to the improved road." source="Hikmat Sanginov" >}}
 
 “I used to spend 7-8 hours on the road between Dushanbe and Panjakent,” recalled Hikmat Sanginov, 36, a taxi driver of 10 years. “Now, I can make the trip in 4 hours thanks to the improved road.”
 
@@ -62,7 +65,7 @@ In 2018, the border was reopened.
 
 In the past, Hikmat never traveled to the Uzbek border, as the border was closed. With the improved road, he now drives passengers from the Sarazm border post to Panjakent and Dushanbe and back. “It’s a win-win situation for taxi drivers and passengers,” Hikmat said.
 
-{{< dr-storyimage src="images/stories/rebuilding-the-road-to-the-border.jpg" align="" alt="lorem ipsum" caption="lorem ipsum" >}}
+{{< dr-storyimage src="images/stories/rebuilding-the-road-to-the-border.jpg" align="" alt="lorem ipsum" caption="This a caption for the picture" >}}
 
 The Hotel Umariyon at the center of Panjakent, owned by a local entrepreneur, opened in 2015 in anticipation of increased tourist activity.
 

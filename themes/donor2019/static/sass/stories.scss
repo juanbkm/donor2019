@@ -113,3 +113,26 @@
         }
     }
 }
+
+.dr-story-image {
+    margin: 40px;
+    width: 80%;
+    &.float-left {
+        width: 50%;
+        margin-left: 0;
+        @include media-breakpoint-up(lg) {
+            margin-left: -10% !important;
+        }
+    }
+    &.float-right {
+        width: 50%;
+        margin-right: 0;
+        @include media-breakpoint-up(lg) {
+            margin-right: -10% !important;
+        }
+    }
+    .dr-caption {
+        font-style: italic;
+        padding: 10px;
+    }
+}

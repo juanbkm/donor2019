@@ -1,3 +1,4 @@
-<blockquote class="float-{{ .Get `align` }}">
+<blockquote class="{{ with .Get `align` }}float-{{ . }}{{ end }}">
     <p>{{ .Get "quote" }}</p>
+    {{ with .Get `source` }}<footer class="blockquote-footer">{{ . }}</footer>{{ end }}
 </blockquote>

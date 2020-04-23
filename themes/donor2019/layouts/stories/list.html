@@ -18,6 +18,7 @@
                         </div>
                     </div>
                     <div class="portfolio-desc">
+                        <p class="dr-country">Country: {{ .Params.country }} </p>
                         <p class="dr-categories">Topics: {{ range .Params.categories }}{{ . }}{{ end }} </p>
                         <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
                         <p>{{.Summary}}</p>

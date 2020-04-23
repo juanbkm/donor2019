@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+
+        <div class="container clearfix">
+            {{- partial "sectiontitle.html" . -}}
+            <div class="row">
+                <div class="col-sm-3">
+                    <div class="dr-hl-total"><em>$</em>4.89 <strong>billion</strong> </div>
+                </div>
+                <div class="col-sm-9">
+                    <div class="dr-hl-group">
+                        <h3>Who cofinanced with us the most?</h3>
+                        <a href="{{ `/cofinancing-highlights/type-of-financing-partner/` | relURL }}">by Type of Financing Partner</a> <a href="">by Financing Partner</a>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <ul>
+                    {{ range .Pages }}
+                        <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+                    {{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+    
+
+{{ end }}

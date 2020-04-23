@@ -309,16 +309,26 @@ body {
 blockquote {
 	padding: 40px 40px;
 	margin: 0 0 20px;
-	//background-color: lighten($adb-dr-gray, 50%);
-	//border-left: 5px solid darken($body-bg, 6.67%);
 	p {
 		font-size: 1.5rem !important;
 		font-weight: 200;
 	}
+	.blockquote-footer {
+		text-align: right;
+	}
 	&.float-left {
-		max-width: 30vw;
-		margin: 5px 20px 10px 0;
-		//padding-right: 0;
+			max-width: 50%;
+			margin-left: 0;
+			@include media-breakpoint-up(lg) {
+					margin-left: -10% !important;
+			}
+	}
+	&.float-right {
+			max-width: 50%;
+			margin-right: 0;
+			@include media-breakpoint-up(lg) {
+					margin-right: -10% !important;
+			}
 	}
 }
 

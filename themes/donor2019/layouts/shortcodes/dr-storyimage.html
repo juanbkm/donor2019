@@ -1,6 +1,6 @@
 
-<div class="dr-story-image">
-    <img src="{{.Get `src` }}" alt="">
+<div class="dr-story-image {{ with .Get `align` }}float-{{ . }}{{ end }}">
+    <img src="{{.Get `src` }}" alt="{{.Get `alt` }}" data-animate="fadeIn" data-delay="400">
     {{ with .Get `caption` }}
     <p class="dr-caption">{{ . }}</p>
     {{ end }}

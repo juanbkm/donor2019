@@ -43,6 +43,8 @@ To address this transport and mobility challenge that affects almost half of the
 
 The project’s main outputs were i) a rehabilitated South Tarawa highway and provisions like feeder roads, footpaths for cyclists and walkers, and bus shelters, and ii) strengthened capacities of local communities in road maintenance for road safety and sustainability.  
 
+{{< dr-storyimage src="images/stories/critical-thoroughfare-gets-much-eeded-makeover.jpg" align="left" alt="lorem ipsum" caption="This a caption for the picture" >}}
+
 For the first output, the road design was a crucial element. The South Tarawa Road runs near the edge of a lagoon for most of its length. The rising sea levels and coastal erosion threaten the road’s sustainability, so the project design was coordinated with another World Bank-financed climate change adaptation project to help incorporate climate-resilience into the design, the [Kiribati Adaptation Program](https://projects.worldbank.org/en/projects-operations/project-detail/P112615). At the end of the project, 36 kilometers of highway had been rehabilitated and 9.2 kilometers of feeder roads were repaired. A 57-km footpath for cyclists and walkers, 36 bus shelters to keep commuters protected from rain or the heat of the sun, and 114 speed bumps to promote safe driving speed were also put in place.
 
 Wanting to sustain the roads’ optimal functionality, the second main output of the project addressed the need for maintenance, capacity building, and institutional reforms. These were crucial to ensure that the roads remain serviceable for at least 20 years.  
@@ -54,6 +56,8 @@ The project also addressed Kiribati’s need for better road asset management th
 ### Results
 
 Today, economic activity in South Tarawa has increased thanks to a safer, more efficient road. “I used to worry about the patients I transport,” says Tenneke Matireei, a local ambulance driver. “With the bad condition of the road, have to drive very slowly. Some patients have died on the road as we couldn’t make it to the hospital in time.” [(Source)](https://www.worldbank.org/en/news/feature/2016/11/22/making-kiribati-main-road-safer) 
+
+{{< dr-quote align="right" quote="I used to worry about the patients I transport, with the bad condition of the road, have to drive very slowly. Some patients have died on the road as we couldn’t make it to the hospital in time." source="Tenneke Matireei" >}}
 
 Before the road reconstruction, it was impossible to drive faster than 10 kilometers an hour. These days, not only is Tenneke able to transport his patients more quickly and efficiently, but the ambulance also lasts longer without breaking down. 
 

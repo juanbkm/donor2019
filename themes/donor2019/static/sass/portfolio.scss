@@ -1023,8 +1023,12 @@ body {
 			font-size: 14px;
 		}
 		li { margin: 3px 0; }
-		.dr-categories {
+		.dr-country {
 			border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+			margin-top: 0;
+			margin-bottom: 0;
+		}
+		.dr-categories {
 			margin-top: 0;
 		}
 	}

@@ -1,0 +1,63 @@
+.dr-hl-total {
+  font-size: 6rem;
+  font-weight: 200;
+  vertical-align: text-top;
+  line-height: 1;
+  text-align: right;
+  em {
+    display: inline-block;
+    font-size: 24px;
+    vertical-align: text-top;
+    margin-top: 20px;
+  }
+  strong {
+    font-weight: 100;
+    display: block;
+    font-size: 24px;
+    vertical-align: text-top;
+    text-align: right;
+  }
+}
+
+.dr-hl-group {
+  padding: 0 40px;
+  h3 {
+    font-weight: 200;
+    font-size: 3rem;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    font-weight: 200;
+    font-size: 1.8rem;
+    display: inline-block;
+    margin-right: 10px;
+    padding: 0;
+  }
+}
+
+.dr-ig {
+  img {
+    height: 100px;
+    width: auto;
+    margin-right: 2px;
+  }
+}
+
+.dr-ig-info {
+  padding: 10px;
+  .dr-ig-amt {
+    display: inline-block;
+    font-size: 24px;
+    line-height: 1;
+    strong {
+      
+    }
+  }
+  .dr-ig-pr {
+    display: inline-block;
+    float: right;
+    font-size: 24px;
+    text-align: right;
+  }
+}
