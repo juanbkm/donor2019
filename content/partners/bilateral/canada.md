@@ -12,9 +12,9 @@ draft: false
 
 <a href="https://www.international.gc.ca/gac-amc/index.aspx?lang=eng" target="_blank">Global Affairs Canada</a> (formerly the Department of Foreign Affairs, Trade, and Development) is the agency that channels development assistance, with special attention to fragile and conflict-affected and small island developing states. Top priority themes are gender equality; sustainable development, integrating the social, economic, and environmental dimension as well as peace, governance, and justice elements; and innovations in international assistance.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Canada
+##### _1 January 2014–31 December 2019_ Cofinancing with Canada
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
     <th>Country</th>
     <th>Project</th>

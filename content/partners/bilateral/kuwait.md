@@ -12,9 +12,9 @@ Kuwait, in 1975, cofinanced with ADB a \$25 million agriculture project in Sri L
 
 In 2015, ADB and the Kuwait Fund signed an MOU on establishing cooperation arrangements to strengthen partnership at the institutional level and the programmatic project cofinancing. Under the MOU, the two institutions also signed a project-specific arrangement. The Kuwait Fund also provided \$17 million collaborative additional cofinancing for an agriculture project in Nepal.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Kuwait
+##### _1 January 2014–31 December 2019_ Cofinancing with Kuwait
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

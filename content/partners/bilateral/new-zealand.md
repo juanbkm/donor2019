@@ -12,9 +12,9 @@ draft: false
 
 In 2018, ADB and New Zealand cofinanced projects in Cook Islands, Kiribati, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu. The Ministry of Foreign Affairs and Trade oversees development work.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with New Zealand
+##### _1 January 2014–31 December 2019_ Cofinancing with New Zealand
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
                                     
 <tr>
     <th>Country</th>

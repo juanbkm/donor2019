@@ -12,9 +12,9 @@ Shanghai Pudong Development Bank (SPD Bank) is a joint-stock, commercial bank in
 
 SPD has seen rapid growth since its inception, now with 1,660 outlets including 40 first-tier branches and 119 second-tier branches. Its global operations have also taken off, with the establishment of the Hong Kong, China branch, the London Representative Office, the SPD Rural Banks, AXA SPDB Investment Managers, SPDB Financial Leasing, SPD Silicon Valley Bank, and the SPDB International. It has also successfully acquired a ruling stake in Shanghai International Trust Co., Ltd. 
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Shanghai Pudong Development Bank
+##### _1 January 2014–31 December 2019_ Cofinancing with Shanghai Pudong Development Bank
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

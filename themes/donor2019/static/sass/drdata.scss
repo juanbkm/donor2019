@@ -23,31 +23,18 @@
 }
 
 .dr-data-nav {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 2em;
+ 
   li {
-      border: 1px solid lighten($adb-dr-gray, 40%);
       color: $adb-dr-gray;
-      list-style: none;
-      
+      margin-left: 20px;
+      margin-bottom: 5px;
       a {
           background-color: lighten($adb-dr-gray, 60%);;
-          display: block;
-          padding: 20px;
+          
           color: $body-color;
           font-weight: 700;
-          &:hover {
-              background-color: $adb-accent-orange;
-              color: #fff;
-              transition: all 0.5s ease-in-out;
-          }
-          &:hover h3 {
-              color: #fff;
-              transition: all 0.5s ease-in-out;
-          }
           em {
-            display: block;
+            
           }
       }
   }     

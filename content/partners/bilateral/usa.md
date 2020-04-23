@@ -14,9 +14,9 @@ The <a href="https://www.adb.org/publications/united-states-fact-sheet" target="
 
 ADB also worked with the U.S. State Department, Bureau of International Narcotics and Law Enforcement Affairs, and the Department of the Interior on various development fronts throughout the region. USAID looks forward to closer collaboration with ADB in addressing food security in Myanmar and furthering regional initiatives in the Mekong subregion and Central Asia, consistent with the US State Department and USAID Joint Strategic Plan until 2022.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Unites States of America
+##### _1 January 2014–31 December 2019_ Cofinancing with Unites States of America
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
     <th>Country</th>
     <th>Project</th>

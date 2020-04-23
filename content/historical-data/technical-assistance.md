@@ -4,11 +4,11 @@ date: 2020-04-18T22:35:40+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
-weight: 5
+weight: 2
 draft: false
 ---
 
-<table class="table table-bordered table-hover dr-table">
+<table class="table table-hover dr-table dr-table-projects">
   <thead>
   <tr>
     <th>Project / Technical Assistance Name</th>
@@ -20,12 +20,12 @@ draft: false
   <tr>
     <td colspan="3"></td>
   </tr>
-  <tr>
+  <tr class="region">
     <td>SOUTHEAST ASIA</td>
     <td>13,650.00</td>
     <td></td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Azerbaijan</td>
     <td></td>
     <td></td>
@@ -35,7 +35,7 @@ draft: false
     <td>500.00</td>
     <td>Republic of Korea e-Asia and Knowledge Partnership Fund (EAKPF)</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Pakistan</td>
     <td></td>
     <td></td>
@@ -73,7 +73,7 @@ draft: false
       and in Other Specific Asian Countries (AFD GMS)
     </td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Uzbekistan</td>
     <td></td>
     <td></td>
@@ -105,7 +105,7 @@ draft: false
       Fund (PRCF)
     </td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Regional</td>
     <td></td>
     <td></td>
@@ -148,15 +148,13 @@ draft: false
     <td>1,500.00</td>
     <td>RCIFPF-ARTCF</td>
   </tr>
-  <tr>
-    <td colspan="3"></td>
-  </tr>
-  <tr>
+  
+  <tr class="region">
     <td>East Asia</td>
     <td>17,925.00</td>
     <td></td>
-  </tr>
-  <tr>
+  </>
+  <tr class="country">
     <td>Mongolia</td>
     <td></td>
     <td></td>
@@ -269,7 +267,7 @@ draft: false
     <td>500.00</td>
     <td>WFPF-SFPTF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Regional</td>
     <td></td>
     <td></td>
@@ -311,15 +309,13 @@ draft: false
     <td>700.00</td>
     <td>Clean Technology Fund (CIF-CTF)</td>
   </tr>
-  <tr>
-    <td colspan="3"></td>
-  </tr>
-  <tr>
+
+  <tr class="region">
     <td>Pacific</td>
     <td>27,493.64</td>
     <td></td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Fiji</td>
     <td></td>
     <td></td>
@@ -339,7 +335,7 @@ draft: false
     <td>172.49</td>
     <td>Australia (AUS)</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Papua New Guinea</td>
     <td></td>
     <td></td>
@@ -362,7 +358,7 @@ draft: false
     <td>150.00</td>
     <td>WFPF-MPTF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Timor Leste</td>
     <td></td>
     <td></td>
@@ -372,7 +368,7 @@ draft: false
     <td>500.00</td>
     <td>WFPF-MPTF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Regional</td>
     <td></td>
     <td></td>
@@ -426,15 +422,12 @@ draft: false
     <td>EAKPF</td>
   </tr>
 
-  <tr>
-    <td colspan="3"></td>
-  </tr>
-  <tr>
+  <tr class="region">
     <td>South Asia</td>
     <td>18,641.31</td>
     <td></td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Bangladesh</td>
     <td></td>
     <td></td>
@@ -452,7 +445,7 @@ draft: false
     <td>500.00</td>
     <td>CEFPF-ACEF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>India</td>
     <td></td>
     <td></td>
@@ -489,7 +482,7 @@ draft: false
     <td>2,000.00</td>
     <td>UFPF-UCCRTF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Maldives</td>
     <td></td>
     <td></td>
@@ -499,7 +492,7 @@ draft: false
     <td>500.00</td>
     <td>HLTF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Nepal</td>
     <td></td>
     <td></td>
@@ -512,7 +505,7 @@ draft: false
     <td>391.31</td>
     <td>Norway (NOR)</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Sri Lanka</td>
     <td></td>
     <td></td>
@@ -527,7 +520,7 @@ draft: false
     <td>200.00</td>
     <td>WFPF-MPTF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Regional</td>
     <td></td>
     <td></td>
@@ -559,18 +552,17 @@ draft: false
     <td>HLTF</td>
   </tr>
   <tr>
+    <td></td>
     <td>1,500.00</td>
     <td>RCIFPF-ARTCF</td>
   </tr>
-  <tr>
-    <td colspan="3"></td>
-  </tr>
-  <tr>
+  
+  <tr class="region">
     <td>Southeast Asia</td>
     <td>57,054.65</td>
     <td></td>
-  </tr>
-  <tr>
+  </>
+  <tr class="country">
     <td>Cambodia</td>
     <td></td>
     <td></td>
@@ -585,7 +577,7 @@ draft: false
     <td>250.00</td>
     <td>AFD GMS</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Indonesia</td>
     <td></td>
     <td></td>
@@ -656,7 +648,7 @@ draft: false
     <td>3,500.00</td>
     <td>AUS</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Myanmar</td>
     <td></td>
     <td></td>
@@ -684,7 +676,7 @@ draft: false
     <td>999.95</td>
     <td>JFPR</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Philippines</td>
     <td></td>
     <td></td>
@@ -697,7 +689,7 @@ draft: false
     <td>3,000.00</td>
     <td>UFPF-UCCRTF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Regional</td>
     <td></td>
     <td></td>
@@ -763,7 +755,7 @@ draft: false
     <td>800.00</td>
     <td>Water Financing Partnership Facility (NET) (WFPF-NET)</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Viet Nam</td>
     <td></td>
     <td></td>
@@ -793,14 +785,12 @@ draft: false
     <td>6,256.88</td>
     <td>GEF</td>
   </tr>
-  <tr>
-    <td colspan="3"></td>
-  </tr>
-  <tr>
+
+  <tr class="region">
     <td>Across Regions</td>
     <td>84,139.38</td>
     <td></td>
-  </tr>
+  </>
   <tr>
     <td>Accelerating Sanitation for All in Asia and the Pacific</td>
     <td>2,000.00</td>
@@ -1051,9 +1041,6 @@ draft: false
     <td>Upgrading the Asia Small and Medium-Sized Enterprise Monitor</td>
     <td>1,000.00</td>
     <td>JFPR</td>
-  </tr>
-  <tr>
-    <td colspan="3"></td>
   </tr>
   </tbody>
   <tfoot>

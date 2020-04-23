@@ -12,9 +12,9 @@ draft: false
 
 <a href="https://www.adb.org/publications/japan-fact-sheet" target="_blank">Japan</a> contributes to 13 active ADB administered trust funds. Japan's cooperation with ADB also includes the Japan Fund for Poverty Reduction, which provides grants and gives priority to technical assistance related to quality infrastructure projects. Japan also provides scholarships under the Japan Scholarship Program.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Japan
+##### _1 January 2014–31 December 2019_ Cofinancing with Japan
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

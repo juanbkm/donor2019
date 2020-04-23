@@ -12,9 +12,9 @@ draft: false
 
 Development cooperation is coordinated between the <a href="https://www.eda.admin.ch/sdc" target="_blank">Swiss Agency for Development and Cooperation (SDC)</a> within the Federal Department of Foreign Affairs, and the <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank">State Secretariat for Economic Affairs (SECO)</a> within the Federal Department of Economic Affairs, Education and Research, which are ADB’s counterpart agencies. SECO’s priority countries in Asia are Indonesia and Viet Nam; while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan. Both SECO and SDC are active in Azerbaijan, the Kyrgyz Republic, Tajikistan, and Uzbekistan.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Switzerland
+##### _1 January 2014–31 December 2019_ Cofinancing with Switzerland
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

@@ -12,9 +12,9 @@ draft: false
 
 <a href="https://www.adb.org/publications/australia-fact-sheet" target="_blank">Australia</a> contributes to nine active ADB-administered trust funds.  The Department of Foreign Affairs and Trade channels funds toward development work in agriculture, building resilience (humanitarian assistance, disaster risk reduction and social protection), climate change, education, fisheries, gender equality, governance, health, infrastructure, trade facilitation and international competitiveness, and water.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Australia
-
-<table class="table table-bordered">
+##### _1 January 2014–31 December 2019_ Cofinancing with Australia
+ 
+<table class="table dr-partner-table">
 	<tbody>
 		<tr>
 			<th>Country</th>

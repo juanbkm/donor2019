@@ -10,9 +10,9 @@ draft: false
 
 Huaxia Bank, founded in 1992, is a Beijing-based, publicly traded commercial bank which operates through a “hub-and-spoke” network in 110 major cities in the People's Republic of China with over 1,600 correspondent banks across 115 countries and regions covering major global trade zones, and total assets of CNY 2,680.58 billion. Huaxia Bank's first recorded cofinancing was in 2018 for the $400 million loan to the Air Quality Improvement in the Greater Beijing-Tianjin-Hebei Region project.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Huaxia Bank
+##### _1 January 2014–31 December 2019_ Cofinancing with Huaxia Bank
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

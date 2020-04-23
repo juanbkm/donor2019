@@ -14,7 +14,7 @@ With ADB, IFAD supports projects that advance agriculture, rural sector developm
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with International Fund for Agricultural Development
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

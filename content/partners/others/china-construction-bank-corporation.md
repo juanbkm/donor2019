@@ -10,9 +10,9 @@ draft: false
 
 The China Construction Bank Corporation, one of the biggest banks in the People's Republic of China, was established in 1954. It was reformed as a joint-stock commercial bank in September 2004 as a result of a separation procedure undertaken by its predecessor, China Construction Bank, under the People's Republic of China Company Law.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with China Construction Bank Corporation
+##### _1 January 2014–31 December 2019_ Cofinancing with China Construction Bank Corporation
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

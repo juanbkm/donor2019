@@ -12,9 +12,9 @@ draft: false
 
 In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 2016–2022 with the aim of reaching $1.5 billion in cofinancing from each for the first 3 years of collaboration. By 2018, AFD cofinancing has reached US$1.58 billion. In 2018 alone, AFD loan cofinancing reached US$795.10 for 6 investment projects. For the remaining 3 years, ADB and AFD have decided to increase the amount to $2.5 billion each and signed the Amendment to the PFA in February 2019. ADB and AFD also agreed to partner on the Cities Development Initiative in Asia and the Mobilise Your City Asia Program.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with France
+##### _1 January 2014–31 December 2019_ Cofinancing with France
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

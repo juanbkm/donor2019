@@ -12,9 +12,9 @@ draft: false
 
 <a href="https://luxdev.lu/en/home" target="_blank">Lux Development</a> under the Ministry of Finance administers development aid. Luxembourg contributes to the Financial Sector Development Partnership Fund, Asia Pacific Carbon Fund, and the Fourth High Level Forum on Aid Effectiveness Trust Fund. The country has also been active in Lao the Lao People's Democratic Republic, Myanmar, and Viet Nam.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Luxembourg
+##### _1 January 2014–31 December 2019_ Cofinancing with Luxembourg
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

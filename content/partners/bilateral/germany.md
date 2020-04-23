@@ -12,9 +12,9 @@ draft: false
 
 In 2018, ADB approved three cofinanced projects with Germany worth \$889 million. Germany is also supporting a health project in Tajikistan and technical assistance to establish a support facility for Article 6 of the Paris Agreement. Germany contributes to the Asia-Pacific Climate Finance Fund and is arranging an additional contribution of €26 million for the Afghanistan Infrastructure Trust Fund.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Germany
+##### _1 January 2014–31 December 2019_ Cofinancing with Germany
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

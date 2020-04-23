@@ -12,9 +12,9 @@ India’s cofinancing partnership with ADB is through the Export–Import Bank o
 
 Government-owned <a href="https://www.eximbankindia.in/" target="_blank">India EXIM Bank</a>, established in 1982, is designed to finance, facilitate, and promote India's foreign trade. The bank has been both a catalyst and a key player in the promotion of cross-border trade and investment and plays a major role in partnering with Indian industries.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with India
+##### _1 January 2014–31 December 2019_ Cofinancing with India
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

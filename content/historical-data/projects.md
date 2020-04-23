@@ -4,11 +4,11 @@ date: 2020-04-18T00:24:25+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
-weight: 4
+weight: 1
 draft: false
 ---
 
-<table class="table table-bordered table-hover dr-table">
+<table class="table table-hover dr-table dr-table-projects">
   <thead>
   <tr>
     <th rowspan="2">Project Name</th>
@@ -22,14 +22,14 @@ draft: false
   </tr>
   </thead>
   <tbody>
-  <tr>
+  <tr class="region">
     <td>CENTRAL AND WEST ASIA</td>
     <td>932.00</td>
     <td>8.50</td>
     <td>420.00</td>
     <td></td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Georgia</td>
     <td></td>
     <td></td>
@@ -44,7 +44,7 @@ draft: false
     <td>European Bank for Reconstruction and Development (EBRD)</td>
   </tr>
   <tr>
-    <td>Pakistan</td>
+    <td class="country">Pakistan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -89,7 +89,7 @@ draft: false
     <td>Switzerland (SWI)</td>
   </tr>
   <tr>
-    <td>Tajikistan</td>
+    <td class="country">Tajikistan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -104,7 +104,7 @@ draft: false
     <td>OPEC Fund for International Development (OFID)</td>
   </tr>
   <tr>
-    <td>Uzbekistan</td>
+    <td class="country">Uzbekistan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -117,17 +117,15 @@ draft: false
     <td>240.00</td>
     <td>EBRD</td>
   </tr>
-  <tr>
-    <td colspan="5"></td>
-  </tr>
-  <tr>
+ 
+  <tr class="region" class="region">
     <td>EAST ASIA</td>
     <td>444.64</td>
     <td>4.98</td>
     <td>353.22</td>
     <td></td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Mongolia</td>
     <td></td>
     <td></td>
@@ -164,7 +162,7 @@ draft: false
     <td>95.00</td>
     <td>Green Climate Fund (GCF)</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>People&#39;s Republic of China</td>
     <td></td>
     <td></td>
@@ -186,14 +184,14 @@ draft: false
     <td>Kreditanstalt für Wiederaufbau (KfW)</td>
   </tr>
   
-  <tr>
+  <tr class="region">
     <td>PACIFIC</td>
     <td>123.20</td>
     <td>114.64</td>
     <td>64.00</td>
     <td></td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Fiji</td>
     <td></td>
     <td></td>
@@ -214,7 +212,7 @@ draft: false
     <td>64.00</td>
     <td>World Bank (WB)</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Papua New Guinea</td>
     <td></td>
     <td></td>
@@ -237,7 +235,7 @@ draft: false
     <td>People&#39;s Republic of China Poverty Reduction and Regional
         Cooperation Fund (PRCF)</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Solomon Islands</td>
     <td></td>
     <td></td>
@@ -251,7 +249,7 @@ draft: false
     <td></td>
     <td>European Union (EU)</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Tonga</td>
     <td></td>
     <td></td>
@@ -301,7 +299,7 @@ draft: false
     <td></td>
     <td>GCF</td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Tuvalu</td>
     <td></td>
     <td></td>
@@ -336,21 +334,14 @@ draft: false
     <td></td>
     <td>WB</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
+  <tr class="region">
     <td>SOUTH ASIA</td>
     <td>1,926.00</td>
     <td>0.75</td>
     <td>1,102.67</td>
     <td></td>
   </tr>
-  <tr>
+  <tr class="country">
     <td>Bangladesh</td>
     <td></td>
     <td></td>
@@ -394,7 +385,7 @@ draft: false
     <td>Clean Technology Fund (CIF-CTF)</td>
   </tr>
   <tr>
-    <td>Sri Lanka</td>
+    <td class="country">Sri Lanka</td>
     <td></td>
     <td></td>
     <td></td>
@@ -416,7 +407,7 @@ draft: false
     <td>342.73</td>
     <td>Japan International Cooperation Agency (JICA)</td>
   </tr>
-  <tr>
+  <tr class="region">
     <td>SOUTHEAST ASIA</td>
     <td>2,559.16</td>
     <td>23.54</td>
@@ -424,7 +415,7 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>Cambodia</td>
+    <td class="country">Cambodia</td>
     <td></td>
     <td></td>
     <td></td>
@@ -453,7 +444,7 @@ draft: false
     <td>HLTF</td>
   </tr>
   <tr>
-    <td>Indonesia</td>
+    <td class="country">Indonesia</td>
     <td></td>
     <td></td>
     <td></td>
@@ -467,7 +458,7 @@ draft: false
     <td>KfW</td>
   </tr>
   <tr>
-    <td>Lao PDR</td>
+    <td class="country">Lao PDR</td>
     <td></td>
     <td></td>
     <td></td>
@@ -481,7 +472,7 @@ draft: false
     <td>EU</td>
   </tr>
   <tr>
-    <td>Myanmar</td>
+    <td class="country">Myanmar</td>
     <td></td>
     <td></td>
     <td></td>
@@ -495,7 +486,7 @@ draft: false
     <td>JFPR</td>
   </tr>
   <tr>
-    <td>Philippines</td>
+    <td class="country">Philippines</td>
     <td></td>
     <td></td>
     <td></td>
@@ -509,7 +500,7 @@ draft: false
     <td>JICA</td>
   </tr>
   <tr>
-    <td>Viet Nam</td>
+    <td class="country">Viet Nam</td>
     <td></td>
     <td></td>
     <td></td>
@@ -536,13 +527,7 @@ draft: false
     <td></td>
     <td>JFPR</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
+  
   </tbody>
   <tfoot>
   <tr>

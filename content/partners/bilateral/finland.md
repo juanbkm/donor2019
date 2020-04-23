@@ -12,9 +12,9 @@ draft: false
 
 Cooperation with ADB in the past has included grant support for a rural poverty reduction project in Cambodia and education sector reform in Nepal. Finland supported the Core Environment Program in the Greater Mekong Subregion and will participate in ADB’s Sponsor-Funded Staff Program by funding two specialists in the social and private sectors, respectively.
 
-##### _1 January 2014–31 December 2018_ Cofinanced with Finland
+##### _1 January 2014–31 December 2019_ Cofinanced with Finland
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

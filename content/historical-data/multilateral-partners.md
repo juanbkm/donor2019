@@ -4,11 +4,11 @@ date: 2020-04-17T21:18:07+08:00
 pretitle: "Official Cofinancing from"
 date_range: "1967–2019"
 units: "$ million"
-weight: 2
+weight: 4
 draft: false
 ---
 
-<table class="table table-bordered table-hover dr-table">
+<table class="table table-hover dr-table">
   <thead>
   <tr>
     <th rowspan="2">Financing Partner</th>
@@ -118,10 +118,10 @@ draft: false
       European Bank for Reconstruction and Development
     </td>
     <td>–</td>
-    <td>>515.61</td>
-    <td>>10.89</td>
-    <td>>0.01</td>
-    <td>>526.51</td>
+    <td>515.61</td>
+    <td>10.89</td>
+    <td>0.01</td>
+    <td>526.51</td>
   </tr>
   <tr>
     <td>European Investment Bank</td>
@@ -197,9 +197,9 @@ draft: false
     <td>International Federation of Red Cross and Red Crescent Societies</td>
     <td>–</td>
     <td>–</td>
-    <td>>1.50</td>
+    <td>1.50</td>
     <td>–</td>
-    <td>>1.50</td>
+    <td>1.50</td>
   </tr>
   <tr>
     <td>
@@ -236,9 +236,9 @@ draft: false
     </td>
     <td>–</td>
     <td>–</td>
-    <td>>10.55</td>
+    <td>10.55</td>
     <td>–</td>
-    <td>>10.55</td>
+    <td>10.55</td>
   </tr>
   <tr>
     <td>Neighbourhood Investment Facility</td>
@@ -297,26 +297,26 @@ draft: false
     <td>–</td>
     <td>–</td>
     <td>–</td>
-    <td>>1.42</td>
-    <td>>1.42</td>
+    <td>1.42</td>
+    <td>1.42</td>
   </tr>
   <tr>
     <td>Special Climate Change Fund under the Global Environment Facility</td>
     <td>–</td>
     <td>–</td>
     <td>–</td>
-    <td>>10.78</td>
-    <td>>10.78</td>
+    <td>10.78</td>
+    <td>10.78</td>
   </tr>
   <tr>
     <td>
       The Global Fund to Fight AIDS, Tuberculosis and Malaria
     </td>
-    <td>>0.06</td>
+    <td>0.06</td>
     <td>–</td>
     <td>–</td>
     <td>–</td>
-    <td>>0.06</td>
+    <td>0.06</td>
   </tr>
   <tr>
     <td>Trust Fund for Forests</td>

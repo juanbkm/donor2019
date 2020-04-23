@@ -12,9 +12,9 @@ draft: false
 
 <a href="https://www.adb.org/publications/netherlands-fact-sheet" target="_blank">The Netherlands</a>’s Ministry of Foreign Affairs, with support from the <a href="http://www.snv.org/" target="_blank">SNV Netherlands Development Organisation</a> and the <a href="https://www.government.nl/topics/development-cooperation" target="_blank">Ministry of Development Cooperation</a>, manages development cooperation. Cross-cutting themes cover gender equality, environment, and climate change. The Netherlands has contributed to the Cooperation Fund in Support of Managing for Development Results and is the sole donor to the Netherlands Trust Fund under the Water Financing Partnership Facility.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Netherlands, The
+##### _1 January 2014–31 December 2019_ Cofinancing with Netherlands, The
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

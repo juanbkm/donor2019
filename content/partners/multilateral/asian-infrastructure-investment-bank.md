@@ -14,7 +14,7 @@ ADB and AIIB started collaborating in 2016. To advance a shared goal of an innov
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Asian Infrastructure Investment Bank
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

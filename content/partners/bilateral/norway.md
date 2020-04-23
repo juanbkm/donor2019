@@ -12,9 +12,9 @@ draft: false
 
 Development assistance is managed by the Ministry of Foreign Affairs with support from the <a href="https://norad.no/en/front/" target="_blank">Norwegian Agency for Development Cooperation</a>. Norway’s development aid supported Afghanistan, Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, the People's Republic of China, Sri Lanka, and Viet Nam.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Norway
+##### _1 January 2014–31 December 2019_ Cofinancing with Norway
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

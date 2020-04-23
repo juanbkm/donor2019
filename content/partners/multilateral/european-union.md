@@ -14,7 +14,7 @@ In 2018, two projects on fiscal reform for the Solomon Islands, and education se
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with European Union
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

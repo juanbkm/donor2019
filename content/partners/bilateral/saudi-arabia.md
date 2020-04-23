@@ -12,9 +12,9 @@ The Kingdom of Saudi Arabia, through the <a href="https://www.sfd.gov.sa/en/" ta
 
 The Saudi Fund provided \$20 million cofinancing to support a road investment project in the Kyrgyz Republic in December 2016.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Saudi Arabia
+##### _1 January 2014–31 December 2019_ Cofinancing with Saudi Arabia
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

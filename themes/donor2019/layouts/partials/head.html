@@ -19,11 +19,13 @@
 
 	<link rel="stylesheet" href="{{ `css/responsive.css` | absURL }}" type="text/css" />
 
+	{{$section := .Section}}
+	{{ if eq $section "projects" }}
   <link rel="stylesheet" href="{{ `css/tooltipster.bundle.css` | absURL }}" type="text/css" />
   <link rel="stylesheet" href="{{ `css/tooltipster-sideTip-shadow.min.css` | absURL }}" type="text/css" />
   <link rel="stylesheet" href="{{ `css/accordion.css` | absURL }}" type="text/css" />
 	<link rel="stylesheet" href="{{ `css/map.css` | absURL }}" type="text/css" />
-	
+	{{ end }}
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 

@@ -12,9 +12,9 @@ Korea Energy Agency (KEA) is a public institution established in 1980 to promote
 
 KEA started working with ADB in 1980, assisting DMCs through sharing of knowledge and lessons from KEA's experiences. It has contributed $140,000 to its work with ADB. 
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Korea Energy Agency
+##### _1 January 2014–31 December 2019_ Cofinancing with Korea Energy Agency
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr height=40 style='mso-height-source:userset;height:30.0pt'>
 <td colspan=4 height=40 class=xl109 width=868 style='height:30.0pt;
 width:651pt'>Cofinancing with Korea Energy Agency, 1 January 2014–31 December

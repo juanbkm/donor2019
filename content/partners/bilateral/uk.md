@@ -12,9 +12,9 @@ The <a href="https://www.adb.org/publications/united-kingdom-fact-sheet" target=
 
 Several agencies including the Department for International Development, the Department for Business, Energy & Industrial Strategy, and the Foreign and Commonwealth Office are at the forefront of development work. Priority sectors and themes are climate change and clean energy; regional cooperation; conflict reduction and human rights, and climate change; and fragile states and regions, specifically around stabilization. In Asia, the focus is primarily on Afghanistan, Bangladesh, India, Indonesia, Myanmar, Nepal, and Pakistan.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with United Kingdom
+##### _1 January 2014–31 December 2019_ Cofinancing with United Kingdom
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

@@ -12,9 +12,9 @@ draft: false
 
 In 2017, the Korea Energy Agency financed Subproject C of the Technical Assistance for Promoting Sustainable Energy for All in Asia and the Pacific. The Ministry of Agriculture, Food, and Rural Affairs formalized its intent to post experts and finance a regional agriculture value chain development technical assistance through an MOU signed in 2018. Also in 2018, the Ministry of Economy and Finance and ADB renewed the MOU on Enhancements to Cofinancing Arrangements for $650 million of concessional cofinancing until May 2020. Korea also provided additional contribution of $15 million to the e-Asia and Knowledge Partnership Fund.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Korea, Republic of
+##### _1 January 2014–31 December 2019_ Cofinancing with Korea, Republic of
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

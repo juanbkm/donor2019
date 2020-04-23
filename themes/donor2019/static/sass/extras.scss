@@ -1583,6 +1583,19 @@ body:not(.no-transition) #wrapper,
   border-bottom: 2px solid rgba(0, 0, 0, 0.125);
 }
 
+.dr-partner-table th em {
+  display: block;
+  font-style: normal;
+  font-weight: 200;
+}
+
+.dr-partner-table tbody td:nth-last-child(2),
+.dr-partner-table th:nth-child(3),
+.dr-partner-table th:nth-child(4),
+.dr-partner-table tbody td:nth-last-child(1) {
+  text-align: right;
+}
+
 .table.dr-table thead th {
   background-color: $adb-accent-orange;
   border: 2px solid rgba(255, 255, 255, 0.8);
@@ -1591,8 +1604,42 @@ body:not(.no-transition) #wrapper,
   top: 100px;
 }
 
+.table.dr-table td {
+  text-align: right;
+}
+
+.table.dr-table td:nth-child(1) {
+  text-align: left;
+}
+
 .table.dr-table tfoot td {
   background-color: $adb-gray-three;
+}
+
+.dr-table-projects td:first-child {
+  padding-left: 40px;
+}
+.dr-table-projects td:last-child {
+    text-align: left;
+}
+
+.dr-table-projects .country td:first-child {
+  padding-left: 10px;
+  font-weight: 700;
+}
+
+
+
+.dr-table-projects .region {
+  color: $adb-accent-orange;
+  td {
+    padding: 20px;
+    text-transform: uppercase;
+  }
+  td:first-child {
+    padding-left: 10px;
+    font-weight: 700;
+  }
 }
 
 .table thead {

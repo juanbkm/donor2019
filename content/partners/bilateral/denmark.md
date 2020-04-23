@@ -12,9 +12,9 @@ draft: false
 
 <a href="https://www.adb.org/publications/denmark-fact-sheet" target="_blank">Denmark</a> delivers development assistance through the <a href="http://um.dk/en/danida-en/" target="_blank">Danish International Development Agency</a> under the Ministry of Foreign Affairs. Top interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development. It contributes to five active ADB-administered trust funds.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Denmark
+##### _1 January 2014–31 December 2019_ Cofinancing with Denmark
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
     <th>Country</th>
     <th>Project</th>

@@ -9631,35 +9631,16 @@ td.actions {
   margin: 0;
   padding: 0; }
 
-/* line 25, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drdata.scss */
-.dr-data-nav {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 2em; }
-  /* line 29, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drdata.scss */
-  .dr-data-nav li {
-    border: 1px solid #c2ccd2;
-    color: #556773;
-    list-style: none; }
-    /* line 34, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drdata.scss */
-    .dr-data-nav li a {
-      background-color: #fdfdfd;
-      display: block;
-      padding: 20px;
-      color: #555;
-      font-weight: 700; }
-      /* line 40, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drdata.scss */
-      .dr-data-nav li a:hover {
-        background-color: #eb6440;
-        color: #fff;
-        transition: all 0.5s ease-in-out; }
-      /* line 45, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drdata.scss */
-      .dr-data-nav li a:hover h3 {
-        color: #fff;
-        transition: all 0.5s ease-in-out; }
-      /* line 49, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drdata.scss */
-      .dr-data-nav li a em {
-        display: block; }
+/* line 27, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drdata.scss */
+.dr-data-nav li {
+  color: #556773;
+  margin-left: 20px;
+  margin-bottom: 5px; }
+  /* line 31, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drdata.scss */
+  .dr-data-nav li a {
+    background-color: #fdfdfd;
+    color: #555;
+    font-weight: 700; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes
@@ -19102,6 +19083,19 @@ body:not(.no-transition) #wrapper,
   border-bottom: 2px solid rgba(0, 0, 0, 0.125); }
 
 /* line 1586, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+.dr-partner-table th em {
+  display: block;
+  font-style: normal;
+  font-weight: 200; }
+
+/* line 1592, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+.dr-partner-table tbody td:nth-last-child(2),
+.dr-partner-table th:nth-child(3),
+.dr-partner-table th:nth-child(4),
+.dr-partner-table tbody td:nth-last-child(1) {
+  text-align: right; }
+
+/* line 1599, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
 .table.dr-table thead th {
   background-color: #eb6440;
   border: 2px solid rgba(255, 255, 255, 0.8);
@@ -19109,20 +19103,53 @@ body:not(.no-transition) #wrapper,
   position: sticky;
   top: 100px; }
 
-/* line 1594, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+/* line 1607, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+.table.dr-table td {
+  text-align: right; }
+
+/* line 1611, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+.table.dr-table td:nth-child(1) {
+  text-align: left; }
+
+/* line 1615, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
 .table.dr-table tfoot td {
   background-color: #dddddd; }
 
-/* line 1598, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+/* line 1619, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+.dr-table-projects td:first-child {
+  padding-left: 40px; }
+
+/* line 1622, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+.dr-table-projects td:last-child {
+  text-align: left; }
+
+/* line 1626, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+.dr-table-projects .country td:first-child {
+  padding-left: 10px;
+  font-weight: 700; }
+
+/* line 1633, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+.dr-table-projects .region {
+  color: #eb6440; }
+  /* line 1635, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+  .dr-table-projects .region td {
+    padding: 20px;
+    text-transform: uppercase; }
+  /* line 1639, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+  .dr-table-projects .region td:first-child {
+    padding-left: 10px;
+    font-weight: 700; }
+
+/* line 1645, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
 .table thead {
   position: static; }
 
 @media (max-width: 767.98px) {
-  /* line 1603, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+  /* line 1650, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
   .table-responsive {
     border-color: rgba(255, 255, 255, 0.1); } }
 
-/* line 1609, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
+/* line 1656, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
 .dark mark {
   background: rgba(0, 0, 0, 0.5);
   color: #fff; }

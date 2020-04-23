@@ -2,15 +2,27 @@
 
 
         <div class="container clearfix">
-            {{- partial "sectiontitle.html" . -}}
             <div class="row">
                 <div class="col">
-                    <ul class="dr-data-nav">
-                    {{ range .Pages }}
-                        <li><a href="{{.Permalink}}"><em>{{ .Params.pretitle }}</em> {{ .Title }}, {{ .Params.date_range }}
-                        </a></li>
-                    {{ end }}
-                    </ul>
+                    <div id="dr-section-title" class="dr-section-header dr-section-stories">
+                        <h2>{{ .CurrentSection.Title }}</h2>
+                        <ul class="dr-data-nav">
+                        {{ range .Pages }}
+                            <li><a href="{{.Permalink}}"><em>{{ .Params.pretitle }}</em> {{ .Title }}, {{ .Params.date_range }}
+                            </a></li>
+                        {{ end }}
+                        </ul>
+                        {{ with .Params.section_image }}
+                        <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
+            
+                        
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col">
+                    
                 </div>
             </div>
         </div>

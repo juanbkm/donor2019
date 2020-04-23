@@ -12,9 +12,9 @@ draft: false
 
 Several departments coordinated through the Ministry of Cooperation and External Affairs manage development cooperation, whereas the Ministry of Economy, Industry, and Competitiveness is responsible for the relationship with ADB and other MDBs. Apart from the Spanish Cooperation Fund for Technical Assistance, Spain contributes to the Clean Energy Fund and the Multi-Donor Trust Fund under the Water Financing Partnership Facility.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Spain
+##### _1 January 2014–31 December 2019_ Cofinancing with Spain
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

@@ -12,9 +12,9 @@ The Bank of Beijing (BOB) has made several strategic breakthroughs since its est
 
 BOB is a Sino-foreign joint stock commercial bank with a brand value of CNY 36.6 billion. It ranks No. 73 in Tier-1 capital on the latest World Top 1000 Banks list and belongs to the World Top 100 for 4 consecutive years. 
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Bank of Beijing
+##### _1 January 2014–31 December 2019_ Cofinancing with Bank of Beijing
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
     <th>Country</th>
     <th>Project</th>

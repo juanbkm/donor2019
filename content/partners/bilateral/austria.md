@@ -12,9 +12,9 @@ draft: false
 
 <a href="https://www.adb.org/publications/austria-fact-sheet" target="_blank">Austria</a> also contributes to the Multi-Donor Trust Fund under the Water Financing Partnership Facility. Austria’s Federal Ministry of Finance, along with the Federal Ministry for European and International Affairs, Austrian Development Agency, and the Development Bank of Austria, work with ADB on agriculture, education, energy, food security, human rights, migration, peace and human security, private and financial sector development, urban development, and water.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Austria
+##### _1 January 2014–31 December 2019_ Cofinancing with Austria
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
     <tr>
         <th>Country</th>
         <th>Project</th>

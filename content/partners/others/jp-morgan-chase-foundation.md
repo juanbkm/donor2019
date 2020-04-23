@@ -12,7 +12,7 @@ JP Morgan Chase Foundation is
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with JP Morgan Chase Foundation
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

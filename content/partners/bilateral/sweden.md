@@ -12,9 +12,9 @@ Swedish development aid is managed through the Swedish International Development
 
 <a href="https://www.adb.org/publications/sweden-fact-sheet" target="_blank">Sweden</a> contributes to the Clean Energy Fund and the Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility and is a partner to Cities Development Initiative for Asia. Sweden maintains bilateral development cooperation with Afghanistan, Bangladesh, Cambodia, and Myanmar.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Sweden
+##### _1 January 2014–31 December 2019_ Cofinancing with Sweden
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

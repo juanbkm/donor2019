@@ -12,9 +12,9 @@ The Uzbekistan Fund for Reconstruction and Development was established in 2006. 
 
 The Fund has partnered with foreign investors, international financial institutions, and export credit agencies. Its beneficiaries are entities engaged in strategic infrastructure and socioeconomic development of Uzbekistan. It has partnered with ADB since 2014, contributing $740 million to its work with ADB. 
 
-##### _1 January 2014–31 December 2018_ Cofinancing with Uzbekistan Fund for Reconstruction and Development
+##### _1 January 2014–31 December 2019_ Cofinancing with Uzbekistan Fund for Reconstruction and Development
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 
 <tr>
 <th>Country</th>

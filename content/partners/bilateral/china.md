@@ -12,9 +12,9 @@ The People’s Republic of China (PRC) is a major contributor to ADB development
 
 ADB works with the PRC’s Ministry of Finance, the <a href="http://english.eximbank.gov.cn/en/" target="_blank">Export–Import Bank of China (China Eximbank)</a>, and domestic commercial entities such as the China Construction Bank, on directing development finance to investment projects. The PRC prioritizes investments on projects that promote regional connectivity and cooperation, poverty reduction, and knowledge sharing.
 
-##### _1 January 2014–31 December 2018_ Cofinancing with the People's Republic of China
+##### _1 January 2014–31 December 2019_ Cofinancing with the People's Republic of China
 
-<table class="table table-striped table-bordered">
+<table class="table dr-partner-table">
 <tr>
 <th>Country</th>
 <th>Project</th>

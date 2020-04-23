@@ -4,11 +4,11 @@ date: 2020-04-17T22:58:58+08:00
 pretitle: "Official Cofinancing from"
 date_range: "1967–2019"
 units: "$ million"
-weight: 3
+weight: 5
 draft: false
 ---
 
-<table class="table table-bordered table-hover dr-table">
+<table class="table table-hover dr-table">
   <thead>
   <tr>
     <th rowspan="2">Financing Partner</th>
