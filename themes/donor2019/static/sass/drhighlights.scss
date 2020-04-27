@@ -79,3 +79,174 @@
     text-align: right;
   }
 }
+
+
+
+.chart,
+.openchart {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: 130px;
+  background: transparent url(./images/dot.png) 1px top;
+}
+
+.chart li,
+.openchart li {
+  margin: 0;
+  padding: 0; 
+  float: left;
+  height: 130px;
+  list-style-type: none;
+  border-right: 0.5vw solid #fff; 
+}
+
+.chart li:last-child,
+.openchart li:last-child {
+  border-right: none; 
+}
+
+.chart li a {
+  display: block;
+  height: 130px;
+  background: none;
+  color: transparent;
+}
+
+.color-cyan li a:hover,
+.color-cyan li a:focus,
+.color-cyan li a.active, 
+.chart li.color-cyan a:hover,
+.chart li.color-cyan a:focus,
+.chart li.color-cyan a.active {
+  background: url(./images/dot-cyan.png) left top;
+}
+
+.color-blue li a:hover,
+.color-blue li a:focus,
+.color-blue li a.active,
+.chart li.color-blue a:hover,
+.chart li.color-blue a:focus,
+.chart li.color-blue a.active,
+.openchart li.color-blue   {
+  background: url(./images/dot-blue.png) left top;
+}
+
+.openchart li.color-lightblue   {
+  background: url(./images/dot-lightblue.png) left top;
+}
+
+.openchart li.color-lightgreen   {
+  background: url(./images/dot-lightgreen.png) left top;
+}
+
+.color-green li a:hover,
+.color-green li a:focus,
+.color-green li a.active,
+.chart li.color-green a:hover,
+.chart li.color-green a:focus,
+.chart li.color-green a.active,
+.openchart li.color-green   {
+  background: url(./images/dot-green.png) left top;
+}
+
+.color-dark-green li a:hover,
+.color-dark-green li a:focus,
+.color-dark-green li a.active,
+.chart li.color-dark-green a:hover,
+.chart li.color-dark-green a:focus,
+.chart li.color-dark-green a.active,
+.openchart li.color-dark-green {
+  background: url(./images/dot-dark-green.png) left top;
+}
+
+.color-red li a:hover,
+.color-red li a:focus,
+.color-red li a.active,
+.chart li.color-red a:hover,
+.chart li.color-red a:focus,
+.chart li.color-red a.active,
+.openchart li.color-red    {
+  background: url(./images/dot-red.png) left top;
+}
+
+.openchart li.color-lightred    {
+  background: url(./images/dot-lightred.png) left top;
+}
+
+.chart-content {
+  position: relative;
+  width: 100%;
+  min-height: 200px;
+}
+
+.chart-content .chart-segment {
+  float: left;
+}
+
+.chart-content .chart-segment p {
+  font-size: 12px;
+}
+
+
+
+.left-nav {
+  display: block;
+}
+
+.left-nav li a.active {
+  text-decoration: underline;
+}
+
+ 
+.chart-content {
+  width: 100%;
+  padding-top: 20px;
+  .dr-typeof {
+    float: left;
+    width: 60%;
+    .dr-amount {
+      font-size: 2rem !important;
+      line-height: 1;
+      display: block;
+    }
+    .dr-partner {
+      color: $adb-main-blue-eleven;
+      display: block;
+      font-weight: 700;
+    }
+  }
+  .dr-percent {
+    float: right;
+    line-height: 1 !important;
+    font-size: 3rem;
+    font-weight: 100;
+  }
+}
+
+.left-nav {
+  display: block;
+}
+
+.left-nav li a.active {
+  text-decoration: underline;
+}
+
+
+
+
+.dr-chart {
+  .nav-item {
+    a {
+      background-color: lightgray;
+      height: 130px;
+    }
+    text-indent: -9999px;
+    
+  }
+  .nav-link.active, .show > .nav-link {
+    color: #fff;
+    background-color: $adb-accent-green;
+  }
+}

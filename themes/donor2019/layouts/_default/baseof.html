@@ -127,5 +127,19 @@
 		new Accordion('.indo-container');
 	</script>
 	{{ end }}
+
+
+
+	<script>
+		$('.chart > li > a').hover(function() {
+		$(this).tab('show');
+		});
+
+		$('.chart > li > a').mouseleave(function(){
+		$(this).removeClass("active");
+		$('.body-tab').removeClass("active");
+
+		});
+	</script>
 </body>
 </html>
