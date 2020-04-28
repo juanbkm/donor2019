@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-3 dr-hl-side">
-                <h3>{{.Params.question | markdownify}}</h3>
+                
                 <div class="dr-hl-total">{{.Params.total | markdownify}}</div>
                 <h2>by {{ .Title }}</h2>
                 {{ with .Params.financing }}
@@ -16,8 +16,19 @@
                   </ul>
                     
                 {{ end }}
+
+                {{ if eq .Params.title "Product and Type of Assistance" }}
+                   
+                <ul class="left-nav nav nav-pills">
+                    <li><a href="#loans-and-grants" class="active" data-toggle="tab">Loans & Grants</a></li>
+                    <li><a href="#inv-projects-vs-tech-assist" data-toggle="tab">Investment Projects vs. Technical Assistance</a></li>
+                    <li><a href="#grants-investments" data-toggle="tab">Project Specific vs. Trust Fund Cofinancing</a></li>
+                  </ul>
+                    
+                {{ end }}
             </div>
-            <div class="col-sm-9">
+            <div class="col-sm-9 px-lg-5">
+                <h3 class="dr-question">{{.Params.question | markdownify}}</h3>
                 {{ .Content }}
                 
             </div>

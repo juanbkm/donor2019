@@ -1,32 +1,38 @@
 {{ define "main" }}
 
 
-        <div class="container clearfix">
-            {{- partial "sectiontitle.html" . -}}
-            <div class="row">
-                <div class="col-sm-3">
-                    <div class="dr-hl-total"><em>$</em>4.89 <strong>billion</strong> </div>
-                </div>
-                <div class="col-sm-9">
-                    <div class="dr-hl-group">
-                        <h3>Who cofinanced with us the most?</h3>
-                        {{ range where .Site.Pages.ByTitle ".Params.question" "Who cofinanced with us the most?" }}
-                        <a href="{{ .Permalink }}">by {{ .Title }}</a>
-                        {{ end }}
+<div class="container clearfix">
+    {{- partial "sectiontitle.html" . -}}
+    <div class="row">
+        <div class="col mx-auto pb-5">
+            <h3 class="dr-hl-title mb-5">2019 ADB Commitments</h3>
+            <img src="./images/highlights.png" alt="" data-animate="fadeInUp" data-delay="400">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3">
+            <div class="dr-hl-total"><em>$</em>4.89 <strong>billion</strong> </div>
+        </div>
+        <div class="col-sm-9">
+            <div class="dr-hl-group">
+                <h3>Who cofinanced with us the most?</h3>
+                {{ range where .Site.Pages.ByTitle ".Params.question" "Who cofinanced with us the most?" }}
+                <a href="{{ .Permalink }}">by {{ .Title }}</a>
+                {{ end }}
 
-                        <h3>Where did the funds go?</h3>
-                        {{ range where .Site.Pages.ByTitle ".Params.question" "Where did the funds go?" }}
-                        <a href="{{ .Permalink }}">by {{ .Title }}</a>
-                        {{ end }}
+                <h3>Where did the funds go?</h3>
+                {{ range where .Site.Pages.ByTitle ".Params.question" "Where did the funds go?" }}
+                <a href="{{ .Permalink }}">by {{ .Title }}</a>
+                {{ end }}
 
-                        <h3>How Were the Funds Distributed?</h3>
-                        {{ range where .Site.Pages.ByTitle ".Params.question" "How Were the Funds Distributed?" }}
-                        <a href="{{ .Permalink }}">by {{ .Title }}</a>
-                        {{ end }}
-                    </div>
-                </div>
+                <h3>How Were the Funds Distributed?</h3>
+                {{ range where .Site.Pages.ByTitle ".Params.question" "How Were the Funds Distributed?" }}
+                <a href="{{ .Permalink }}">by {{ .Title }}</a>
+                {{ end }}
             </div>
         </div>
+    </div>
+</div>
 
     
 

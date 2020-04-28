@@ -1,3 +1,11 @@
+.dr-hl-title {
+  font-weight: 700;
+  font-size: 3rem;
+  margin: 0 0 20px 0;
+  padding: 0;
+  text-align: center;
+}
+
 .dr-hl-total {
   font-size: 6rem;
   font-weight: 200;
@@ -48,10 +56,17 @@
     font-weight: 200;
     font-size: 1.8rem;
     display: inline-block;
-    margin-right: 10px;
-    margin-bottom: 20px;
+    margin-right: 40px;
+    margin-bottom: 40px;
     padding: 0;
   }
+}
+
+.dr-question {
+  font-weight: 300;
+  font-size: 3rem;
+  margin: 0 0 20px 0;
+  padding: 0;
 }
 
 .dr-ig {
@@ -193,17 +208,28 @@
 
 .left-nav {
   display: block;
+  font-weight: 300;
+  font-size: 1.2rem;
+  margin: 0 0 20px 0;
+  padding: 0;
+  li {
+    margin-bottom: 10px;
+    a.active {
+      font-weight: 700;
+      text-decoration: underline;
+    }
+  }
 }
 
-.left-nav li a.active {
-  text-decoration: underline;
-}
 
  
 .chart-content {
   width: 100%;
   padding-top: 20px;
-  .dr-typeof {
+  .dr-typeof,
+  .dr-dmc,
+  .dr-region,
+  .dr-sectors {
     float: left;
     width: 60%;
     .dr-amount {
@@ -216,6 +242,17 @@
       display: block;
       font-weight: 700;
     }
+    .dr-country,
+    .dr-sector {
+      font-weight: 700;
+      display: block;
+      color: $adb-accent-green;
+    }
+    .dr-area {
+      font-weight: 700;
+      display: block;
+      color: $adb-main-blue-eleven;
+    }
   }
   .dr-percent {
     float: right;
@@ -224,15 +261,6 @@
     font-weight: 100;
   }
 }
-
-.left-nav {
-  display: block;
-}
-
-.left-nav li a.active {
-  text-decoration: underline;
-}
-
 
 
 
