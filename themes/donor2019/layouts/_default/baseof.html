@@ -131,15 +131,27 @@
 
 
 	<script>
-		$('.chart > li > a').hover(function() {
+		
+		$('.nav-pills > li > a').hover(function() {
 		$(this).tab('show');
 		});
+		
 
-		$('.chart > li > a').mouseleave(function(){
-		$(this).removeClass("active");
-		$('.body-tab').removeClass("active");
 
+		$(document).ready(function() {
+			$('#region-chart a').click(function() {
+				var href = $(this).attr('href');
+				var num = href.split("-")[1];
+					$('.region-chart .tab-pane').css('display', 'none');
+					$("[class^='region-'][class^='regionc-']").removeClass('show');
+					$(".region-"+num).css('display', 'block');
+					$(".regionc-"+num).css('display', 'block');
+					$(".region-"+num).addClass('show');
+					$(".regionc-"+num).addClass('show');
+			});
 		});
 	</script>
+
+	{{- partial "chartsjs.html" . -}}
 </body>
 </html>
