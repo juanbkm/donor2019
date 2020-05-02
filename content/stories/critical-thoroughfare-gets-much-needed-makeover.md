@@ -1,5 +1,5 @@
 ---
-title: "Critical Thoroughfare Gets Much Eeded Makeover"
+title: "Critical Thoroughfare Gets Much Needed Makeover "
 date: 2020-04-19T09:43:49+08:00
 image: images/stories/critical-thoroughfare-gets-much-eeded-makeover.jpg
 image_caption: "Bridge connecting North and South Tarawa. Major infrastructure upgraded under the Kiribati Road Rehabilitation Project."
@@ -16,7 +16,7 @@ partners:
 approval: "December 2015"
 completion: "May 2017"
 cost: ""
-categories: [ "Governance​" ]
+categories: [ "Governance" ]
 draft: false
 ---
 
@@ -39,7 +39,7 @@ Being a Pacific island country, Kiribati is extremely susceptible to external sh
 
 ### Interventions
 
-To address this transport and mobility challenge that affects almost half of the country's population, the Government of Kiribati requested the ADB to help finance the Kiribati Road Rehabilitation Project. The project was cofinanced by the World Bank, Government of Australia, and the Government of Kiribati.
+To address this transport and mobility challenge that affects almost half of the country's population, the Government of Kiribati requested the ADB to help finance the Kiribati Road Rehabilitation Project. The project was cofinanced by the World Bank, Government of Australia, and the Government of Kiribati.   
 
 The project’s main outputs were i) a rehabilitated South Tarawa highway and provisions like feeder roads, footpaths for cyclists and walkers, and bus shelters, and ii) strengthened capacities of local communities in road maintenance for road safety and sustainability.  
 
