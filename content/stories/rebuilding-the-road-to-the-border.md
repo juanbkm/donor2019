@@ -6,7 +6,7 @@ image_caption: "Mirror, mirror, on the road: Spherical convex mirrors on Tajikis
 author: Admin
 description: "This is meta description"
 country: Tajikistan
-summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. The new road links to a transport corridor supporting regional trade and cooperation. "
+summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the OPEC Fund for International Development, the new road links to a cross-country highway that serves as conduit for trade goods."
 project_title: "Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni–Uzbekistan Border Road) Improvement Project"
 partners:
   - "OPEC Fund for International Development - $14 million"
@@ -17,26 +17,25 @@ categories: [ "Regional Cooperation and Integration​" ]
 draft: false
 ---
 ### Partnership Results
-{{< rawhtml >}}
-    <ul class="dr-results">
-	<li><i class="icon-check-circle"></i> 112.7 kilometers of road rehabilitated</li>
-	<li><i class="icon-check-circle"></i> 60 kilometers of village feeder roads constructed</li>
-	<li><i class="icon-check-circle"></i> 31 bridges rehabilitated</li>
-	<li><i class="icon-check-circle"></i> National Road Safety Strategy and Action Plan developed and implemented</li>
-	<li><i class="icon-check-circle"></i> Sarazm border-crossing point constructed</li>
-	<li><i class="icon-check-circle"></i> Reduced travel time from Ayni to the Uzbekistan border from 3.5 hours to 1.4 hours for cars and taxis and 1.8 hours for buses and trucks</li>
+
+<ul class="dr-results">
+<li><i class="icon-check-circle"></i> 112.7 kilometers of road rehabilitated</li>
+<li><i class="icon-check-circle"></i> 60 kilometers of village feeder roads constructed</li>
+<li><i class="icon-check-circle"></i> 31 bridges rehabilitated</li>
+<li><i class="icon-check-circle"></i> National Road Safety Strategy and Action Plan developed and implemented</li>
+<li><i class="icon-check-circle"></i> Sarazm border-crossing point constructed</li>
+<li><i class="icon-check-circle"></i> Reduced travel time from Ayni to the Uzbekistan border from 3.5 hours to 1.4 hours for cars and taxis and 1.8 hours for buses and trucks</li>
 </ul>
-{{< /rawhtml >}}
 
 ### Background
 
-Land travel in Sughd, Tajikistan’s westernmost province, used to pose many challenges. From the town of Ayni, north of the capital Dushanbe, drivers had to pass through the isolated Zarafshan Valley region—its bad roads, mountainous terrain, mudflows, and even avalanches during the winter—to reach the city of Panjakent on to the Sarazm border post near Uzbekistan. About 300,000 people in the region had limited access to schools, hospitals, and markets. Developing industries was also difficult, be it agriculture, mining, tourism, or others.
+Land travel in Sughd, Tajikistan’s westernmost province, used to be very difficult. From the town of Ayni, north of the capital Dushanbe, drivers had to pass through the isolated Zarafshan Valley region—with its bad roads, mountainous terrain, mudflows, and even avalanches during the winter—to reach the city of Panjakent on to the Sarazm border post near Uzbekistan. About 300,000 people in the region had limited access to schools, hospitals, and markets. Creating jobs was also difficult, be it in agriculture, mining, tourism, or other sectors. 
 
 Across the border in Uzbekistan, the road links with the city of Samarkand, an ancient trade connection that dates to the historic Silk Road.
 
 In 2010, the border was closed.
 
-In 2012, ADB approved the [Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni-Uzbekistan Border Road) Improvement Project](https://www.adb.org/projects/45432-002/main) to reconnect the isolated Zarafshan Valley region to markets, schools, and public services. Cofinanced with the OPEC Fund for International Development, the project was developed under ADB’s [Central Asia Regional Economic Cooperation](https://www.adb.org/countries/subregional-programs/carec) (CAREC) Program, which promotes the establishment of regional transport corridors that would link economic hubs with each other and with the larger Asian, European, and global markets. The Ayni-Uzbekistan border road is a crucial part of [CAREC Corridor 6](https://www.adb.org/projects/45432-002/main), which would provide landlocked Central Asian countries with vital access to the shipping ports in Iran and Pakistan.
+To spur development and job creation in Sughd province, a significant improvement in the road network was critical. This was the objective of ADB’s [Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni-Uzbekistan Border Road) Improvement Project](https://www.adb.org/projects/45432-002/main) approved in 2012. The project reconnected the isolated Zarafshan Valley region to markets, schools, and public services. Cofinanced with the OPEC Fund for International Development, the project was developed under ADB’s [Central Asia Regional Economic Cooperation](https://www.adb.org/countries/subregional-programs/carec) (CAREC) Program, which promotes the establishment of regional transport corridors that would link economic hubs with each other and with the larger Asian, European, and global markets. The Ayni-Uzbekistan border road is a crucial part of [CAREC Corridor 6](https://www.adb.org/projects/45432-002/main), which would provide landlocked Central Asian countries with vital access to the shipping ports in Iran and Pakistan.
 
 ### Interventions
 
@@ -53,9 +52,11 @@ At the Sarazm border post, new facilities provide comfort and ease to tourists�
 
 ### Results
 
-Shops, street vendors, and a small hotel have sprouted along the rehabilitated road. The roadside has been bustling with activity as more tourists visit. Taxi drivers and small businesses have more customers. The new road has made land travel faster, safer, and cheaper.
+The new road has made land travel faster, safer, and cheaper. 
+ 
+Travel time from Ayni to the Uzbekistan border has been reduced from 3.5 hours to 1.4 hours for cars and taxis and 1.8 hours for buses and trucks.  
 
-Travel time from Ayni to the Uzbekistan border has been reduced from 3.5 hours to 1.4 hours for cars and taxis and 1.8 hours for buses and trucks.
+Shops, street vendors, and a small hotel have sprouted along the rehabilitated road. The roadside has been bustling with activity as more tourists visit. Taxi drivers and small businesses have more customers. The new road has made land travel faster, safer, and cheaper.
 
 {{< dr-quote align="right" quote="I used to spend 7-8 hours on the road between Dushanbe and Panjakent, Now, I can make the trip in 4 hours thanks to the improved road." source="Hikmat Sanginov" >}}
 
@@ -69,7 +70,7 @@ In the past, Hikmat never traveled to the Uzbek border, as the border was closed
 
 The Hotel Umariyon at the center of Panjakent, owned by a local entrepreneur, opened in 2015 in anticipation of increased tourist activity.
 
-“The hotel opened about 3 years ago, when the road was just being improved,” Komron Mukaramov, 34, and hotel administrator at Umariyon, said as he attended to guests, locals and foreigners, who had come to visit ancient Panjakent. With the opening of the border, the hotel has since expanded, adding a second floor. “We have 30 rooms now,” Komron said.
+“The hotel opened when the road was just being improved,” Komron Mukaramov, 34, and hotel administrator at Umariyon, said as he attended to guests, locals and foreigners, who had come to visit ancient Panjakent. With the opening of the border, the hotel has since expanded, adding a second floor. “We have 30 rooms now,” Komron said.
 
 Komron is pleased with the border reopening, not only because it brings more tourists to his hotel. “I bring one of my sons to Samarkand for regular medical treatment,” Komron explained.
 
