@@ -1,6 +1,6 @@
 ---
 title: "Wind Power for Energy Efficiency and Security"
-date: 2020-04-25T00:20:33+08:00
+date: 2020-04-30T17:47:33+08:00
 image: images/stories/rebuilding-the-road-to-the-border.jpg
 image_caption: "Wheel within a Wheel. Sri Lanka is planning to build a wind farm by 2022 and has undertaken meticulous preparations for harvesting power from winds."
 author: Admin
@@ -47,8 +47,8 @@ The technical assistance supported a capacity building program for CEB staff to 
  
 To help prepare the CEB in facilitating public-private partnerships, the technical assistance supported the CEB in:
 
-* Preparing procurement packages and relevant bidding documents for the proposed CEB wind power generation, and competitive bidding documents for private sector participation; and
-* Preparing a road map and options for private sector involvement in further developing renewable energy sources in the country.
+<li><i class="icon-check-circle"></i> Preparing procurement packages and relevant bidding documents for the proposed CEB wind power generation, and competitive bidding documents for private sector participation; and</li>
+<li><i class="icon-check-circle"></i> Preparing a road map and options for private sector involvement in further developing renewable energy sources in the country.</li>
 
 ### Results
 
