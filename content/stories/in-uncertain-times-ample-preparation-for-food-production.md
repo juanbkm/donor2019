@@ -1,20 +1,28 @@
 ---
 title: "In Uncertain Times, Ample Preparation for Food Production"
 date: 2020-04-30T17:47:33+08:00
-image: images/stories/rebuilding-the-road-to-the-border.jpg
+image: images/stories/in-uncertain-times-ample-preparation-for-food-production.jpg
 image_caption: "Worried about Water. Farmers in Bangladesh, like this one tilling her field, face escalating flood and drought risks."
+image_thumb: images/stories/in-uncertain-times-ample-preparation-for-food-production-th.jpg
 author: Admin
 description: "This is meta description"
 country: Bangladesh
 summary: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnerships Facility, through The Netherlands Trust Fund, is supporting the preparations."
 project_title: "Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project"
-partners:
-  - "ADB - US$500,000"
-  - "The Netherlands Trust Fund under the Water Financing Partnerships Facility - $750,000"
+project_url: https://www.adb.org/projects/53237-002/main
+cost: "US$1.25 million"
+fund_source: 
+  - name: "ADB"
+    amount: "US$500,000"
+fin_partners:
+  - name: "The Netherlands Trust Fund under the Water Financing Partnerships Facility"
+    amount: "$750,000"
 approval: "December 2019"
 completion: "November 2020"
-cost: "US$1.25 million"
 categories: [ "Rural Development and Food Security", "Climate Change" ]
+filter:
+  - "dr-rural"
+  - "dr-climate"
 draft: false
 ---
 ### Partnership Results
@@ -31,7 +39,7 @@ Farmers in Bangladesh face escalating flood and drought risks. The country is on
 
 ADB is proposing a $100 million investment, the [Bangladesh: Climate and Disaster Resilient Small-Scale Water Resources Management Project](https://www.adb.org/projects/53237-001/main), which will build on a series of successful projects since 1996 that have enabled better rural water management and crop production technologies to increase productivity, improve nutrition, and safeguard rural livelihoods. Small-scale water resources pertain to a net beneficiary area of less than 1,000 hectares. The continuous investments, in cooperation with the Netherlands and the International Fund for Agriculture Development (IFAD), have led to 845 subprojects throughout the country.
 
-The Water Financing Partnerships Facility (WFPF), through The Netherlands Trust Fund, is supporting the [technical assistance](https://www.adb.org/projects/53237-002/main) that will prepare the proposed project. For the new iteration, the project will add a crucial element for the changing times: enhancing resilience by incorporating climate proofing measures to water infrastructure and encouraging the use of climate- and disaster-tolerant crops and cropping practices. 
+The Water Financing Partnerships Facility (WFPF), through The Netherlands Trust Fund, is supporting the [technical assistance](https://www.adb.org/projects/53237-002/main) that will prepare the proposed project. For the new iteration, the project will add a crucial element for the changing times: enhancing resilience by incorporating climate proofing measures to water infrastructure and encouraging the use of climate- and disaster-tolerant crops and cropping practices.
 
 Bangladesh’s low-lying location, lack of control over the flows of transboundary rivers, and high density make it especially susceptible to the effects of climate change. More and prolonged extreme weather events affect water availability and quality, and damage farmers’ yield. Given that 80% of the population live in rural areas and depend on agriculture and related nonfarm activities, the concern is huge.
 

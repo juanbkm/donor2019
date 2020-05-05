@@ -4,10 +4,11 @@
         
         h2 {
             color: darken($adb-dr-gray, 10%);
-            font-size: 84px;
+            font-size: 78px;
             font-weight: 400;
             line-height: 1;
             margin: 0;
+            margin-bottom: 10px;
         }
         h3 {
             border-bottom: 1px solid lighten($adb-dr-gray, 40%);
@@ -75,6 +76,12 @@
             font-size: 1rem;
             line-height: 1.8rem;
         }
+        .dr-funding {
+            margin-bottom: 20px;
+            li {
+                margin-left: 20px;
+            }
+        }
     }
     .dr-story-content {
         padding: 40px 0;
@@ -99,17 +106,32 @@
             line-height: 1.8;
             margin: 0 0 $margin-big/2 0;
         }
+        ul {
+            margin-left: 20px;
+        }
         .dr-results {
             display: grid;
-            grid-template-columns: 33% 33% 33%;
-            grid-gap: 1em;
+            grid-template-columns: 1fr 1fr 1fr;
+            grid-gap: 3em;
             li {
                 font-size: 1.2rem;
                 list-style: none;
+                margin-right: 10px;
             }
             i {
                 color: $adb-accent-orange;
+                margin-left: -25px;
             }
+        }
+    }
+    .dr-yt {
+        .before-heading {
+            display: block;
+            margin: 0 0 5px;
+            color: darken($adb-dr-gray, 10%);
+            font-size: 18px;
+            font-weight: 400;
+            font-family: $heading-font;
         }
     }
 }

@@ -3,11 +3,28 @@
         <div class="container clearfix">
             {{- partial "sectiontitle.html" . -}}
            
+            <ul class="portfolio-filter clearfix" data-container="#portfolio">
+
+                <li class="activeFilter"><a href="#" data-filter="*">Show All</a></li>
+                <li><a href="#" data-filter=".dr-climate">Climate Change</a></li>
+                <li><a href="#" data-filter=".dr-gender">Gender Equity</a></li>
+                <li><a href="#" data-filter=".dr-governance">Governance</a></li>
+                <li><a href="#" data-filter=".dr-livable">Livable Cities</a></li>
+                <li><a href="#" data-filter=".dr-poverty">Poverty</a></li>
+                <li><a href="#" data-filter=".dr-regional">Regional Cooperation and Integration</a></li>
+                <li><a href="#" data-filter=".dr-rural">Rural Development</a></li>
+                
+            </ul>
+            
+            <div class="portfolio-shuffle" data-container="#portfolio">
+                <i class="icon-random"></i>
+            </div>
+            <div class="clear"></div>
             <!-- Portfolio Items
             ============================================= -->
             <div id="portfolio" class="portfolio grid-container portfolio-1 clearfix">
                 {{ range .Pages }}
-                <article class="portfolio-item pf-media pf-icons clearfix">
+                <article class="portfolio-item {{ range .Params.filter }}{{ . }} {{ end }} clearfix">
                     <div class="portfolio-image">
                         <a href="{{.Permalink}}">
                             <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" alt="">
@@ -18,12 +35,15 @@
                         </div>
                     </div>
                     <div class="portfolio-desc">
-                        <p class="dr-country">Country: {{ .Params.country }} </p>
-                        <p class="dr-categories">Topics: {{ range .Params.categories }}{{ . }}{{ end }} </p>
+                        <p class="dr-country">{{ .Params.country }} </p>
+                        <p class="dr-categories">{{ delimit .Params.categories ", " }}</p>
                         <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
                         <p>{{.Summary}}</p>
-                        
-                        <a href="{{.Permalink}}" class="button button-3d noleftmargin">Read the story</a>
+                        <h6>Financing Partner​</h6>
+                            <ul class="iconlist">
+                                {{ range .Params.fin_partners}}<li><i class="icon-ok"></i> {{ .name }}</li>{{ end }}
+                            </ul>
+                        <!-- <a href="{{.Permalink}}" class="button button-3d noleftmargin">Read the story</a> -->
                     </div>
                 </article>
                 {{ end }}

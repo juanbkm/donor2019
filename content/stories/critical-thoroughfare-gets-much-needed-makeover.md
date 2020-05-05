@@ -9,14 +9,23 @@ description: "This is meta description"
 country: Kiribati
 summary: "After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the World Bank, Government of Australia, and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape. "
 project_title: "Kiribati: Road Rehabilitation Project"
-partners: 
-  - "World Bank, US$26.97 million"
-  - "Government of Australia, US$18.86 million"
-  - "Government of Kiribati, US$6.83 million"
+project_title: https://www.adb.org/projects/44281-013/main#project-pds
+cost: "US$76.06 million"
+fund_source: 
+  - name: "ADB"
+    amount: "US$23.4 million"
+  - name: "Government of Kiribati"
+    amount: "US$6.83 million"
+fin_partners: 
+  - name: "World Bank"
+    amount: "US$26.97 million"
+  - name: "Government of Australia"
+    amount: "US$18.86 million"
 approval: "December 2015"
 completion: "May 2017"
-cost: ""
 categories: [ "Governance" ]
+filter:
+  - "dr-governance"
 draft: false
 ---
 

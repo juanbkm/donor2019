@@ -8,12 +8,20 @@ description: "This is meta description"
 country: Tajikistan
 summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the OPEC Fund for International Development, the new road links to a cross-country highway that serves as conduit for trade goods."
 project_title: "Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni–Uzbekistan Border Road) Improvement Project"
-partners:
-  - "OPEC Fund for International Development - $14 million"
+cost: "$136 million"
+fund_source: 
+  - name: "Government of Tajikistan"
+    amount: "$22 million"
+fin_partners:
+  - name: "OPEC Fund for International Development"
+    amount: "$14 million (Loan)"
+  - name: "Asian Development Fund"
+    amount: "$100 million (Grant)"
 approval: "September 2012"
 completion: "August 2017"
-cost: "$136 million"
 categories: [ "Regional Cooperation and Integration​" ]
+filter:
+  - "dr-regional"
 draft: false
 ---
 ### Partnership Results
@@ -29,7 +37,7 @@ draft: false
 
 ### Background
 
-Land travel in Sughd, Tajikistan’s westernmost province, used to be very difficult. From the town of Ayni, north of the capital Dushanbe, drivers had to pass through the isolated Zarafshan Valley region—with its bad roads, mountainous terrain, mudflows, and even avalanches during the winter—to reach the city of Panjakent on to the Sarazm border post near Uzbekistan. About 300,000 people in the region had limited access to schools, hospitals, and markets. Creating jobs was also difficult, be it in agriculture, mining, tourism, or other sectors. 
+Land travel in Sughd, Tajikistan’s westernmost province, used to be very difficult. From the town of Ayni, north of the capital Dushanbe, drivers had to pass through the isolated Zarafshan Valley region—with its bad roads, mountainous terrain, mudflows, and even avalanches during the winter—to reach the city of Panjakent on to the Sarazm border post near Uzbekistan. About 300,000 people in the region had limited access to schools, hospitals, and markets. Creating jobs was also difficult, be it in agriculture, mining, tourism, or other sectors.
 
 Across the border in Uzbekistan, the road links with the city of Samarkand, an ancient trade connection that dates to the historic Silk Road.
 
@@ -45,15 +53,14 @@ The rehabilitation and upgrading of 112.7 kilometers of the Ayni–Uzbekistan bo
 
 An important part of the project is the development of a National Road Safety Strategy and Action Plan and the conduct of road safety audits, which allayed concerns about increased frequency of road accidents. Road maintenance vehicles and equipment were also procured, and public information campaigns and trainings were conducted.
 
-{{< youtube 0Q9B9BTfarg >}}
-
+{{< dr-yt video="S0nx3WnI_Ys" title="Rebuilding the Road to the Border" cover="cover-yt-rebuilding-the-road-to-the-border.jpg" >}}
 
 At the Sarazm border post, new facilities provide comfort and ease to tourists─a new administrative building, a new customs control building, two new checkpoints, gender-friendly toilet facilities, parking lots, street lighting, and landscaping.
 
 ### Results
 
-The new road has made land travel faster, safer, and cheaper. 
- 
+The new road has made land travel faster, safer, and cheaper.
+
 Travel time from Ayni to the Uzbekistan border has been reduced from 3.5 hours to 1.4 hours for cars and taxis and 1.8 hours for buses and trucks.  
 
 Shops, street vendors, and a small hotel have sprouted along the rehabilitated road. The roadside has been bustling with activity as more tourists visit. Taxi drivers and small businesses have more customers. The new road has made land travel faster, safer, and cheaper.
@@ -66,9 +73,11 @@ In 2018, the border was reopened.
 
 In the past, Hikmat never traveled to the Uzbek border, as the border was closed. With the improved road, he now drives passengers from the Sarazm border post to Panjakent and Dushanbe and back. “It’s a win-win situation for taxi drivers and passengers,” Hikmat said.
 
-{{< dr-storyimage src="images/stories/rebuilding-the-road-to-the-border.jpg" align="" alt="lorem ipsum" caption="This a caption for the picture" >}}
+{{< dr-storyimage src="images/stories/rebuilding-the-road-to-the-border-2.jpg" align="" alt="" caption="" >}}
 
 The Hotel Umariyon at the center of Panjakent, owned by a local entrepreneur, opened in 2015 in anticipation of increased tourist activity.
+
+{{< dr-quote align="left" quote="The hotel opened when the road was just being improved, We have 30 rooms now" source="Komron Mukaramov" >}}
 
 “The hotel opened when the road was just being improved,” Komron Mukaramov, 34, and hotel administrator at Umariyon, said as he attended to guests, locals and foreigners, who had come to visit ancient Panjakent. With the opening of the border, the hotel has since expanded, adding a second floor. “We have 30 rooms now,” Komron said.
 
