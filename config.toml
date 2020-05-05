@@ -61,9 +61,9 @@ title = "Donor Report 2019"
   weight  = 8
 
 [[menu.main]]
-  identifier = "historical-data"
-  name = "Data"
-  url = "/historical-data/"
+  identifier = "lists"
+  name = "Lists"
+  url = "/lists/"
   weight  = 9
 
 
