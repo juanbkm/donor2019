@@ -55,9 +55,9 @@ title = "Donor Report 2019"
   weight  = 7
 
 [[menu.main]]
-  identifier = "partnership-approaches"
-  name = "Approaches"
-  url = "/partnership-approaches/"
+  identifier = "modalities"
+  name = "Modalities"
+  url = "/modalities/"
   weight  = 8
 
 [[menu.main]]
