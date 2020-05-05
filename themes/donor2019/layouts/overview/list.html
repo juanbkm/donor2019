@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+
+        <div class="container clearfix">
+            {{- partial "sectiontitle.html" . -}}
+            <div class="row">
+                <div class="col">
+                    {{ range .Pages }}
+                        {{ .Content }}
+                    {{ end }}
+
+                </div>
+            </div>
+        </div>
+
+    
+
+{{ end }}
