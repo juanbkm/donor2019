@@ -1,11 +1,9 @@
 ---
-title: "Overview"
+title: "Building Strong Partnerships for Shared Progress"
 date: 2020-05-05T21:38:26+08:00
 weight: 
 draft: false
 ---
-
-### Building Strong Partnerships for Shared Progress
 
 Strategy 2030 works to eradicate extreme poverty while expanding its vision of a prosperous, inclusive, resilient, and sustainable Asia and the Pacific. Financing partnerships are critical to delivering this vision.
 

@@ -4,10 +4,106 @@
         <div class="container clearfix">
             {{- partial "sectiontitle.html" . -}}
             <div class="row">
-                <div class="col">
+                <div class="col dr-article-body">
+                    <h2>{{ range .Pages }}{{ .Title }}{{ end }}</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-9 dr-article-body">
                     {{ range .Pages }}
                         {{ .Content }}
                     {{ end }}
+                </div>
+                <div class="col-md-3">
+                    <h3>2019 Timeline</h3>
+
+                    <ul class="timeline">
+                      <li>
+                        <div class="timeline-badge"></div>
+                    
+                      </li>
+          
+                      <li>
+                        <div class="timeline-badge primary"><a class="tooltipper" data-tooltip-content="#feb"></a></div>
+                        <div class="timeline-panel">
+                          <div class="timeline-body">
+                            <p>FEB</p>
+                          </div>
+                        </div>
+                      </li>
+                      <div class="tooltip_templates">
+                        <div class="tooltip-content" id="feb">   
+                          <div class="tt-body">
+                            <div>
+                              <h6>February</h6>
+                              <img src="images/sample.jpg" />
+                              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div><!--/tooltip_templates-->
+                      <li>
+                        <div class="timeline-badge primary"><a class="tooltipper" data-tooltip-content="#mar"></a></div>
+                        <div class="timeline-panel">
+                          <div class="timeline-body">
+                            <p>Mar</p>
+                          </div>
+                        </div>
+                      </li>
+                      <div class="tooltip_templates">
+                        <div class="tooltip-content" id="mar">   
+                          <div class="tt-body">
+                            <div>
+                              <h6>March</h6>
+                              <img src="images/sample.jpg" />
+                              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div><!--/tooltip_templates-->
+                      <li>
+                        <div class="timeline-badge"></div>
+                      </li>
+                      <li>
+                        <div class="timeline-badge primary"><a class="tooltipper" data-tooltip-content="#may"></a></div>
+                        <div class="timeline-panel">
+                          <div class="timeline-body">
+                            <p>May</p>
+                          </div>
+                        </div>
+                        <div class="tooltip_templates">
+                        <div class="tooltip-content" id="may">   
+                          <div class="tt-body">
+                            <div>
+                              <h6>May</h6>
+                              <img src="images/sample.jpg" />
+                              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div><!--/tooltip_templates-->
+                      </li>
+                      <li>
+                        <div class="timeline-badge"></div>
+                      </li>
+                      <li>
+                        <div class="timeline-badge primary"><a class="tooltipper" data-tooltip-content="#jul"></a></div>
+                        <div class="timeline-panel">
+                          <div class="timeline-body">
+                            <p>July</p>
+                          </div>
+                        </div>
+                        <div class="tooltip_templates">
+                        <div class="tooltip-content" id="jul">   
+                          <div class="tt-body">
+                            <div>
+                              <h6>July</h6>
+                              <img src="images/sample.jpg" />
+                              <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div><!--/tooltip_templates-->
 
                 </div>
             </div>

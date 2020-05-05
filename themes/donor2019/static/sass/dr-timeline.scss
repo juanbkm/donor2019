@@ -1,0 +1,104 @@
+.timeline {
+  list-style: none;
+  padding: 20px 0 20px;
+  position: relative;
+}
+.timeline:before {
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  content: " ";
+  width: 3px;
+  background-color: #eeeeee;
+  right: 9px;
+  margin-left: -1.5px;
+}
+.timeline > li {
+  margin-bottom: 190px;
+  position: relative;
+}
+.timeline > li:before,
+.timeline > li:after {
+  content: " ";
+  display: table;
+}
+.timeline > li:after {
+  clear: both;
+}
+.timeline > li:before,
+.timeline > li:after {
+  content: " ";
+  display: table;
+}
+.timeline > li:after {
+  clear: both;
+}
+.timeline > li > .timeline-panel {
+  width: 80px;
+  float: right;
+  position: relative;
+}
+
+.timeline > li > .timeline-panel:before {}
+.timeline > li > .timeline-panel:after {}
+
+.timeline > li > .timeline-badge {
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  position: absolute;
+  top: 5px;
+  right: 0px;
+  margin-left: -25px;
+  background-color: #ffffff;
+  z-index: 100;
+  border: 3px solid #eeeeee;
+  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+
+.timeline > li > .timeline-badge a {
+  display: block;
+  width: 14px;
+  height: 14px;
+  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+
+.timeline > li > .timeline-badge a:hover {
+  background-color: #e75024; 
+}
+
+.timeline-badge.primary {
+  background-color: #eeeeee !important;
+}
+
+.timeline-body > p,
+.timeline-body > ul {
+  margin-bottom: 0;
+}
+.timeline-body > p + p {
+  margin-top: 5px;
+}
+
+
+.tooltip_templates {
+  display: none;
+
+}
+
+.tooltip-content .tt-body div
+{
+  display: block;
+  width: 300px;
+}
+
+.tooltip-content .tt-body div img 
+{
+  width: 100%;
+  height: auto;
+}
