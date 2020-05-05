@@ -25,9 +25,9 @@ title = "Donor Report 2019"
   weight  = 2
 
 [[menu.main]]
-  identifier = "cofinancing-highlights"
-  name = "Highlights"
-  url = "/cofinancing-highlights/"
+  identifier = "data"
+  name = "Data"
+  url = "/data/"
   weight  = 3
 
 [[menu.main]]
