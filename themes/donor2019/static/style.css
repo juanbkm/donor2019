@@ -260,7 +260,7 @@ li {
   font-weight: 400;
   line-height: 1;
   margin: 0;
-  margin-bottom: 10px; }
+  margin-bottom: 80px; }
 
 /* line 28, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/typography.scss */
 .dr-article-body h3 {
@@ -268,7 +268,7 @@ li {
   text-align: center;
   text-transform: uppercase;
   font-weight: 300;
-  letter-spacing: .8rem;
+  letter-spacing: .4rem;
   color: #556773;
   margin-top: 80px; }
 
@@ -10000,6 +10000,31 @@ td.actions {
         margin-right: -10% !important; } }
   /* line 156, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
   .dr-story-image .dr-caption {
+    font-style: italic;
+    padding: 10px; }
+
+/* line 162, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+.dr-art-image {
+  margin: 80px 0;
+  width: 100%; }
+  /* line 165, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-art-image.float-left {
+    width: 50%;
+    margin-left: 0; }
+    @media (min-width: 992px) {
+      /* line 165, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+      .dr-art-image.float-left {
+        margin-left: -10% !important; } }
+  /* line 172, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-art-image.float-right {
+    width: 50%;
+    margin-right: 0; }
+    @media (min-width: 992px) {
+      /* line 172, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+      .dr-art-image.float-right {
+        margin-right: -10% !important; } }
+  /* line 179, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/stories.scss */
+  .dr-art-image .dr-caption {
     font-style: italic;
     padding: 10px; }
 
