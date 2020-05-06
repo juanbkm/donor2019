@@ -1,4 +1,8 @@
 <section id="dr-where">
+  <div class="row">
+    <div class="col-sm-3"></div>
+    <div class="col-sm-9"><h3 class="dr-qt">Where <em>did the funds go?</em></h3></div>
+  </div>
 <div class="row py-lg-5">
   <div class="col-sm-3 dr-hl-side">
 
@@ -12,14 +16,10 @@
     {{ "<!-- /side nav -->" | safeHTML }}
   </div>
   <div class="col-sm-9 px-lg-5">
-    <h3 class="dr-qt">Where <em>did the funds go?</em></h3>
     {{ "<!-- tab content -->" | safeHTML }}
     <div class="tab-content" id="v-pills-tabContent">
-      <div class="tab-pane fade active show" id="v-pills-dmc" role="tabpanel" aria-labelledby="v-pills-dmc-tab">
-        <h4>by Developing Member Country</h4>
-        <p>Volume-wise, the top 3 countries, each with commitment beyond half a mllion US$, account for 41% of sovereign cofinancing.</p>
-
-        <p>Mongolia had the most number of cofinanced projects, 22, followed by Indonesia at 10, Pakistan at 9, and India at 8 projects.</p>
+      <div class="tab-pane fade" id="v-pills-dmc" role="tabpanel" aria-labelledby="v-pills-dmc-tab">
+        <p>Of the 148 cofinancing activities, 55 covered multiple DMCs. This was followed by 22 projects specifically for Mongolia, 10 for Indonesia, 9 for Pakistan, and 8 for India.  Volume-wise, the top 3 countries, each with cofinancing commitment going beyond half a mllion US$, were the Philippines, Indonesia, and India. Collectively, the cofinancing commitment for projects in these countries account for 41% of sovereign cofinancing for 2019.</p>
 
 
         <ul class="chart nav nav-pills">
@@ -140,12 +140,8 @@
           
         </div><!--/chart-content-->
       </div>
-      <div class="tab-pane fade" id="v-pills-region" role="tabpanel" aria-labelledby="v-pills-region-tab">
-        <h4>by Region</h4>
-        <p>Region X accounted for the biggest jump from 2018 figures, helped largely by projects Y & Z</p>
-
-        <p>Based on the new cofinancing definition, 2 CWRD projects were not counted as cofinancing–The $1.3 billion from IMP for the PAK Economic Stabilization Program</p>
-
+      <div class="tab-pane fade active show" id="v-pills-region" role="tabpanel" aria-labelledby="v-pills-region-tab">
+        
         <ul class="chart nav" id="region-chart">
           <li style="width: 54%;"><a href="#region-1" data-target=".region-1, .regionc-1" data-toggle="tab">$2.66 billion - Southeast Asia | 33 Projects</a></li>
           <li style="width: 23%;"><a href="#region-2" data-target=".region-2, .regionc-2" data-toggle="tab">$1.12 billion - South Asia | 22 Projects</a></li>
@@ -155,13 +151,9 @@
           <li style="width: 2%;"><a href="#region-6" data-target=".region-6, .regionc-6" data-toggle="tab">$84.12 million - Across Regions | 30 projects </a></li>
           
         </ul>
-
-
         <div class="chart-content region-chart tab-content">
-
           <div class="tab-pane fade body-tab region-1" id="region-1">
-
-            <div style="width: 50%;">
+            <div style="row">
               <div class="dr-region">
                 <p><span class="dr-amount">$2.66 billion</span> 
                   <span  class="dr-area">Southeast Asia</span> 
@@ -169,8 +161,6 @@
               </div>
               <p class="dr-percent">54%</p>
             </div>
-
-            <div style="clear: both;"><img src="images/serd.png" class="img-fluid" alt="Responsive image"></div>
 
           </div>
 

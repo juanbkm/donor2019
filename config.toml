@@ -21,7 +21,7 @@ title = "Donor Report 2019"
 [[menu.main]]
   identifier = "overview"
   name = "Overview"
-  url = "/overview"
+  url = "/overview/"
   weight  = 2
 
 [[menu.main]]

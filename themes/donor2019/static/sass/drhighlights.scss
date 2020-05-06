@@ -21,24 +21,25 @@
 .dr-qt {
   font-weight: 700;
   font-size: 6rem;
-  line-height: 1;
-  margin: 0 0 20px 0;
+  line-height: .5;
+  margin: 0 0 0 0;
   padding: 0;
   position: relative;
   em {
     color: $adb-gray-three;
-    display: block;
+    font-style: normal;
     font-size: 3rem;
-    width: 70%;
-    position: absolute;
-    top: 0;
-    right: 0;
+    font-weight: 300;
   }
 }
 
+
 .chart-content {
   width: 100%;
+  margin: 0;
+  padding: 0;
   padding-top: 20px;
+
   .dr-typeof,
   .dr-dmc,
   .dr-region,
@@ -111,6 +112,21 @@
     height: 13vh; 
     width: 1px; 
     background-color: $adb-gray-three;
+  }
+  p {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  .dr-amount {
+    font-size: .8rem !important;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    display: block;
+  }
+  .dr-partner {
+    display: block;
+    font-weight: 700;
   }
 }
 

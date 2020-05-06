@@ -9399,32 +9399,31 @@ td.actions {
 .dr-qt {
   font-weight: 700;
   font-size: 6rem;
-  line-height: 1;
-  margin: 0 0 20px 0;
+  line-height: .5;
+  margin: 0 0 0 0;
   padding: 0;
   position: relative; }
   /* line 28, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-qt em {
     color: #dddddd;
-    display: block;
+    font-style: normal;
     font-size: 3rem;
-    width: 70%;
-    position: absolute;
-    top: 0;
-    right: 0; }
+    font-weight: 300; }
 
-/* line 39, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 37, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .chart-content {
   width: 100%;
+  margin: 0;
+  padding: 0;
   padding-top: 20px; }
-  /* line 42, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 43, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .chart-content .dr-typeof,
   .chart-content .dr-dmc,
   .chart-content .dr-region,
   .chart-content .dr-sectors {
     float: left;
     width: 60%; }
-    /* line 48, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+    /* line 49, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
     .chart-content .dr-typeof .dr-amount,
     .chart-content .dr-dmc .dr-amount,
     .chart-content .dr-region .dr-amount,
@@ -9432,14 +9431,14 @@ td.actions {
       font-size: 2rem !important;
       line-height: 1;
       display: block; }
-    /* line 53, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+    /* line 54, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
     .chart-content .dr-typeof .dr-partner,
     .chart-content .dr-dmc .dr-partner,
     .chart-content .dr-region .dr-partner,
     .chart-content .dr-sectors .dr-partner {
       display: block;
       font-weight: 700; }
-    /* line 57, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+    /* line 58, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
     .chart-content .dr-typeof .dr-country,
     .chart-content .dr-typeof .dr-sector,
     .chart-content .dr-dmc .dr-country,
@@ -9450,7 +9449,7 @@ td.actions {
     .chart-content .dr-sectors .dr-sector {
       font-weight: 700;
       display: block; }
-    /* line 62, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+    /* line 63, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
     .chart-content .dr-typeof .dr-area,
     .chart-content .dr-dmc .dr-area,
     .chart-content .dr-region .dr-area,
@@ -9458,14 +9457,14 @@ td.actions {
       font-weight: 700;
       display: block;
       color: #00B6C9; }
-  /* line 68, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 69, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .chart-content .dr-percent {
     float: right;
     line-height: 1 !important;
     font-size: 3rem;
     font-weight: 100; }
 
-/* line 77, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 78, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .chart,
 .openchart {
   margin: 0;
@@ -9474,7 +9473,7 @@ td.actions {
   width: 100%;
   height: 130px;
   background: #dddddd; }
-  /* line 85, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 86, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .chart li,
   .openchart li {
     margin: 0;
@@ -9483,12 +9482,12 @@ td.actions {
     height: 130px;
     list-style-type: none;
     border-right: 0.5vw solid #fff; }
-    /* line 92, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+    /* line 93, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
     .chart li:last-child,
     .openchart li:last-child {
       border-right: none; }
 
-/* line 100, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 101, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .chart-segment .chart-data::before {
   content: " ";
   display: block;
@@ -9496,7 +9495,7 @@ td.actions {
   width: 1px;
   background-color: #dddddd; }
 
-/* line 108, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 109, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .chart-segment .chart-data:before {
   content: "";
   display: block;
@@ -9504,14 +9503,32 @@ td.actions {
   width: 1px;
   background-color: #dddddd; }
 
-/* line 117, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 116, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+.chart-segment p {
+  margin: 0;
+  margin-bottom: 5px; }
+
+/* line 120, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+.chart-segment .dr-amount {
+  font-size: .8rem !important;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  display: block; }
+
+/* line 127, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+.chart-segment .dr-partner {
+  display: block;
+  font-weight: 700; }
+
+/* line 133, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .chart li a {
   display: block;
   height: 130px;
   background: none;
   color: transparent; }
 
-/* line 124, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 140, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .color-cyan li a:hover,
 .color-cyan li a:focus,
 .color-cyan li a.active,
@@ -9520,7 +9537,7 @@ td.actions {
 .chart li.color-cyan a.active {
   background: url(./images/dot-cyan.png) left top; }
 
-/* line 133, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 149, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .color-blue li a:hover,
 .color-blue li a:focus,
 .color-blue li a.active,
@@ -9530,15 +9547,15 @@ td.actions {
 .openchart li.color-blue {
   background: url(./images/dot-blue.png) left top; }
 
-/* line 143, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 159, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .openchart li.color-lightblue {
   background: url(./images/dot-lightblue.png) left top; }
 
-/* line 147, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 163, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .openchart li.color-lightgreen {
   background: url(./images/dot-lightgreen.png) left top; }
 
-/* line 151, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 167, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .color-green li a:hover,
 .color-green li a:focus,
 .color-green li a.active,
@@ -9548,7 +9565,7 @@ td.actions {
 .openchart li.color-green {
   background: url(./images/dot-green.png) left top; }
 
-/* line 161, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 177, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .color-dark-green li a:hover,
 .color-dark-green li a:focus,
 .color-dark-green li a.active,
@@ -9558,7 +9575,7 @@ td.actions {
 .openchart li.color-dark-green {
   background: url(./images/dot-dark-green.png) left top; }
 
-/* line 171, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 187, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .color-red li a:hover,
 .color-red li a:focus,
 .color-red li a.active,
@@ -9568,23 +9585,23 @@ td.actions {
 .openchart li.color-red {
   background: url(./images/dot-red.png) left top; }
 
-/* line 181, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 197, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .openchart li.color-lightred {
   background: url(./images/dot-lightred.png) left top; }
 
-/* line 185, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 201, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .chart-content {
   position: relative;
   width: 100%;
   min-height: 200px; }
-  /* line 189, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 205, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .chart-content .chart-segment {
     float: left; }
-    /* line 191, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+    /* line 207, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
     .chart-content .chart-segment p {
       font-size: 12px; }
 
-/* line 197, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 213, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .dr-fund-total {
   color: #dddddd;
   font-size: 124px;
@@ -9593,13 +9610,13 @@ td.actions {
   margin: 0;
   padding: 0;
   display: inline-block; }
-  /* line 205, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 221, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-fund-total em {
     font-size: 48px;
     font-weight: 200;
     font-style: normal;
     vertical-align: top; }
-  /* line 211, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 227, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-fund-total strong {
     display: block;
     font-weight: 700;
@@ -9609,23 +9626,23 @@ td.actions {
 /* ----------------------------------------------------------------
 	DR Who
 -----------------------------------------------------------------*/
-/* line 223, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 239, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-who .dr-qt {
   color: #eb6440; }
 
-/* line 227, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 243, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-who .chart li a:hover,
 #dr-who .chart li a:focus,
 #dr-who .chart li a.active {
   background-color: #eb6440; }
 
-/* line 232, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 248, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-who .dr-partner,
 #dr-who .dr-country,
 #dr-who .dr-sector {
   color: #eb6440; }
 
-/* line 237, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 253, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-who .openchart li a:hover,
 #dr-who .openchart li a:focus,
 #dr-who .openchart li a.active,
@@ -9635,11 +9652,11 @@ td.actions {
 /* ----------------------------------------------------------------
 	DR How
 -----------------------------------------------------------------*/
-/* line 249, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 265, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-how .dr-qt {
   color: #98cc52; }
 
-/* line 252, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 268, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-how .chart li a:hover,
 #dr-how .chart li a:focus,
 #dr-how .chart li a.active,
@@ -9648,17 +9665,17 @@ td.actions {
 #dr-how .openchart li a.active {
   background-color: #98cc52; }
 
-/* line 260, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 276, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-how .nav-link.active, #dr-how .show > .nav-link {
   color: #98cc52; }
 
 /* ----------------------------------------------------------------
 	DR Where
 -----------------------------------------------------------------*/
-/* line 269, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 285, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-where .dr-qt {
   color: #00B6C9; }
-  /* line 271, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 287, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   #dr-where .dr-qt em {
     color: #dddddd;
     display: block;
@@ -9668,27 +9685,27 @@ td.actions {
     top: 20px;
     right: 0; }
 
-/* line 281, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 297, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-where .chart li a:hover,
 #dr-where .chart li a:focus,
 #dr-where .chart li a.active {
   background-color: #00B6C9; }
 
-/* line 286, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 302, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-where .nav-link.active, #dr-where .show > .nav-link {
   color: #00B6C9; }
 
-/* line 289, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 305, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 #dr-where .dr-country,
 #dr-where .dr-sector {
   color: #00B6C9; }
 
-/* line 296, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 312, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .tab-content h4 {
   margin: 0;
   padding: 0; }
 
-/* line 302, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 318, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .dr-hl-title {
   font-weight: 700;
   font-size: 3rem;
@@ -9696,7 +9713,7 @@ td.actions {
   padding: 0;
   text-align: center; }
 
-/* line 310, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 326, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .dr-hl-total {
   font-size: 6rem;
   font-weight: 200;
@@ -9704,13 +9721,13 @@ td.actions {
   line-height: 1;
   text-align: right;
   margin-bottom: 20px; }
-  /* line 317, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 333, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-hl-total em {
     display: inline-block;
     font-size: 24px;
     vertical-align: text-top;
     margin-top: 20px; }
-  /* line 323, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 339, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-hl-total strong {
     font-weight: 100;
     display: block;
@@ -9718,33 +9735,33 @@ td.actions {
     vertical-align: text-top;
     text-align: right; }
 
-/* line 331, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 347, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .dr-hl-side {
   text-align: right;
   padding-left: 20px; }
-  /* line 334, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 350, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-hl-side h2 {
     font-weight: 300;
     font-size: 2rem;
     margin: 0 0 0 20px;
     padding: 0; }
-  /* line 340, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 356, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-hl-side h3 {
     font-weight: 200;
     font-size: 2rem;
     margin: 0;
     padding: 0; }
 
-/* line 347, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 363, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .dr-hl-group {
   padding: 0 40px; }
-  /* line 350, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 366, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-hl-group h3 {
     font-weight: 200;
     font-size: 2rem;
     margin: 0;
     padding: 0; }
-  /* line 356, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 372, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-hl-group a {
     font-weight: 200;
     font-size: 1.8rem;
@@ -9753,28 +9770,28 @@ td.actions {
     margin-bottom: 40px;
     padding: 0; }
 
-/* line 366, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 382, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .dr-question {
   font-weight: 300;
   font-size: 3rem;
   margin: 0 0 20px 0;
   padding: 0; }
 
-/* line 374, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 390, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .dr-ig img {
   height: 100px;
   width: auto;
   margin-right: 2px; }
 
-/* line 381, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+/* line 397, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
 .dr-ig-info {
   padding: 10px; }
-  /* line 383, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 399, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-ig-info .dr-ig-amt {
     display: inline-block;
     font-size: 24px;
     line-height: 1; }
-  /* line 391, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
+  /* line 407, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drhighlights.scss */
   .dr-ig-info .dr-ig-pr {
     display: inline-block;
     float: right;
