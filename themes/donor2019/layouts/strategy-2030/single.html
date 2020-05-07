@@ -21,9 +21,22 @@
                 <p class="lead">{{ .Params.lead }}</p>
             </div>
         </div>
+        <div class="row mb-5">
+            <div class="col-md-5 offset-1">
+                <div class=""><img src="{{ .Params.main_image }}" data-animate="fadeIn" data-delay="400" alt="" /></div>
+            </div>
+            <div class="col-md-5">
+                <div class="dr-op-box">
+                    <p>{{ .Params.op_intro }}</p>
+                    <ul class="iconlist">
+                        {{ range .Params.op }}<li><i class="icon-ok"></i> {{ .item }}</li>{{ end }}
+                    </ul>
+                </div>
+            </div>
+        </div>
         <div class="row dr-article-body">
             <div class="col-md-10 mx-auto">
-                <div class="dr-sector-img"><img src="{{ .Params.main_image_thumb }}" /></div>
+                
                 {{ .Content }}
             </div>
         </div>

@@ -1,0 +1,16 @@
+.dr-yt {
+  max-width: 80%;
+  margin: $margin-big auto;
+  &:after {
+    content: '';
+    display: block;
+    width: 100px;
+    border-top: 1px solid lighten($adb-dr-gray, 40%);
+    margin: $margin-big/2 auto $margin-big auto;
+  }
+  &.float-right {
+    float: right;
+    width: 50%;
+    margin: $margin-big/2 -25% $margin-big $margin-big;
+  }
+}

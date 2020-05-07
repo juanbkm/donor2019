@@ -1,9 +1,9 @@
 ---
 title: "Improving Urban Mobility in Congested Mumbai"
 date: 2020-04-24T11:43:16+08:05
-image: images/stories/the-importance-of-policy-in-alleviating-urban-poverty.jpg
-image_caption: "Threatened by climate change, the Pyanj River Basin (PRB) is now the center of climate-proofing activities, thanks to a collaborative project by ADB and the Japan Fund for Poverty Reduction."
-image_thumb: images/stories/the-importance-of-policy-in-alleviating-urban-poverty-th.jpg
+image: images/stories/improving-urban-mobility-in-mumbai.jpg
+image_caption: "Mumbai's 7.5 million suburban railway commuters will soon enjoy a safer and more comfortable means of transport in and around the city. ADB and financing partner, New Development Bank are working with the Mumbai government to help the India's financial capital decongest its public transport system."
+image_thumb: images/stories/improving-urban-mobility-in-mumbai-th.jpg
 author: Admin
 description: "This is meta description"
 country: India
@@ -40,7 +40,7 @@ The railway is the primary means of transport for 12 million of Mumbai's inhabit
 
 Aiming to address the problem, the Government of Maharashtra came up with a masterplan in 2013. The plan includes developing a metro rail system that would supplement the highly congested suburban railway. Twelve lines are planned for metro rail development covering over 276 km.
 
-ADB is supporting the government's Metro expansion plans by financing two of the state's proposed lines. The?[India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main#project-pds), which is the largest infrastructure loan in ADB history is cofinanced by the New Development Bank.
+ADB is supporting the government's Metro expansion plans by financing two of the state's proposed lines. The [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main#project-pds), which is the largest infrastructure loan in ADB history is cofinanced by the New Development Bank.
 
 ### Interventions
 

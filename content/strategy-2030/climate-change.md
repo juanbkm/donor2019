@@ -1,29 +1,27 @@
 ---
-title: "Climate Change"
+title: "Tackling Climate Change, Building Climate and Disaster Resilience, and Enhancing Environmental Sustainability"
 date: 2020-04-15T17:05:31+08:00
-weight: 2
-lead: "Low greenhouse gas emissions development, approach to building climate and disaster resilience, environmental sustainability, water-food-energy security nexus"
+weight: 3
+lead: "Cofinancing from partners helped ADB attain its climate financing target of $6 billion a year ahead of schedule. The financing partnerships prioritized disaster resilience interventions, such as improving natural resource management, climate-proofing infrastructure, and improving access to credit and insurance, while the helping countries to transition to renewable clean energy sources."
 main_image: images/strategy-2030/climate-change.jpg
 main_image_thumb: images/strategy-2030/climate-change-th.jpg
 icon: images/strategy-2030/icn-climate.svg
+op_intro: "Strategy 2030 ensures that climate change, disaster risk, and environmental considerations are fully mainstreamed in its operational strategies, country programming, and project design and implementation. It aims to"
+op: 
+  - item: Accelerate low greenhouse gas emissions development
+  - item: Ensure a comprehensive approach to building climate and disaster resilience
+  - item: Ensure environmental sustainability
+  - item: Increase focus on the water-food-energy security nexus
 draft: false
 ---
+
 Dealing with the effects of climate change is our new normal. For the past 20 years, 5.2 billion people in Asia and the Pacific have been affected by disasters such as floods, storms, droughts, earthquakes, and extreme temperatures. Worst, one million individuals have died. Disasters have also caused almost US$850 billion in total direct physical [losses to the region](https://www.adb.org/news/infographics/climate-change-and-disasters-asia-and-pacific). Recent estimates reveal that the region already experiences average daily losses of $200  million because of disasters, and climate change is worsening [this](https://www.adb.org/sites/default/files/institutional-document/358881/ccof-2017-2030.pdf).  
 
 Seven out of ten countries with the highest estimated disaster risks in the world are in [Asia and the Pacific](https://www.adb.org/news/infographics/climate-change-and-disasters-asia-and-pacific): Bangladesh, Cambodia, Philippines, Solomon Islands, Timor-Leste, Tonga, and Vanuatu. Solomon Islands, Tonga, and Vanuatu are among the small island developing states (SIDS) that are even more particularly vulnerable to climate change and disaster related shocks.
 
-Tackling climate change, building climate and disaster resilience, and pursuing environmental stability is an operational priority in ADB’s Strategy 2030.  
+{{< dr-artimage src="images/cli-1-fij-generic.jpg" align="" alt="" caption="" >}}
 
-<div class="dr-s2030-box">
-    <p>Strategy 2030 ensures that climate change, disaster risk, and environmental considerations are fully mainstreamed in its operational strategies, country programming, and project design and implementation. It aims to
-    </p>
-    <ul>
-        <li>Accelerate low greenhouse gas emissions development</li>
-        <li>Ensure a comprehensive approach to building climate and disaster resilience</li>
-        <li>Ensure environmental sustainability</li>
-        <li>Increase focus on the water-food-energy security nexus</li>
-    </ul>
-</div>
+Tackling climate change, building climate and disaster resilience, and pursuing environmental stability is an operational priority in ADB’s Strategy 2030.  
 
 In 2019, ADB mobilized a total of $7 billion in total climate finance, with $5.50 billion (78%) expected to contribute to mitigating climate change and $1.5 billion (22%) to adaptation. ADB’s own resources provided $6.37 billion while external resources contributed $0.70 billion. ADB’s commitment in 2019 even surpassed the $6 billion target it set for itself for 2020. Of the $0.70 billion from bilateral and multilateral partners, $402 million were in the form of grants.
 
@@ -43,7 +41,9 @@ This can be complemented by projects such as the [Resilient Community Developmen
 
 ### Ensuring Environmental Sustainability
 
-[Strategy 2030’s](https://www.adb.org/sites/default/files/institutional-document/495961/strategy-2030-op3-climate-change-resilience-sustainability.pdf) approach to ensuring environmental sustainability promotes shifting to sustainable infrastructure and low carbon development, building climate resilience by investing in natural capital, and improving environmental governance and management capacity. 
+[Strategy 2030’s](https://www.adb.org/sites/default/files/institutional-document/495961/strategy-2030-op3-climate-change-resilience-sustainability.pdf) approach to ensuring environmental sustainability promotes shifting to sustainable infrastructure and low carbon development, building climate resilience by investing in natural capital, and improving environmental governance and management capacity.
+
+{{< dr-artimage src="images/cli-2-vie-gen.jpg" align="left" alt="" caption="" >}}
 
 In 2019, ADB approved the [Mainstreaming Climate Resilience and Environmental Protection for Secondary Green Cities Development Project](https://www.adb.org/projects/47274-003/main#project-pds). This aims to demonstrate how cities can be green and climate resilient even while being economically competitive. This project, with the support of the Global Environment Facility Grant and the Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility, is planting the seeds for a nationwide green secondary city development in Viet Nam. This type of project is critical for the region. Asia’s urbanization rate is accelerating quickly, and may well [reach above 64% by 2050](https://www.adb.org/sites/default/files/publication/524596/ado2019-update-theme-chapter.pdf) if not managed well, worsening the effects of climate change. 
 
@@ -51,7 +51,10 @@ The establishment of the [ASEAN Green Catalytic Climate Fund (ACGF)](https://www
 
 ### Increasing Focus on the Water-Food-Energy Security Nexus
 
-No response to climate change will be effective without recognizing its connection to water, energy, and food security. Projects should be designed to address not just climate change, but the increased demand for food and water, as well as energy. Policies and projects need to prioritize the rational and proper management and allocation of water across sectors while keeping an eye out for environmental stability. One project that demonstrates this integrated approach is the [Viet Nam: Water Efficiency Improvement in Drought Affected Provinces](https://www.adb.org/projects/49404-001/main), which combines technology and water use efficiency to ensure farmers’ productivity and resilience amid widespread drought. 
+{{< dr-artimage src="images/cli-3-cam-generic.jpg" align="right" alt="" caption="" >}}
+
+No response to climate change will be effective without recognizing its connection to water, energy, and food security. Projects should be designed to address not just climate change, but the increased demand for food and water, as well as energy. Policies and projects need to prioritize the rational and proper management and allocation of water across sectors while keeping an eye out for environmental stability. One project that demonstrates this integrated approach is the [Viet Nam: Water Efficiency Improvement in Drought Affected Provinces](https://www.adb.org/projects/49404-001/main), which combines technology and water use efficiency to ensure farmers’ productivity and resilience amid widespread drought.
+
 
 Another project, the [Cambodia: Irrigated Agriculture Improvement Project](https://www.adb.org/projects/51159-001/main#project-pds), demonstrates how to address low agricultural productivity through responses that recognize the connection of water, and food security to climate change. This project is helping improve farmers’ harvest in Cambodia by making its irrigation systems efficient and climate resilient while promoting proper water resource management. 
 

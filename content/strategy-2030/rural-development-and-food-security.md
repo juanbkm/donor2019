@@ -1,34 +1,32 @@
 ---
-title: "Rural Development and Food Security"
+title: "Promoting Rural Development and Food Security"
 date: 2020-04-15T14:43:20+08:00
-weight: 7
-subtitle: Strategy 2030 and Rural Development and Food Security
-lead: "Market connectivity and agricultural value chain linkages, agricultural productivity and food security, food safety"
+weight: 5
+lead: "ADB recognizes the need to make broad multisector investments in rural development and agriculture value chains development and provide unwavering support for Asia’s farmers to end hunger and achieve food security in the region."
 main_image: images/strategy-2030/rural-development.jpg
 main_image_thumb: images/strategy-2030/rural-development-th.jpg
 icon: images/strategy-2030/icn-rural.svg
+op_intro: "ADB’s Strategy 2030 considers promoting rural development and food security as an operational priority. Specifically, ADB will"
+op: 
+  - item: improve market connectivity and agricultural value chain linkages to enhance connectivity and mobility between rural and urban areas
+  - item: increase agricultural productivity and food security using high-level technologies
+  - item: enhance food safety through improved policies, standards, and institutions 
 draft: false
 ---
 
-On the backs of farmers lay the food needs of entire populations. In Asia and the Pacific, this means growing food for about 4 billion people—expected to reach 4.9 billion by 2030—using poor irrigation infrastructure and depleting land and water resources that are further threatened by the impacts of climate change. 
+On the backs of farmers lay the food needs of entire populations. In Asia and the Pacific, this means growing food for about 4 billion people—expected to reach 4.9 billion by 2030—using poor irrigation infrastructure and depleting land and water resources that are further threatened by the impacts of climate change.
 
-Many of Asia’s farmers contend with their own poverty. Over 90% till less than two hectares of land and earn little from their harvest, due to limited access to modern agricultural technologies, financing, and markets. Together, however, these smallholders contribute 80% of Asia’s food requirements. 
+Many of Asia’s farmers contend with their own poverty. Over 90% till less than two hectares of land and earn little from their harvest, due to limited access to modern agricultural technologies, financing, and markets. Together, however, these smallholders contribute 80% of Asia’s food requirements.
+
+{{< dr-yt video="dB72AriglgY" align="" title="Water Efficiency Improvement in Drought-Affected Provinces Project" cover="cover-yt-climate-resilience-through-modern-irrigation-systems.jpg" >}}
 
 Asia’s agricultural markets are riddled with problems, from trading cartels and local monopolies, to dilapidated storage facilities and lack of cold chain and packing systems. Such inefficiencies result in a large amount of food waste, high prices of agricultural products, and compromised food safety.
 
-Low regard for rural development across Asia aggravates these problems. Weak rural-urban connectivity because of bad road networks hampers the transport of commodities. Underdeveloped irrigation infrastructure and unreliable power supply disrupt farming processes. Lack of access to education and healthcare provides additional distress to farmer families. The rural youth, already disinterested in back-breaking farm work, opt to migrate to cities to look for more lucrative opportunities. 
+Low regard for rural development across Asia aggravates these problems. Weak rural-urban connectivity because of bad road networks hampers the transport of commodities. Underdeveloped irrigation infrastructure and unreliable power supply disrupt farming processes. Lack of access to education and healthcare provides additional distress to farmer families. The rural youth, already disinterested in back-breaking farm work, opt to migrate to cities to look for more lucrative opportunities.
 
 Food security remains a problem for most countries in Asia, despite the region’s progress in reducing hunger and malnutrition. In 2017, about 518 million people remained food insecure. Shifting dietary preference—from cereals to meat, oils, fruits, and vegetables—offers a new challenge to achieving food security, as do the negative impacts of climate change on production, resulting in increased food prices. According to a new ADB report, however, it is possible to reduce the number of food insecure people to below 5% of the total population by 2030 by doubling annual investments in agriculture.
 
-In 2019, 17 cofinanced projects were primarily tagged against the agricultural, natural resources, and food security sector, with cofinancing amounting to $23.65 million. However, Strategy 2030’s work towards promoting rural development and food security does not only count these projects. The approach is multisectoral such that projects in health, education, water, or climate change can also be counted as supportive of this operational priority, provided they support aspects of this operational priority. In 2019, ADB and its financing partners began work on several innovative projects to address the broad gaps in rural development and food security, especially on the application of modern technologies in agriculture and improving agricultural markets and connectivity. 
-
->juan, please insert the S2030 OP components before the first header. Test is as follows:
-
-ADB’s Strategy 2030 considers promoting rural development and food security as an operational priority. Specifically, ADB will
-
-* improve market connectivity and agricultural value chain linkages to enhance connectivity and mobility between rural and urban areas
-* increase agricultural productivity and food security using high-level technologies
-* enhance food safety through improved policies, standards, and institutions 
+In 2019, 17 cofinanced projects were primarily tagged against the agricultural, natural resources, and food security sector, with cofinancing amounting to $23.65 million. However, Strategy 2030’s work towards promoting rural development and food security does not only count these projects. The approach is multisectoral such that projects in health, education, water, or climate change can also be counted as supportive of this operational priority, provided they support aspects of this operational priority. In 2019, ADB and its financing partners began work on several innovative projects to address the broad gaps in rural development and food security, especially on the application of modern technologies in agriculture and improving agricultural markets and connectivity.
 
 ### Improving Market Connectivity and Agricultural Value Chain Linkages to Enhance Connectivity and Mobility Between Rural and Urban Areas
 
@@ -36,17 +34,23 @@ ADB is focusing on agriculture-related services, rural roads, market infrastruct
 
 ADB’s partnership with the International Fund for Agricultural Development (IFAD) is going strong as bilateral discussions in May 2019 identified new opportunities for future collaboration, covering not only project design and cofinancing, but also knowledge management, policy engagement, and joint partnerships with other development partners such as the private sector and farmers' organizations. For 2019-2021, IFAD estimates potential cofinancing of $171.50 million for Afghanistan and Pakistan; $135 million for the People’s Republic of China and Mongolia; $423.30 million for Bangladesh, Bhutan, India, Nepal, and Sri Lanka; and $195 million for Cambodia, Indonesia, Lao, Myanmar, The Philippines, Thailand, and Viet Nam.
 
+{{< dr-artimage src="images/agri-1-47371-dahla-dam.jpg" align="right" alt="" caption="The project, which will expand Dahla Dam, will help improve Afghanistan’s agricultural productivity, water resources management, energy generation, and growth outlook." >}}
+
 In 2019, IFAD approved a $40 million grant for the [Afghanistan: Arghandab Integrated Water Resources Development Project](https://www.adb.org/projects/48096-002/main). This will, in general, improve the availability and management of water resources in the Arghandab basin in Kandahar province. Among its relevant expected outcomes are increased reliability of irrigation water supplies downstream of the Dahla dam and improved agriculture water productivity by providing on-farm support to farmers to improve crop production.
 
 ADB’s Water Financing Partnership Facility (WFPF) continues its good work in providing additional financial and knowledge resources to deliver more productive and efficient irrigation and drainage services, sustainable access to safe drinking water and improved sanitation, and reduced risks to floods. The fund has contributions from Australia, Austria, Bill & Melinda Gates Foundation, The Netherlands, Norway, Spain, and Switzerland. Between 2006 and 2019, committed contributions to the WFPF have reached $116.40 million.
 
-In 2019, the WFPF contributed $300,000 to the preparation of the [People’s Republic of China: Yangtze River Green Ecological Corridor Comprehensive Agriculture Project](https://www.adb.org/projects/51116-002/main), which will strengthen rural livelihoods, modernize agriculture production systems, and minimize environmental degradation. It also contributed $750,000 to the [Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project](https://www.adb.org/projects/53237-002/main), a feasibility study to enhance government readiness for a project that will improve agricultural productivity and profitability through sustainable small-scale water resources management. 
+In 2019, the WFPF contributed $300,000 to the preparation of the [People’s Republic of China: Yangtze River Green Ecological Corridor Comprehensive Agriculture Project](https://www.adb.org/projects/51116-002/main), which will strengthen rural livelihoods, modernize agriculture production systems, and minimize environmental degradation. It also contributed $750,000 to the [Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project](https://www.adb.org/projects/53237-002/main), a feasibility study to enhance government readiness for a project that will improve agricultural productivity and profitability through sustainable small-scale water resources management.
+
+{{< dr-artimage src="images/agri-2-pak.jpg" align="left" alt="" caption="A lad enjoys the moment when the crop is ready to be harvested." >}}
 
 To improve agricultural value chains in Pakistan, the Agence Française de Développement, through the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries (AFD Trust Fund), is providing $200,000 for the [Pakistan: Preparing the Punjab Agriculture Markets Development Project](https://www.adb.org/projects/53070-002/main). The project will finance the development of a modern holistic wholesale agriculture market in Lahore and prepare a master plan for development of wholesale markets in other locations. The AFD Trust Fund was established in 2005 and has a total committed funds of $5.8 million as of December 2019.
 
 In Cambodia, the Project Readiness Improvement Trust Fund is contributing $150,000 as additional financing for the [Cambodia: Tonle Sap Poverty Reduction and Smallholder Development Project](https://www.adb.org/projects/41435-053/main). The additional financing will enhance agricultural productivity and improve access to markets in target communes through investments in climate-resilient infrastructure, building capacity in disaster risk management of the communities, and creating an enabling environment for agricultural productivity, diversification, and climate resilience.
 
 ### Increasing Agricultural Productivity and Food Security Using High-Level Technologies
+
+{{< dr-artimage src="images/agri-3-ban-gen.jpg" align="" alt="" caption="In the hill tracts, indigenous people conduct shifting cultivation by which they grow their crops. Women working in a pineapple field." >}}
 
 Advanced technologies can increase the efficiency of agricultural operations and ensure the sustainable use of land and water resources. With $500,000 financing each from the Republic of Korea e-Asia and Knowledge Partnership Fund and the High-Level Technology Fund, ADB approved the [Regional: Digital Solutions to Improve Agricultural Value Chains Project](https://www.adb.org/projects/49054-001/main). This project is testing the use of information and communication technologies in agriculture in increasing productivity, efficiency, and profitability of stakeholders along value chains. This eAgriculture system is being implemented in Bangladesh, Pakistan, Tajikistan, and Viet Nam.
 
@@ -58,18 +62,18 @@ LIDAR-technology for Irrigation
 
 Will a futuristic technology be the key to addressing the age-old dilemma of increasing agriculture yield? <Full story>
 
-The WFPF-supported Indonesia: Integrated Participatory Development and Management of Irrigation Program was also completed in 2019. The $105,000 WFPF funding enabled the introduction of LIDAR (light detection and ranging) surveys for operations and maintenance of irrigation networks. The precision of this high-level technology allows the easy identification of irrigation infrastructure that need utmost rehabilitation. About 6,000 hectares of irrigation area were covered by the WFPF-funded LIDAR pilot survey. 
+The WFPF-supported Indonesia: Integrated Participatory Development and Management of Irrigation Program was also completed in 2019. The $105,000 WFPF funding enabled the introduction of LIDAR (light detection and ranging) surveys for operations and maintenance of irrigation networks. The precision of this high-level technology allows the easy identification of irrigation infrastructure that need utmost rehabilitation. About 6,000 hectares of irrigation area were covered by the WFPF-funded LIDAR pilot survey.
 
-### Enhancing Food Safety Through Improved Policies, Standards, and Institutions 
+### Enhancing Food Safety Through Improved Policies, Standards, and Institutions
 
-ADB organized the Rural Development and Food Security Forum 2019, the only global event that discussed development of rural areas as a driving force to food security. ADB’s partners in mounting the forum were the Food and Agriculture Organization of the United Nations, International Atomic Energy Agency, International Food Policy Research Institute, International Fund for Agricultural Development, International Rice Research Institute, World Bank, WorldFish, World Food Programme, and the World Vegetable Centre. With the theme “Transformative Changes for Rural Prosperity and Nutritious Food,” the forum called upon ADB developing member countries to prioritize agricultural development and rural prosperity in their national agenda and invited development partners to share knowledge and solutions to achieve food security in the region. 
+ADB organized the Rural Development and Food Security Forum 2019, the only global event that discussed development of rural areas as a driving force to food security. ADB’s partners in mounting the forum were the Food and Agriculture Organization of the United Nations, International Atomic Energy Agency, International Food Policy Research Institute, International Fund for Agricultural Development, International Rice Research Institute, World Bank, WorldFish, World Food Programme, and the World Vegetable Centre. With the theme “Transformative Changes for Rural Prosperity and Nutritious Food,” the forum called upon ADB developing member countries to prioritize agricultural development and rural prosperity in their national agenda and invited development partners to share knowledge and solutions to achieve food security in the region.
 
 Following the forum, ADB approved several programs and projects that aim to enhance food security in the region, including the cofinanced Regional: Greater Mekong Subregion Sustainable Agriculture and Food Security Program. With $750,000 funding each from the Climate Change Fund and the People's Republic of China Poverty Reduction and Regional Cooperation Fund, the program will promote the Greater Mekong Subregion as a leading supplier of safe and climate-friendly agri-food products through investments and increased capacities for climate-friendly, safe and sustainable agri-food value chains.
 
-Moving Forward
+### Moving Forward
 
 In 2019, ADB published the report, “Ending Hunger in Asia and the Pacific by 2030: An Assessment of Investment Requirements in Agriculture,” which proposes to double investments in agricultural research and development, improvement of water management, and infrastructure to reduce marketing costs and postharvest losses. Such large investment, the report said, will help end hunger and malnutrition and achieve food security in the region by 2030. Future financing partnerships keen on fast-tracking agriculture sector development should take heed. Likewise, work on improving market connectivity and agricultural value chain linkages and promoting the adoption of climate-smart farming technologies should be smarter and more sustainable. From ongoing threats such as climate change to emerging new threats such as global pandemics, the need to protect food security in Asia and the Pacific just keeps getting stronger.
- 
+
 ---
 
 #### Resources

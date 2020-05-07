@@ -1,0 +1,40 @@
+<section id="dr-resources" class="py-5">
+  <div class="row py-lg-5">
+    <div class="col">
+      <h4>Total Replenishment</h4>
+      <h3 class="dr-fund-total"><em>$</em>504.07 <strong>million</strong></h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-3"></div>
+    <div class="col-sm-9">
+      <h3 class="dr-qt">New Resources <br><em>for 2019</em></h3>
+    </div>
+  </div>
+  <div class="row py-lg-5">
+    <div class="col-sm-3 dr-hl-side">
+
+      </div>
+    <div class="col-sm-9">
+      {{ "<!-- side nav -->" | safeHTML }}
+      <div class="nav nav-pills dr-res-nav" id="dr-res-tab" role="tablist">
+        <a class="nav-link active" id="dr-res-tf-tab" data-toggle="pill" href="#dr-res-tf" role="tab" aria-controls="dr-res-tf" aria-selected="true">Trust Funds</a>
+        <a class="nav-link" id="dr-res-gf-tab" data-toggle="pill" href="#dr-res-gf" role="tab" aria-controls="dr-res-gf" aria-selected="false">Global Funds</a>
+        
+      </div>
+      {{ "<!-- /side nav -->" | safeHTML }}
+    
+      {{ "<!-- tab content -->" | safeHTML }}
+      <div class="tab-content" id="dr-res-tabContent">
+        <div class="tab-pane fade show active" id="dr-res-tf" role="tabpanel" aria-labelledby="dr-res-tf-tab">
+          <p>Trust Funds</p>
+        </div>
+        <div class="tab-pane fade" id="dr-res-gf" role="tabpanel" aria-labelledby="dr-res-gf-tab">
+          <p>Global Funds</p>
+        </div>
+        
+      </div>
+      {{ "<!-- /tab content -->" | safeHTML }}
+    </div>
+</div>
+</section>

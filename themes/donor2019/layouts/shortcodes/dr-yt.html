@@ -1,16 +1,8 @@
-<div class="row dr-yt">
-  <div class="col-md-10 mx-auto center col-padding bottommargin" style="background-color: #F5F5F5;">
-    <div class="heading-block nobottomborder">
-      <span class="before-heading">Featured Video</span>
-      <h4>{{ .Get `title` }}</h4>
-    </div>
-
-    <div class="center bottommargin">
+<div class="dr-yt {{ with .Get `align` }}float-{{ . }}{{ end }}">
+    <div class="center">
       <a href="https://www.youtube.com/watch?v={{ .Get `video` }}" data-lightbox="iframe" style="position: relative;">
         <img src="./images/stories/{{ .Get `cover` }}" alt="Video">
         <span class="i-overlay nobg"><img src="./images/video-play.png" alt="Play"></span>
       </a>
     </div>
-    
-  </div>
 </div>
