@@ -1,13 +1,11 @@
-<div class="row">
-    <div class="col">
-        <div id="dr-section-title" class="dr-section-header dr-section-stories">
-            <h2>{{ .CurrentSection.Title }}</h2>
-            <p class="lead">{{.Params.section_summary | markdownify}}</p>
-            {{ with .Params.section_image }}
-            <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
-
-            
-            {{ end }}
-        </div>
+<div id="" class="row dr-section-title dr-section-header">
+    <div class="col-md-6">
+        <h2>{{ .CurrentSection.Title }}</h2>
+        <p class="lead">{{.Params.section_summary | markdownify}}</p>
+    </div>
+    <div class="col-md-6">
+        {{ with .Params.section_image }}
+        <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
+        {{ end }}
     </div>
 </div>

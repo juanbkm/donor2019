@@ -66,10 +66,9 @@
 
 	
 	{{$section := .Section}}
-	{{ if eq $section "projects" }}
+	{{ if eq $section "projects" | or $section "overview" }}
 	<script src="{{ `js/tooltipster.bundle.js` | absURL }}"></script>
-
-    <script>
+  <script>
     $(document).ready(function() {
       $('.maptooltip').tooltipster({
       	interactive: true,
@@ -94,8 +93,6 @@
 	============================================= -->
 	<script src="{{ `js/functions.js` | absURL }}"></script>
 
-
-	{{$section := .Section}}
 	{{ if eq $section "projects" }}
 	<!-- Map Scripts
 	============================================= -->
@@ -129,6 +126,31 @@
 	{{ end }}
 
 
+	<script>
+    $(document).ready(function() {
+      $('.tooltipper').tooltipster({
+        interactive: true,
+        contentAsHTML: true, 
+        side: ['left', 'bottom', 'top', 'right'],
+        
+
+        
+        theme: 'tooltipster-shadow',
+        trigger:"custom",
+        triggerOpen: {
+          click: true,  // For mouse
+          tap: true    // For touch device
+        },
+        triggerClose: {
+          click: true,  // For mouse
+          tap: true    // For touch device
+        }
+
+      });
+    });
+  </script>
+
+
 
 	<script>
 		
@@ -152,6 +174,6 @@
 		});
 	</script>
 
-	{{- partial "chartsjs.html" . -}}
+	
 </body>
 </html>

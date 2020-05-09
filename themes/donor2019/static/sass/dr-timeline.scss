@@ -102,3 +102,32 @@
   width: 100%;
   height: auto;
 }
+
+.dr-tl-hd {
+  text-align: right;
+  font-size: 2rem;
+  strong {
+    font-weight: 100;
+    font-size: 4rem;
+    line-height: 1;
+    display: block;
+  }
+}
+
+.dr-milestone {
+  padding: 10px;
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+  h6 {
+    font-size: 1.2rem;
+    font-weight: 200;
+    margin: 0;
+  }
+  p {
+
+    margin: 0;
+  }
+  .dr-fin {
+    font-weight: 100;
+    margin-bottom: 10px;
+  }
+}

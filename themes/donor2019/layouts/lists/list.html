@@ -1,31 +1,29 @@
 {{ define "main" }}
 
 
-        <div class="container clearfix">
-            <div class="row">
-                <div class="col">
-                    <div id="dr-section-title" class="dr-section-header dr-section-stories">
-                        <h2>{{ .CurrentSection.Title }}</h2>
-                        <ul class="dr-data-nav">
-                        {{ range .Pages }}
-                            <li><a href="{{.Permalink}}"><em>{{ .Params.pretitle }}</em> {{ .Title }}, {{ .Params.date_range }}
-                            </a></li>
-                        {{ end }}
-                        </ul>
-                        {{ with .Params.section_image }}
-                        <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
-            
-                        
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col">
-                    
-                </div>
-            </div>
+<div class="container clearfix">
+    <div id="dr-section-lists" class="row dr-section-title">
+        <div class="col-md-6">
+            <h2>{{ .CurrentSection.Title }}</h2>
+            <ul class="dr-data-nav">
+            {{ range .Pages }}
+                <li><a href="{{.Permalink}}"><em>{{ .Params.pretitle }}</em> {{ .Title }}, {{ .Params.date_range }}
+                </a></li>
+            {{ end }}
+            </ul>
         </div>
+        <div class="col-md-6">
+            {{ with .Params.section_image }}
+            <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
+            {{ end }}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            
+        </div>
+    </div>
+</div>
 
     
 

@@ -1,13 +1,13 @@
 <head>
-
+	{{$section := .Section}}
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="{{ .Site.Params.author }}">
-    <base href="{{ .Site.BaseURL }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
+  <base href="{{ .Site.BaseURL }}">
 
 	<!-- Stylesheets
 	============================================= -->
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
-    {{ "<!-- bootstrap css -->" | safeHTML}}
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
+  {{ "<!-- bootstrap css -->" | safeHTML}}
 	<link rel="stylesheet" href="{{ `css/bootstrap.css` | absURL }}" type="text/css" />
 
 	<link rel="stylesheet" href="{{ `style.css` | absURL }}" type="text/css" />
@@ -19,10 +19,9 @@
 
 	<link rel="stylesheet" href="{{ `css/responsive.css` | absURL }}" type="text/css" />
 
-	{{$section := .Section}}
-	{{ if eq $section "projects" }}
   <link rel="stylesheet" href="{{ `css/tooltipster.bundle.css` | absURL }}" type="text/css" />
-  <link rel="stylesheet" href="{{ `css/tooltipster-sideTip-shadow.min.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/tooltipster-sideTip-shadow.min.css` | absURL }}" type="text/css" />
+	{{ if eq $section "projects" }}
   <link rel="stylesheet" href="{{ `css/accordion.css` | absURL }}" type="text/css" />
 	<link rel="stylesheet" href="{{ `css/map.css` | absURL }}" type="text/css" />
 	{{ end }}

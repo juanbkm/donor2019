@@ -18,8 +18,8 @@
     <div class="col-sm-9">
       {{ "<!-- side nav -->" | safeHTML }}
       <div class="nav nav-pills dr-res-nav" id="dr-res-tab" role="tablist">
-        <a class="nav-link active" id="dr-res-tf-tab" data-toggle="pill" href="#dr-res-tf" role="tab" aria-controls="dr-res-tf" aria-selected="true">Trust Funds</a>
-        <a class="nav-link" id="dr-res-gf-tab" data-toggle="pill" href="#dr-res-gf" role="tab" aria-controls="dr-res-gf" aria-selected="false">Global Funds</a>
+        <a class="nav-link d-flex active" id="dr-res-tf-tab" data-toggle="pill" href="#dr-res-tf" role="tab" aria-controls="dr-res-tf" aria-selected="true"><strong>Trust Funds</strong></a>
+        <a class="nav-link d-flex" id="dr-res-gf-tab" data-toggle="pill" href="#dr-res-gf" role="tab" aria-controls="dr-res-gf" aria-selected="false"><strong>Global Funds</strong> </a>
         
       </div>
       {{ "<!-- /side nav -->" | safeHTML }}
@@ -27,10 +27,13 @@
       {{ "<!-- tab content -->" | safeHTML }}
       <div class="tab-content" id="dr-res-tabContent">
         <div class="tab-pane fade show active" id="dr-res-tf" role="tabpanel" aria-labelledby="dr-res-tf-tab">
-          <p>Trust Funds</p>
+          <p>Trust funds received replenishments totaling $294.77 million and new contributions amounting to $30.92 million</p>
+          <div><img src="./images/tf.png" alt=""></div>
         </div>
         <div class="tab-pane fade" id="dr-res-gf" role="tabpanel" aria-labelledby="dr-res-gf-tab">
-          <p>Global Funds</p>
+          <p>In 2019, global funds allocated $178.38* million to ADB projects.
+          <em>  * Excluding cancellations from SCF, CTF, GEF, and SCCF</em></p>
+          <div><img src="./images/gf.png" alt=""></div>
         </div>
         
       </div>

@@ -1,0 +1,40 @@
+{{ $data := index .Site.Data }}
+  {{ with $data.timeline }}
+  {{ with .title }}<h4 class="dr-tl-hd">{{ . | markdownify}}</h4>{{ end }}
+
+  <ul class="timeline">
+    <li><div class="timeline-badge"></div></li>
+    
+    {{ range .month }}
+    <li>
+      <div class="timeline-badge primary">
+        <a class="tooltipper" data-tooltip-content="#{{ with .name }}{{ substr . 0 3 }}{{ end }}"></a>
+      </div>
+      <div class="timeline-panel">
+        <div class="timeline-body">
+          <p>{{ with .name }}{{ substr . 0 3 }}{{ end }}</p>
+        </div>
+      </div>
+    </li>
+    <div class="tooltip_templates">
+      <div class="tooltip-content" id="{{ with .name }}{{ substr . 0 3 }}{{ end }}">
+        <div class="tt-body">
+          {{ range .item }}
+          <div class="dr-milestone">
+            {{ with .milestone }}<h6>
+              {{ . }}
+            </h6>{{ end }}
+            {{ with .financing }}<p class="dr-fin">{{ . }}</p>{{ end }}
+            {{ with .text | markdownify }}{{ . }}{{ end }}
+            {{ with .link }}<a href="{{ . }}">Read</a>{{ end }}
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    <!--/tooltip_templates-->
+    {{ end }}
+
+   
+  </ul>
+{{ end }}

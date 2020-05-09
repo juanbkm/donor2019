@@ -27,6 +27,7 @@
   height: 130px;
   background: $adb-gray-three;
   a {
+    color: $body-color;
     display: block;
     width: 50%;
     margin: 0;
@@ -37,10 +38,28 @@
     &:last-child {
       border-right: none; 
     }
-    .nav-link.active, .show > .nav-link {
-      background-color: $adb-accent-orange !important;
+  }
+  strong {
+    align-self: center;
+    width: 100%;
+  }
+  .nav-link.active, .show > .nav-link {
+    color: #fff;
+  }
+  
+  #dr-res-tf-tab {
+    width: 60%;
+    &.active {
+      background-color: $adb-main-blue-three !important;
     }
   }
+  #dr-res-gf-tab {
+    width: 40%;
+    &.active {
+      background-color: $adb-accent-green !important;
+    }
+  }
+  
 }
 .dr-qt {
   font-weight: 700;
@@ -80,7 +99,8 @@
       font-weight: 700;
     }
     .dr-country,
-    .dr-sector {
+    .dr-sector,
+    .dr-cofin-type {
       font-weight: 700;
       display: block;
     }
@@ -283,9 +303,9 @@
 }
 
 /* ----------------------------------------------------------------
-	DR How
+	DR What
 -----------------------------------------------------------------*/
-#dr-how {
+#dr-what {
   .dr-qt {
     color: $adb-accent-green;
   }
@@ -298,6 +318,9 @@
     background-color: $adb-accent-green;
   }
   .nav-link.active, .show > .nav-link {
+    color: $adb-accent-green;
+  }
+  .dr-cofin-type {
     color: $adb-accent-green;
   }
 }
@@ -439,4 +462,24 @@
 
 
 
+/* ----------------------------------------------------------------
+	DR Resources
+-----------------------------------------------------------------*/
 
+#dr-res-tf {
+  p {
+    padding: 20px 0;
+  }
+}
+
+#dr-res-gf {
+  width: 40%;
+  margin-left: auto;
+  p {
+    padding: 20px 0;
+  }
+  em {
+    font-size: .8rem;
+    display: block;
+  }
+}
