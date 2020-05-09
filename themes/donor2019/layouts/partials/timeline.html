@@ -25,8 +25,16 @@
               {{ . }}
             </h6>{{ end }}
             {{ with .financing }}<p class="dr-fin">{{ . }}</p>{{ end }}
-            {{ with .text | markdownify }}{{ . }}{{ end }}
-            {{ with .link }}<a href="{{ . }}">Read</a>{{ end }}
+            {{ with .img }} <img src="./images/timeline/{{ . }}" alt="" srcset="">{{ end }}
+            
+            {{ $markdown := .text | markdownify }}
+
+            {{ if not ( strings.Contains $markdown "<p>" ) }}
+                <p>{{ $markdown }}</p>
+            {{ else }}
+                {{ $markdown }}
+            {{ end }}
+            {{ with .link }}<p><a href="{{ . }}" target="_blank">Read</a></p>{{ end }}
           </div>
           {{ end }}
         </div>

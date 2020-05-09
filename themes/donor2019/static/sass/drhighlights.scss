@@ -65,7 +65,7 @@
   font-weight: 700;
   font-size: 6rem;
   line-height: .5;
-  margin: 0 0 0 0;
+  margin: 0 0 40px 0;
   padding: 0;
   position: relative;
   em {
@@ -256,7 +256,7 @@
 
 .dr-fund-total {
   color: $adb-gray-three;
-  font-size: 124px;
+  font-size: 86px;
   font-family: $body-font;
   line-height: .8;
   margin: 0;
@@ -275,6 +275,11 @@
     padding-top: 5px;
   }
 
+}
+.dr-pre-head {
+  font-size: 26px;
+  font-weight: 300;
+  margin: 0;
 }
 /* ----------------------------------------------------------------
 	DR Who
