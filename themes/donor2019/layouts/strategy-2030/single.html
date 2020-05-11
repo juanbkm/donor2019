@@ -1,18 +1,15 @@
 {{ define "main" }}
-
     <div class="container dr-s2030-page-sector">
         <div class="row">
             <div class="col">
                 {{- partial "pager.html" . -}}
-                
             </div>
         </div>
         <div class="row">
             <div id="dr-page-title" class="col mx-auto">
                 {{$section_heading := .Site.GetPage "section" .Section }}
                 <h3>{{with $section_heading}}{{- .Title -}}{{end}} and </h3>
-                <h2>{{ .Title }}</h2>
-                
+                <h2>{{ .Title }}</h2>               
             </div>
         </div>
         <div class="row">
@@ -35,9 +32,13 @@
             </div>
         </div>
         <div class="row dr-article-body">
-            <div class="col-md-10 mx-auto">
-                
+            <div class="col-md-10 mx-auto">           
                 {{ .Content }}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-10 mx-auto">
+                <img src="{{ .Params.icon }}" class="dr-icon-close" />
             </div>
         </div>
     </div> 

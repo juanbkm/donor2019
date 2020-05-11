@@ -12,11 +12,11 @@ title = "Donor Report 2019"
 # Site Menus
 [menu]
 # Navbar Menus
-[[menu.main]]
-  identifier = "home"
-  name = "Home"
-  url = "/"
-  weight  = 1
+# [[menu.main]]
+#   identifier = "home"
+#   name = "Home"
+#   url = "/"
+#   weight  = 1
 
 [[menu.main]]
   identifier = "overview"
