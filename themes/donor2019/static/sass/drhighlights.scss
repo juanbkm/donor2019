@@ -77,6 +77,14 @@
 }
 
 
+/* ----------------------------------------------------------------
+	DR Commitments
+-----------------------------------------------------------------*/
+
+#dr-data-commitments {
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+}
+
 .chart-content {
   width: 100%;
   margin: 0;
@@ -117,7 +125,6 @@
     font-weight: 100;
   }
 }
-
 
 .chart,
 .openchart {
