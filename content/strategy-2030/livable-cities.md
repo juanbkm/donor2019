@@ -1,6 +1,6 @@
 ---
 title: "Making Cities More Livable"
-date: 2020-04-15T20:56:25+08:00
+date: 2020-05-01T01:01:04+08:00
 weight: 4
 lead: "ADB and its financing partners have made crosscutting investments to transform Asia’s cities into more livable urban centers─ including environment-friendly transport, energy-saving water supply infrastructure, and green housing development. Further investments were focused on climate change and improving disaster resilience."
 main_image: images/strategy-2030/livable-cities.jpg

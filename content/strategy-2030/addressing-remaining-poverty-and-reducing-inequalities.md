@@ -1,6 +1,6 @@
 ---
 title: "Addressing Remaining Poverty and Reducing Inequalities"
-date: 2020-04-15T15:51:40+08:00
+date: 2020-05-01T01:01:07+08:00
 weight: 1
 lead: "All of ADB’s 148 cofinanced project in 2019 aimed to address some form of poverty in the region. With an impending global economic slowdown, safeguarding shared progress in the fight against poverty becomes more imperative."
 main_image: images/strategy-2030/poverty-and-reducing-inequalities.jpg

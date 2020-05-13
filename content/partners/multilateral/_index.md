@@ -1,7 +1,8 @@
 ---
-title: "Multilateral"
+title: "Multilateral Institutions"
 date: 2020-04-12T11:21:10+08:00
-section_summary: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, incidunt excepturi ipsum assumenda cumque minus esse dignissimos eaque necessitatibus saepe nam minima eum quam! Molestiae doloribus ipsum rem quo nulla" 
+section_image: images/partners/multilateral.jpg
+section_summary: "ADB partners with organizations or institutions established or chartered by more than one country to provide financial support and professional advice for economic and social development activities in developing countries." 
 draft: false
 ---
 

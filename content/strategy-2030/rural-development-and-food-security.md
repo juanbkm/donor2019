@@ -1,6 +1,6 @@
 ---
 title: "Promoting Rural Development and Food Security"
-date: 2020-04-15T14:43:20+08:00
+date: 2020-05-01T01:01:03+08:00
 weight: 5
 lead: "ADB recognizes the need to make broad multisector investments in rural development and agriculture value chains development and provide unwavering support for Asia’s farmers to end hunger and achieve food security in the region."
 main_image: images/strategy-2030/rural-development.jpg

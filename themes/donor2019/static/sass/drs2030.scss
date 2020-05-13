@@ -7,6 +7,10 @@
         padding: 0;
         color: $adb-dr-gray;
         list-style: none;
+
+        @include media-breakpoint-down(md) {
+            display: block;
+        }
         a {
             display: block;
             color: $body-color;

@@ -223,7 +223,7 @@ $adb-dr-gray: #556773;
 
 //-------------------- Base Colors --------------------//
 
-$theme-color:                   $adb-main-blue-one;
+$theme-color:                   $adb-accent-orange;
 $body-color:                    #555;
 
 $body-bg:						white;
@@ -1049,7 +1049,7 @@ $toastr-position-gutter:				12px;
 $portfolio-filter-grid-sm:				3;
 $portfolio-filter-grid-xs:				2;
 $portfolio-filter-border:				1px;
-$portfolio-filter-border-color:			rgba($black-color,0.07);
+$portfolio-filter-border-color:			lighten($adb-dr-gray, 40%);
 
 $portfolio-shuffle-hidden-sm:			true;
 

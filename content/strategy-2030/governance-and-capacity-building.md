@@ -1,6 +1,6 @@
 ---
 title: "Governance and Capacity Building"
-date: 2020-04-15T18:51:33+08:00
+date: 2020-05-01T01:01:02+08:00
 weight: 6
 lead: "Public management reforms and financial sustainability, service delivery, capacity and standards"
 main_image: images/strategy-2030/governance.jpg

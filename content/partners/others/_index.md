@@ -1,7 +1,8 @@
 ---
-title: "Other Concessional Partners"
+title: "Other Partners"
 date: 2020-04-12T11:21:13+08:00
-section_summary: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi, incidunt excepturi ipsum assumenda cumque minus esse dignissimos eaque necessitatibus saepe nam minima eum quam! Molestiae doloribus ipsum rem quo nulla" 
+section_image: images/partners/others.jpg
+section_summary: "ADB works with other partners through concessional or commercial cofinancing, including partners from private sector, with corporate social responsibility and philanthropic thrusts." 
 draft: false
 ---
 

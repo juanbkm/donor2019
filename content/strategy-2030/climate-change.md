@@ -1,6 +1,6 @@
 ---
 title: "Tackling Climate Change, Building Climate and Disaster Resilience, and Enhancing Environmental Sustainability"
-date: 2020-04-15T17:05:31+08:00
+date: 2020-05-01T01:01:05+08:00
 weight: 3
 lead: "Cofinancing from partners helped ADB attain its climate financing target of $6 billion a year ahead of schedule. The financing partnerships prioritized disaster resilience interventions, such as improving natural resource management, climate-proofing infrastructure, and improving access to credit and insurance, while the helping countries to transition to renewable clean energy sources."
 main_image: images/strategy-2030/climate-change.jpg

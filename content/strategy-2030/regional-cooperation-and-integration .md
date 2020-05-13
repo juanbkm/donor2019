@@ -1,6 +1,6 @@
 ---
 title: "Fostering Regional Cooperation and Integration"
-date: 2020-04-15T22:02:14+08:00
+date: 2020-05-01T01:01:01+08:00
 weight: 7
 lead: "ADB’s financing partnerships cofinanced in 2019 some 50 projects designed to increasingly interconnect Asia. Regional cooperation has become more critical than ever, particularly in sharing health and medical knowledge and resources to address the ongoing global pandemic."
 main_image: images/strategy-2030/regional-cooperation.jpg

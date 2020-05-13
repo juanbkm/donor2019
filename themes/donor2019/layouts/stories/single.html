@@ -11,15 +11,19 @@
                         </div>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col py-4">
+                        <div class="dr-story-summary">
+                            <p class="lead">{{ .Params.summary }}</p>
+                        </div>
+                    </div>
+                </div>
                 <div class="row dr-story-head">
                     <div class="col-md-8">
                         {{ with .Params.image }}<img src="{{ . | absURL }}" class="w-100 mb-3" alt="Post-Image"  data-animate="fadeIn" data-delay="400">{{ end }}
                         {{ with .Params.image_caption }} <p class="dr-story-caption">{{ . }}</p> {{ end }}  
                     </div>
                     <div class="col-md-4">
-                        <div class="dr-story-summary">
-                            <p class="lead">{{ .Params.summary }}</p>
-                        </div>
                         <div class="dr-story-details">
                             <h4>Project</h4>
                             <p class="dr-project_title"><a href="{{ .Params.project_url }}" target="_blank">{{ .Params.project_title }}</a></p>
@@ -30,7 +34,7 @@
                                 {{ range .Params.fund_source }}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
                             </ul>
                             
-                            <h4>Financing Partner​</h4>
+                            <h4>Financing Partner​/s</h4>
                             <ul class="dr-funding">
                                 {{ range .Params.fin_partners}}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
                             </ul>

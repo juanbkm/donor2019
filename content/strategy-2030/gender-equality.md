@@ -1,6 +1,6 @@
 ---
 title: "Accelerating Progress in Gender Equality"
-date: 2020-04-15T17:59:50+08:00
+date: 2020-05-01T01:01:06+08:00
 weight: 2
 lead: "About 84% of 148 projects cofinanced by ADB and its partners have incorporated gender equality objectives or effective gender mainstreaming components in their design. Future partnerships will strongly support the gender equality agenda and not let gender equality gains slide."
 main_image: images/strategy-2030/gender-equality.jpg

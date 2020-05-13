@@ -6,14 +6,13 @@
             <ul class="portfolio-filter clearfix" data-container="#portfolio">
 
                 <li class="activeFilter"><a href="#" data-filter="*">Show All</a></li>
-                <li><a href="#" data-filter=".dr-climate">Climate Change</a></li>
-                <li><a href="#" data-filter=".dr-gender">Gender Equity</a></li>
-                <li><a href="#" data-filter=".dr-governance">Governance</a></li>
-                <li><a href="#" data-filter=".dr-livable">Livable Cities</a></li>
                 <li><a href="#" data-filter=".dr-poverty">Poverty</a></li>
-                <li><a href="#" data-filter=".dr-regional">Regional Cooperation and Integration</a></li>
+                <li><a href="#" data-filter=".dr-gender">Gender Equity</a></li>
+                <li><a href="#" data-filter=".dr-climate">Climate Change</a></li>
+                <li><a href="#" data-filter=".dr-livable">Livable Cities</a></li>
                 <li><a href="#" data-filter=".dr-rural">Rural Development</a></li>
-                
+                <li><a href="#" data-filter=".dr-governance">Governance</a></li>
+                <li><a href="#" data-filter=".dr-regional">Regional Cooperation and Integration</a></li>    
             </ul>
             
             <div class="portfolio-shuffle" data-container="#portfolio">
@@ -39,11 +38,13 @@
                         <p class="dr-categories">{{ delimit .Params.categories ", " }}</p>
                         <h3><a href="{{.Permalink}}">{{ .Title }}</a></h3>
                         <p>{{.Summary}}</p>
+                        <!--//
                         <h6>Financing Partner​</h6>
                             <ul class="iconlist">
                                 {{ range .Params.fin_partners}}<li><i class="icon-ok"></i> {{ .name }}</li>{{ end }}
                             </ul>
-                        <!-- <a href="{{.Permalink}}" class="button button-3d noleftmargin">Read the story</a> -->
+                         <a href="{{.Permalink}}" class="button button-3d noleftmargin">Read the story</a> 
+                        //-->
                     </div>
                 </article>
                 {{ end }}

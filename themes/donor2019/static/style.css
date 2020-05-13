@@ -293,20 +293,20 @@ li {
 
 /* line 57, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/typography.scss */
 ::selection {
-  background: #007db7;
+  background: #eb6440;
   color: #fff;
   text-shadow: none; }
 
 /* line 63, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/typography.scss */
 ::-moz-selection {
-  background: #007db7;
+  background: #eb6440;
   /* Firefox */
   color: #fff;
   text-shadow: none; }
 
 /* line 69, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/typography.scss */
 ::-webkit-selection {
-  background: #007db7;
+  background: #eb6440;
   /* Safari */
   color: #fff;
   text-shadow: none; }
@@ -423,7 +423,7 @@ h3 > span:not(.nocolor),
 h4 > span:not(.nocolor),
 h5 > span:not(.nocolor),
 h6 > span:not(.nocolor) {
-  color: #007db7; }
+  color: #eb6440; }
 
 /* line 190, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/typography.scss */
 p,
@@ -747,15 +747,15 @@ span.middot {
 /* line 158, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/helpers.scss */
 .bgcolor,
 .bgcolor #header-wrap {
-  background-color: #007db7 !important; }
+  background-color: #eb6440 !important; }
 
 /* line 161, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/helpers.scss */
 .color {
-  color: #007db7 !important; }
+  color: #eb6440 !important; }
 
 /* line 163, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/helpers.scss */
 .border-color {
-  border-color: #007db7 !important; }
+  border-color: #eb6440 !important; }
 
 /* line 165, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/helpers.scss */
 .nobg {
@@ -1298,7 +1298,7 @@ body.stretched .container-fullwidth {
     left: 0;
     width: 140px;
     margin: 0;
-    border-top: 1px solid #007db7;
+    border-top: 1px solid #eb6440;
     border-bottom: 1px solid #EEE;
     box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0 0 5px -1px rgba(0, 0, 0, 0.2);
@@ -1722,7 +1722,7 @@ body.stretched #header.full-header .container {
       .header-extras li .he-text span {
         display: block;
         font-weight: 400;
-        color: #007db7; }
+        color: #eb6440; }
 
 /* line 291, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .dark #header-wrap:not(.not-dark) #primary-menu > ul > li > a,
@@ -1872,7 +1872,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 /* line 431, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #primary-menu ul li:hover > a,
 #primary-menu ul li.current > a {
-  color: #007db7; }
+  color: #eb6440; }
 
 /* line 434, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #primary-menu ul li > a > div,
@@ -1881,7 +1881,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
   /* line 437, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   #primary-menu ul li > a > div:before,
   #primary-menu ul li > a > div:before {
-    border-top: 3px solid #007db7;
+    border-top: 3px solid #eb6440;
     content: "";
     display: block;
     position: absolute;
@@ -1915,7 +1915,7 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content {
 .dark.overlay-menu #header-wrap:not(.not-dark) #primary-menu > ul > li.current > a,
 .overlay-menu #primary-menu.dark > ul > li:hover > a,
 .overlay-menu #primary-menu.dark > ul > li.current > a {
-  color: #007db7; }
+  color: #eb6440; }
 
 /* line 471, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #primary-menu ul ul:not(.mega-menu-column),
@@ -1926,7 +1926,7 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content {
   background-color: white;
   box-shadow: 0px 13px 42px 11px rgba(0, 0, 0, 0.05);
   border: 1px solid #eeeeee;
-  border-top: 2px solid #007db7;
+  border-top: 2px solid #eb6440;
   height: auto;
   z-index: 199;
   top: 100%;
@@ -1997,7 +1997,7 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content {
 #primary-menu ul ul li:hover > a {
   background-color: #f9f9f9;
   padding-left: 18px;
-  color: #007db7; }
+  color: #eb6440; }
 
 /* line 543, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #primary-menu ul ul > li.sub-menu > a,
@@ -2116,7 +2116,7 @@ body.stretched #header.full-header #primary-menu ul li.mega-menu .mega-menu-cont
 
 /* line 645, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #primary-menu ul li .mega-menu-content.style-2 ul.mega-menu-column > li.mega-menu-title > a:hover {
-  color: #007db7; }
+  color: #eb6440; }
 
 /* line 647, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #primary-menu ul li .mega-menu-content.style-2 ul.mega-menu-column > li.mega-menu-title.sub-menu > a,
@@ -2141,7 +2141,7 @@ body.stretched #header.full-header #primary-menu ul li.mega-menu .mega-menu-cont
 .dark #primary-menu:not(.not-dark) ul li .mega-menu-content.style-2,
 #primary-menu.dark ul li .mega-menu-content.style-2 {
   border-color: transparent;
-  border-top-color: #007db7; }
+  border-top-color: #eb6440; }
 
 /* line 666, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .mega-menu-column .entry-meta {
@@ -2162,7 +2162,7 @@ body.stretched #header.full-header #primary-menu ul li.mega-menu .mega-menu-cont
 #primary-menu.dark ul li .mega-menu-content {
   background-color: #333333;
   border-color: #3f3f3f;
-  border-top-color: #007db7; }
+  border-top-color: #eb6440; }
 
 /* Primary Menu - Style 2
 -----------------------------------------------------------------*/
@@ -2218,7 +2218,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #primary-menu.style-2.cente
 #primary-menu.style-3 > ul > li.current > a {
   color: #FFF;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
-  background-color: #007db7; }
+  background-color: #eb6440; }
 
 /* Primary Menu - Style 4
 -----------------------------------------------------------------*/
@@ -2233,7 +2233,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #primary-menu.style-2.cente
 /* line 756, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #primary-menu.style-4 > ul > li:hover > a,
 #primary-menu.style-4 > ul > li.current > a {
-  border-color: #007db7; }
+  border-color: #eb6440; }
 
 /* Primary Menu - Style 5
 -----------------------------------------------------------------*/
@@ -2278,7 +2278,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #primary-menu.style-2.cente
   left: 0;
   height: 2px;
   width: 0;
-  border-top: 2px solid #007db7;
+  border-top: 2px solid #eb6440;
   -webkit-transition: width 0.3s ease;
   -o-transition: width 0.3s ease;
   transition: width 0.3s ease; }
@@ -2330,7 +2330,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #primary-menu.style-2.cente
 #primary-menu.sub-title > ul > li.current > a,
 #primary-menu.sub-title > div > ul > li:hover > a,
 #primary-menu.sub-title > div > ul > li.current > a {
-  background-color: #007db7;
+  background-color: #eb6440;
   color: #FFF;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
   border-top-color: rgba(0, 0, 0, 0.1); }
@@ -2581,7 +2581,7 @@ body.top-search-open #top-search a i.icon-line-cross {
 
 /* line 1082, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #top-cart a:hover {
-  color: #007db7; }
+  color: #eb6440; }
 
 /* line 1084, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #top-search form {
@@ -2720,7 +2720,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
   height: 16px;
   line-height: 16px;
   text-align: center;
-  background-color: #007db7;
+  background-color: #eb6440;
   border-radius: 50%; }
 
 /* line 1207, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
@@ -2732,7 +2732,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
   background-color: white;
   box-shadow: 0px 20px 50px 10px rgba(0, 0, 0, 0.05);
   border: 1px solid #eeeeee;
-  border-top: 2px solid #007db7;
+  border-top: 2px solid #eb6440;
   top: 60px;
   right: -15px;
   left: auto;
@@ -2804,7 +2804,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
 
 /* line 1281, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .top-cart-item-image:hover {
-  border-color: #007db7; }
+  border-color: #eb6440; }
 
 /* line 1283, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .top-cart-item-desc {
@@ -2824,7 +2824,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
 
 /* line 1299, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .top-cart-item-desc a:hover {
-  color: #007db7 !important; }
+  color: #eb6440 !important; }
 
 /* line 1301, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .top-cart-item-desc span.top-cart-item-price {
@@ -2850,7 +2850,7 @@ body:not(.device-md):not(.device-sm):not(.device-xs) #header.transparent-header:
 /* line 1322, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .top-cart-action span.top-checkout-price {
   font-size: 20px;
-  color: #007db7; }
+  color: #eb6440; }
 
 /* ----------------------------------------------------------------
 	Top Account
@@ -3160,7 +3160,7 @@ body.top-search-open #top-account {
 /* line 1580, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #page-menu-wrap {
   z-index: 99;
-  background-color: #007db7;
+  background-color: #eb6440;
   -webkit-transform: translate3d(0, 0, 0);
   -ms-transform: translate3d(0, 0, 0);
   -o-transform: translate3d(0, 0, 0);
@@ -3270,7 +3270,7 @@ body:not(.device-touch) #page-menu nav li a {
   left: 0;
   z-index: 149;
   height: auto;
-  background-color: #007db7; }
+  background-color: #eb6440; }
 
 /* line 1674, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 #page-menu ul ul ul {
@@ -3347,14 +3347,14 @@ body:not(.device-touch) #page-menu nav li a {
     background-color: rgba(0, 0, 0, 0.7); }
   /* line 1745, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   #page-menu.dots-menu nav li.current a {
-    background-color: #007db7; }
+    background-color: #eb6440; }
   /* line 1747, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   #page-menu.dots-menu nav li div {
     position: absolute;
     width: auto;
     top: -11px;
     right: 25px;
-    background-color: #007db7;
+    background-color: #eb6440;
     color: #FFF;
     padding: 5px 14px;
     white-space: nowrap;
@@ -3379,7 +3379,7 @@ body:not(.device-touch) #page-menu nav li a {
     height: 0;
     border-top: 7px solid transparent;
     border-bottom: 7px solid transparent;
-    border-left: 6px solid #007db7; }
+    border-left: 6px solid #eb6440; }
   /* line 1778, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   #page-menu.dots-menu nav li a:hover div {
     opacity: 1;
@@ -3885,7 +3885,7 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
 .dark #top-cart .top-cart-content {
   background-color: #333333;
   border-color: #3f3f3f;
-  border-top-color: #007db7; }
+  border-top-color: #eb6440; }
 
 /* line 2261, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .dark .top-cart-title {
@@ -3901,11 +3901,11 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
 
 /* line 2267, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .dark .top-cart-item-image:hover {
-  border-color: #007db7; }
+  border-color: #eb6440; }
 
 /* line 2269, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .dark .top-cart-item-desc a:hover {
-  color: #007db7 !important; }
+  color: #eb6440 !important; }
 
 /* line 2271, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
 .dark .top-cart-item-desc span.top-cart-item-price {
@@ -3994,7 +3994,7 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
   /* line 2371, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li.current a,
   body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li:hover a {
-    color: #007db7 !important; }
+    color: #eb6440 !important; }
   /* line 2376, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu ul ul a,
   body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > ul > li:hover ul a,
@@ -4244,7 +4244,7 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
     background-color: transparent !important;
     font-weight: 700;
     padding-left: 5px;
-    color: #007db7; }
+    color: #eb6440; }
   /* line 2652, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   #primary-menu ul li .mega-menu-content,
   #primary-menu ul li.mega-menu-small .mega-menu-content,
@@ -4307,10 +4307,10 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
   /* line 2710, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   #primary-menu ul li .mega-menu-content.style-2 ul.mega-menu-column > li.mega-menu-title:hover > a {
     background-color: transparent;
-    color: #007db7 !important; }
+    color: #eb6440 !important; }
   /* line 2715, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   #primary-menu ul li .mega-menu-content.style-2 ul.mega-menu-column > li.mega-menu-title > a:hover {
-    color: #007db7 !important; }
+    color: #eb6440 !important; }
   /* line 2717, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
   #primary-menu ul li .mega-menu-content.style-2 li {
     border-top: 1px solid #EEE; }
@@ -4377,7 +4377,7 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
     left: auto;
     right: 15px;
     height: auto;
-    background-color: #007db7;
+    background-color: #eb6440;
     z-index: 11; }
     /* line 2796, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/header.scss */
     #page-menu nav ul {
@@ -6097,7 +6097,7 @@ body.stretched .container-fullwidth .breadcrumb {
     color: #bbbbbb; }
   /* line 83, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
   .breadcrumb a:hover {
-    color: #007db7; }
+    color: #eb6440; }
     /* line 83, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/pagetitle.scss */
     .dark .breadcrumb a:hover {
       color: #eeeeee; }
@@ -6283,15 +6283,16 @@ body.stretched .container-fullwidth .breadcrumb {
     /* line 13, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
     .dr-section-title {
       padding: 20px 0 25px;
+      padding-bottom: 0;
       text-align: center; } }
-  /* line 25, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  /* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
   .dr-section-title .container {
     position: relative; }
-  /* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  /* line 27, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
   .dr-section-title h2, .dr-section-title h3, .dr-section-title p {
     line-height: 1;
     margin: 0; }
-  /* line 31, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  /* line 32, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
   .dr-section-title h2 {
     padding: 0;
     margin: 0 0 20px 0;
@@ -6300,40 +6301,51 @@ body.stretched .container-fullwidth .breadcrumb {
     letter-spacing: 1px;
     color: #3f4d56;
     font-size: 84px; }
-    /* line 40, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+    /* line 41, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
     .dark .dr-section-title h2 {
       color: rgba(255, 255, 255, 0.9) !important; }
     @media (max-width: 767.98px) {
-      /* line 31, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+      /* line 32, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
       .dr-section-title h2 {
         line-height: 1.5;
         font-size: 24px; } }
-  /* line 46, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  /* line 47, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
   .dr-section-title#dr-section-overview h2 {
     font-size: 64px; }
-  /* line 50, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  /* line 51, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
   .dr-section-title p.lead {
     padding: 0;
     margin: 0 0 40px 0;
     line-height: 1.5;
     letter-spacing: 1px;
     font-size: 18px; }
-  /* line 59, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  /* line 60, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
   .dr-section-title span {
     display: block;
     margin-top: 10px;
     font-weight: 300;
     color: #777777;
     font-size: 18px; }
-    /* line 64, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+    /* line 65, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
     .dark .dr-section-title span {
       color: rgba(255, 255, 255, 0.7); }
-  /* line 67, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+  /* line 68, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
   .dr-section-title .dr-sectionimage {
     position: absolute;
     bottom: 0;
     right: 0;
     height: auto; }
+    @media (max-width: 991.98px) {
+      /* line 68, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+      .dr-section-title .dr-sectionimage {
+        position: relative; } }
+/* line 81, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+#dr-section-title-stories {
+  margin-bottom: 0; }
+
+/* line 86, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
+#dr-section-title-partners h2 {
+  font-size: 78px; }
 
 /* ----------------------------------------------------------------
 
@@ -6385,35 +6397,34 @@ body:not(.device-touch) .grid-container {
 .portfolio-filter {
   position: relative;
   margin: 0 0 40px 0;
+  margin-bottom: 0;
   list-style: none;
-  border: 1px solid rgba(0, 0, 0, 0.07);
-  float: left;
-  border-radius: 4px; }
-  /* line 16, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  float: left; }
+  /* line 17, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .dark .portfolio-filter {
     border-color: rgba(255, 255, 255, 0.08); }
   @media (max-width: 767.98px) {
     /* line 11, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-filter {
       border: 0;
-      border-top: 1px solid rgba(0, 0, 0, 0.07);
-      border-left: 1px solid rgba(0, 0, 0, 0.07);
+      border-top: 1px solid #c2ccd2;
+      border-left: 1px solid #c2ccd2;
       border-radius: 0; } }
-  /* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 27, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-filter li {
     float: left;
     position: relative; }
     @media (max-width: 767.98px) {
-      /* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 27, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-filter li {
         width: 33.3333333333%;
-        border-right: 1px solid rgba(0, 0, 0, 0.07);
-        border-bottom: 1px solid rgba(0, 0, 0, 0.07); } }
+        border-right: 1px solid #c2ccd2;
+        border-bottom: 1px solid #c2ccd2; } }
     @media (max-width: 575.98px) {
-      /* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 27, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-filter li {
         width: 50%; } }
-    /* line 35, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 36, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-filter li a {
       display: block;
       position: relative;
@@ -6421,75 +6432,71 @@ body:not(.device-touch) .grid-container {
       font-size: 13px;
       line-height: 15px;
       color: #666;
-      border-left: 1px solid rgba(0, 0, 0, 0.07); }
-      /* line 43, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      border-left: 1px solid #c2ccd2; }
+      /* line 44, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .dark .portfolio-filter li a {
         color: #999999;
         border-left-color: rgba(255, 255, 255, 0.08); }
       @media (max-width: 767.98px) {
-        /* line 35, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        /* line 36, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .portfolio-filter li a {
           text-align: center;
           border-left: none;
           padding: 12px 18px !important;
           border-radius: 0 !important; } }
-      /* line 53, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 54, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-filter li a:hover {
-        color: #007db7; }
-        /* line 55, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        color: #eb6440; }
+        /* line 56, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .dark .portfolio-filter li a:hover {
           color: #eeeeee; }
-    /* line 59, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 60, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-filter li:first-child a {
-      border-left: none;
-      border-radius: 4px 0 0 4px; }
-    /* line 65, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
-    .portfolio-filter li:last-child a {
-      border-radius: 0 4px 4px 0; }
-    /* line 70, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      border-left: none; }
+    /* line 71, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-filter li.activeFilter a {
       color: #FFF !important;
-      background-color: #007db7;
+      background-color: #eb6440;
       margin: -1px 0;
       padding: 13px 18px;
       font-weight: bold; }
       @media (max-width: 767.98px) {
-        /* line 70, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        /* line 71, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .portfolio-filter li.activeFilter a {
           margin: 0; } }
-      /* line 77, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 78, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .dark .portfolio-filter li.activeFilter a {
         color: white; }
 
-/* line 86, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 87, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-filter li a {
   padding: 12px 14px; }
 
-/* line 90, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 91, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-filter li.activeFilter a {
   padding: 13px 18px; }
 
 /* Portfolio - Filter: Style 2
 -----------------------------------------------------------------*/
-/* line 102, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 103, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-2,
 .portfolio-filter.style-3,
 .portfolio-filter.style-4 {
   border: none;
   border-radius: 0; }
 
-/* line 109, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 110, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-2 li,
 .portfolio-filter.style-3 li,
 .portfolio-filter.style-4 li {
   margin-bottom: 10px; }
 
-/* line 113, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 114, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-2 li:not(:first-child),
 .portfolio-filter.style-3 li:not(:first-child) {
   margin-left: 10px; }
 
-/* line 116, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 117, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-2 li a,
 .portfolio-filter.style-3 li a,
 .portfolio-filter.style-4 li a {
@@ -6500,37 +6507,37 @@ body:not(.device-touch) .grid-container {
   border-radius: 22px;
   border: none; }
 
-/* line 127, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 128, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-2 li.activeFilter a {
   color: #FFF !important;
   margin: 0; }
 
 /* Portfolio - Filter: Style 3
 -----------------------------------------------------------------*/
-/* line 136, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 137, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-3 li a {
   border: 1px solid transparent; }
 
-/* line 138, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 139, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-3 li.activeFilter a {
-  color: #007db7 !important;
-  border-color: #007db7;
+  color: #eb6440 !important;
+  border-color: #eb6440;
   background-color: transparent;
   margin: 0; }
 
 /* Portfolio - Filter: Style 4
 -----------------------------------------------------------------*/
-/* line 149, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 150, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-4 li:not(:first-child) {
   margin-left: 30px; }
 
-/* line 151, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 152, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-4 li a {
   padding: 13px 5px;
   font-size: 15px;
   border-radius: 0; }
 
-/* line 157, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 158, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-4 li a:after {
   content: '';
   position: absolute;
@@ -6543,92 +6550,90 @@ body:not(.device-touch) .grid-container {
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease; }
 
-/* line 168, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 169, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-4 li.activeFilter a {
   color: #444 !important;
   background-color: transparent;
   margin: 0; }
 
-/* line 174, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 175, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.style-4 li.activeFilter a:after {
   width: 100%;
   left: 0%;
-  background-color: #007db7; }
+  background-color: #eb6440; }
 
-/* line 185, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 186, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-filter.center.style-2 li, .portfolio-filter.center.style-3 li, .portfolio-filter.center.style-4 li {
   display: inline-block;
   float: none; }
 
 /* Portfolio - Shuffle Icon
 -----------------------------------------------------------------*/
-/* line 196, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 197, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-shuffle {
   float: right;
   width: 41px;
   height: 41px;
-  border: 1px solid rgba(0, 0, 0, 0.07);
   font-size: 14px;
   text-align: center;
   line-height: 39px;
   color: #333;
-  border-radius: 4px;
   cursor: pointer;
   -webkit-transition: all 0.2s linear;
   -o-transition: all 0.2s linear;
   transition: all 0.2s linear; }
-  /* line 209, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 210, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .dark .portfolio-shuffle {
     color: #999999;
     border-left-color: rgba(255, 255, 255, 0.08); }
   @media (max-width: 767.98px) {
-    /* line 196, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 197, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-shuffle {
       display: none; } }
   @media (min-width: 992px) and (max-width: 1199.98px) {
-    /* line 225, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 226, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .bothsidebar .portfolio-shuffle {
       display: none; } }
-  /* line 231, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 232, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-shuffle:hover {
-    background-color: #007db7;
+    background-color: #eb6440;
     color: white;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); }
-    /* line 235, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 236, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .dark .portfolio-shuffle:hover {
       color: white; }
 
 /* Portfolio - Items
 -----------------------------------------------------------------*/
-/* line 242, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 243, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio {
   position: relative;
   margin: 0 -12px -12px 0; }
   @media (max-width: 991.98px) {
-    /* line 242, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 243, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio {
       margin: 0 -12px -12px 0; } }
   @media (min-width: 576px) and (max-width: 767.98px) {
-    /* line 248, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 249, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio:not(.portfolio-1) {
       margin: 0 -6px -6px 0; } }
   @media (max-width: 575.98px) {
-    /* line 248, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 249, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio:not(.portfolio-1) {
       margin: 0; } }
-/* line 260, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 261, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch) .portfolio {
   -webkit-transition: height 0.4s linear;
   -o-transition: height 0.4s linear;
   transition: height 0.4s linear; }
 
-/* line 267, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 268, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .portfolio-image img {
   -webkit-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out; }
 
-/* line 275, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 276, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-item {
   position: relative;
   float: left;
@@ -6636,31 +6641,31 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .port
   height: auto;
   padding: 0 12px 12px 0; }
   @media (max-width: 991.98px) {
-    /* line 275, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 276, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-item {
       width: 33.3333333333%;
       padding: 0 12px 12px 0; } }
   @media (min-width: 576px) and (max-width: 767.98px) {
-    /* line 286, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 287, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-item:not(.portfolio-1) {
       width: 50%;
       padding: 0 6px 6px 0; } }
   @media (max-width: 575.98px) {
-    /* line 275, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 276, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-item {
       width: 100%;
       padding: 0; } }
-  /* line 295, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 296, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-item .portfolio-image {
     position: relative;
     overflow: hidden; }
 
-/* line 302, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 303, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-notitle .portfolio-item,
 .portfolio-notitle .iportfolio {
   overflow: hidden; }
 
-/* line 309, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 310, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-item .portfolio-image,
 .portfolio-item .portfolio-image a,
 .portfolio-item .portfolio-image img {
@@ -6670,51 +6675,51 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .port
 
 /* Portfolio - Item Title
 -----------------------------------------------------------------*/
-/* line 322, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 323, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-desc {
   z-index: 3;
   padding: 15px 5px 10px; }
-  /* line 325, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 326, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-desc h3 {
     margin: 0;
     padding: 0;
     font-size: 19px; }
     @media (min-width: 576px) and (max-width: 767.98px) {
-      /* line 330, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 331, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio:not(.portfolio-1) .portfolio-desc h3 {
         font-size: 16px; } }
-    /* line 334, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 335, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-desc h3 a {
       color: #222; }
-      /* line 336, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 337, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .dark .portfolio-desc h3 a {
         color: #eeeeee; }
-      /* line 337, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 338, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-desc h3 a:hover {
-        color: #007db7; }
-        /* line 339, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        color: #eb6440; }
+        /* line 340, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .dark .portfolio-desc h3 a:hover {
           color: #bbbbbb; }
-  /* line 343, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 344, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-desc span {
     display: block;
     margin-top: 3px;
     color: #888; }
     @media (min-width: 576px) and (max-width: 767.98px) {
-      /* line 348, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 349, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio:not(.portfolio-1) .portfolio-desc span {
         font-size: 14px; } }
-    /* line 351, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 352, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-desc span a {
       color: #888; }
-      /* line 353, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 354, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-desc span a:hover {
         color: #000; }
-        /* line 355, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        /* line 356, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .dark .portfolio-desc span a:hover {
           color: #cccccc; }
 
-/* line 362, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 363, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-notitle .portfolio-desc {
   position: absolute;
   display: block !important;
@@ -6726,36 +6731,36 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .port
   left: 0;
   background-color: white;
   border-bottom: 1px solid #eeeeee; }
-  /* line 374, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 375, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .dark .portfolio-notitle .portfolio-desc {
     background-color: #333333;
     border-bottom: 1px solid rgba(255, 255, 255, 0.08); }
 
-/* line 384, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 385, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .portfolio-desc {
   -webkit-transition: bottom 0.2s ease-in-out;
   -o-transition: bottom 0.2s ease-in-out;
   transition: bottom 0.2s ease-in-out; }
 
-/* line 391, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 392, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-full.portfolio-notitle .portfolio-desc,
 .portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -78px;
   border-bottom: 0; }
 
-/* line 397, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 398, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-notitle .portfolio-item:hover .portfolio-desc,
 .portfolio-notitle .iportfolio:hover .portfolio-desc {
   bottom: 0 !important; }
 
-/* line 408, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 409, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-notitle .portfolio-item:hover .portfolio-image img {
   -webkit-transform: translateY(0);
   -ms-transform: translateY(0);
   -o-transform: translateY(0);
   transform: translateY(0); }
 
-/* line 419, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 420, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .portfolio-item:hover .portfolio-image img,
 body:not(.device-touch):not(.device-sm):not(.device-xs) .bothsidebar .portfolio-3.portfolio-notitle .portfolio-item:hover .portfolio-image img,
 body:not(.device-touch):not(.device-sm):not(.device-xs) .bothsidebar .portfolio-2.portfolio-notitle .portfolio-item:hover .portfolio-image img,
@@ -6765,448 +6770,450 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-notitle .ipor
   -o-transform: translateY(-20px);
   transform: translateY(-20px); }
 
-/* line 427, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 428, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body.device-touch.device-sm .portfolio-notitle .portfolio-desc, body.device-touch.device-xs .portfolio-notitle .portfolio-desc {
   display: none !important; }
 
 /* Portfolio - No Margin
 -----------------------------------------------------------------*/
-/* line 438, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 439, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-nomargin, .portfolio.portfolio-full {
   margin: 0 !important; }
 
-/* line 444, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 445, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-nomargin .portfolio-item,
 .portfolio-full .portfolio-item {
   padding: 0 !important; }
 
-/* line 447, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 448, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-nomargin .portfolio-desc {
   padding: 15px 10px 15px; }
 
 /* Portfolio - 100% Full Width
 -----------------------------------------------------------------*/
-/* line 454, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 455, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-full {
   width: 100.4%; }
 
-/* line 460, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 461, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-full .portfolio-item {
   overflow: hidden !important; }
 
-/* line 463, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 464, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-full .portfolio-desc {
   padding: 15px; }
 
 /* Portfolio - Sidebar
 -----------------------------------------------------------------*/
-/* line 474, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 475, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-desc h3 {
   font-size: 17px; }
 
-/* line 477, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 478, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-desc span {
   font-size: 12px; }
 
 /* Portfolio - Sidebar - No Title
 -----------------------------------------------------------------*/
-/* line 488, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 489, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-notitle .portfolio-desc {
   height: 70px;
   bottom: -71px; }
 
-/* line 495, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 496, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-notitle .portfolio-item:hover .portfolio-overlay a {
   margin-top: -50px !important; }
 
-/* line 503, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 504, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-full.portfolio-notitle .portfolio-desc,
 .postcontent .portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -70px; }
 
 /* Portfolio - Both Sidebars
 -----------------------------------------------------------------*/
-/* line 513, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 514, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio {
   margin: 0; }
 
-/* line 516, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 517, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-item {
   padding: 0; }
   @media (min-width: 992px) and (max-width: 1199.98px) {
-    /* line 516, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 517, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .bothsidebar .portfolio-item {
       width: 50%; } }
-/* line 522, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 523, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-desc {
   display: none !important; }
 
 /* Portfolio - Items - 3 Columns
 -----------------------------------------------------------------*/
-/* line 532, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 533, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-3 {
   margin: 0 -15px -15px 0; }
   @media (max-width: 991.98px) {
-    /* line 532, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 533, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio.portfolio-3 {
       margin: 0 -15px -15px 0; } }
-/* line 541, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 542, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-3 .portfolio-item {
   width: 33.33333333%;
   padding: 0 15px 15px 0; }
   @media (max-width: 991.98px) {
-    /* line 541, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 542, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-3 .portfolio-item {
       width: 33.3333333333%;
       padding: 0 15px 15px 0; } }
 /* Portfolio - Sidebar - Items - 3 Columns
 -----------------------------------------------------------------*/
-/* line 557, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 558, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-3 .portfolio-desc h3 {
   font-size: 18px; }
 
-/* line 560, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 561, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-3 .portfolio-desc span {
   font-size: 13px; }
 
 /* Portfolio - Sidebar - Items - 3 Columns - No Title
 -----------------------------------------------------------------*/
-/* line 573, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 574, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-3.portfolio-notitle .portfolio-desc {
   height: 72px;
   bottom: -73px; }
 
-/* line 580, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 581, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-3.portfolio-notitle .portfolio-item:hover .portfolio-overlay a {
   margin-top: -40px !important; }
 
-/* line 587, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 588, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-3.portfolio-full.portfolio-notitle .portfolio-desc, .postcontent .portfolio-3.portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -72px; }
 
 /* Portfolio - Both Sidebars - Items - 3 Columns
 -----------------------------------------------------------------*/
-/* line 599, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 600, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio.portfolio-3 {
   margin: 0 -11px -11px 0; }
   @media (min-width: 992px) and (max-width: 1199.98px) {
-    /* line 599, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 600, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .bothsidebar .portfolio.portfolio-3 {
       margin: 0 -20px -20px 0; } }
-/* line 607, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 608, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-3 .portfolio-item {
   padding: 0 11px 11px 0; }
   @media (min-width: 992px) and (max-width: 1199.98px) {
-    /* line 607, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 608, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .bothsidebar .portfolio-3 .portfolio-item {
       padding: 0 20px 20px 0; } }
-/* line 612, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 613, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-3 .portfolio-desc {
   display: block !important; }
-  /* line 614, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 615, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .bothsidebar .portfolio-3 .portfolio-desc h3 {
     font-size: 15px; }
-  /* line 617, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 618, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .bothsidebar .portfolio-3 .portfolio-desc span {
     font-size: 12px; }
 
 /* Portfolio - Both Sidebars - Items - 3 Columns - No Title
 -----------------------------------------------------------------*/
-/* line 631, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 632, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-3.portfolio-notitle .portfolio-desc {
   height: 68px;
   bottom: -69px; }
 
-/* line 638, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 639, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-3.portfolio-notitle .portfolio-item:hover .portfolio-overlay a {
   margin-top: -50px !important; }
 
-/* line 645, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 646, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-3.portfolio-full.portfolio-notitle .portfolio-desc, .bothsidebar .portfolio-3.portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -68px; }
 
 /* Portfolio - Items - 2 Columns
 -----------------------------------------------------------------*/
-/* line 656, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 657, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-2 {
   margin: 0 -20px -20px 0; }
   @media (max-width: 991.98px) {
-    /* line 656, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 657, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio.portfolio-2 {
       margin: 0 -20px -20px 0; } }
-/* line 664, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 665, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-2 .portfolio-item {
   width: 50%;
   padding: 0 20px 20px 0; }
   @media (max-width: 991.98px) {
-    /* line 664, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 665, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-2 .portfolio-item {
       width: 50%;
       padding: 0 20px 20px 0; } }
-/* line 672, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 673, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-2 .portfolio-desc {
   padding: 20px 5px 10px; }
-  /* line 674, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 675, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-2 .portfolio-desc h3 {
     font-size: 21px; }
-  /* line 677, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 678, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-2 .portfolio-desc span {
     margin-top: 4px;
     font-size: 14px; }
 
 /* Portfolio - Items - 2 Columns - No Margin
 -----------------------------------------------------------------*/
-/* line 689, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 690, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-2.portfolio-nomargin .portfolio-desc {
   padding: 20px 15px 20px; }
 
 /* Portfolio - Items - 2 Columns - No Title
 -----------------------------------------------------------------*/
-/* line 700, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 701, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-2.portfolio-notitle .portfolio-desc {
   height: 90px;
   bottom: -91px; }
 
-/* line 705, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 706, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-2.portfolio-full.portfolio-notitle .portfolio-desc, .portfolio-2.portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -90px; }
 
 /* Portfolio - Sidebar - Items - 2 Columns
 -----------------------------------------------------------------*/
-/* line 717, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 718, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-2 .portfolio-desc h3 {
   font-size: 21px; }
 
-/* line 720, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 721, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-2 .portfolio-desc span {
   font-size: 14px; }
 
 /* Portfolio - Sidebar - Items - 2 Columns - No Margin
 -----------------------------------------------------------------*/
-/* line 733, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 734, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-2.portfolio-nomargin .portfolio-desc {
   padding-bottom: 20px; }
 
 /* Portfolio - Sidebar - Items - 2 Columns - No Title
 -----------------------------------------------------------------*/
-/* line 746, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 747, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-2.portfolio-notitle .portfolio-desc {
   height: 90px;
   bottom: -91px; }
 
-/* line 753, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 754, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-2.portfolio-notitle .portfolio-item:hover .portfolio-overlay a {
   margin-top: -40px !important; }
 
-/* line 760, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 761, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-2.portfolio-full.portfolio-notitle .portfolio-desc, .postcontent .portfolio-2.portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -90px; }
 
 /* Portfolio - Both Sidebars - Items - 2 Columns
 -----------------------------------------------------------------*/
-/* line 772, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 773, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-2 .portfolio-desc {
   display: block !important;
   padding-top: 15px;
   padding-bottom: 0; }
-  /* line 776, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 777, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .bothsidebar .portfolio-2 .portfolio-desc h3 {
     font-size: 19px; }
-  /* line 779, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 780, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .bothsidebar .portfolio-2 .portfolio-desc span {
     font-size: 13px; }
 
 /* Portfolio - Both Sidebars - Items - 2 Columns - No Margin
 -----------------------------------------------------------------*/
-/* line 792, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 793, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-2.portfolio-nomargin .portfolio-desc {
   padding-bottom: 15px; }
 
 /* Portfolio - Both Sidebars - Items - 2 Columns - No Title
 -----------------------------------------------------------------*/
-/* line 805, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 806, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-2.portfolio-notitle .portfolio-desc {
   height: 75px;
   bottom: -76px; }
 
-/* line 812, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 813, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-2.portfolio-notitle .portfolio-item:hover .portfolio-overlay a {
   margin-top: -40px !important; }
 
-/* line 819, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 820, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-2.portfolio-full.portfolio-notitle .portfolio-desc, .bothsidebar .portfolio-2.portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -75px; }
 
 /* Portfolio - Items - 5 Columns
 -----------------------------------------------------------------*/
-/* line 830, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 831, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-5 {
   margin: 0 -10px -10px 0; }
 
-/* line 835, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 836, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-5 .portfolio-item {
   width: 50%;
   padding: 0 10px 10px 0; }
 
-/* line 840, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 841, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-5 .portfolio-desc h3 {
   font-size: 17px; }
 
 /* Portfolio - Items - 5 Columns - No Title
 -----------------------------------------------------------------*/
-/* line 851, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 852, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-5.portfolio-notitle .portfolio-desc {
   height: 71px;
   bottom: -72px; }
 
-/* line 858, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 859, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-5.portfolio-notitle .portfolio-item:hover .portfolio-overlay a {
   margin-top: -30px !important; }
 
-/* line 865, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 866, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-5.portfolio-full.portfolio-notitle .portfolio-desc, .portfolio-5.portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -71px; }
 
 /* Portfolio - Sidebar - Items - 5 Columns
 -----------------------------------------------------------------*/
-/* line 876, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 877, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio.portfolio-5 {
   margin: 0; }
 
-/* line 881, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 882, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-5 .portfolio-item {
   padding: 0; }
 
-/* line 884, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 885, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-5 .portfolio-desc {
   padding: 15px 10px; }
-  /* line 886, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 887, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .postcontent .portfolio-5 .portfolio-desc h3 {
     font-size: 15px; }
-  /* line 889, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 890, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .postcontent .portfolio-5 .portfolio-desc span {
     font-size: 12px; }
 
 /* Portfolio - Sidebar - Items - 5 Columns - No Title
 -----------------------------------------------------------------*/
-/* line 902, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 903, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-5.portfolio-notitle .portfolio-desc {
   height: 68px;
   bottom: -69px; }
 
-/* line 909, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 910, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-5.portfolio-notitle .portfolio-item:hover .portfolio-overlay a {
   margin-top: -50px !important; }
 
-/* line 917, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 918, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-5.portfolio-full.portfolio-notitle .portfolio-desc, .postcontent .portfolio-5.portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -68px; }
 
 /* Portfolio - Items - 6 Columns
 -----------------------------------------------------------------*/
-/* line 928, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 929, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-6 {
   margin: 0 -6px -6px 0; }
 
-/* line 933, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 934, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-6 .portfolio-item {
   width: 16.66666667%;
   padding: 0 6px 6px 0; }
 
-/* line 938, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 939, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-6 .portfolio-desc h3 {
   font-size: 15px; }
 
-/* line 941, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 942, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-6 .portfolio-desc span {
   font-size: 12px; }
 
 /* Portfolio - Items - 6 Columns - No Title
 -----------------------------------------------------------------*/
-/* line 952, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 953, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-6.portfolio-notitle .portfolio-desc {
   height: 68px;
   bottom: -69px; }
 
-/* line 959, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 960, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-6.portfolio-notitle .portfolio-item:hover .portfolio-overlay a {
   margin-top: -40px !important; }
 
-/* line 966, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 967, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-6.portfolio-full.portfolio-notitle .portfolio-desc, .portfolio-6.portfolio-nomargin.portfolio-notitle .portfolio-desc {
   bottom: -68px; }
 
 /* Portfolio - Items - 1 Column
 -----------------------------------------------------------------*/
-/* line 976, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 977, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-1 {
-  margin: 0 0px -40px 0; }
+  margin: 0 -15px -40px -15px;
+  padding-top: 80px;
+  border-top: 1px solid #c2ccd2; }
 
-/* line 981, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 984, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-1 .portfolio-item {
   float: none;
   width: 100%;
   margin: 0 0 80px 0;
   padding-bottom: 80px;
   padding-right: 0; }
-  /* line 988, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 991, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .dark .portfolio-1 .portfolio-item {
     border-bottom-color: rgba(255, 255, 255, 0.08); }
   @media (max-width: 991.98px) {
-    /* line 981, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 984, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-1 .portfolio-item {
       width: 100%; } }
-  /* line 992, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 995, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-item .portfolio-image {
     float: left;
     margin-right: 5%;
     width: 50%;
     height: auto; }
     @media (max-width: 991.98px) {
-      /* line 992, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 995, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-1 .portfolio-item .portfolio-image {
         float: none !important;
         margin: 0 !important;
         margin-bottom: 20px !important; } }
-  /* line 1003, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1006, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-item.alt .portfolio-image {
     float: right;
     margin: 0; }
 
-/* line 1008, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1011, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-1 .portfolio-desc {
   float: left;
   width: 45%;
   padding: 10px 0 10px 40px; }
   @media (max-width: 991.98px) {
-    /* line 1008, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1011, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-1 .portfolio-desc {
       width: 100% !important;
       padding: 0 !important; } }
-  /* line 1016, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1019, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-desc h3 {
     font-size: 22px; }
-  /* line 1017, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1020, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-desc span {
     margin-top: 6px;
     font-size: 14px; }
-  /* line 1021, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1024, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-desc p {
     margin: 20px 0 25px;
     font-size: 14px; }
-  /* line 1025, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1028, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-desc li {
     margin: 3px 0; }
-  /* line 1026, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1029, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-desc .dr-country {
     border-bottom: 1px solid #c2ccd2;
     margin-top: 0;
     margin-bottom: 0; }
-  /* line 1031, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1034, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-desc .dr-categories {
     margin-top: 0; }
 
-/* line 1035, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1038, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-1 .alt .portfolio-desc {
   float: right;
   padding-left: 0;
@@ -7214,37 +7221,37 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-desc, body.device-touc
 
 /* Portfolio - Items - 1 Column - Both Sidebar
 -----------------------------------------------------------------*/
-/* line 1048, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1051, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1 .iconlist {
   display: block !important; }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
-  /* line 1051, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1054, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .postcontent .portfolio-1 .iconlist {
     display: none; } }
 
-/* line 1061, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1064, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1 .portfolio-item {
   width: 100% !important; }
 
-/* line 1063, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1066, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1 .portfolio-item .portfolio-image,
 .bothsidebar .portfolio-1 .portfolio-item .portfolio-desc {
   float: none;
   margin: 0 !important; }
 
-/* line 1069, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1072, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1 .portfolio-item .portfolio-image {
   margin-bottom: 20px !important; }
 
-/* line 1071, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1074, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1 .portfolio-item .portfolio-image,
 .bothsidebar .portfolio-1 .portfolio-item .portfolio-image a,
 .bothsidebar .portfolio-1 .portfolio-item .portfolio-image img {
   width: 100%;
   height: auto; }
 
-/* line 1078, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1081, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1 .portfolio-desc {
   display: block !important;
   position: relative !important;
@@ -7254,75 +7261,75 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-desc, body.device-touc
   left: 0 !important;
   right: 0 !important; }
 
-/* line 1088, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1091, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1.portfolio-fullwidth .portfolio-overlay a {
   left: 50%; }
 
-/* line 1090, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1093, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1.portfolio-fullwidth .alt .portfolio-overlay a {
   left: auto;
   right: 50%; }
 
 /* Portfolio - Items - 1 Column - Full Width
 -----------------------------------------------------------------*/
-/* line 1102, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1105, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-1.portfolio-fullwidth {
   margin: 0 0 -60px 0; }
 
-/* line 1109, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1112, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-1.portfolio-fullwidth .portfolio-item {
   margin-bottom: 60px;
   padding-bottom: 0;
   border-bottom: 0;
   overflow: hidden; }
-  /* line 1114, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1117, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1.portfolio-fullwidth .portfolio-item .portfolio-image {
     float: none;
     width: 100%;
     margin: 0 !important; }
     @media (max-width: 991.98px) {
-      /* line 1114, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1117, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-1.portfolio-fullwidth .portfolio-item .portfolio-image {
         margin: 0 0 20px 0 !important; }
-        /* line 1120, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        /* line 1123, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .portfolio-1.portfolio-fullwidth .portfolio-item .portfolio-image img {
           -webkit-transition: none;
           -o-transition: none;
           transition: none; } }
-  /* line 1127, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1130, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1.portfolio-fullwidth .portfolio-item:hover .portfolio-image img {
     -webkit-transform: translateX(-60px);
     -ms-transform: translateX(-60px);
     -o-transform: translateX(-60px);
     transform: translateX(-60px); }
     @media (max-width: 991.98px) {
-      /* line 1127, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1130, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-1.portfolio-fullwidth .portfolio-item:hover .portfolio-image img {
         -webkit-transform: translateX(0);
         -ms-transform: translateX(0);
         -o-transform: translateX(0);
         transform: translateX(0); } }
-  /* line 1134, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1137, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1.portfolio-fullwidth .portfolio-item:hover .portfolio-desc {
     right: 0; }
-  /* line 1141, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1144, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1.portfolio-fullwidth .portfolio-item.alt:hover .portfolio-image img {
     -webkit-transform: translateX(60px);
     -ms-transform: translateX(60px);
     -o-transform: translateX(60px);
     transform: translateX(60px); }
     @media (max-width: 991.98px) {
-      /* line 1141, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1144, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-1.portfolio-fullwidth .portfolio-item.alt:hover .portfolio-image img {
         -webkit-transform: translateX(0);
         -ms-transform: translateX(0);
         -o-transform: translateX(0);
         transform: translateX(0); } }
-  /* line 1148, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1151, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1.portfolio-fullwidth .portfolio-item.alt:hover .portfolio-desc {
     left: 0; }
 
-/* line 1154, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1157, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-1.portfolio-fullwidth .portfolio-desc {
   position: absolute;
   float: none;
@@ -7333,23 +7340,23 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-desc, body.device-touc
   top: 0;
   left: auto;
   right: -35%; }
-  /* line 1164, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1167, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .dark .portfolio-1.portfolio-fullwidth .portfolio-desc {
     background-color: #333333; }
 
-/* line 1175, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1178, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-1.portfolio-fullwidth .portfolio-item .portfolio-image img {
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
-/* line 1180, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1183, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-1.portfolio-fullwidth .portfolio-desc {
   -webkit-transition: right 0.3s ease-in-out;
   -o-transition: right 0.3s ease-in-out;
   transition: right 0.3s ease-in-out; }
 
-/* line 1184, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1187, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-1.portfolio-fullwidth .alt .portfolio-desc {
   -webkit-transition: left 0.3s ease-in-out;
   -o-transition: left 0.3s ease-in-out;
@@ -7357,42 +7364,42 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-1.portfolio-f
 
 /* Portfolio - Items - 1 Column - Full Width - Sidebar
 -----------------------------------------------------------------*/
-/* line 1196, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1199, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio.portfolio-1.portfolio-fullwidth {
   margin: 0 0 -40px 0; }
 
-/* line 1198, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1201, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-1.portfolio-fullwidth .portfolio-item {
   margin-bottom: 40px; }
-  /* line 1200, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1203, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .postcontent .portfolio-1.portfolio-fullwidth .portfolio-item:hover .portfolio-image img {
     -webkit-transform: translateX(-40px);
     -ms-transform: translateX(-40px);
     -o-transform: translateX(-40px);
     transform: translateX(-40px); }
-  /* line 1203, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1206, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .postcontent .portfolio-1.portfolio-fullwidth .portfolio-item .alt:hover .portfolio-image img {
     -webkit-transform: translateX(40px);
     -ms-transform: translateX(40px);
     -o-transform: translateX(40px);
     transform: translateX(40px); }
 
-/* line 1208, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1211, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .postcontent .portfolio-1.portfolio-fullwidth .portfolio-desc {
   padding: 25px; }
 
 /* Portfolio - Items - 1 Column - Full Width - Both Sidebar
 -----------------------------------------------------------------*/
-/* line 1219, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1222, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .bothsidebar .portfolio-1.portfolio-fullwidth .portfolio-item {
   margin-bottom: 20px; }
-  /* line 1223, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1226, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .bothsidebar .portfolio-1.portfolio-fullwidth .portfolio-item:hover .portfolio-image img {
     -webkit-transform: translateX(0px);
     -ms-transform: translateX(0px);
     -o-transform: translateX(0px);
     transform: translateX(0px); }
-  /* line 1231, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1234, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .bothsidebar .portfolio-1.portfolio-fullwidth .portfolio-item.alt:hover .portfolio-image img {
     -webkit-transform: translateX(0);
     -ms-transform: translateX(0);
@@ -7400,7 +7407,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-1.portfolio-f
     transform: translateX(0); }
 
 @media (max-width: 991.98px) {
-  /* line 1243, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1246, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1 .portfolio-item .portfolio-image,
   .portfolio-1 .portfolio-item .portfolio-image a,
   .portfolio-1 .portfolio-item .portfolio-image img,
@@ -7409,7 +7416,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-1.portfolio-f
   .portfolio-1.portfolio-fullwidth .portfolio-item .portfolio-image img {
     width: 100%;
     height: auto; }
-  /* line 1253, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1256, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1.portfolio-fullwidth .portfolio-desc,
   .portfolio-1.portfolio-fullwidth .alt .portfolio-desc {
     position: relative;
@@ -7420,38 +7427,38 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-1.portfolio-f
     -webkit-transition: none;
     -o-transition: none;
     transition: none; }
-  /* line 1265, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1268, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1.portfolio-fullwidth .portfolio-overlay a {
     left: 50% !important; }
-  /* line 1267, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1270, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-1.portfolio-fullwidth .alt .portfolio-overlay a {
     left: auto;
     right: 50% !important; } }
 
 /* Portfolio - Parallax
 -----------------------------------------------------------------*/
-/* line 1277, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1280, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio.portfolio-parallax {
   margin: 0 !important; }
-  /* line 1279, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1282, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio.portfolio-parallax .portfolio-item {
     float: none;
     width: 100% !important;
     height: 500px !important;
     margin: 0 !important;
     padding: 0 !important; }
-    /* line 1285, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1288, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio.portfolio-parallax .portfolio-item .portfolio-image {
       width: 100% !important;
       height: 500px !important;
       background-attachment: fixed; }
-    /* line 1291, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1294, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio.portfolio-parallax .portfolio-item:hover .portfolio-desc {
       opacity: 1; }
-      /* line 1294, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1297, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio.portfolio-parallax .portfolio-item:hover .portfolio-desc .portfolio-divider div {
         width: 120px; }
-  /* line 1301, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1304, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio.portfolio-parallax .portfolio-desc {
     position: absolute;
     top: 50%;
@@ -7463,55 +7470,55 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-1.portfolio-f
     padding: 0;
     opacity: 0; }
     @media (max-width: 991.98px) {
-      /* line 1312, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1315, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .device-touch .portfolio.portfolio-parallax .portfolio-desc {
         opacity: 1; } }
-    /* line 1314, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1317, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio.portfolio-parallax .portfolio-desc h3 {
       font-size: 44px;
       font-weight: 300;
       letter-spacing: -1px; }
-      /* line 1318, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1321, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio.portfolio-parallax .portfolio-desc h3 a {
         color: #FFF; }
-        /* line 1320, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        /* line 1323, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .portfolio.portfolio-parallax .portfolio-desc h3 a:hover {
           color: #DDD; }
-    /* line 1325, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1328, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio.portfolio-parallax .portfolio-desc span {
       margin-top: 12px;
       font-size: 16px;
       color: #CCC; }
-      /* line 1329, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1332, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio.portfolio-parallax .portfolio-desc span a {
         color: #DDD; }
-        /* line 1331, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        /* line 1334, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .portfolio.portfolio-parallax .portfolio-desc span a:hover {
           color: #BBB; }
-    /* line 1336, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1339, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio.portfolio-parallax .portfolio-desc .portfolio-divider {
       width: 100%;
       text-align: center;
       margin: 15px 0 0; }
-      /* line 1340, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1343, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio.portfolio-parallax .portfolio-desc .portfolio-divider div {
         display: inline-block;
         width: 50px;
         height: 0;
         border-bottom: 1px solid #FFF; }
-  /* line 1348, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1351, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio.portfolio-parallax .portfolio-overlay {
     background-color: rgba(0, 0, 0, 0.4); }
     @media (max-width: 991.98px) {
-      /* line 1351, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1354, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .device-touch .portfolio.portfolio-parallax .portfolio-overlay {
         opacity: 1; } }
-/* line 1360, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1363, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio.portfolio-parallax .portfolio-desc {
   -webkit-transition: opacity 0.15s ease-in-out;
   -o-transition: opacity 0.15s ease-in-out;
   transition: opacity 0.15s ease-in-out; }
-  /* line 1363, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1366, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio.portfolio-parallax .portfolio-desc .portfolio-divider div {
     -webkit-transition: width 0.5s ease-in-out;
     -o-transition: width 0.5s ease-in-out;
@@ -7519,7 +7526,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio.portfolio-par
 
 /* Portfolio - Overlay
 -----------------------------------------------------------------*/
-/* line 1376, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1379, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-overlay {
   position: absolute;
   top: 0;
@@ -7530,7 +7537,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio.portfolio-par
   z-index: 2;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.5); }
-  /* line 1386, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1389, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-overlay a {
     position: absolute;
     top: 50%;
@@ -7545,39 +7552,39 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio.portfolio-par
     color: #444;
     border-radius: 50%;
     -webkit-backface-visibility: hidden; }
-    /* line 1400, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1403, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .dark .portfolio-overlay a {
       background-color: rgba(0, 0, 0, 0.5);
       color: #FFF; }
-    /* line 1404, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1407, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-overlay a.right-icon {
       left: auto;
       right: 50%;
       margin-left: 0;
       margin-right: -44px; }
-    /* line 1410, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1413, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-overlay a.center-icon {
       display: block;
       margin: -20px 0 0 -20px;
       opacity: 0; }
-    /* line 1415, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1418, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-overlay a:hover {
-      color: #007db7;
+      color: #eb6440;
       background-color: #EEE; }
-      /* line 1418, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1421, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .dark .portfolio-overlay a:hover {
         background-color: rgba(0, 0, 0, 0.7); }
-    /* line 1423, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1426, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-overlay a i.icon-line-play {
       position: relative;
       left: 2px; }
-  /* line 1429, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1432, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-overlay .portfolio-desc {
     position: relative;
     padding: 0 !important;
     margin: 0;
     text-align: center; }
-    /* line 1434, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1437, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-overlay .portfolio-desc a {
       display: inline;
       position: relative;
@@ -7590,26 +7597,26 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio.portfolio-par
       line-height: 1;
       background-color: transparent !important;
       text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15); }
-      /* line 1446, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1449, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-overlay .portfolio-desc a:hover {
         background: transparent; }
-    /* line 1450, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1453, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-overlay .portfolio-desc h3 {
       font-weight: 600;
       color: #F5F5F5 !important;
       line-height: 1; }
-      /* line 1454, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1457, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-overlay .portfolio-desc h3 a {
         color: #F5F5F5 !important; }
-    /* line 1458, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1461, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-overlay .portfolio-desc span {
       margin-top: 7px;
       color: #DDD !important; }
-      /* line 1461, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1464, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-overlay .portfolio-desc span a {
         color: #DDD !important;
         font-size: inherit; }
-    /* line 1466, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1469, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-overlay .portfolio-desc ~ a {
       display: inline-block;
       position: relative;
@@ -7617,57 +7624,57 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio.portfolio-par
       left: 0;
       margin: 20px 0 0 !important; }
       @media (min-width: 576px) and (max-width: 767.98px) {
-        /* line 1473, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+        /* line 1476, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
         .portfolio:not(.portfolio-1) .portfolio-item:hover .portfolio-overlay .portfolio-desc ~ a {
           margin: 20px 0 0 !important; } }
-      /* line 1477, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1480, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .portfolio-overlay .portfolio-desc ~ a.right-icon {
         left: 0;
         right: 0;
         margin-left: 5px !important;
         margin-right: 0 !important; }
         @media (min-width: 576px) and (max-width: 767.98px) {
-          /* line 1483, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+          /* line 1486, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
           .portfolio:not(.portfolio-1) .portfolio-item:hover .portfolio-overlay .portfolio-desc ~ a.right-icon {
             margin-left: 5px !important;
             margin-right: 0 !important; } }
-/* line 1494, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1497, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-overlay {
   -webkit-transition: opacity 0.4s ease-in-out;
   -o-transition: opacity 0.4s ease-in-out;
   transition: opacity 0.4s ease-in-out; }
-  /* line 1496, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1499, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-overlay a {
     -webkit-transition: color 0.2s linear, background-color 0.2s linear, margin-top 0.2s linear, opacity 0.2s linear;
     -o-transition: color 0.2s linear, background-color 0.2s linear, margin-top 0.2s linear, opacity 0.2s linear;
     transition: color 0.2s linear, background-color 0.2s linear, margin-top 0.2s linear, opacity 0.2s linear; }
-  /* line 1500, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1503, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   body:not(.device-touch):not(.device-sm):not(.device-xs) .portfolio-overlay .portfolio-desc ~ a {
     -webkit-transition: color 0.2s linear, background-color 0.2s linear, opacity 0.2s linear;
     -o-transition: color 0.2s linear, background-color 0.2s linear, opacity 0.2s linear;
     transition: color 0.2s linear, background-color 0.2s linear, opacity 0.2s linear; }
 
-/* line 1507, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1510, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-item:hover .portfolio-overlay,
 .iportfolio:hover .portfolio-overlay {
   opacity: 1; }
 
-/* line 1512, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1515, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-item:hover a.center-icon,
 .iportfolio:hover a.center-icon {
   opacity: 1; }
 
-/* line 1517, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1520, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-item:hover .portfolio-overlay a.left-icon,
 .portfolio-item:hover .portfolio-overlay a.right-icon,
 .iportfolio:hover .portfolio-overlay a.left-icon,
 .iportfolio:hover .portfolio-overlay a.right-icon {
   margin-top: -18px; }
   @media (min-width: 576px) and (max-width: 767.98px) {
-    /* line 1523, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1526, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-notitle:not(.portfolio-1) .portfolio-item:hover .portfolio-overlay a.left-icon, .portfolio-notitle .iportfolio:hover .portfolio-item:hover .portfolio-overlay a.left-icon, .portfolio-notitle:not(.portfolio-1) .portfolio-item:hover .portfolio-overlay a.right-icon, .portfolio-notitle .iportfolio:hover .portfolio-item:hover .portfolio-overlay a.right-icon, .portfolio-notitle:not(.portfolio-1) .iportfolio:hover .portfolio-overlay a.left-icon, .portfolio-notitle .iportfolio:hover .iportfolio:hover .portfolio-overlay a.left-icon, .portfolio-notitle:not(.portfolio-1) .iportfolio:hover .portfolio-overlay a.right-icon, .portfolio-notitle .iportfolio:hover .iportfolio:hover .portfolio-overlay a.right-icon {
       margin-top: -55px; } }
-/* line 1535, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1538, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-touch.device-xs .portfolio-notitle .portfolio-overlay {
   display: none !important; }
 
@@ -7675,7 +7682,7 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 -----------------------------------------------------------------*/
 /* Portfolio Single - Image
 -----------------------------------------------------------------*/
-/* line 1552, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1555, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-single-image > a,
 .portfolio-single-image .slide a,
 .portfolio-single-image img,
@@ -7684,79 +7691,79 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   display: block;
   width: 100%; }
 
-/* line 1561, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1564, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-single-image-full {
   position: relative;
   height: 600px;
   overflow: hidden;
   margin: -80px 0 80px !important; }
   @media (min-width: 992px) and (max-width: 1199.98px) {
-    /* line 1567, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1570, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-single-image-full.portfolio-single-thumbs {
       height: 400px; } }
-/* line 1573, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1576, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-single-video {
   height: auto !important; }
 
 /* Portfolio Single - Gallery Thumbs
 -----------------------------------------------------------------*/
-/* line 1580, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1583, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-single-image-full .swiper-container {
   width: 100%;
   height: 600px;
   background-color: #333; }
   @media (min-width: 992px) and (max-width: 1199.98px) {
-    /* line 1580, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1583, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-single-image-full .swiper-container {
       height: 400px; } }
-/* line 1588, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1591, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-single-image-full .swiper-slide {
   overflow: hidden; }
-  /* line 1590, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1593, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-single-image-full .swiper-slide img {
     width: 100%;
     height: auto; }
 
-/* line 1596, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1599, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-single-image-full .swiper-nested-1,
 .portfolio-single-image-full .swiper-nested-2 {
   width: 100%; }
 
 /* Portfolio & Blog Single - Masonry
 -----------------------------------------------------------------*/
-/* line 1605, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1608, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .masonry-thumbs {
   position: relative; }
-  /* line 1607, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1610, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs a {
     position: relative;
     float: left;
     width: 25%;
     overflow: hidden; }
-  /* line 1614, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1617, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs.grid-2 a {
     width: 50%; }
-  /* line 1617, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1620, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs.grid-3 a {
     width: 33.30%; }
-  /* line 1620, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1623, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs.grid-4 a {
     width: 25%; }
-  /* line 1623, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1626, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs.grid-5 a {
     width: 20%; }
-  /* line 1626, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1629, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs.grid-6 a {
     width: 16.60%; }
-  /* line 1628, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1631, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs img {
     width: 100%;
     border-radius: 0 !important;
     padding: 0 1px 1px 0; }
-  /* line 1633, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1636, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs .overlay {
     padding: 0 1px 1px 0; }
-  /* line 1636, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1639, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .masonry-thumbs a,
   .masonry-thumbs img {
     display: block;
@@ -7764,39 +7771,39 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 
 /* Portfolio Single - Content
 -----------------------------------------------------------------*/
-/* line 1646, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1649, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-single-content {
   font-size: 14px; }
-  /* line 1648, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1651, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-single-content h2 {
     margin: 0 0 20px;
     padding: 0;
     font-size: 20px;
     font-weight: 600 !important; }
 
-/* line 1656, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1659, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-ajax-modal {
   width: 1000px !important; }
 
-/* line 1660, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1663, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .modal-padding {
   padding: 40px; }
 
-/* line 1664, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1667, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .ajax-modal-title {
   background-color: #f9f9f9;
   border-bottom: 1px solid #eeeeee;
   padding: 25px 40px; }
-  /* line 1668, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1671, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .dark .ajax-modal-title {
     background-color: #333333;
     border-bottom-color: rgba(255, 255, 255, 0.08); }
-  /* line 1672, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1675, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .ajax-modal-title h2 {
     font-size: 26px;
     margin-bottom: 0; }
 
-/* line 1678, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1681, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 #portfolio-ajax-wrap {
   position: relative;
   max-height: 0;
@@ -7804,43 +7811,43 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   -webkit-transition: max-height 0.4s ease;
   -o-transition: max-height 0.4s ease;
   transition: max-height 0.4s ease; }
-  /* line 1683, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1686, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   #portfolio-ajax-wrap.portfolio-ajax-opened {
     max-height: 1200px; }
 
-/* line 1688, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1691, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 #portfolio-ajax-container {
   display: none;
   padding-bottom: 60px; }
 
 /* Portfolio Single - Meta
 -----------------------------------------------------------------*/
-/* line 1696, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1699, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-meta,
 .portfolio-share {
   list-style: none;
   font-size: 14px; }
 
-/* line 1703, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1706, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .portfolio-meta li {
   margin: 10px 0;
   color: #666; }
-  /* line 1706, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1709, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .dark .portfolio-meta li {
     color: #999999; }
-  /* line 1707, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1710, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-meta li:first-child {
     margin-top: 0; }
-  /* line 1710, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1713, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-meta li span {
     display: inline-block;
     width: 150px;
     font-weight: bold;
     color: #333; }
-    /* line 1715, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1718, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .dark .portfolio-meta li span {
       color: #bbbbbb; }
-    /* line 1716, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1719, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .portfolio-meta li span i {
       position: relative;
       top: 1px;
@@ -7848,26 +7855,26 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
       text-align: center;
       margin-right: 7px; }
 
-/* line 1728, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1731, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .well .line {
   margin: 20px 0;
   border-color: #e5e5e5; }
-  /* line 1731, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1734, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .dark .well .line {
     border-color: rgba(255, 255, 255, 0.08); }
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
-  /* line 1736, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1739, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .panel .portfolio-meta li {
     padding-left: 22px; }
-    /* line 1738, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1741, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .panel .portfolio-meta li span {
       display: block;
       margin-left: -21px; } }
 
 /* Portfolio Single Navigation
 -----------------------------------------------------------------*/
-/* line 1748, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1751, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 #portfolio-navigation {
   position: absolute;
   top: 50%;
@@ -7876,7 +7883,7 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   max-width: 96px;
   height: 24px;
   margin-top: -12px; }
-  /* line 1756, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1759, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   #portfolio-navigation a {
     display: block;
     float: left;
@@ -7888,90 +7895,90 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     -webkit-transition: color 0.3s linear;
     -o-transition: color 0.3s linear;
     transition: color 0.3s linear; }
-    /* line 1764, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1767, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     .dark #portfolio-navigation a {
       color: #999999; }
-    /* line 1766, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1769, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     #portfolio-navigation a i {
       position: relative;
       top: -1px;
       font-size: 24px;
       line-height: 1; }
-      /* line 1771, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      /* line 1774, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       #portfolio-navigation a i.icon-angle-right {
         left: -1px; }
-    /* line 1775, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1778, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     #portfolio-navigation a:first-child {
       margin-left: 0; }
-    /* line 1778, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1781, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     #portfolio-navigation a:hover {
-      color: #007db7; }
-      /* line 1780, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+      color: #eb6440; }
+      /* line 1783, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
       .dark #portfolio-navigation a:hover {
         color: #eeeeee; }
   @media (max-width: 767.98px) {
-    /* line 1784, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+    /* line 1787, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
     #page-title #portfolio-navigation, .portfolio-ajax-title #portfolio-navigation {
       position: relative;
       top: 0;
       left: 0;
       margin: 15px auto 0; } }
 @media (max-width: 767.98px) {
-  /* line 1794, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1797, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .portfolio-ajax-title {
     text-align: center; } }
 
-/* line 1798, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1801, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .page-title-right #portfolio-navigation {
   left: 10px;
   right: auto; }
 
-/* line 1804, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1807, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .page-title-center #portfolio-navigation {
   position: relative;
   top: 0;
   left: 0;
   margin: 20px auto 0; }
 
-/* line 1813, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1816, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .page-title-dark #portfolio-navigation a {
   color: #eeeeee; }
 
-/* line 1820, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1823, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .page-title-parallax #portfolio-navigation a {
   color: #FFF; }
 
-/* line 1828, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1831, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 #portfolio-navigation a i.icon-angle-left, #portfolio-navigation a i.icon-angle-right {
   font-size: 32px;
   top: -6px; }
 
-/* line 1838, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1841, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 #portfolio-ajax-show #portfolio-navigation {
   top: 0;
   margin-top: 0; }
 
 /* Individual Portfolio Item
 -----------------------------------------------------------------*/
-/* line 1847, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+/* line 1850, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
 .iportfolio {
   position: relative;
   float: none;
   width: 100%;
   margin: 0;
   padding: 0; }
-  /* line 1853, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1856, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .iportfolio .portfolio-image {
     position: relative;
     overflow: hidden; }
-  /* line 1857, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1860, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .iportfolio .portfolio-image,
   .iportfolio .portfolio-image a,
   .iportfolio .portfolio-image img {
     display: block;
     width: 100%;
     height: auto; }
-  /* line 1864, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
+  /* line 1867, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/portfolio.scss */
   .iportfolio .portfolio-overlay {
     height: 100% !important; }
 
@@ -8062,7 +8069,7 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
       color: #eeeeee; }
     /* line 75, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
     .entry-title h2 a:hover {
-      color: #007db7; }
+      color: #eb6440; }
       /* line 75, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
       .dark .entry-title h2 a:hover {
         color: #999999; }
@@ -8118,7 +8125,7 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
         color: #888888; }
       /* line 120, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
       .entry-meta li a:hover {
-        color: #007db7; }
+        color: #eb6440; }
         /* line 120, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
         .dark .entry-meta li a:hover {
           color: #cccccc; }
@@ -8167,7 +8174,7 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   /* line 156, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
   .entry-link:hover {
     color: #FFF;
-    background-color: #007db7;
+    background-color: #eb6440;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); }
   /* line 161, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
   .entry-link span {
@@ -8626,8 +8633,8 @@ body:not(.device-touch) .entry-link {
 /* line 673, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
 .post-timeline .entry:hover .entry-timeline,
 .post-timeline .entry:hover .timeline-divider {
-  border-color: #007db7;
-  color: #007db7; }
+  border-color: #eb6440;
+  color: #eb6440; }
 
 /* Blog - Timeline - Sidebar
 -----------------------------------------------------------------*/
@@ -8692,7 +8699,7 @@ body:not(.device-touch) .entry-link {
     /* line 746, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
     .ipost .entry-title h3 a:hover,
     .ipost .entry-title h4 a:hover {
-      color: #007db7; }
+      color: #eb6440; }
       /* line 748, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
       .dark .ipost .entry-title h3 a:hover, .dark .ipost .entry-title h4 a:hover {
         color: #999999; }
@@ -8719,7 +8726,7 @@ body:not(.device-touch) .entry-link {
 /* line 773, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
 .more-link {
   display: inline-block;
-  border-bottom: 1px solid #007db7;
+  border-bottom: 1px solid #eb6440;
   padding: 0 2px;
   font-family: "Crete Round", serif;
   font-style: italic; }
@@ -8814,7 +8821,7 @@ body:not(.device-touch) .entry-link {
     /* line 876, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
     .spost .entry-title h4 a:hover,
     .mpost .entry-title h4 a:hover {
-      color: #007db7; }
+      color: #eb6440; }
       /* line 878, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
       .dark .spost .entry-title h4 a:hover, .dark .mpost .entry-title h4 a:hover {
         color: #999999; }
@@ -9062,7 +9069,7 @@ body:not(.device-touch) .entry-link {
       color: #bbbbbb; }
     /* line 1142, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
     .comment-content .comment-author a:hover {
-      color: #007db7; }
+      color: #eb6440; }
       /* line 1144, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/blog.scss */
       .dark .comment-content .comment-author a:hover {
         color: #eeeeee; }
@@ -9347,7 +9354,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .product-image > a {
   /* line 121, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shop.scss */
   .product-title h3 a:hover,
   .single-product .product-title h2 a:hover {
-    color: #007db7; }
+    color: #eb6440; }
     /* line 123, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shop.scss */
     .dark .product-title h3 a:hover, .dark .single-product .product-title h2 a:hover {
       color: #bbbbbb; }
@@ -9369,7 +9376,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .product-image > a {
   /* line 142, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shop.scss */
   .product-price ins {
     text-decoration: none;
-    color: #007db7; }
+    color: #eb6440; }
 
 /* line 148, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shop.scss */
 .product-overlay {
@@ -9438,7 +9445,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .product-overlay {
   top: 10px;
   left: 10px;
   padding: 6px 10px;
-  background-color: #007db7;
+  background-color: #eb6440;
   color: #FFF;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
   border-radius: 3px;
@@ -9617,7 +9624,7 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .product-overlay {
 .single-product .product-price {
   float: left;
   font-size: 24px;
-  color: #007db7;
+  color: #eb6440;
   margin-bottom: 0; }
 
 /* line 415, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shop.scss */
@@ -9832,10 +9839,10 @@ body:not(.device-touch):not(.device-sm):not(.device-xs) .product-overlay {
     border-color: rgba(0, 0, 0, 0.2); }
   /* line 610, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shop.scss */
   .cart-product-thumbnail img:hover {
-    border-color: #007db7; }
+    border-color: #eb6440; }
     /* line 612, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shop.scss */
     .dark .cart-product-thumbnail img:hover {
-      border-color: #007db7; }
+      border-color: #eb6440; }
 
 /* line 617, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shop.scss */
 .cart-product-name a,
@@ -10628,46 +10635,73 @@ td.actions {
     font-size: .8rem;
     display: block; }
 
-/* line 3, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 2, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+#content .dr-why-partner {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 3em; }
+  /* line 6, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+  #content .dr-why-partner li {
+    font-size: 1.2rem;
+    list-style: none;
+    margin-right: 10px;
+    margin-left: 25px; }
+  /* line 12, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+  #content .dr-why-partner i {
+    color: #eb6440;
+    margin-left: -25px; }
+
+/* line 17, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+#content .dr-partner-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr; }
+  /* line 20, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+  #content .dr-partner-list li {
+    font-size: 1rem;
+    margin-right: 10px;
+    margin-left: 25px; }
+
+/* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-partner-nav {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 2em; }
-  /* line 7, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+  /* line 30, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
   #content .dr-partner-nav li {
     border: 1px solid #c2ccd2;
     color: #556773;
     list-style: none; }
-    /* line 12, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+    /* line 35, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
     #content .dr-partner-nav li a {
       background-color: #fdfdfd;
       display: block;
       padding: 20px;
       color: #555; }
-      /* line 17, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+      /* line 40, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
       #content .dr-partner-nav li a:hover {
         background-color: #98cc52;
         color: #fff;
         transition: all 0.5s ease-in-out; }
-      /* line 22, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+      /* line 45, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
       #content .dr-partner-nav li a:hover h3 {
         color: #fff;
         transition: all 0.5s ease-in-out; }
-      /* line 26, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+      /* line 49, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
       #content .dr-partner-nav li a h3 {
         margin: 0;
         display: block; }
-        /* line 29, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+        /* line 52, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
         #content .dr-partner-nav li a h3:hover {
           color: #fff;
           transition: all 0.3s ease; }
 
-/* line 41, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
-#content .dr-partner-group li {
-  margin-left: 20px;
-  margin-bottom: 10px; }
+/* line 61, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+#content .dr-partner-group h4 {
+  color: #eb6440;
+  font-size: 1.4rem !important;
+  margin: 0; }
 
-/* line 46, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 67, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-funds {
   border-left: 1px solid #c2ccd2;
   float: right;
@@ -10675,21 +10709,21 @@ td.actions {
   padding: 0 40px;
   width: 30%; }
 
-/* line 54, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 74, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-type {
   display: block;
   text-transform: uppercase; }
 
-/* line 58, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 78, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-amount {
   display: block;
   font-size: 3rem; }
 
-/* line 62, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 82, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content .dr-pager {
   text-align: right; }
 
-/* line 66, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
+/* line 86, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drpartners.scss */
 #content h5 em {
   display: block;
   font-size: 1rem;
@@ -10886,25 +10920,29 @@ td.actions {
   padding: 0;
   color: #556773;
   list-style: none; }
-  /* line 10, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  @media (max-width: 991.98px) {
+    /* line 3, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    #content .dr-s2030-sectors {
+      display: block; } }
+  /* line 14, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-s2030-sectors a {
     display: block;
     color: #555; }
-    /* line 13, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 17, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a:hover {
       opacity: 50%;
       transition: all 0.5s ease-in-out; }
-    /* line 17, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 21, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a:hover h3 {
       transition: all 0.5s ease-in-out; }
-    /* line 20, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 24, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a h3 {
       margin: 0 140px 0 0;
       display: block; }
-    /* line 24, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 28, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a p {
       margin: 0 140px 0 0; }
-    /* line 27, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+    /* line 31, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
     #content .dr-s2030-sectors a .dr-icon {
       display: block;
       width: 96px;
@@ -10913,10 +10951,10 @@ td.actions {
       top: 10px;
       right: 0;
       fill: #556773; }
-  /* line 38, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 42, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-s2030-sectors .dr-sector-img {
     margin-bottom: 20px; }
-  /* line 41, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 45, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-s2030-sectors .dr-sector-text {
     border-left: 1px solid #c2ccd2;
     margin-bottom: 10px;
@@ -10924,14 +10962,14 @@ td.actions {
     padding-left: 20px;
     position: relative; }
 
-/* line 51, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+/* line 55, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
 #content .dr-s2030-page-sector .dr-sector-img {
   float: left;
   display: block;
   width: 50%;
   margin: 0 80px 80px 0; }
 
-/* line 57, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+/* line 61, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
 #content .dr-s2030-page-sector .dr-icon {
   display: block;
   position: absolute;
@@ -10941,62 +10979,62 @@ td.actions {
   height: 96px;
   margin-top: -68px; }
 
-/* line 66, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+/* line 70, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
 #content .dr-s2030-page-sector .lead {
   font-size: 1.5rem;
   margin-right: 120px;
   padding: 20px 0; }
 
-/* line 73, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+/* line 77, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
 #content .dr-op-box {
   padding: 20px;
   padding-top: 0; }
-  /* line 76, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 80, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-op-box p {
     font-size: 1rem; }
-  /* line 79, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 83, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-op-box li {
     font-size: 1rem;
     margin-bottom: 10px; }
 
-/* line 84, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+/* line 88, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
 #content .dr-storybox {
   width: 40%; }
-  /* line 85, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 89, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-storybox a {
     background-color: #eef1f2;
     color: #555;
     display: block; }
-  /* line 90, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 94, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-storybox img {
     margin: 0;
     margin-bottom: 10px; }
-  /* line 94, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 98, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-storybox h4 {
     margin: 0;
     margin-bottom: 10px;
     padding: 0 10px; }
-  /* line 99, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 103, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-storybox p {
     font-size: 1rem;
     line-height: 1.4;
     margin: 0;
     padding: 10px; }
-  /* line 105, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 109, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-storybox.float-left {
     margin: 10px 40px 40px 0; }
     @media (min-width: 992px) {
-      /* line 105, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+      /* line 109, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
       #content .dr-storybox.float-left {
         margin-left: -10% !important; } }
-  /* line 111, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+  /* line 115, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
   #content .dr-storybox.float-right {
     margin: 10px 0 40px 40px; }
     @media (min-width: 992px) {
-      /* line 111, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+      /* line 115, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
       #content .dr-storybox.float-right {
         margin-right: -10% !important; } }
-/* line 119, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
+/* line 123, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/drs2030.scss */
 #content .dr-icon-close {
   display: block;
   width: 48px;
@@ -11356,7 +11394,7 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
       background-color: #556773; }
       /* line 40, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/buttons.scss */
       .dark .button-dark:hover {
-        background-color: #007db7; }
+        background-color: #eb6440; }
   /* line 44, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/buttons.scss */
   .button-light {
     background-color: #eeeeee;
@@ -12357,7 +12395,7 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
 -----------------------------------------------------------------*/
 /* line 171, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/promo.scss */
 .promo.promo-flat {
-  background-color: #007db7; }
+  background-color: #eb6440; }
   /* line 175, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/promo.scss */
   .promo.promo-flat a.button:not(.button-border) {
     background-color: rgba(0, 0, 0, 0.2);
@@ -12501,7 +12539,7 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
     .feature-box .fbox-icon i,
     .feature-box .fbox-icon img {
       border-radius: 50%;
-      background-color: #007db7; }
+      background-color: #eb6440; }
     /* line 41, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
     .feature-box .fbox-icon i {
       font-style: normal;
@@ -12548,7 +12586,7 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
 -----------------------------------------------------------------*/
 /* line 90, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
 .feature-box.fbox-outline .fbox-icon {
-  border: 1px solid #007db7;
+  border: 1px solid #eb6440;
   border-radius: 50%;
   padding: 3px; }
   /* line 94, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
@@ -12643,14 +12681,14 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
 -----------------------------------------------------------------*/
 /* line 219, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
 .feature-box.fbox-border .fbox-icon {
-  border: 1px solid #007db7;
+  border: 1px solid #eb6440;
   border-radius: 50%; }
   /* line 222, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
   .feature-box.fbox-border .fbox-icon i,
   .feature-box.fbox-border .fbox-icon img {
     border: none;
     background-color: transparent !important;
-    color: #007db7; }
+    color: #eb6440; }
 
 /* line 229, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
 .feature-box.fbox-border .fbox-icon {
@@ -12707,7 +12745,7 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
   .feature-box.fbox-plain .fbox-icon img {
     border: none !important;
     background-color: transparent !important;
-    color: #007db7;
+    color: #eb6440;
     border-radius: 0; }
   /* line 292, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
   .feature-box.fbox-plain .fbox-icon i {
@@ -13052,12 +13090,12 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
 /* line 641, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
 .fbox-effect.fbox-dark .fbox-icon i:after,
 .dark .fbox-effect.fbox-dark .fbox-icon i:after {
-  box-shadow: 0 0 0 2px #007db7; }
+  box-shadow: 0 0 0 2px #eb6440; }
 
 /* line 644, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
 .fbox-effect.fbox-dark .fbox-icon i:hover,
 .fbox-effect.fbox-dark:hover .fbox-icon i {
-  background-color: #007db7; }
+  background-color: #eb6440; }
 
 /* line 647, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
 .fbox-effect .fbox-icon i:hover:after,
@@ -13117,12 +13155,12 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
 .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i,
 .dark .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
 .dark .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i {
-  box-shadow: 0 0 0 1px #007db7; }
+  box-shadow: 0 0 0 1px #eb6440; }
 
 /* line 692, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
 .fbox-border.fbox-effect.fbox-dark .fbox-icon i:after,
 .dark .fbox-border.fbox-effect.fbox-dark .fbox-icon i:after {
-  background-color: #007db7; }
+  background-color: #eb6440; }
 
 /* line 695, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/feature-box.scss */
 .fbox-border.fbox-effect .fbox-icon i:hover:after,
@@ -13288,13 +13326,13 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
     /* line 53, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/process-steps.scss */
     .process-steps li.active h5, .process-steps li.ui-tabs-active h5 {
       font-weight: 700;
-      color: #007db7; }
+      color: #eb6440; }
     /* line 58, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/process-steps.scss */
     .process-steps li.active a, .process-steps li.ui-tabs-active a {
-      background-color: #007db7 !important;
+      background-color: #eb6440 !important;
       color: #FFF;
       text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
-      border-color: #007db7 !important; }
+      border-color: #eb6440 !important; }
     /* line 65, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/process-steps.scss */
     .process-steps li:before, .process-steps li:after {
       content: '';
@@ -13537,13 +13575,13 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
 /* line 97, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/styled-icons.scss */
 .i-rounded:hover,
 .i-circled:hover {
-  background-color: #007db7;
+  background-color: #eb6440;
   color: white;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   box-shadow: 0 0 0 rgba(0, 0, 0, 0.2); }
   /* line 103, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/styled-icons.scss */
   .dark .i-rounded:hover, .dark .i-circled:hover {
-    background-color: #007db7;
+    background-color: #eb6440;
     color: white;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
     box-shadow: 0 0 0 rgba(0, 0, 0, 0.2); }
@@ -13555,7 +13593,7 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
   border-color: #444; }
   /* line 117, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/styled-icons.scss */
   .dark .i-bordered:hover {
-    background-color: #007db7;
+    background-color: #eb6440;
     color: white;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
     box-shadow: 0 0 0 rgba(0, 0, 0, 0.2); }
@@ -14908,7 +14946,7 @@ ul.tab-nav {
   top: -1px;
   height: 42px;
   line-height: 39px;
-  border-top: 1px solid #007db7; }
+  border-top: 1px solid #eb6440; }
 
 /* line 101, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/tabs.scss */
 .tabs.tabs-alt.tabs-tb ul.tab-nav li.ui-tabs-active a {
@@ -14926,7 +14964,7 @@ ul.tab-nav {
     border-bottom: 1px solid transparent; }
   /* line 120, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/tabs.scss */
   .tabs.tabs-bb ul.tab-nav li.ui-tabs-active a {
-    border-bottom: 1px solid #007db7;
+    border-bottom: 1px solid #eb6440;
     top: -1px;
     height: 43px;
     line-height: 43px; }
@@ -14955,11 +14993,11 @@ ul.tab-nav.tab-nav2 {
     /* line 153, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/tabs.scss */
     ul.tab-nav.tab-nav2 li.ui-state-active a {
       top: 0;
-      background-color: #007db7;
+      background-color: #eb6440;
       color: #FFF; }
       /* line 157, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/tabs.scss */
       .dark ul.tab-nav.tab-nav2 li.ui-state-active a {
-        background-color: #007db7; }
+        background-color: #eb6440; }
 
 /* Tabs - Content Area
 -----------------------------------------------------------------*/
@@ -15136,7 +15174,7 @@ ul.tab-nav li a i {
   border-color: rgba(0, 0, 0, 0.1) !important;
   color: #FFF !important;
   font-weight: 700;
-  background-color: #007db7 !important;
+  background-color: #eb6440 !important;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); }
 
 /* line 374, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/tabs.scss */
@@ -15249,7 +15287,7 @@ ul.tab-nav li a i {
       color: #cccccc; }
     /* line 43, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/faqs.scss */
     .faqlist li a:hover {
-      color: #007db7 !important; }
+      color: #eb6440 !important; }
 
 /*-----------------------------------------------------------------------------------
 
@@ -15669,7 +15707,7 @@ ul.tab-nav li a i {
       width: 6px !important;
       height: 6px !important;
       border: none;
-      background-color: #007db7;
+      background-color: #eb6440;
       opacity: 0.5; }
       /* line 280, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/testimonials.scss */
       .dark.parallax .testimonial .flex-control-nav li a {
@@ -15762,7 +15800,7 @@ ul.tab-nav li a i {
   /* line 53, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/team.scss */
   .team-title span {
     display: block;
-    color: #007db7;
+    color: #eb6440;
     font-weight: 400;
     font-family: "Crete Round", serif;
     font-style: italic;
@@ -16040,7 +16078,7 @@ body:not(.device-touch) .team-overlay {
         font-size: 22px; }
     /* line 185, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/pricing.scss */
     .pricing-box.best-price .pricing-price {
-      color: #007db7;
+      color: #eb6440;
       font-size: 72px; }
   /* line 195, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/pricing.scss */
   .pricing-box.pricing-minimal .pricing-price {
@@ -16388,7 +16426,7 @@ body:not(.device-touch) .team-overlay {
       left: 0;
       width: 0;
       height: 100%;
-      background-color: #007db7;
+      background-color: #eb6440;
       overflow: visible !important;
       border-radius: 2px;
       -webkit-transition: width 1.2s ease-in-out;
@@ -16723,7 +16761,7 @@ body:not(.device-touch) .team-overlay {
 
 /* line 286, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/carousel.scss */
 .owl-carousel .owl-nav [class*=owl-]:hover {
-  background-color: #007db7 !important;
+  background-color: #eb6440 !important;
   color: #FFF !important;
   text-decoration: none; }
 
@@ -16737,7 +16775,7 @@ body:not(.device-touch) .team-overlay {
   width: 8px;
   height: 8px;
   margin: 30px 4px 0 4px;
-  background-color: #007db7;
+  background-color: #eb6440;
   border-radius: 50%;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -17054,7 +17092,7 @@ body:not(.device-touch) .team-overlay {
 /* line 15, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
 .title-block {
   padding: 2px 0 3px 20px;
-  border-left: 7px solid #007db7;
+  border-left: 7px solid #eb6440;
   margin-bottom: 30px; }
   @media (max-width: 767.98px) {
     /* line 15, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
@@ -17065,7 +17103,7 @@ body:not(.device-touch) .team-overlay {
   .title-block-right {
     padding: 2px 20px 3px 0;
     border-left: 0;
-    border-right: 7px solid #007db7;
+    border-right: 7px solid #eb6440;
     text-align: right; }
     @media (max-width: 767.98px) {
       /* line 25, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
@@ -17084,7 +17122,7 @@ body:not(.device-touch) .team-overlay {
     .title-block h2 > span:not(.nocolor),
     .title-block h3 > span:not(.nocolor),
     .title-block h4 > span:not(.nocolor) {
-      color: #007db7; }
+      color: #eb6440; }
   /* line 46, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
   .title-block > span {
     display: block;
@@ -17147,7 +17185,7 @@ body:not(.device-touch) .team-overlay {
   .heading-block h2 > span:not(.nocolor),
   .heading-block h3 > span:not(.nocolor),
   .heading-block h4 > span:not(.nocolor) {
-    color: #007db7; }
+    color: #eb6440; }
   /* line 98, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
   .dark :not(.not-dark).heading-block h1, .dark :not(.not-dark).heading-block h2, .dark :not(.not-dark).heading-block h3, .dark :not(.not-dark).heading-block h4 {
     color: #FFF; }
@@ -17173,7 +17211,7 @@ body:not(.device-touch) .team-overlay {
   /* line 114, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
   .emphasis-title h1 > span:not(.nocolor),
   .emphasis-title h2 > span:not(.nocolor) {
-    color: #007db7; }
+    color: #eb6440; }
   /* line 115, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
   .dark .not-dark.emphasis-title h1, .dark .not-dark.emphasis-title h2 {
     color: #333333; }
@@ -17292,7 +17330,7 @@ body:not(.device-touch) .team-overlay {
 
 /* line 232, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
 .heading-block.border-color:after {
-  border-color: #007db7; }
+  border-color: #eb6440; }
 
 /* Emphasis Title
 -----------------------------------------------------------------*/
@@ -17345,7 +17383,7 @@ body:not(.device-touch) .team-overlay {
     .fancy-title h4 > span:not(.nocolor),
     .fancy-title h5 > span:not(.nocolor),
     .fancy-title h6 > span:not(.nocolor) {
-      color: #007db7; }
+      color: #eb6440; }
     /* line 279, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
     .dark .fancy-title h1, .dark .fancy-title h2, .dark .fancy-title h3, .dark .fancy-title h4, .dark .fancy-title h5, .dark .fancy-title h6 {
       background-color: #383838; }
@@ -17373,7 +17411,7 @@ body:not(.device-touch) .team-overlay {
     border-top: 1px solid #eeeeee; }
   /* line 313, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
   .fancy-title.title-border-color:before {
-    border-top: 1px solid rgba(0, 125, 183, 0.6); }
+    border-top: 1px solid rgba(235, 100, 64, 0.6); }
 
 /* Fancy Title - Center Align
 -----------------------------------------------------------------*/
@@ -17416,7 +17454,7 @@ body:not(.device-touch) .team-overlay {
   display: block;
   background: transparent;
   padding: 0 0 10px;
-  border-bottom: 3px solid #007db7; }
+  border-bottom: 3px solid #eb6440; }
 
 /* line 364, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/headings.scss */
 .fancy-title.title-dotted-border {
@@ -18085,7 +18123,7 @@ blockquote.pull-right {
   border-radius: 2px; }
   /* line 440, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/misc.scss */
   #gotoTop:hover {
-    background-color: #007db7; }
+    background-color: #eb6440; }
   @media (max-width: 767.98px) {
     /* line 424, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/shortcodes/misc.scss */
     #gotoTop {
@@ -18880,12 +18918,12 @@ button.toast-close-button {
       background-color: rgba(0, 0, 0, 0.2); }
     /* line 85, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .tagcloud a:hover {
-      border-color: #007db7 !important;
-      color: #007db7 !important; }
+      border-color: #eb6440 !important;
+      color: #eb6440 !important; }
       /* line 88, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
       .dark .tagcloud a:hover {
         border-color: transparent !important;
-        background-color: #007db7;
+        background-color: #eb6440;
         color: #FFF !important; }
 
 /* line 100, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
@@ -19255,7 +19293,7 @@ blockquote {
 /* line 436, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
 .widget-filter-links li.active-filter span {
   color: #FFF;
-  background-color: #007db7;
+  background-color: #eb6440;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1); }
 
 /* Navigation Tree
@@ -19304,7 +19342,7 @@ blockquote {
         margin-left: 2px; }
     /* line 486, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
     .nav-tree li:hover > a, .nav-tree li.current > a, .nav-tree li.active > a {
-      color: #007db7 !important; }
+      color: #eb6440 !important; }
   /* line 489, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/widgets.scss */
   .nav-tree ul ul {
     display: none; }
@@ -19358,7 +19396,7 @@ blockquote {
   /* Pagination light */ }
   /* line 12, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
   .pagination .page-link {
-    color: #007db7; }
+    color: #eb6440; }
   /* line 19, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
   .pagination.pagination-circle .page-item .page-link {
     width: 35px;
@@ -19538,7 +19576,7 @@ blockquote {
 
 /* line 275, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
 .btn-link {
-  color: #007db7; }
+  color: #eb6440; }
   /* line 277, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
   .btn-link:hover, .btn-link:focus {
     color: #222; }
@@ -19589,8 +19627,8 @@ blockquote {
 .page-link:hover,
 .page-link:focus {
   color: #fff !important;
-  background-color: #007db7 !important;
-  border-color: #007db7 !important; }
+  background-color: #eb6440 !important;
+  border-color: #eb6440 !important; }
 
 /* line 339, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/extras.scss */
 label.radio, label.checkbox {
