@@ -87,18 +87,18 @@
 }
 
 
-.tooltip_templates {
+.timeline .tooltip_templates {
   display: none;
 
 }
 
-.tooltip-content .tt-body div
+.timeline .tooltip-content .tt-body div
 {
   display: block;
   width: 300px;
 }
 
-.tooltip-content .tt-body div img 
+.timeline .tooltip-content .tt-body div img 
 {
   width: 100%;
   height: auto;

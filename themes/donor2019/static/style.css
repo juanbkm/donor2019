@@ -6313,12 +6313,13 @@ body.stretched .container-fullwidth .breadcrumb {
   .dr-section-title#dr-section-overview h2 {
     font-size: 64px; }
   /* line 51, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
-  .dr-section-title p.lead {
+  .dr-section-title p {
     padding: 0;
     margin: 0 0 40px 0;
     line-height: 1.5;
     letter-spacing: 1px;
-    font-size: 18px; }
+    font-size: 18px;
+    font-weight: 300; }
   /* line 60, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/sectiontitle.scss */
   .dr-section-title span {
     display: block;
@@ -11168,16 +11169,16 @@ td.actions {
   margin-top: 5px; }
 
 /* line 90, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/dr-timeline.scss */
-.tooltip_templates {
+.timeline .tooltip_templates {
   display: none; }
 
 /* line 95, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/dr-timeline.scss */
-.tooltip-content .tt-body div {
+.timeline .tooltip-content .tt-body div {
   display: block;
   width: 300px; }
 
 /* line 101, Users/Dikz/Sites/donor2019/themes/donor2019/static/sass/dr-timeline.scss */
-.tooltip-content .tt-body div img {
+.timeline .tooltip-content .tt-body div img {
   width: 100%;
   height: auto; }
 
