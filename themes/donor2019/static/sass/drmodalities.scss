@@ -1,0 +1,11 @@
+#dr-modalities {
+  .dr-modalities {
+    h4 {
+      border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+      font-size: 1.8rem;
+      a {
+        color: $body-color;
+      }
+    }
+  }
+}

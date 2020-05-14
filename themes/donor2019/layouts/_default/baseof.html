@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 	{{- partial "head.html" . -}}
-
-<body class="stretched">
+	{{$section := .Section}}
+<body id="dr-{{$section}}" class="stretched">
 	{{ "<!-- Document Wrapper -->" | safeHTML }}
 	
 	<div id="wrapper" class="clearfix">

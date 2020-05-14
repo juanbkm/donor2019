@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="container clearfix">
+  {{- partial "sectiontitle.html" . -}} {{ range .Pages }}
+  <div class="row py-5">
+    <div class="col-md-4">
+      <img src="{{ .Params.main_image }}" alt="" />
+    </div>
+    <div class="col-md-7 offset-md-1 dr-modalities">
+      <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+      <p>{{ .Params.summary }}</p>
+    </div>
+  </div>
+  {{ end }}
+</div>
+
+{{ end }}
