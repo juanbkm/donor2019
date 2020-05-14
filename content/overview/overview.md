@@ -10,7 +10,7 @@ Thanks in large measure to financing partnerships, ADB operations reached $33.75
 
 For 2019, ADB successfully collaborated with 33 different partners on 148 projects supportive of sovereign operations in 24 developing member countries.
 
-{{< dr-artimage src="images/total-adb-operations.png" width="100%" align="" alt="" caption="" >}}
+ **This Partnership Report highlights ADB's performance in sovereign cofinancing in 2019.**
 
 ### Exploring New Opportunities
 

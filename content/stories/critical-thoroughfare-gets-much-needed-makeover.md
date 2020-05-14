@@ -1,5 +1,5 @@
 ---
-title: "Critical Thoroughfare Gets Much Needed Makeover "
+title: "Critical Thoroughfare Gets Much Needed Makeover"
 date: 2020-04-19T09:43:49+08:00
 image: images/stories/critical-thoroughfare-gets-much-eeded-makeover.jpg
 image_caption: "Bridge connecting North and South Tarawa. Major infrastructure upgraded under the Kiribati Road Rehabilitation Project."
@@ -9,7 +9,7 @@ description: "This is meta description"
 country: Kiribati
 summary: "After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the World Bank, Government of Australia, and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape. "
 project_title: "Kiribati: Road Rehabilitation Project"
-project_title: https://www.adb.org/projects/44281-013/main#project-pds
+project_url: https://www.adb.org/projects/44281-013/main#project-pds
 cost: "US$76.06 million"
 fund_source: 
   - name: "ADB"
@@ -44,15 +44,13 @@ draft: false
 
 Kiribati is one of the most remote and geographically dispersed nations on the planet. The challenges this isolation presents are compounded by the fact that the country’s overall mobility rests on one main road—the South Tarawa road──connecting the east and the west of Tarawa atoll, capital of the country. This overworked, beaten road has borne the brunt of much of people's mobility in the past decades. Unfortunately, the South Tarawa r, while crucial to the country's economy, has not been comprehensively maintained since the 1970s. The road's condition hampered economic opportunities and access to basic services to approximately 42% of the country' population.
 
-Being a Pacific island country, Kiribati is extremely susceptible to external shocks, which arise from its vulnerability to climate change, dependence on imports, and reliance on income from overseas sources. Compounding this vulnerability was poor mobility due to inadequate transport infrastructure. 
+Being a Pacific island country, Kiribati is extremely susceptible to external shocks, which arise from its vulnerability to climate change, dependence on imports, and reliance on income from overseas sources. Compounding this vulnerability was poor mobility due to inadequate transport infrastructure.
 
 ### Interventions
 
-To address this transport and mobility challenge that affects almost half of the country's population, the Government of Kiribati requested the ADB to help finance the Kiribati Road Rehabilitation Project. The project was cofinanced by the World Bank, Government of Australia, and the Government of Kiribati.   
+To address this transport and mobility challenge that affects almost half of the country's population, the Government of Kiribati requested the ADB to help finance the [Kiribati Road Rehabilitation Project](https://www.adb.org/projects/44281-013/main#project-pds). The project was cofinanced by the World Bank, Government of Australia, and the Government of Kiribati.
 
 The project’s main outputs were i) a rehabilitated South Tarawa highway and provisions like feeder roads, footpaths for cyclists and walkers, and bus shelters, and ii) strengthened capacities of local communities in road maintenance for road safety and sustainability.  
-
-{{< dr-storyimage src="images/stories/critical-thoroughfare-gets-much-eeded-makeover.jpg" align="left" alt="lorem ipsum" caption="This a caption for the picture" >}}
 
 For the first output, the road design was a crucial element. The South Tarawa Road runs near the edge of a lagoon for most of its length. The rising sea levels and coastal erosion threaten the road’s sustainability, so the project design was coordinated with another World Bank-financed climate change adaptation project to help incorporate climate-resilience into the design, the [Kiribati Adaptation Program](https://projects.worldbank.org/en/projects-operations/project-detail/P112615). At the end of the project, 36 kilometers of highway had been rehabilitated and 9.2 kilometers of feeder roads were repaired. A 57-km footpath for cyclists and walkers, 36 bus shelters to keep commuters protected from rain or the heat of the sun, and 114 speed bumps to promote safe driving speed were also put in place.
 
@@ -60,7 +58,7 @@ Wanting to sustain the roads’ optimal functionality, the second main out
 
 Towards this end, three contractors were employed and trained to perform routine maintenance services. Staff of the Ministry of Public Works and Utilities—now the Ministry of Infrastructure and Sustainable Energy—were also trained.
 
-The project also addressed Kiribati’s need for better road asset management through a road safety legislation, which was enacted into law by Parliament in August 2017. The Kiribati Police Service was also trained and provided with equipment to assist with traffic safety enforcement. Road safety campaigns aimed at raising awareness were conducted in communities and in schools.  
+The project also addressed Kiribati’s need for better road asset management through a road safety legislation, which was enacted into law by Parliament in August 2017. The Kiribati Police Service was also trained and provided with equipment to assist with traffic safety enforcement. Road safety campaigns aimed at raising awareness were conducted in communities and in schools.
 
 ### Results
 

@@ -33,8 +33,9 @@
                             <ul class="dr-funding">
                                 {{ range .Params.fund_source }}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
                             </ul>
+                            {{ $finpart := .Params.fin_partners }}
                             
-                            <h4>Financing Partner​/s</h4>
+                            <h4>Financing {{ cond (eq (len $finpart) 1) "Partner" "Partners" }}</h4>
                             <ul class="dr-funding">
                                 {{ range .Params.fin_partners}}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
                             </ul>

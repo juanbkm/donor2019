@@ -76,4 +76,4 @@ From the training angle, as of February 2019, 744 women entrepreneurs from SMEs 
 
 One of these women is Ruchirani Munasinghe. Ruchi learned about finance, marketing, and other managerial subjects through this training. The newfound knowledge gave her the confidence to draft a business proposal and approach the bank and negotiate for a loan. She succeeded in borrowing capital from the Regional Development Bank. She infused this capital into expanding her land to cultivate guava, apply better farming practices, use new equipment, and set up an irrigation system.  
 
-"I've gotten more confident in communicating and negotiating with banks after the intensive training. The ADB's financing facility also seem to have encouraged banks to process my loan application smoothly," Ruchi recalled. 
+"I've gotten more confident in communicating and negotiating with banks after the intensive training. The ADB's financing facility also seem to have encouraged banks to process my loan application smoothly," Ruchi recalled.
