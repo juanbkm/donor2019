@@ -7,7 +7,9 @@ trust_funds_contribution:
 partner_logo:
 draft: false
 ---
+### Development Assistance Agency
 
-<a href="https://www.adb.org/publications/singapore-fact-sheet" target="_blank">Singapore</a> has been working with ADB on various initiatives, including the Asia Infrastructure Centre of Excellence that was established to catalyze a pipeline of public-private partnership projects in Southeast Asia. Singapore and ADB have an MOU signed since May 2012 that covers three broad themes: promoting good governance and public policy regionally, promoting private sector development with focus on infrastructure and trade financing, as well as supporting infrastructure development in the region, focusing on addressing climate change and its impact.
+* Ministry of Finance  
+* International Enterprise Singapore
 
-<a href="https://www.adb.org/publications/singapore-fact-sheet" target="_blank">Singapore</a>’s development assistance is managed by the Ministry of Finance. International Enterprise Singapore facilitates the overseas growth of Singapore-based companies and promotes international trade.
+<a href="https://www.adb.org/publications/singapore-fact-sheet" target="_blank">Singapore</a> and ADB have an MOU signed since May 2012 that covers three broad themes: promoting good governance and public policy regionally, promoting private sector development with focus on infrastructure and trade financing, as well as supporting infrastructure development in the region, focusing on addressing climate change and its impact. International Enterprise Singapore facilitates the overseas growth of Singapore-based companies and promotes international trade. The country’s lone project with ADB to date is the regional technical assistance Supporting Regional Project Development for ASEAN's Connectivity in 2012, which was extended for completion in December 2019.  

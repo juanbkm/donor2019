@@ -8,9 +8,25 @@ partner_logo:
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/germany-fact-sheet" target="_blank">Germany</a> collaborates with ADB on renewable energy and energy efficiency, urban infrastructure including mobility climate finance, small and medium enterprise financing and financial inclusion, vocational training, health, and regional integration. Development support, channeled through different agencies such as the <a href="https://www.bmz.de/en/" target="_blank">Federal Ministry for Economic Cooperation and Development</a>, <a href="https://www.giz.de/en/html/index.html" target="_blank">Deutsche Gesellschaft für Internationale Zusammenarbeit</a>, <a href="https://www.kfw.de/KfW-Group/" target="_blank">the KfW Group</a>, and the <a href="https://www.bmu.de/en/" target="_blank">Federal Ministry for the Environment, Nature Conservation, and Nuclear Safety</a>─ benefits many countries across Asia. Germany through KfW has committed \$2 billion in collaborative cofinancing from September 2017 to December 2020.
+#### 2019 Trust Funds Contribution 
 
-In 2018, ADB approved three cofinanced projects with Germany worth \$889 million. Germany is also supporting a health project in Tajikistan and technical assistance to establish a support facility for Article 6 of the Paris Agreement. Germany contributes to the Asia-Pacific Climate Finance Fund and is arranging an additional contribution of €26 million for the Afghanistan Infrastructure Trust Fund.
+* US$2.22 million for the Cities Development Initiative for Asia Trust Fund 
+
+#### Active Trust Funds 
+
+* Afghanistan Infrastructure Trust Fund 
+* Asia Pacific Climate Finance Fund 
+* Cities Development Initiative for Asia Trust Fund 
+
+#### Development Assistance Agencies 
+
+* Federal Ministry for Economic Cooperation and Development (BMZ) 
+* KfW 
+* Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
+
+ADB and KfW signed a second amendment to the ADB–KfW Cofinancing Memorandum of Understanding (MOU) in November 2019, extending the MoU to 2023, increasing cofinancing amount by another US$2 billion and expanding priority countries and themes. The original MOU, totaling US$2 billion, was first signed in July 2017 and later amended in September 2017 to extend its validity to 2020.  
+
+<a href="https://www.adb.org/publications/germany-fact-sheet" target="_blank">Germany</a>’s priority sectors and themes are: (i) extending global partnerships and regional cooperation; (ii) supporting vocational training, sustainable and social economic development, and employment promotion; (iii) protecting the climate and biodiversity; (iv) combating the causes of conflict and displacement – assisting refugees; (v) strengthening human rights, participation and the capacity of state institutions; (vi) improving structures and living conditions in cities; and (vii) improving health and social protection systems. Priority countries include Afghanistan, Bangladesh, Cambodia, People’s Republic of China (PRC), India, Indonesia, Kyrgyzstan, Lao PDR, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Tajikistan, Timor-Leste, Uzbekistan, and Viet Nam. GIZ also prioritizes Kazakhstan, Maldives, Thailand, and the Pacific region.   
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Germany
 

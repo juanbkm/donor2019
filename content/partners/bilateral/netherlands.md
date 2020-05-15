@@ -7,10 +7,19 @@ trust_funds_contribution: "$78.23 million"
 partner_logo:
 draft: false
 ---
+#### Active Trust Funds 
 
-<a href="https://www.adb.org/publications/netherlands-fact-sheet" target="_blank">The Netherlands</a>’s development agenda highlights reproductive and sexual health and rights, water, food security, and security and the rule of law. In 2017, the Netherlands contributed an additional \$9.5 million to the Netherlands Trust Fund under the Water Financing Partnership Facility, extending its support until 2020. The replenishment supports investments in water projects focusing on irrigation and drainage, water resources management, watershed protection and catchment management for nine priority countries: Bangladesh, Cambodia, India, Indonesia, the Lao People's Democratic Republic, Myanmar, Nepal and Pakistan.
+* Cooperation Fund in Support of Managing for Development Results 
+*Netherlands Trust Fund under the Water Financing Partnership Facility 
+ 
+#### Development Assistance Agency
 
-<a href="https://www.adb.org/publications/netherlands-fact-sheet" target="_blank">The Netherlands</a>’s Ministry of Foreign Affairs, with support from the <a href="http://www.snv.org/" target="_blank">SNV Netherlands Development Organisation</a> and the <a href="https://www.government.nl/topics/development-cooperation" target="_blank">Ministry of Development Cooperation</a>, manages development cooperation. Cross-cutting themes cover gender equality, environment, and climate change. The Netherlands has contributed to the Cooperation Fund in Support of Managing for Development Results and is the sole donor to the Netherlands Trust Fund under the Water Financing Partnership Facility.
+* Ministry of Foreign Affairs  
+
+In Asia, <a href="https://www.adb.org/publications/netherlands-fact-sheet" target="_blank">The Netherlands</a> have been providing development support to Afghanistan, Bangladesh, and Indonesia.  Its aid focuses on reproductive and sexual health and rights, water, food security, and security and the rule of law. It also provides support to gender equality, environment and climate change.  
+
+Its support to the Netherlands Trust Funds extends until 2020, through its US$9.5 million additional contribution to the Fund in 2017.  The country is the sole contributor to this fund, which supports rural, urban, and basin water demonstrations projects as well as support the quality of ADB’s Water Financing Program through knowledge, capacity and innovation services. 
+
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Netherlands, The
 

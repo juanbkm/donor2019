@@ -8,9 +8,24 @@ partner_logo:
 draft: false
 ---
 
-Swedish development aid is managed through the Swedish International Development Cooperation Agency (Sida), while core resources for ADB are decided by the Ministry for Foreign Affairs. Previously focused on Southeast Asia, Sida’s regional geographical priority now includes South Asia and small island states in the Pacific. In 2016, Sida expanded its partnership with ADB with a portfolio risk transfer guarantee and a General Agreement for cofinancing operations. In 2018, the Swedish Energy Agency provided \$1 million for a technical assistance project on climate change.
+#### New Trust Funds Contributions 
 
-<a href="https://www.adb.org/publications/sweden-fact-sheet" target="_blank">Sweden</a> contributes to the Clean Energy Fund and the Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility and is a partner to Cities Development Initiative for Asia. Sweden maintains bilateral development cooperation with Afghanistan, Bangladesh, Cambodia, and Myanmar.
+* SEK55 million (US$5.71 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility  
+ 
+#### Active Trust Funds 
+
+* Clean Energy Fund under the Clean Energy Financing Partnership Facility  
+* Future Carbon Fund 
+* Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility 
+ 
+#### Development Assistance Agencies 
+
+* Ministry for Foreign Affairs 
+* Swedish International Development Cooperation Agency  
+  
+Under its "Regional Development Cooperation in Asia and the Pacific" strategy for 2016-2021, <a href="https://www.adb.org/publications/sweden-fact-sheet" target="_blank">Sweden</a>’s development assistance covers the entire region and focuses on two areas: environmental improvement, reduced impacts of climate change, and disaster risk management and strengthening of democracy and gender equality, and respect for human rights.  
+
+In Asia, Sweden prioritizes Afghanistan, Bangladesh, Cambodia, and regional programs in South Asia, Southeast Asia and small islands states in the Pacific. It focuses on initiatives that address democracy and human rights, conflict prevention and support to migration, gender equality, regional cooperation and integration, climate and environment and inclusive growth. In cofinancing projects with ADB, Sweden provides grants for investment and TA projects through trust funds or on a project-specific basis and guarantees for the public and private sector. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Sweden
 

@@ -8,9 +8,18 @@ trust_funds_contribution: "$58.14 million"
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/finland-fact-sheet" target="_blank">Finland</a> provides development assistance for environment and natural resource conservation, peace processes, crisis and disasters, and regional cooperation, particularly in Central Asia and the Greater Mekong Subregion. Nepal and Viet Nam are long-term partners, while Cambodia, Indonesia, and the Lao People's Democratic Republic have benefitted as well. Finland supports the peace process in Myanmar and has also contributed to the Typhoon Yolanda Multi-donor Trust Fund.
+#### Active Trust Fund 
+* Future Carbon Fund 
 
-Cooperation with ADB in the past has included grant support for a rural poverty reduction project in Cambodia and education sector reform in Nepal. Finland supported the Core Environment Program in the Greater Mekong Subregion and will participate in ADB’s Sponsor-Funded Staff Program by funding two specialists in the social and private sectors, respectively.
+#### Development Assistance Agencies 
+* Ministry of Foreign Affairs 
+* Finnish Fund for Industrial Development Cooperation Ltd. (Finnfund) 
+
+In March 2019, ADB and the Ministry for Foreign Affairs of <a href="https://www.adb.org/publications/finland-fact-sheet" target="_blank">Finland</a> signed an agreement to support two mid-career professionals under ADB’s Sponsor-funded Staffing Program. Two Finnish nationals have been selected for 2-year staff position assignments, one Private Sector Development Specialist in the Viet Nam Resident Mission (who started in August 2019) and one Social Sector Specialist for the Education Sector Group (who began in October 2019).  
+
+Finland has four specific priorities: (i) rights and status of women and girls; (ii) growth of developing countries’ economies to generate more jobs, livelihood opportunities and well-being; (iii) democratic and better-functioning societies; and (iv) food security, access to water and energy, and sustainable use of natural resources. 
+
+Finland’s priority countries are Afghanistan, Nepal, and Myanmar. The country also supports the Central Asia region, particularly Kyrgyzstan and Tajikistan, to strengthen human rights, the rule of law, sustainable economic growth, water resource management, and climate change preparedness. 
 
 ##### _1 January 2014–31 December 2019_ Cofinanced with Finland
 

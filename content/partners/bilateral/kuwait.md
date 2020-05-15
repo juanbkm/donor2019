@@ -8,9 +8,13 @@ partner_logo:
 draft: false
 ---
 
-Kuwait, in 1975, cofinanced with ADB a \$25 million agriculture project in Sri Lanka, that led to a long-standing partnership for development. Through the <a href="https://www.kuwait-fund.org/ar/web/kfund/home" target="_blank">Kuwait Fund for Arab Economic Development</a>, Kuwait helps Arab and other developing countries build their economies, focusing primarily on agriculture and irrigation, transport and communication, energy, industry, water and sewage, education and health.
+#### Development Assistance Agency 
 
-In 2015, ADB and the Kuwait Fund signed an MOU on establishing cooperation arrangements to strengthen partnership at the institutional level and the programmatic project cofinancing. Under the MOU, the two institutions also signed a project-specific arrangement. The Kuwait Fund also provided \$17 million collaborative additional cofinancing for an agriculture project in Nepal.
+* Kuwait Fund for Arab Economic Development 
+
+Kuwait, in 1975, cofinanced with ADB a $25 million agriculture project in Sri Lanka, that led to a long-standing partnership for development. Through the <a href="https://www.kuwait-fund.org/ar/web/kfund/home" target="_blank">Kuwait Fund for Arab Economic Development</a>, Kuwait helps Arab and other developing countries build their economies, focusing primarily on agriculture and irrigation, transport and communication, energy, industry, water and sewage, education and health.
+
+In 2015, ADB and the Kuwait Fund signed an MOU on establishing cooperation arrangements to strengthen partnership at the institutional level and the programmatic project cofinancing. Under the MOU, the two institutions also signed a project-specific arrangement. The Kuwait Fund also provided $17 million collaborative additional cofinancing for an agriculture project in Nepal.
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Kuwait
 

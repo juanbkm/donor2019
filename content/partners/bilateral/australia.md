@@ -7,10 +7,27 @@ project_specific_cofinancing: "$980.37 million"
 trust_funds_contribution: "$172.5 million"
 draft: false
 ---
+#### 2019 Trust Funds Contributions
+* A$21.47 million (US$15.24 million) to ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility 
+* A$1 million (US$0.71 million) to the Multi-Donor Trust Fund under the Water Financing Partnership Facility 
 
-<a href="https://www.adb.org/publications/australia-fact-sheet" target="_blank">Australia</a> plays a huge role in the economic stability and growth of the Indo-Pacific region and provides more aid to the Pacific island countries than any other donor. In 2016, Australia and ADB signed a framework for cooperation covering 2016−2020, focused on trade and investment, international competitiveness, private sector growth, and transformative initiatives in the Pacific.
+#### Active Trust Funds 
+* ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility 
+* Asia Pacific Project Preparation Facility 
+* Australian Technical Assistance Grant 
+* Carbon Capture and Storage Fund under the Clean Energy Financing Partnership Facility 
+* Clean Energy Fund under the Clean Energy Financing Partnership Facility 
+* Cooperation Fund for Regional Trade and Financial Security Initiative 
+* Gender and Development Cooperation Fund 
+* Multi-Donor Trust Fund under the Water Financing Partnership Facility 
+* Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
 
-<a href="https://www.adb.org/publications/australia-fact-sheet" target="_blank">Australia</a> contributes to nine active ADB-administered trust funds.  The Department of Foreign Affairs and Trade channels funds toward development work in agriculture, building resilience (humanitarian assistance, disaster risk reduction and social protection), climate change, education, fisheries, gender equality, governance, health, infrastructure, trade facilitation and international competitiveness, and water.
+#### Development Assistance Agency
+* Department of Foreign Affairs and Trade
+
+In 2019, the ADB-Australia High-Level Consultations held in Manila focused on the reaffirmation of the partnerships between <a href="https://www.adb.org/publications/australia-fact-sheet" target="_blank">Australia</a> and ADB. Discussions emphasized the need to adapt to the changing context in the Asia-Pacific; private sector operations and public-private partnerships; thematic and sectoral topics such as climate change and disaster risk management; private sector and infrastructure; inclusiveness; innovation and risk; enhanced knowledge cooperation; and engagement in the Pacific and Southeast Asia. Australia plays a huge role in the economic stability and growth of the Indo-Pacific region and provides more aid to the Pacific island countries than any other donor.
+
+Australia channels funds toward development work in infrastructure; trade facilitation and international competitiveness; agriculture, fisheries and water; governance (policies, institutions and functioning economies); education; health; building resilience (humanitarian assistance, disaster risk reduction and social protection); climate change; and gender equality and empowering women and girls.
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Australia
  

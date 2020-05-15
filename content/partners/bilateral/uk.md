@@ -8,9 +8,29 @@ partner_logo:
 draft: false
 ---
 
-The <a href="https://www.adb.org/publications/united-kingdom-fact-sheet" target="_blank">United Kingdom</a> (UK) focuses development assistance on strengthening global security, resilience and response to crisis; promoting global prosperity; and tackling extreme poverty. The UK contributes to 13 ADB-administered funds, including the United Kingdom Fund for Asia Regional Trade and Connectivity, established in 2018.
+#### New Trust Funds Contributions 
 
-Several agencies including the Department for International Development, the Department for Business, Energy & Industrial Strategy, and the Foreign and Commonwealth Office are at the forefront of development work. Priority sectors and themes are climate change and clean energy; regional cooperation; conflict reduction and human rights, and climate change; and fragile states and regions, specifically around stabilization. In Asia, the focus is primarily on Afghanistan, Bangladesh, India, Indonesia, Myanmar, Nepal, and Pakistan.
+* GBP9 million (US$11.79 million) replenishment Clean Energy Fund under the Clean Energy Financing Partnership Facility
+
+#### Active Trust Funds 
+
+* Afghanistan Infrastructure Trust Fund  
+* Carbon Capture and Storage Fund under the Clean Energy Financing Partnership Facility 
+* Clean Energy Fund under the Clean Energy Financing Partnership Facility 
+* Regional Malaria and other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
+* United Kingdom Fund for Asia Regional Trade and Connectivity 
+* Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility 
+
+#### Development Assistance Agencies 
+
+* Department for International Development 
+* Department for Business, Energy & Industrial Strategy 
+* Foreign Commonwealth Office 
+* Other key agencies, including the Conflict, Stability and Security Fund, the Department for Environment, Food and Rural Areas, the BBC World Service, HM Revenue and Customs, Prosperity Fund, and the Scottish Government 
+
+The  <a href="https://www.adb.org/publications/united-kingdom-fact-sheet" target="_blank">United Kingdom</a>United Kingdom’s (UK)</a> development assistance aims to promote sustainable development and eliminate world poverty. Through the Department of International Development (DFID), UK has been supporting projects in Afghanistan, Bangladesh, selected states in India, Myanmar, Nepal, and Pakistan. DFID has different priority themes for each of these countries, but generally, its projects prioritize job creation, gender, health care, education, private sector and trade, and governance. At the regional level, DFID also supports trade and connectivity programs in Central West and South Asia.  
+
+ADB and UK sought ways to deepen their collaboration in Asia and the Pacific during a high-level consultation in January 2019 and ADB President Nakao’s visit to the UK in September 2019. The topics they discussed included gender, climate change, differentiated pricing, and areas of mutual interest such as integrity (including safeguards and supply chains, gender, sexual harassment, procurement and fraud reporting), gender, climate change, disability and fragile, conflict affected situations. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with United Kingdom
 

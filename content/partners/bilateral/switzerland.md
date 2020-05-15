@@ -8,9 +8,22 @@ partner_logo:
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/switzerland-fact-sheet" target="_blank">Switzerland</a> contributes to the Swiss Cooperation Fund for Consulting Services, Urban Climate Change Resilience Trust Fund and Multi-donor Trust Fund under the Water Financing Partnership Facility. Cooperation with Switzerland covered both project-specific cofinancing and trust funds. In 2018, Switzerland joined Austria as new donors to the Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnership Facility.
+#### New Trust Funds Contributions 
 
-Development cooperation is coordinated between the <a href="https://www.eda.admin.ch/sdc" target="_blank">Swiss Agency for Development and Cooperation (SDC)</a> within the Federal Department of Foreign Affairs, and the <a href="https://www.seco.admin.ch/seco/en/home.html" target="_blank">State Secretariat for Economic Affairs (SECO)</a> within the Federal Department of Economic Affairs, Education and Research, which are ADB’s counterpart agencies. SECO’s priority countries in Asia are Indonesia and Viet Nam; while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan. Both SECO and SDC are active in Azerbaijan, the Kyrgyz Republic, Tajikistan, and Uzbekistan.
+* US$0.57 million additional contribution to Cities Development Initiative for Asia Trust Fund
+
+#### Active Trust Funds 
+
+* Cities Development Initiative for Asia Trust Fund 
+* Urban Climate Change Resilience Trust Fund
+* Multi-Donor Trust Fund under the Water Financing Partnership Facility 
+ 
+#### Development Assistance Agencies 
+
+* Swiss Agency for Development and Cooperation (SDC)
+* State Secretariat for Economic Affairs (SECO) 
+ 
+<a href="https://www.adb.org/publications/switzerland-fact-sheet" target="_blank">Switzerland<?a>’s development cooperation is coordinated between the Swiss Agency for Development and Cooperation (SDC) within the Federal Department of Foreign Affairs, and the State Secretariat for Economic Affairs (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Switzerland
 

@@ -3,14 +3,33 @@ title: "France"
 date: 2020-04-11T19:36:20+08:00
 partner_type: Bilateral
 project_specific_cofinancing: "$3,877.27 million"
-trust_funds_contribution: "$32.23 million"
+trust_funds_contribution: "$33.23 million"
 partner_logo:
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/france-fact-sheet" target="_blank">France</a>’s support to Asia focuses on sustainable cities, urban transport, climate change, social protection, railways, and air pollution. ADB works with the Direction Générale du Trésor and the <a href="https://www.afd.fr/en" target="_blank">Agence Française de Développement</a> (AFD), which oversees France’s development assistance globally. France supports two ADB-administered trust funds, the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries and the France Technical Assistance Grant Fund.
+#### 2019 Trust Funds Contributions
 
-In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 2016–2022 with the aim of reaching $1.5 billion in cofinancing from each for the first 3 years of collaboration. By 2018, AFD cofinancing has reached US$1.58 billion. In 2018 alone, AFD loan cofinancing reached US$795.10 for 6 investment projects. For the remaining 3 years, ADB and AFD have decided to increase the amount to $2.5 billion each and signed the Amendment to the PFA in February 2019. ADB and AFD also agreed to partner on the Cities Development Initiative in Asia and the Mobilise Your City Asia Program.
+* €1 million (US$1.1 million) replenishment for the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and Other Specific Asian countries  
+
+#### Active Trust Funds
+
+* Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries 
+* Technical Assistance Grant Fund (France) 
+
+#### Development Assistance Agencies
+
+* Inter-Ministerial Committee for International Cooperation and Development (CICID) 
+* Ministry of Foreign and European Affairs 
+* Ministry of the Economy and Finance 
+* Ministry of the Interior, Overseas France, Local Authorities and Immigration 
+* Agence Française de Développement 
+
+ADB holds annual High-Level Consultations (HLC) with Agence Française de Développement (AFD) to discuss (i) broader strategic alignment, and (ii) strategic and operational directions for the partnership at senior level. At the 2019 HLC held on 7–8 February 2019 at ADB HQ, ADB and AFD discussed: (i) strategic directions for AFD and ADB; (ii) learnings from ADB on its Pacific operations and new products (iii) AFD-supported trust funds; (iv) updates on private sector operations; (v) gender mainstreaming and climate change in ADB operations; and (vi) regional cooperation platforms.  
+
+In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 2016–2022 with the aim of reaching US$1.5 billion in cofinancing from each for the first 3 years of collaboration. By 2018, AFD cofinancing has reached and exceeded this target at US$1.58 billion. In 2018 alone, AFD loan cofinancing reached US$795.10 for 6 investment projects. For the remaining 3 years, ADB and AFD have decided to increase the amount to US$2.5 billion each and signed the Amendment to the PFA in February 2019. ADB and AFD also agreed to partner on the Cities Development Initiative in Asia and the Mobilise Your City Asia Program. 
+
+<a href="https://www.adb.org/publications/france-fact-sheet" target="_blank">France</a>’s support to Asia focuses on sustainable cities, urban transport, climate change, social protection, railways, and air pollution. Priority countries are Afghanistan, Armenia, Azerbaijan, Bangladesh, Cambodia, People’s Republic of China (PRC), Georgia, India, Indonesia, Kazakhstan, Lao PDR, Myanmar, Pakistan, Philippines, Sri Lanka, Thailand, Viet Nam, and Uzbekistan.  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with France
 

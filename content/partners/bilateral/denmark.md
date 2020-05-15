@@ -8,9 +8,19 @@ trust_funds_contribution: "$14.79 million"
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/denmark-fact-sheet" target="_blank">Denmark</a> offers support for fighting poverty and promoting sustainable growth and development. Economic freedom, peace, stability, gender equality, and a rule-based international order are also main concerns. Afghanistan, Bangladesh, Myanmar, and Nepal are the priority countries. Tonga has received development assistance in 2018.
+#### Active Trust Funds 
+* Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas 
+* Gender and Development Cooperation Fund 
+* Governance Cooperation Fund 
+* Second Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas 
 
-<a href="https://www.adb.org/publications/denmark-fact-sheet" target="_blank">Denmark</a> delivers development assistance through the <a href="http://um.dk/en/danida-en/" target="_blank">Danish International Development Agency</a> under the Ministry of Foreign Affairs. Top interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development. It contributes to five active ADB-administered trust funds.
+#### Development Assistance Agencies 
+* Ministry of Foreign Affairs 
+* Danish International Development Agency under the Ministry of Foreign Affairs 
+
+<a href="https://www.adb.org/publications/denmark-fact-sheet" target="_blank">Denmark</a>’s priority interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development.  
+
+Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the past, country policy papers also existed for the following Asian countries: Indonesia, Nepal, Pakistan, Viet Nam. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Denmark
 

@@ -8,9 +8,13 @@ partner_logo:
 draft: false
 ---
 
-The Kingdom of Saudi Arabia, through the <a href="https://www.sfd.gov.sa/en/" target="_blank">Saudi Fund for Development</a>, finances development projects that primarily promote the social and economic well-being in the least developed and low-income countries. Established in 1974, the Saudi Fund provides concessional and untied assistance for development projects. Its operations have no geographical and sector limitations.
+#### Development Assistance Agency
 
-The Saudi Fund provided \$20 million cofinancing to support a road investment project in the Kyrgyz Republic in December 2016.
+* Saudi Fund for Development 
+
+The Kingdom of Saudi Arabia, through the Saudi Fund for Development, finances development projects that primarily promote the social and economic well-being in the least developed and low-income countries. Established in 1974, the Saudi Fund provides concessional and untied assistance for development projects. Its operations have no geographical and sector limitations.  
+
+The <a href="https://www.sfd.gov.sa/en/" target="_blank">Saudi Fund</a> provided US$20 million cofinancing to support a road investment project in the Kyrgyz Republic in December 2016.  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Saudi Arabia
 

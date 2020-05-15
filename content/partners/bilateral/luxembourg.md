@@ -7,10 +7,19 @@ trust_funds_contribution: "$21.4 million"
 partner_logo:
 draft: false
 ---
+#### Active Trust Fund
 
-<a href="https://www.adb.org/publications/luxembourg-fact-sheet" target="_blank">Luxembourg</a>’s development cooperation zeroes in on agriculture and food security, decentralization and local governance, education, health, microfinance and finance, natural resources management, renewable energy, and water and sanitation.
+* Financial Sector Development Partnership Fund 
+ 
+#### Development Assistance Agencies
+ 
+* Development Cooperation Directorate of the Ministry of Foreign and European Affairs 
+* Ministry of Finance  
+* Lux-Development  
 
-<a href="https://luxdev.lu/en/home" target="_blank">Lux Development</a> under the Ministry of Finance administers development aid. Luxembourg contributes to the Financial Sector Development Partnership Fund, Asia Pacific Carbon Fund, and the Fourth High Level Forum on Aid Effectiveness Trust Fund. The country has also been active in Lao the Lao People's Democratic Republic, Myanmar, and Viet Nam.
+<a href="https://www.adb.org/publications/luxembourg-fact-sheet" target="_blank">Luxembourg</a> supports local development (agriculture and food security, decentralization and local governance, natural resources management, water and sanitation); education (vocational training and access to employment); health; microfinance and finance; renewable energies.
+
+Its main partner countries in Asia include Lao PDR, where it supports initiatives on health, TVET, and local development, and Viet Nam, where it supports local development, health, and vocational training. It also provides development assistance to Myanmar in the fields of education and tourism. Its financing partnership with ADB has included support for TA projects on financial system strengthening in Azerbaijan, Cambodia, Indonesia, Kyrgyz, Mongolia, Lao PDR and Viet Nam. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Luxembourg
 

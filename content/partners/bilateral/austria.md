@@ -8,9 +8,18 @@ trust_funds_contribution: "$11.04 million"
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/austria-fact-sheet" target="_blank">Austria</a>’s development assistance is felt through its support for the energy and water sectors and knowledge exchange via provision of experts as secondees with ADB. In October 2018, Austria’s focus expanded with the signing of an Instrument of Contribution for €2 million to the Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnerships Facility. Austria is the first contributor to the Fund.
+#### Active Trust Funds 
+* Cities Development Initiative for Asia Trust Fund 
+* Multi-Donor Trust Fund under the Water Financing Partnership Facility 
 
-<a href="https://www.adb.org/publications/austria-fact-sheet" target="_blank">Austria</a> also contributes to the Multi-Donor Trust Fund under the Water Financing Partnership Facility. Austria’s Federal Ministry of Finance, along with the Federal Ministry for European and International Affairs, Austrian Development Agency, and the Development Bank of Austria, work with ADB on agriculture, education, energy, food security, human rights, migration, peace and human security, private and financial sector development, urban development, and water.
+#### Development Assistance Agencies 
+* Federal Ministry of Finance 
+* Federal Ministry for Europe, Integration and Foreign Affairs    
+* Austrian Development Agency  
+
+<a href="https://www.adb.org/publications/austria-fact-sheet" target="_blank">Austria</a>’s development assistance is felt through its support for the urban and water sectors and knowledge exchange via provision of experts as secondees with ADB.  
+
+Austria works with ADB on education, ensuring peace, human security, human rights, migration, water, energy, food security, private sector and development. Austria’s priority countries are Armenia (agriculture, good governance), Bhutan (energy, tourism, good governance), and Georgia (forestry agriculture, good governance). 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Austria
 

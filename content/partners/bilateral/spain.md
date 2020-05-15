@@ -7,6 +7,22 @@ trust_funds_contribution: "$63.38 million"
 partner_logo:
 draft: false
 ---
+#### New Trust Funds Contributions
+
+* €1.5 million (US$1.7 million) additional commitment to the Spanish Cooperation Fund for Technical Assistance 
+ 
+#### Active Trust Funds 
+
+* Clean Energy Fund under the Clean Energy Financing Partnership Facility 
+* Spanish Cooperation Fund for Technical Assistance 
+* Water Financing Partnership Facility (Multi-Donor Trust Fund) 
+ 
+#### Development Assistance Agencies 
+
+* Ministry of Treasury and Public Function (Ministry of Finance) 
+* Ministry of Foreign Affairs, European Union and Cooperation  
+* Spanish Agency for International Development Cooperation   
+* Ministry of Economy and Competitiveness   
 
 <a href="https://www.adb.org/publications/spain-fact-sheet" target="_blank">Spain</a> provides development support primarily for gender equality, cultural diversity, indigenous people, and environmental sustainability. Spain’s assistance extends mainly to Bangladesh, Pakistan, the Philippines, and Viet Nam, and focuses on infrastructure development, energy, and water. In 2018, ADB signed its first memorandum of understanding with the <a href="http://www.aecid.es/EN/aecid" target="_blank">Spanish Agency for International Development Cooperation</a>, where the two sides agreed to pursue knowledge sharing and collaborative work in a wide range of areas, including but not limited to water and sanitation, agro-industry and rural development, renewable energy, and climate change.
 

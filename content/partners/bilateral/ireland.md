@@ -8,6 +8,22 @@ partner_logo:
 draft: false
 ---
 
-<a href="https://www.adb.org/publications/ireland-fact-sheet" target="_blank">Ireland</a> directs development assistance toward reducing hunger and improving resilience, inclusive and sustainable economic growth, better governance, and human rights and accountability. Timor-Leste and Viet Nam are the main beneficiaries of <a href="https://www.irishaid.ie/" target="_blank">Irish Aid</a>, the government’s official aid program administered by the Department of Foreign Affairs and Trade.
+#### 2019 Trust Funds Contribution
 
-Ireland has contributed to the Gender and Development Cooperation Fund and Governance Cooperation Fund.
+* €12 million (US$13 million) committed to the Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States, established in April 2019 
+
+#### Active Trust Funds
+
+* Gender and Development Cooperation Fund 
+* Governance Cooperation Fund 
+* Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States 
+
+#### Development Assistance Agencies 
+
+* Department of Finance 
+* Department of Foreign Affairs and Trade  
+* Irish Aid 
+
+The Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States, established in April 2019, is the first single-donor trust fund financed by Ireland. The country committed €12 million (US$13 million) to support small island developing states in their ability to respond to climate change and disaster resilience challenges. The fund was officially launched at the ADB Annual Meeting in Fiji in May 2019.   
+
+<a href="https://www.adb.org/publications/ireland-fact-sheet" target="_blank">Ireland</a>’s priorities for international development are outlined in its current development policy “One World One Future” from 2013. It focuses on three goals: (i) reduced hunger, stronger resilience; (ii) sustainable development, inclusive economic growth; and (iii) better governance, human rights and accountability. Priority countries are Timor-Leste, Viet Nam, and small island developing states.

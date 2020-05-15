@@ -8,11 +8,19 @@ partner_logo:
 draft: false
 ---
 
-The <a href="https://www.adb.org/publications/united-states-fact-sheet" target="_blank">United States</a> (US)’ contribution to development in Asia covers various sectors and themes. It contributes to ADB through the Cities Development Initiative for Asia and the Afghanistan Infrastructure Trust Fund.
+#### Active Trust Funds 
 
-<a href="https://www.usaid.gov/" target="_blank">The United States Agency for International Development (USAID)</a> is the country’s lead development institution that advances U.S. national security and economic prosperity and promotes a path to recipient self-reliance and resilience. It partners with ADB in the promotion of innovative and alternative energy sources, post-earthquake reconstruction in Nepal, and sustainable and resilient urban development in Viet Nam. In 2018, USAID and ADB held a consultation workshop to explore mutual collaboration for the Philippines. USAID also continues to support the Asia Clean Energy Forum up to 2023.
+* Cooperation Fund for Regional Trade and Financial Security Initiative 
+* Afghanistan Infrastructure Trust Fund  
+* Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility  
 
-ADB also worked with the U.S. State Department, Bureau of International Narcotics and Law Enforcement Affairs, and the Department of the Interior on various development fronts throughout the region. USAID looks forward to closer collaboration with ADB in addressing food security in Myanmar and furthering regional initiatives in the Mekong subregion and Central Asia, consistent with the US State Department and USAID Joint Strategic Plan until 2022.
+#### Development Assistance Agency 
+
+* United States Agency for International Development  
+ 
+Although trade issues has become a major part of its foreign policy agenda in recent years, the <a href="https://www.adb.org/publications/united-states-fact-sheet" target="_blank">United States of America (USA)</a> has continued to support development in Asia, especially in the sectors of agriculture, democracy and governance, economic growth; environment, education and training, global health, global partnerships, and humanitarian assistance. Its priority themes include broadly shared economic prosperity; democracy and good governance; global health, food security, environmental sustainability and education; prevention and recovery from conflicts; and humanitarian assistance in the wake of natural and man-made disasters. 
+
+The United States Agency for International Development (USAID) is the country’s lead development institution. It advances U.S. national security and economic prosperity and promotes a path to recipient self-reliance and resilience. In 2019, it merged the offices of US Foreign Disaster Assistance and Food for Peace to create the Bureau for Humanitarian Assistance. It also created three new bureaus: the Bureau for Conflict-Prevention and Stabilization, the Bureau for Resilience and Food Security, and the new Bureau for Asia.  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Unites States of America
 
