@@ -9282,16 +9282,24 @@ td.actions {
 
 #dr-modalities .dr-mod-proj {
   background-color: #f2f2f2;
-  padding: 40px 0; }
+  padding: 40px; }
   #dr-modalities .dr-mod-proj h5, #dr-modalities .dr-mod-proj h6, #dr-modalities .dr-mod-proj p {
     margin: 0;
     padding: 0; }
   #dr-modalities .dr-mod-proj h5 {
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-weight: 200;
     margin-bottom: 20px; }
     #dr-modalities .dr-mod-proj h5 a {
-      color: #eb6440; }
+      color: #555; }
+  #dr-modalities .dr-mod-proj h6 {
+    text-transform: uppercase;
+    color: #eb6440;
+    font-size: .8rem;
+    font-weight: 300;
+    letter-spacing: 1px; }
+  #dr-modalities .dr-mod-proj p {
+    margin-bottom: 10px; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes

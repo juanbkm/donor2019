@@ -16,18 +16,29 @@
   }
   .dr-mod-proj {
     background-color: $adb-gray-four;
-    padding: 40px 0;
+    padding: 40px;
+    
     h5, h6, p {
       margin: 0;
       padding: 0;
     }
     h5 {
-      font-size: 1.6rem;
+      font-size: 2rem;
       font-weight: 200;
       margin-bottom: 20px;
       a {
-        color: $adb-accent-orange;
+        color: $body-color;
       }
+    }
+    h6 {
+      text-transform: uppercase;
+      color: $adb-accent-orange;
+      font-size: .8rem;
+      font-weight: 300;
+      letter-spacing: 1px;
+    }
+    p {
+      margin-bottom: 10px;
     }
   }
 }
