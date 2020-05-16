@@ -3,6 +3,14 @@ title: "Project Specific Cofinancing"
 date: 2020-05-14T09:31:01+08:00
 main_image: images/modalities/psc.jpg
 summary: These are cofinancing for individual projects, government by a cofinancing agreement or a memorandum of understanding, that are not under a framework cofinancing arrangement or global fund.
+projects:
+  - item:
+    title: "Philippines: Malolos-Clark Railway Project"
+    url: https://www.adb.org/projects/52083-001/main
+    cost: $6,139 million
+    partner: "Japan International Cooperation Agency- $2,011 million"
+    approval: May 2019
+    completion: May 2019
 weight: 1
 draft: false
 ---
@@ -16,6 +24,8 @@ PSC made up 94% of the 2019 total cofinanced projects, amounting to US$4.71 bill
 The [Philippines: Malolos-Clark Railway Project](https://www.adb.org/projects/52083-001/main) is the biggest cofinanced project in 2019.
 
 An important flagship project of ADB’s host country, the Malolos-Clark Railway is also ADB’s single largest infrastructure project financing ever at US$2.75 billion and biggest bilateral partnership in 2019. The Japan International Cooperation Agency (JICA) is cofinancing the project, which is expected to improve local, national, and international connectivity with the direct link to the international airport at Clark, making it a gateway for Asian destinations. The Philippines received US$2.01 billion or 41% of ADB cofinancing this year.
+
+{{< mod-proj >}}
 
 ### Multi-Partners for Policy Reforms
 

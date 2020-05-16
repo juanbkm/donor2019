@@ -4,13 +4,16 @@ date: 2020-04-11T19:07:06+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$13,171.62 million"
 trust_funds_contribution: 
-partner_logo:
+partner_logo: images/partners/world-bank.png
 draft: false
 ---
+The <a href="https://www.worldbank.org/">World Bank Group (WBG)</a> is the premiere multilateral development bank working for sustainable solutions to reduce poverty and build shared prosperity in developing countries. 
 
-The World Bank Group (WBG) is the premiere multilateral development bank working for sustainable solutions to reduce poverty and build shared prosperity in developing countries.
+The World Bank Group has been working with ADB since 1972. It prioritizes development projects on health, education, infrastructure, agriculture, public administration, macroeconomic management, institutional development, governance, financial and private-sector development, environmental protection, and natural resource management. 
 
-The World Bank Group has been working with ADB since 1972. It prioritizes development projects on health, education, infrastructure, agriculture, public administration, macroeconomic management, institutional development, governance, financial and private-sector development, environmental protection, and natural resource management. In 2018, the WBG’s cofinancing contribution to ADB was $2 billion. This focused on projects in South Asia, the Pacific, and Central Asia. In December 2018, the WBG and the ADB signed the first Alternative Procurement Arrangement, allowing procedures on cofinanced projects to follow a single procurement framework. ADB also helps its developing member countries gain access to six global funds for which World Bank serves as the Trustee: Climate Investment Funds, Global Agriculture and Food Security Program, Global Environment Facility, Global Infrastructure Facility, Global Partnership for Education, and Women Entrepreneurs Finance Initiative.   
+In 2019, the World Bank cofinanced projects in the Pacific to support reforms on public sector management in Fiji, Tonga, and Tuvalu.   
+
+Cumulative project-specific cofinancing: US$13,171.62 million 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with World Bank 
 

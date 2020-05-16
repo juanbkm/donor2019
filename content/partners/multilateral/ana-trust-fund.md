@@ -4,10 +4,11 @@ date: 2020-04-11T19:06:29+08:00
 partner_type: Multilateral
 project_specific_cofinancing:
 trust_funds_contribution: "$293 million"
-partner_logo:
+partner_logo: 
 draft: false
 ---
+The <a href="https://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2019_02/20190215_1902-backgrounder-ana-trust-fund-en.pdf">Afghan National Army (ANA) Trust Fund</a> was created in 2007 to provide a mechanism to support the transportation and installation of equipment and services for ANA engineering projects, and to support in and out-of-country training. The NATO-run ANA Trust Fund is one of three funding streams used to channel its financial support to Afghanistan’s security forces and institutions.  
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil maxime commodi inventore. Maxime cupiditate molestiae illum ex est minus, nulla dignissimos a repudiandae distinctio voluptatibus, neque animi suscipit velit officiis assumenda ratione consequuntur voluptates! Ipsum soluta numquam eos. Quae, eligendi!
+ANA Trust Fund supports the Afghanistan Infrastructure Trust Fund, a platform for financing infrastructure investments for the Afghan people. 
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nihil maxime commodi inventore. Maxime cupiditate molestiae illum ex est minus, nulla dignissimos a repudiandae distinctio voluptatibus, neque animi suscipit velit officiis assumenda ratione consequuntur voluptates! Ipsum soluta numquam eos. Quae, eligendi!
+Cumulative contribution to Trust Funds: US$293.00 million 

@@ -1,9 +1,10 @@
 ---
-title: "Multilateral Partners"
+title: "Multilaterals and Global Funds"
 date: 2020-04-17T21:18:07+08:00
 pretitle: "Official Cofinancing from"
 date_range: "1967–2019"
 units: "$ million"
+pdf: dr2019-resource-cofin-from-multilateral.pdf
 weight: 4
 draft: false
 ---
@@ -17,7 +18,7 @@ draft: false
     <th rowspan="2">Total</th>
   </tr>
   <tr>
-    <th>Loans, Equities and Gurantees <sup>b</sup></th>
+    <th>Loan <sup>b</sup></th>
     <th>Grant</th>
     <th>Technical Assistance</th>
   </tr>
@@ -117,7 +118,7 @@ draft: false
     <td>
       European Bank for Reconstruction and Development
     </td>
-    <td>–</td>
+    <td>-</td>
     <td>515.61</td>
     <td>10.89</td>
     <td>0.01</td>
@@ -195,10 +196,10 @@ draft: false
   </tr>
   <tr>
     <td>International Federation of Red Cross and Red Crescent Societies</td>
-    <td>–</td>
-    <td>–</td>
+    <td>-</td>
+    <td>-</td>
     <td>1.50</td>
-    <td>–</td>
+    <td>-</td>
     <td>1.50</td>
   </tr>
   <tr>
@@ -234,10 +235,10 @@ draft: false
       Least Developed Countries Fund for Climate Change under the
       GlobalEnvironment Facility
     </td>
-    <td>–</td>
-    <td>–</td>
+    <td>-</td>
+    <td>-</td>
     <td>10.55</td>
-    <td>–</td>
+    <td>-</td>
     <td>10.55</td>
   </tr>
   <tr>
@@ -294,17 +295,17 @@ draft: false
   </tr>
   <tr>
     <td>Public-Private Infrastructure Advisory Facility</td>
-    <td>–</td>
-    <td>–</td>
-    <td>–</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td>1.42</td>
     <td>1.42</td>
   </tr>
   <tr>
     <td>Special Climate Change Fund under the Global Environment Facility</td>
-    <td>–</td>
-    <td>–</td>
-    <td>–</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td>10.78</td>
     <td>10.78</td>
   </tr>
@@ -313,9 +314,9 @@ draft: false
       The Global Fund to Fight AIDS, Tuberculosis and Malaria
     </td>
     <td>0.06</td>
-    <td>–</td>
-    <td>–</td>
-    <td>–</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
     <td>0.06</td>
   </tr>
   <tr>
@@ -381,7 +382,7 @@ draft: false
   </tbody>
   <tfoot>
   <tr>
-    <td>TOTAL Multilaterals</td>
+    <td>TOTAL Multilaterals and Global Funds</td>
     <td>301.01</td>
     <td>21,875.39</td>
     <td>2,197.83</td>

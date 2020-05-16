@@ -4,13 +4,16 @@ date: 2020-04-11T19:06:56+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$1,077.53 million"
 trust_funds_contribution: 
-partner_logo:
+partner_logo: images/partners/ofid.png
 draft: false
 ---
+The <a href="https://opecfund.org/">OPEC Fund for International Development (OFID)</a> is a developmental funding agency by the member- states of the Organization of the Petroleum Exporting Countries (OPEC). It was established in 1976 and prioritizes projects in Armenia, Azerbaijan, Bangladesh, Bhutan, Cambodia, India, Kazakhstan, the Kyrgyz Republic, the Lao People's Democratic Republic, Maldives, Mongolia, Nepal, Papua New Guinea, the Philippines, Samoa, Solomon Islands, Sri Lanka, Tajikistan, Tonga, Turkmenistan, and Uzbekistan. 
 
-The OPEC Fund for International Development (OFID) is a developmental funding agency by the member- states of the Organization of the Petroleum Exporting Countries (OPEC). It was established in 1976 and prioritizes projects in Armenia, Azerbaijan, Bangladesh, Bhutan, Cambodia, India, Kazakhstan, the Kyrgyz Republic, the Lao People's Democratic Republic, Maldives, Mongolia, Nepal, Papua New Guinea, the Philippines, Samoa, Solomon Islands, Sri Lanka, Tajikistan, Tonga, Turkmenistan, and Uzbekistan. The priority focus of OFID’s Corporate Plan 2016–2025 is the energy–water–food nexus, underpinned by transportation as the enabling sector. It also prioritizes projects advancing agriculture, education, health, and water supply and sanitation.  
+The priority focus of OFID’s Corporate Plan 2016–2025 is the energy–water–food nexus, underpinned by transportation as the enabling sector. It also prioritizes projects advancing agriculture, education, health, and water supply and sanitation. ADB and OFID currently have an ongoing framework cofinancing agreement until 2021.  
 
-ADB and OFID signed a new framework cofinancing agreement in August 2016, where OFID committed $600 million for projects implemented in 2016-2021.  
+In 2019, OFID cofinanced a project on transport in Tajikistan.  
+
+Cumulative project-specific cofinancing: US$1,077.53 million 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with OPEC Fund for International Development
 

@@ -4,13 +4,14 @@ date: 2020-04-11T19:06:49+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$616.92 million"
 trust_funds_contribution: 
-partner_logo:
+partner_logo: images/partners/ifad.png
 draft: false
 ---
+The <a href="https://www.ifad.org/">International Fund for Agricultural Development (IFAD)</a> was established in 1977 and is a specialized agency of the United Nations system fully devoted to agriculture and rural development. It started working with ADB in 1977 and prioritizes support to these countries: Afghanistan, Armenia, Bangladesh, Bhutan, Cambodia, India, Indonesia, the Kyrgyz Republic, the Lao People’s Democratic Republic, Myanmar, Nepal, Pakistan, Papua New Guinea, the Philippines, Samoa, Sri Lanka, Timor-Leste, Uzbekistan, and Viet Nam.  
 
-The International Fund for Agricultural Development was established in 1977 and is a specialized agency of the United Nations system fully devoted to agriculture and rural development. It started working with ADB in 1977 and prioritizes support to these countries: Afghanistan, Armenia, Bangladesh, Bhutan, Cambodia, India, Indonesia, the Kyrgyz Republic, the Lao People's Democratic Republic, Myanmar, Nepal, Pakistan, Papua New Guinea, the Philippines, Samoa, Sri Lanka, Timor-Leste, Uzbekistan, and Viet Nam.  
+With ADB, IFAD supports projects that advance agriculture, rural sector development, and gender parity/empowerment. ADB and IFAD’s first Cooperation Agreement in 1978 was superseded by an MOU in 2013. A Framework Cofinancing Agreement was signed by ADB and IFAD in Rome in December 2014 to strengthen the institutions’ collaboration toward increased agricultural development and food security in select countries in Asia and the Pacific.  
 
-With ADB, IFAD supports projects that advance agriculture, rural sector development, and gender parity/empowerment. ADB and IFAD's first Cooperation Agreement in 1978 was superseded by an MOU in 2013.  A Framework Cofinancing Agreement was signed by ADB and IFAD in Rome in December 2014 to strengthen the institutions’ collaboration toward increased agricultural development and food security in select countries in Asia and the Pacific. In 2018, ADB and IFAD renewed its framework cofinancing agreement until 2020. IFAD currently supports specific projects in Cambodia, Bangladesh, and the Philippines. 
+Cumulative project-specific cofinancing: US$616.92 million 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with International Fund for Agricultural Development
 

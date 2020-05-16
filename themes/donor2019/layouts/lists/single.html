@@ -1,12 +1,25 @@
 {{ define "main" }}
 
-<div class="container dr-data">
+<div class="container dr-lists">
   <div class="row">
     <div class="col mx-auto">
       <h2>
         <em>{{ .Params.pretitle }}</em> {{ .Title }}, {{ .Params.date_range }}
       </h2>
+    </div>
+  </div>
+  <div class="row mb-5">
+    <div class="col-md-9">
       <p class="dr-units">({{ .Params.units }})</p>
+    </div>
+    <div class="col-md-3 dr-download align-self-center">
+      {{ with .Params.pdf }}
+        <a href="./downloads/{{ . }}" class="btn btn-outline-primary" target="_blank"> <i class="icon-file-pdf"></i> Download PDF</a>
+      {{ end }}
+    </div>
+  </div>
+  <div class="row">
+    <div class="col mx-auto">
       {{ .Content }}
     </div>
   </div>

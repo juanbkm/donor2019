@@ -4,13 +4,16 @@ date: 2020-04-11T19:06:32+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$574 million"
 trust_funds_contribution: 
-partner_logo:
+partner_logo: images/partners/aiib.png
 draft: false
 ---
+The <a href="https://www.aiib.org/en/index.html">Asian Infrastructure Investment Bank (AIIB) </a>, established in 2016, was designed to: (i) foster sustainable economic development, create wealth, and improve infrastructure connectivity in Asia by investing in infrastructure and other productive sectors; and (ii) promote regional cooperation and partnership in addressing development challenges by working in close collaboration with other multilateral and bilateral development institutions.  
 
-The Asian Infrastructure Investment Bank (AIIB), established in 2016, was designed to: (i) foster sustainable economic development, create wealth, and improve infrastructure connectivity in Asia by investing in infrastructure and other productive sectors; and (ii) promote regional cooperation and partnership in addressing development challenges by working in close collaboration with other multilateral and bilateral development institutions. 
+ADB and AIIB started collaborating in 2016. To advance a shared goal of an innovative and inclusive region, ADB and AIIB planned a strategic approach to advance toward these developmental goals. This approach prioritizes projects that focus on connectivity through infrastructure, adaptation and resilience to climate change, and an integrated region rooted in cooperation and partnerships.  
 
-ADB and AIIB started collaborating in 2016. To advance a shared goal of an innovative and inclusive region, ADB and AIIB planned a strategic approach to advance toward these developmental goals. This approach prioritizes projects that focus on connectivity through infrastructure, adaptation and resilience to climate change, and an integrated region rooted in cooperation and partnerships.  AIIB is currently cofinancing four projects with ADB amounting to $374 million. 
+In March 2019, ADB and AIIB discussed a range of strategic and operational issues during AIIB leadership’s visit to the ADB headquarters. ADB and AIIB also signed the Cofinancing Framework Agreement for Sovereign Operations that will guide overall cofinancing arrangements between the two institutions going forward. Also in 2019, ADB approved three sovereign projects cofinanced by AIIB.
+
+Cumulative project-specific cofinancing (sovereign): US$574.00 million
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Asian Infrastructure Investment Bank
 

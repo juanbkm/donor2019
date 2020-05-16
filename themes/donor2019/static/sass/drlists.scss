@@ -1,4 +1,4 @@
-.dr-data  {
+.dr-lists  {
   h2 {
     font-size: 72px;
     line-height: 1;
@@ -19,6 +19,14 @@
     font-weight: 300;
     margin: 0;
     padding: 0;
+    line-height: 1 !important;
+  }
+
+  .dr-download {
+    text-align: right;
+    btn {
+      margin: auto 0 0 0;
+    }
   }
 }
 

@@ -8,4 +8,26 @@
       }
     }
   }
+  .dr-intro {
+    p {
+      font-size: 1.2rem;
+      line-height: 1.8;
+    }
+  }
+  .dr-mod-proj {
+    background-color: $adb-gray-four;
+    padding: 40px 0;
+    h5, h6, p {
+      margin: 0;
+      padding: 0;
+    }
+    h5 {
+      font-size: 1.6rem;
+      font-weight: 200;
+      margin-bottom: 20px;
+      a {
+        color: $adb-accent-orange;
+      }
+    }
+  }
 }

@@ -8784,78 +8784,82 @@ td.actions {
     font-size: .8rem;
     display: block; }
 
-#content .dr-why-partner {
+#dr-partners #content .dr-why-partner {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 3em; }
-  #content .dr-why-partner li {
+  #dr-partners #content .dr-why-partner li {
     font-size: 1.2rem;
     list-style: none;
     margin-right: 10px;
     margin-left: 25px; }
-  #content .dr-why-partner i {
+  #dr-partners #content .dr-why-partner i {
     color: #eb6440;
     margin-left: -25px; }
 
-#content .dr-partner-list {
+#dr-partners #content .dr-partner-list {
   display: grid;
   grid-template-columns: 1fr 1fr; }
-  #content .dr-partner-list li {
+  #dr-partners #content .dr-partner-list li {
     font-size: 1rem;
     margin-right: 10px;
     margin-left: 25px; }
 
-#content .dr-partner-nav {
+#dr-partners #content .dr-partner-nav {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 2em; }
-  #content .dr-partner-nav li {
+  #dr-partners #content .dr-partner-nav li {
     border: 1px solid #c2ccd2;
     color: #556773;
     list-style: none; }
-    #content .dr-partner-nav li a {
+    #dr-partners #content .dr-partner-nav li a {
       background-color: #fdfdfd;
       display: block;
       padding: 20px;
       color: #555; }
-      #content .dr-partner-nav li a:hover {
+      #dr-partners #content .dr-partner-nav li a:hover {
         background-color: #98cc52;
         color: #fff;
         transition: all 0.5s ease-in-out; }
-      #content .dr-partner-nav li a:hover h3 {
+      #dr-partners #content .dr-partner-nav li a:hover h3 {
         color: #fff;
         transition: all 0.5s ease-in-out; }
-      #content .dr-partner-nav li a h3 {
+      #dr-partners #content .dr-partner-nav li a h3 {
         margin: 0;
         display: block; }
-        #content .dr-partner-nav li a h3:hover {
+        #dr-partners #content .dr-partner-nav li a h3:hover {
           color: #fff;
           transition: all 0.3s ease; }
 
-#content .dr-partner-group h4 {
+#dr-partners #content .dr-partner-group h4 {
   color: #eb6440;
   font-size: 1.4rem !important;
   margin: 0; }
 
-#content .dr-funds {
+#dr-partners #content .dr-funds {
   border-left: 1px solid #c2ccd2;
   float: right;
   margin-left: 40px;
-  padding: 0 40px;
-  width: 30%; }
+  padding: 0 0 0 40px;
+  width: 40%; }
 
-#content .dr-type {
+#dr-partners #content .dr-type {
   display: block;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+  margin-bottom: 10px; }
 
-#content .dr-amount {
+#dr-partners #content .dr-amount {
+  font-weight: 200;
+  color: #eb6440;
   display: block;
-  font-size: 3rem; }
+  line-height: 1.2;
+  font-size: 2.8rem; }
 
-#content .dr-pager {
+#dr-partners #content .dr-pager {
   text-align: right; }
 
-#content h5 em {
+#dr-partners #content h5 em {
   display: block;
   font-size: 1rem;
   font-style: normal;
@@ -9114,11 +9118,11 @@ td.actions {
   height: auto;
   margin: 20px auto; }
 
-.dr-data h2 {
+.dr-lists h2 {
   font-size: 72px;
   line-height: 1;
   margin: 0; }
-  .dr-data h2 em {
+  .dr-lists h2 em {
     color: #eb6440;
     display: block;
     font-size: 42px;
@@ -9126,12 +9130,18 @@ td.actions {
     font-weight: 300;
     line-height: 1; }
 
-.dr-data p.dr-units {
+.dr-lists p.dr-units {
   font-size: 42px;
   font-style: normal;
   font-weight: 300;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  line-height: 1 !important; }
+
+.dr-lists .dr-download {
+  text-align: right; }
+  .dr-lists .dr-download btn {
+    margin: auto 0 0 0; }
 
 .dr-data-nav li {
   color: #556773;
@@ -9265,6 +9275,23 @@ td.actions {
   font-size: 1.8rem; }
   #dr-modalities .dr-modalities h4 a {
     color: #555; }
+
+#dr-modalities .dr-intro p {
+  font-size: 1.2rem;
+  line-height: 1.8; }
+
+#dr-modalities .dr-mod-proj {
+  background-color: #f2f2f2;
+  padding: 40px 0; }
+  #dr-modalities .dr-mod-proj h5, #dr-modalities .dr-mod-proj h6, #dr-modalities .dr-mod-proj p {
+    margin: 0;
+    padding: 0; }
+  #dr-modalities .dr-mod-proj h5 {
+    font-size: 1.6rem;
+    font-weight: 200;
+    margin-bottom: 20px; }
+    #dr-modalities .dr-mod-proj h5 a {
+      color: #eb6440; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes
@@ -9679,13 +9706,13 @@ body:not(.device-sm):not(.device-xs) .countdown.countdown-large.coming-soon .cou
       right: 0; }
 
 .btn-outline-primary {
-  color: #007db7;
-  border-color: #007db7; }
+  color: #556773;
+  border-color: #556773; }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #007db7;
-  border-color: #007db7; }
+  background-color: #eb6440;
+  border-color: #eb6440; }
 
 /* Buttons - Promo 100% Width
 -----------------------------------------------------------------*/

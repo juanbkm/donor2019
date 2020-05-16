@@ -4,7 +4,7 @@ date: 2020-04-11T19:08:13+08:00
 partner_type: Others
 project_specific_cofinancing:
 trust_funds_contribution: "$5 million"
-partner_logo:
+partner_logo: images/partners/rockefeller.png
 draft: false
 ---
 

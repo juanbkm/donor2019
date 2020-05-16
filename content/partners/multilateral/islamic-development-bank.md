@@ -4,13 +4,14 @@ date: 2020-04-11T19:06:50+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$2,130.31 million"
 trust_funds_contribution: 
-partner_logo:
+partner_logo: images/partners/isdb.png
 draft: false
 ---
 
-The Islamic Development Bank was established in 1973. It is a multilateral development bank that seeks to foster economic development and social progress in its member countries and those with large Muslim communities. It partners with ADB focusing on transport, energy, urban development and services, education, agriculture, health, regional cooperation, private sector development, public-private partnership, trade financing, and trade development. Similarly, it prioritizes support to these countries: Afghanistan, Azerbaijan, Bangladesh, Indonesia, Kazakhstan, the Kyrgyz Republic, Maldives, Pakistan, Tajikistan, Turkmenistan, and Uzbekistan. 
+The <a href="https://www.isdb.org/">Islamic Development Bank (IsDB)</a> was established in 1973. It is a multilateral development bank that seeks to foster economic development and social progress in its member countries and those with large Muslim communities. It partners with ADB focusing on transport, energy, urban development and services, education, agriculture, health, regional cooperation, private sector development, public-private partnership, trade financing, and trade development. Similarly, it prioritizes support to these countries: Afghanistan, Azerbaijan, Bangladesh, Indonesia, Kazakhstan, the Kyrgyz Republic, Maldives, Pakistan, Tajikistan, Turkmenistan, and Uzbekistan. In 2019, and ADB and IsDB published a study on Indonesia’s industrial strategy and prospects in global trade. 
 
-In September 2017, IDB signed a cofinancing agreement with ADB committing $2 billion for implementation from 2018 to 2022. 
+
+Cumulative project-specific cofinancing: US$2,130.31 million  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Islamic Development Bank
 

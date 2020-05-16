@@ -4,13 +4,15 @@ date: 2020-04-11T19:06:40+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$2,248.17 million"
 trust_funds_contribution: 
-partner_logo:
+partner_logo: images/partners/eib.png
 draft: false
 ---
 
-The European Investment Bank is part of the European Investment Bank Group, the largest international financial institution. Its priority countries are Armenia, Bangladesh, Fiji, Georgia, India, the Lao People's Democratic Republic, Maldives, Mongolia, Nepal, Papua New Guinea, Sri Lanka, and Viet Nam. Within EIB’s Eastern Neighborhood countries, the lending focus is more on economic development and infrastructure while for the rest of Asia, EIB prioritizes support in the areas of climate change mitigation, urban transport, renewable energy and, to a limited extent, water. EIB recently announced a focus on supporting the reduction of plastic pollution in the world’s oceans by signing an MOU with AfD and KfW to this effect. 
+The <a href="https://www.eib.org/en/index.htm">European Investment Bank (EIB)</a>, is part of the European Investment Bank Group, the largest international financial institution. Its priority countries are Armenia, Bangladesh, Fiji, Georgia, India, the Lao People's Democratic Republic, Maldives, Mongolia, Nepal, Papua New Guinea, Sri Lanka, and Viet Nam. Within EIB’s Eastern Neighborhood countries, the lending focus is more on economic development and infrastructure while for the rest of Asia, EIB prioritizes support in the areas of climate change mitigation, urban transport, renewable energy and, to a limited extent, water. 
 
-EIB’s cofinancing with ADB focuses on projects that mitigate carbon emissions and contribute to the adaptation to climate change. In 2018, through collaborative cofinancing, EIB supported the improvement of Georgia's East-West highway for $560.55 million. 
+EIB’s cofinancing with ADB focuses on projects that mitigate carbon emissions and contribute to the adaptation to climate change. In April 2019, EIB contributed €150 million to the newly-launched ASEAN Catalytic Green Finance Facility under the ASEAN Infrastructure Fund 
+
+Cumulative project-specific cofinancing: US$2,248.17 million 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with European Bank for European Investment Bank
 

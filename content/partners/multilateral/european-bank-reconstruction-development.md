@@ -4,13 +4,15 @@ date: 2020-04-11T19:06:39+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$526.51 million"
 trust_funds_contribution: 
-partner_logo:
+partner_logo: images/partners/ebrd.png
 draft: false
 ---
 
-The European Bank for Reconstruction and Development is a development bank that provides project financing for banks, industries and businesses, both new ventures and existing companies. It prioritizes support for countries in Central and West Asia, and North Africa. It focuses on advancing developmental goals in finance and policy reform.  
+The <a href="https://www.ebrd.com/">European Bank for Reconstruction and Development (EBRD)</a>, is a development bank that provides project financing for banks, industries and businesses, both new ventures and existing companies. It prioritizes support for countries in Central and West Asia, and North Africa. It focuses on advancing developmental goals in finance and policy reform.  
 
-Over the last three years, ADB and EBRD have negotiated a Procurement Framework Arrangement and undertaken their first sovereign project specific cofinancing.  
+In 2019, the ADB and EBRD signed an agreement that allows cofinanced projects to follow a single procurement framework. It also cofinanced 2019-approved projects on transport in Georgia and energy in Uzbekistan.  
+
+Cumulative project-specific cofinancing: US$526.51 million  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with European Bank for Reconstruction and Development
 

@@ -4,6 +4,7 @@ date: 2020-04-18T00:24:25+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
+pdf: dr2019-resource-cofin-for-psc.pdf
 weight: 1
 draft: false
 ---
@@ -17,7 +18,7 @@ draft: false
     <th rowspan="2">Financing Partner</th>
   </tr>
   <tr>
-    <th>Loans</th>
+    <th>Loan</th>
     <th>Grant</th>
   </tr>
   </thead>
@@ -44,7 +45,8 @@ draft: false
     <td>European Bank for Reconstruction and Development (EBRD)</td>
   </tr>
   <tr>
-    <td class="country">Pakistan</td>
+  <tr class="country">
+    <td>Pakistan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -89,7 +91,8 @@ draft: false
     <td>Switzerland (SWI)</td>
   </tr>
   <tr>
-    <td class="country">Tajikistan</td>
+  <tr class="country">
+    <td>Tajikistan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -104,7 +107,8 @@ draft: false
     <td>OPEC Fund for International Development (OFID)</td>
   </tr>
   <tr>
-    <td class="country">Uzbekistan</td>
+  <tr class="country">
+    <td>Uzbekistan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -118,7 +122,7 @@ draft: false
     <td>EBRD</td>
   </tr>
  
-  <tr class="region" class="region">
+  <tr class="region">
     <td>EAST ASIA</td>
     <td>444.64</td>
     <td>4.98</td>
@@ -363,6 +367,14 @@ draft: false
     <td>PRCF</td>
   </tr>
   <tr>
+  <tr class="country">
+    <td>India</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Green Energy Corridor and Grid Strengthening
         <sup>a</sup></td>
     <td></td>
@@ -385,7 +397,8 @@ draft: false
     <td>Clean Technology Fund (CIF-CTF)</td>
   </tr>
   <tr>
-    <td class="country">Sri Lanka</td>
+  <tr class="country">
+    <td>Sri Lanka</td>
     <td></td>
     <td></td>
     <td></td>
@@ -415,7 +428,8 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td class="country">Cambodia</td>
+  <tr class="country">
+    <td>Cambodia</td>
     <td></td>
     <td></td>
     <td></td>
@@ -444,7 +458,8 @@ draft: false
     <td>HLTF</td>
   </tr>
   <tr>
-    <td class="country">Indonesia</td>
+  <tr class="country">
+    <td>Indonesia</td>
     <td></td>
     <td></td>
     <td></td>
@@ -458,7 +473,8 @@ draft: false
     <td>KfW</td>
   </tr>
   <tr>
-    <td class="country">Lao PDR</td>
+  <tr class="country">
+    <td>Lao PDR</td>
     <td></td>
     <td></td>
     <td></td>
@@ -472,7 +488,8 @@ draft: false
     <td>EU</td>
   </tr>
   <tr>
-    <td class="country">Myanmar</td>
+  <tr class="country">
+    <td>Myanmar</td>
     <td></td>
     <td></td>
     <td></td>
@@ -486,7 +503,8 @@ draft: false
     <td>JFPR</td>
   </tr>
   <tr>
-    <td class="country">Philippines</td>
+  <tr class="country">
+    <td>Philippines</td>
     <td></td>
     <td></td>
     <td></td>
@@ -500,7 +518,8 @@ draft: false
     <td>JICA</td>
   </tr>
   <tr>
-    <td class="country">Viet Nam</td>
+  <tr class="country">
+    <td>Viet Nam</td>
     <td></td>
     <td></td>
     <td></td>

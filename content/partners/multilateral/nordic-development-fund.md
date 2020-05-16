@@ -4,13 +4,19 @@ date: 2020-04-11T19:06:55+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$64.51 million"
 trust_funds_contribution: "$7.80 million"
-partner_logo:
+partner_logo: images/partners/ndf.png
 draft: false
 ---
+The <a href="https://www.ndf.fi/">Nordic Development Fund (NDF) </a> is a joint development finance institution of the Nordic countries. It was established in 1989 to provide concessional financing for climate change-related projects in Africa, Asia, and Latin America, usually in cooperation with trusted partners. 
 
-The Nordic Development Fund (NDF) is a joint development finance institution of the Nordic countries. It was established in 1989 to provide concessional financing for climate change-related projects in Africa, Asia, and Latin America, usually in collaboration with trusted partners. 
+For its collaborations with ADB, NDF prioritizes projects on climate change mitigation and adaptation, infrastructure, natural resources management, and capacity building in Bangladesh, Cambodia, Lao People's Democratic Republic, Myanmar, Nepal, Sri Lanka, and Viet Nam.  
 
-Currently, NDF contributes to the Project Readiness Improvement Trust Fund, a trust fund that supports the development of sound climate change-related projects in areas of design and procurement readiness.  ADB and NDF have a grant portfolio of 21 projects amounting to $64.5 million. For its collaborations with ADB, NDF prioritizes projects on climate change mitigation and adaptation, infrastructure, natural resources management, and capacity building in Bangladesh, Cambodia, Lao People's Democratic Republic, Myanmar, Nepal, Sri Lanka, and Viet Nam.
+In April 2019, NDF partnered with ADB in designing the ADB Ventures, a new venture capital and technical assistance fund to boost innovative early-stage growth companies with climate technology-driven business models and solutions for Asia Pacific. 
+
+<ul>
+<li>Cumulative contribution to Trust Funds: US$7.80 million</li>
+<li>Cumulative project-specific cofinancing: US$64.51 million</li>
+</ul>
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Nordic Development Fund
 

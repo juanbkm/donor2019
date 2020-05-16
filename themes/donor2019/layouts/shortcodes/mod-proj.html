@@ -1,0 +1,23 @@
+
+{{$projects := index ($.Page.Params.projects) 0 }}
+
+<section class="dr-mod-proj">
+<div class="row justify-content-md-center">
+  <div class="col-md-8">
+    <h5><a href="{{ $projects.url }}">{{ $projects.title }}</a></h5>
+  </div>
+</div>
+<div class="row justify-content-md-center">
+  <div class="col-md-4">
+    <h6>Project Cost</h6>
+    <p>{{ $projects.cost }}</p>
+  </div>
+  <div class="col-md-4">
+    <h6>Finacing Partner</h6>
+    <p>{{ $projects.partner }}</p>
+
+    <p><strong>Approval Date:</strong> {{ $projects.approval }}</p>
+    <p><strong>Completion Date:</strong> {{ $projects.completion }}</p>
+  </div>
+</div>
+</section>

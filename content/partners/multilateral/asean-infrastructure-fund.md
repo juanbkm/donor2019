@@ -4,13 +4,15 @@ date: 2020-04-11T19:06:31+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$520 million"
 trust_funds_contribution: 
-partner_logo:
+partner_logo: 
 draft: false
 ---
 
-The ASEAN Infrastructure Fund is a dedicated fund established by the ASEAN member nations and ADB to address the ASEAN region's infrastructure development needs by mobilizing regional savings, including foreign exchange reserves. The fund prioritizes ASEAN member countries and provides loans to finance infrastructure investment projects in the transport, energy, water and sanitation, environment and rural development, and social infrastructure sectors. 
+The <a href="https://www.adb.org/site/funds/funds/asean-infrastructure-fund">ASEAN Infrastructure Fund (AIF) </a> is a dedicated fund established by the ASEAN member nations and ADB to address the region's infrastructure development needs by mobilizing regional savings, including foreign exchange reserves. The fund prioritizes ASEAN member countries and provides loans to finance infrastructure investment projects in the transport, energy, water and sanitation, environment and rural development, and social infrastructure sectors. 
 
-In 2018, two new facilities were created within the fund on a three-year pilot basis: Inclusive Finance Facility (IFF) and ASEAN Catalytic Green Finance Facility (AGCF). IFF offers limited concessional loans to members that fall within ADB’s Group A classification while the ACGF aims to leverage the fund’s existing resources to bridge the viability gap for green infrastructure projects and attract private capital into these projects. 
+In April 2019, AIF launched the ASEAN Catalytic Green Finance Facility (ACGF), a new initiative that mobilizes more than $1 billion in green infrastructure investments across Southeast Asia. It aims to catalyze private capital by mitigating risks through innovative finance structures. Along with ADB’s partners, AIF also contributed $75 million to the new financing facility 
+
+Cumulative project-specific cofinancing: US$520.00 million 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with ASEAN Infrastructure Fund
 

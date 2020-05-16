@@ -4,7 +4,7 @@ date: 2020-04-11T19:08:01+08:00
 partner_type: Others
 project_specific_cofinancing: "$3.49 million"
 trust_funds_contribution: "$19 million"
-partner_logo:
+partner_logo: images/partners/bmgf.png
 draft: false
 ---
 
