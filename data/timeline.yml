@@ -3,23 +3,25 @@ month   :
   - name: February
     item :
       - milestone: ADB X France
-        financing: AFD - $5 billion
+        financing: AFD - $1 billion
         link: https://www.adb.org/news/adb-afd-commit-providing-5-billion-cofinancing-next-3-years
+        img: 32891-adb-afd-vppc-final.jpg
         text: |
-          **ADB** and Agence Francaise de Developpement committed to $5 billion cofinancing in the next 3 years) signed an amendment to the ADB-AFD Partnership Framework Agreement to increase cofinancing commitment by the two institutions from $3 billion in the past 3 years to $5 billion in the next 3 years.
+          ADB, AFD increases cofinancing commitment
 
-          They also signed an MOU to extend their collaboration on the Mobilise Your City Asia Program
+          ADB and Agence Francaise de Developpement amended their Partnership Framework Agreement to increase their cofinancing commitment for 2016-2022 from $3 billion to $5 billion, adding $1 billion each to raise their individual commitment to $2.5 billion.
+
+          They also signed an MOU to extend their collaboration on the Mobilise Your City Asia Program  
+
   - name: March
     item :
-      - milestone: ADB X AIIB
-        financing: AIIB - $200 million
+      - milestone: ADB X Australia
         link: https://www.adb.org/news/adb-and-aiib-presidents-discuss-strategic-and-operational-issues
         text: |
-          ADB and Asian Infrastructure Investment Bank signed a cofinancing framework agreement for sovereign operations to guide overall cofinancing arrangements
-      - milestone: ADB X Australia
-        financing: Australia - $0.71 million
+          The new ASEAN Australia Smart Cities Trust Fund was established under the Urban Financing Partnership facility. 
+      - milestone: ADB X Ireland 
         text: |
-          Australia gave an additional contribution to the Multi-Donor Trust Fund under the Water Financing Partnership Facility
+          ADB and Ireland establish the Ireland Trust fund for Building Climate Change and Disaster resilience in Small Island Developing States. 
   - name: April
     item :
       - milestone: ADB X ASEAN X Australia
@@ -35,12 +37,12 @@ month   :
   - name: May
     item :
       - milestone: ADB X Japan
-        financing: JICA - $ 2,011 million
-        link: https://www.adb.org/news/adb-approves-275-billion-support-malolos-clark-railway-project
+        financing: JICA - $ 2 billion
         text: 
       - milestone: ADB, JICA to cofinance world class railway
         financing: 
-        link: https://www.adb.org/projects/52083-001/main
+        link: https://www.adb.org/news/philippines-adb-sign-loan-milestone-malolos-clark-railway-project 
+        img: 45886-malolos-clark-signing-final.jpg
         text: |
           ADB approves the Philippines: Malolos–Clark Railway Project, ADB’s largest infrastructure project financing to date. ADB and JICA will combine finance and expertise to build a 53.1 kilometer railway that will connect Malolos, a suburb north of Manila, to Clark economic zone and Clark International Airport.
       - milestone: ADB, Partners to finance Healthy Oceans Action Plan
@@ -53,7 +55,7 @@ month   :
         financing: Korea - $355 million
         link: https://www.adb.org/news/republic-korea-pledges-355-million-support-asean-green-infrastructure-and-ocean-health
         text: |
-          New ASEAN Catalytic Green Finance Facility established
+          Korea contributes to the newly established ASEAN Catalytic Green Finance Facility, with a focus on projects that boost ocean health.  
   - name: June
     item :
       - milestone: ADB, USAID to expand Asia and Pacific's sustainable energy market
@@ -69,8 +71,9 @@ month   :
         text: |
           Findings from an ADB study said that projects financed through ADB’s multitranche financing facility performed better than stand-alone projects in raising cofinancing from other sources.
       - milestone: ADB X Germany
-        financing: KfW - $2 billion until 2023
+        financing: ADB, KfW Expand Cofinancing Partnership with Additional $2 Billion
         link: https://www.adb.org/news/adb-kfw-expand-cofinancing-partnership-additional-2-billion
+        img: 51931-adb-kfw-signing.jpg
         text: |
           The additional funds, to be spent in the next 4 years, will build on the successful $2 billion cofinancing partnership that ADB and KfW launched in 2014 and renewed in 2017 for an additional $2 billion. The partnership (2014–2019) yielded 14 cofinanced projects focused on education, energy, health, industry and trade, and public sector management. The $4 billion provided by KfW for these projects was complemented with $5.8 billion from ADB. ADB and KfW’s partnership focuses on energy, climate, and urban infrastructure
   - name: December
