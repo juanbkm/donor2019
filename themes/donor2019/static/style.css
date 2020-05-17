@@ -9301,6 +9301,31 @@ td.actions {
   #dr-modalities .dr-mod-proj p {
     margin-bottom: 10px; }
 
+#dr-modalities .dr-mod-partner h5 {
+  color: #eb6440;
+  margin: 0;
+  margin-bottom: 10px; }
+
+#dr-modalities .dr-mod-partner h6 {
+  font-size: .8rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  margin: 0; }
+
+#dr-modalities .dr-mod-partner .dr-stat {
+  width: 45%;
+  display: inline-block;
+  vertical-align: top; }
+  #dr-modalities .dr-mod-partner .dr-stat p {
+    font-size: 1.6rem;
+    font-weight: 200;
+    line-height: 1; }
+
+#dr-modalities .dr-side-nav .nav-link {
+  border-radius: 0;
+  font-weight: 200;
+  font-size: 1rem; }
+
 /*-----------------------------------------------------------------------------------
 	shortcodes
 -----------------------------------------------------------------------------------*/
