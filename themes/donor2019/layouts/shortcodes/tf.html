@@ -30,12 +30,15 @@
         </div>
         {{ end }}
 
-        {{ with $contributor }}
+        
         <div class="dr-stat">
           <h6>Framework Cofinancing Agreement</h6>
-          <p>{{ .partner }}</p>
+          <ul class="dr-funding">
+            {{ range $contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
+          </ul>
+          
         </div>
-        {{ end }}
+        
 
         {{ with .ccp }}
         <div class="dr-stat">
