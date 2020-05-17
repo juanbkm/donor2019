@@ -2,7 +2,7 @@
 title: "ADB Financing Partners"
 date: 2020-04-03T18:55:37+08:00
 section_image: images/partners/banner.png
-section_summary: "Strategic partnerships forged under Strategy 2030 are on the right track. But these partnerships are only as good as the partners involved. ADB partners with international development agencies, multilateral and bilateral institutions, the private sector, and other emerging development partners. This section highlights partners with active projects in 2019."
+section_summary: "Strategic partnerships forged under Strategy 2030 seem to be on the right track, taking a stronger focus on country ownership and paying greater attention to transparency and mutual accountability. But these partnerships are only as good as the partners involved. ADB partners with international development agencies, multilateral and bilateral institutions, the private sector, and other emerging development partners. This section highlights the financing partners with active projects in 2019."
 why_text: Why Partner with ADB
 why: 
   - item: ADB’s breadth in operations adds value to programs cofinanced with partners
