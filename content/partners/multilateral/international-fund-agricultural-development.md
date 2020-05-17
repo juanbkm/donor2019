@@ -11,7 +11,7 @@ The <a href="https://www.ifad.org/">International Fund for Agricultural Developm
 
 With ADB, IFAD supports projects that advance agriculture, rural sector development, and gender parity/empowerment. ADB and IFAD’s first Cooperation Agreement in 1978 was superseded by an MOU in 2013. A Framework Cofinancing Agreement was signed by ADB and IFAD in Rome in December 2014 to strengthen the institutions’ collaboration toward increased agricultural development and food security in select countries in Asia and the Pacific.  
 
-Cumulative project-specific cofinancing: US$616.92 million 
+
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with International Fund for Agricultural Development
 

@@ -11,8 +11,6 @@ The <a href="https://eabr.org/en/"> Eurasian Development Bank (EDB)</a>, establi
 
 EDB started working with ADB in 2013 in the areas of agriculture, transport, energy, and public services and, until 2020. ADB and EDB have since renewed their partnership. In 2019, EDB approved $480 million cofinancing to support six investment projects.  
 
-Cumulative project-specific cofinancing: US$395.00 million 
-
 ##### _1 January 2014–31 December 2019_ Cofinancing with Eurasian Development Bank
 
 <table class="table dr-partner-table">

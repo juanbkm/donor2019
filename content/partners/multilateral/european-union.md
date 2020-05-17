@@ -11,7 +11,7 @@ The <a href="https://europa.eu/european-union/index_en">European Union (EU)</a> 
 
 In 2019, the EU cofinanced projects on sustainable rural infrastructure in Laos PDR, urban water supply and sanitation in the Solomon Islands, macroeonomic resilience in Tonga, and fiscal infrastructure management in Tuvalu.  ADB and the EU also started preparations for a technical assistance (TA) grant to support reforms to Myanmar's education sector. 
 
-Cumulative project-specific cofinancing: US$912.29 million 
+
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with European Union
 

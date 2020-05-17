@@ -13,10 +13,6 @@ For its collaborations with ADB, NDF prioritizes projects on climate change miti
 
 In April 2019, NDF partnered with ADB in designing the ADB Ventures, a new venture capital and technical assistance fund to boost innovative early-stage growth companies with climate technology-driven business models and solutions for Asia Pacific. 
 
-<ul>
-<li>Cumulative contribution to Trust Funds: US$7.80 million</li>
-<li>Cumulative project-specific cofinancing: US$64.51 million</li>
-</ul>
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Nordic Development Fund
 

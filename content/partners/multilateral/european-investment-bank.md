@@ -12,7 +12,7 @@ The <a href="https://www.eib.org/en/index.htm">European Investment Bank (EIB)</a
 
 EIB’s cofinancing with ADB focuses on projects that mitigate carbon emissions and contribute to the adaptation to climate change. In April 2019, EIB contributed €150 million to the newly-launched ASEAN Catalytic Green Finance Facility under the ASEAN Infrastructure Fund 
 
-Cumulative project-specific cofinancing: US$2,248.17 million 
+
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with European Bank for European Investment Bank
 

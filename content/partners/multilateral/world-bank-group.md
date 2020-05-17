@@ -13,7 +13,6 @@ The World Bank Group has been working with ADB since 1972. It prioritizes develo
 
 In 2019, the World Bank cofinanced projects in the Pacific to support reforms on public sector management in Fiji, Tonga, and Tuvalu.   
 
-Cumulative project-specific cofinancing: US$13,171.62 million 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with World Bank 
 

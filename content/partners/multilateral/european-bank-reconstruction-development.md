@@ -12,7 +12,7 @@ The <a href="https://www.ebrd.com/">European Bank for Reconstruction and Develop
 
 In 2019, the ADB and EBRD signed an agreement that allows cofinanced projects to follow a single procurement framework. It also cofinanced 2019-approved projects on transport in Georgia and energy in Uzbekistan.  
 
-Cumulative project-specific cofinancing: US$526.51 million  
+
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with European Bank for Reconstruction and Development
 

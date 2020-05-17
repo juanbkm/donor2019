@@ -13,8 +13,6 @@ ADB and AIIB started collaborating in 2016. To advance a shared goal of an innov
 
 In March 2019, ADB and AIIB discussed a range of strategic and operational issues during AIIB leadership’s visit to the ADB headquarters. ADB and AIIB also signed the Cofinancing Framework Agreement for Sovereign Operations that will guide overall cofinancing arrangements between the two institutions going forward. Also in 2019, ADB approved three sovereign projects cofinanced by AIIB.
 
-Cumulative project-specific cofinancing (sovereign): US$574.00 million
-
 ##### _1 January 2014–31 December 2019_ Cofinancing with Asian Infrastructure Investment Bank
 
 <table class="table dr-partner-table">
