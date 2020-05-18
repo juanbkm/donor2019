@@ -1,60 +1,61 @@
 {{ define "main" }}
 
-        <section class="dr-stories-single">
-            <div class="container clearfix">
-                <div class="row">
-                    <div class="col-md-12 mx-auto">
-                        <div class="dr-story-title">
-                            <h3>{{ .Params.country }} | {{ delimit .Params.categories ", " }}</h3>
-                            <h2 data-animate="fadeIn">{{ .Title }}</h2>
-                            <p>Published on: {{ .Date.Format "Jan 2, 2006" }}</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col py-4">
-                        <div class="dr-story-summary">
-                            <p class="lead">{{ .Params.summary }}</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="row dr-story-head">
-                    <div class="col-md-8">
-                        {{ with .Params.image }}<img src="{{ . | absURL }}" class="w-100 mb-3" alt="Post-Image"  data-animate="fadeIn" data-delay="400">{{ end }}
-                        {{ with .Params.image_caption }} <p class="dr-story-caption">{{ . }}</p> {{ end }}  
-                    </div>
-                    <div class="col-md-4">
-                        <div class="dr-story-details">
-                            <h4>Project</h4>
-                            <p class="dr-project_title"><a href="{{ .Params.project_url }}" target="_blank">{{ .Params.project_title }}</a></p>
-
-                            <h4>Project Cost</h4>
-                            <p>{{ .Params.cost }}</p>
-                            <ul class="dr-funding">
-                                {{ range .Params.fund_source }}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
-                            </ul>
-                            {{ $finpart := .Params.fin_partners }}
-                            
-                            <h4>Financing {{ cond (eq (len $finpart) 1) "Partner" "Partners" }}</h4>
-                            <ul class="dr-funding">
-                                {{ range .Params.fin_partners}}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
-                            </ul>
-                            <h4>Approval Date</h4>
-                            <p>{{ .Params.approval }}</p>
-
-                            <h4>Completion</h4>
-                            <p>{{ .Params.completion }}</p>
-
-                            
-                        </div>
-                    </div>    
-                </div>
-                <div class="row">
-                    <div class="col-md-10 mx-auto dr-story-content">
-                        {{ .Content }}
-                    </div>
+<section class="dr-stories-single">
+    <div class="container clearfix">
+        <div class="row">
+            <div class="col-md-12 mx-auto">
+                <div class="dr-story-title">
+                    <h3>{{ .Params.country }} | {{ delimit .Params.categories ", " }}</h3>
+                    <h2 data-animate="fadeIn">{{ .Title }}</h2>
+                    <p>Published on: {{ .Date.Format "Jan 2, 2006" }}</p>
                 </div>
             </div>
-        </section>
+        </div>
+        <div class="row">
+            <div class="col py-4">
+                <div class="dr-story-summary">
+                    <p class="lead">{{ .Params.summary }}</p>
+                </div>
+            </div>
+        </div>
+        <div class="row dr-story-head">
+            <div class="col-md-8">
+                {{ with .Params.image }}<img src="{{ . | absURL }}" class="w-100 mb-3" alt="Post-Image"  data-animate="fadeIn" data-delay="400">{{ end }}
+                {{ with .Params.image_caption }} <p class="dr-story-caption">{{ . | markdownify }}</p> {{ end }}  
+            </div>
+            <div class="col-md-4">
+                <div class="dr-story-details">
+                    <h4>Project</h4>
+                    <p class="dr-project_title"><a href="{{ .Params.project_url }}" target="_blank">{{ .Params.project_title }}</a></p>
+
+                    <h4>Project Cost</h4>
+                    <p>{{ .Params.cost }}</p>
+                    <ul class="dr-funding">
+                        {{ range .Params.fund_source }}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
+                        {{ $finpart := .Params.fin_partners }}
+                        <li>Financing {{ cond (eq (len $finpart) 1) "Partner" "Partners" }}
+                            <ul>
+                                {{ range .Params.fin_partners}}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
+                            </ul>
+                        </li>
+                    </ul>
+                    
+                    <h4>Approval Date</h4>
+                    <p>{{ .Params.approval }}</p>
+
+                    <h4>Completion</h4>
+                    <p>{{ .Params.completion }}</p>
+
+                    
+                </div>
+            </div>    
+        </div>
+        <div class="row">
+            <div class="col-md-10 mx-auto dr-story-content">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</section>
     
 {{ end }}

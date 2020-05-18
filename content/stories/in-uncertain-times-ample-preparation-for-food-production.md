@@ -10,10 +10,10 @@ country: Bangladesh
 summary: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnerships Facility, through The Netherlands Trust Fund, is supporting the preparations."
 project_title: "Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project"
 project_url: https://www.adb.org/projects/53237-002/main
-cost: "US$1.25 million"
+cost: "$1.25 million"
 fund_source: 
   - name: "ADB"
-    amount: "US$500,000"
+    amount: "$500,000"
 fin_partners:
   - name: "The Netherlands Trust Fund under the Water Financing Partnerships Facility"
     amount: "$750,000"

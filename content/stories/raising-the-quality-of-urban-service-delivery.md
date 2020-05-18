@@ -10,15 +10,15 @@ country: India
 summary: "The Rajasthan Urban Sector Development Program, a partnership among ADB, Bill and Melinda Gates Foundation and the Government of India, showed that physical investments that uplift the lives of the urban poor are better planned if they are combined with policy actions that strengthen institutions that oversee infrastructure and planning."
 project_title: "Rajasthan Urban Sector Development Program"
 project_url: https://www.adb.org/projects/42267-026/main#project-pds
-cost: "US$613 million"
+cost: "$613 million"
 fund_source: 
   - name: "ADB"
-    amount: "U$501 million"
+    amount: "$501 million"
   - name: "Government of India"
-    amount: "US$110 million"
+    amount: "$110 million"
 fin_partners:
   - name: "Bill and Melinda Gates Foundation"
-    amount: "US$2 million"
+    amount: "$2 million"
 approval: "October 2014"
 completion: "June 2020"
 categories: [ "Poverty​" ]

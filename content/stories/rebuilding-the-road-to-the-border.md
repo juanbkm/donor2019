@@ -2,7 +2,7 @@
 title: "Rebuilding the Road to the Border"
 date: 2020-03-31T17:47:33+08:00
 image: images/stories/rebuilding-the-road-to-the-border.jpg
-image_caption: "Mirror, mirror, on the road: Spherical convex mirrors on Tajikistan’s Ayni–Panjakent road that connects to the Uzbekistan border provide increased road safety at dangerous curves and junctions."
+image_caption: "**Mirror, mirror, on the road**: Spherical convex mirrors on Tajikistan’s Ayni–Panjakent road that connects to the Uzbekistan border provide increased road safety for pedestrians and vehicles alike at dangerous curves and junctions."
 author: Admin
 description: "This is meta description"
 country: Tajikistan

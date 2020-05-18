@@ -10,15 +10,15 @@ country: Tajikistan
 summary: "Threatened by climate change, the Pyanj River Basin (PRB) is now the center of climate-proofing activities, thanks to a collaborative project by ADB and the Japan Fund for Poverty Reduction."
 project_title: "Water Resources Management in the Pyanj River Basin Project"
 project_url: https://www.adb.org/projects/47181-002/main#project-pds
-cost: "US$33.73 million"
+cost: "$33.73 million"
 fund_source: 
   - name: "ADB"
-    amount: "US$25 million"
+    amount: "$25 million"
   - name: "Government of Tajikistan"
-    amount: "US$3.73 million"
+    amount: "$3.73 million"
 fin_partners: 
   - name: "Japan Fund for Poverty Reduction"
-    amount: "US$5 million"
+    amount: "$5 million"
 approval: "September 2016"
 completion: "June 2024"
 categories: [ "Climate Change​" ]

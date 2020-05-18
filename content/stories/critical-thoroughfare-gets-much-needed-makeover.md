@@ -10,17 +10,17 @@ country: Kiribati
 summary: "After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the World Bank, Government of Australia, and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape. "
 project_title: "Kiribati: Road Rehabilitation Project"
 project_url: https://www.adb.org/projects/44281-013/main#project-pds
-cost: "US$76.06 million"
+cost: "$76.06 million"
 fund_source: 
   - name: "ADB"
-    amount: "US$23.4 million"
+    amount: "$23.4 million"
   - name: "Government of Kiribati"
-    amount: "US$6.83 million"
+    amount: "$6.83 million"
 fin_partners: 
   - name: "World Bank"
-    amount: "US$26.97 million"
+    amount: "$26.97 million"
   - name: "Government of Australia"
-    amount: "US$18.86 million"
+    amount: "$18.86 million"
 approval: "December 2015"
 completion: "May 2017"
 categories: [ "Governance" ]
@@ -42,7 +42,7 @@ draft: false
 
 ### Background
 
-Kiribati is one of the most remote and geographically dispersed nations on the planet. The challenges this isolation presents are compounded by the fact that the country’s overall mobility rests on one main road—the South Tarawa road──connecting the east and the west of Tarawa atoll, capital of the country. This overworked, beaten road has borne the brunt of much of people's mobility in the past decades. Unfortunately, the South Tarawa r, while crucial to the country's economy, has not been comprehensively maintained since the 1970s. The road's condition hampered economic opportunities and access to basic services to approximately 42% of the country' population.
+Kiribati is one of the most remote and geographically dispersed nations on the planet. The challenges this isolation presents are compounded by the fact that the country’s overall mobility rests on one main road—the South Tarawa road──connecting the east and the west of Tarawa atoll, capital of the country. This overworked, beaten road has borne the brunt of much of people's mobility in the past decades. Unfortunately, the South Tarawa, while crucial to the country's economy, has not been comprehensively maintained since the 1970s. The road's condition hampered economic opportunities and access to basic services for approximately 42% of the country' population.
 
 Being a Pacific island country, Kiribati is extremely susceptible to external shocks, which arise from its vulnerability to climate change, dependence on imports, and reliance on income from overseas sources. Compounding this vulnerability was poor mobility due to inadequate transport infrastructure.
 

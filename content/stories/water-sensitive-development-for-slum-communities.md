@@ -8,12 +8,12 @@ description: "This is meta description"
 country: Indonesia
 summary: "Urban footpaths with nature-based designs and other water-sensitive improvements have transformed slums in Makassar City, Indonesia for the better, and the makeover is just beginning. The project, jointly financed by Switzerland, The Rockefeller Foundation, the United Kingdom, and United States, piloted green technology to improve the lives and health of the urban poor."
 project_title: "Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach (Indonesia component)"
-cost: "US$525,000"
+cost: "$525,000"
 fin_partners:
   - name: "Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility"
-    amount: "US$196,000 (Indonesia)"
+    amount: "$196,000 (Indonesia)"
   - name: "Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility"
-    amount: "US$329,000 (Fiji)"
+    amount: "$329,000 (Fiji)"
 approval: "September 2018"
 completion: "December 2020"
 categories: [ "Liveable Cities", "Climate Change", "Gender" ]

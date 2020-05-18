@@ -2,17 +2,17 @@
 title: "Wind Power for Energy Efficiency and Security"
 date: 2020-04-30T17:47:33+08:00
 image: images/stories/wind-power-for-energy-efficiency-and-security.jpg
-image_caption: "Wheel within a Wheel. Sri Lanka is planning to build a wind farm by 2022 and has undertaken meticulous preparations for harvesting power from winds."
+image_caption: "**Windmills of Your Mind.** Sri Lanka is planning to build a wind farm by 2022 and has undertaken meticulous preparations for harvesting power from winds."
 author: Admin
 description: "This is meta description"
 country: Sri Lanka
 summary: "Sri Lanka is keen on developing wind power as an alternative to more costly thermal power. An ADB technical assistance supported by the Clean Energy Fund, with Australia, Norway, Spain, Sweden, and the United Kingdom as cofinanciers, built the capacity of Sri Lanka’s largest electric company to handle wind power projects with private sector involvement."
 project_title: "Sri Lanka: Wind Power Generation Project"
 project_url: https://www.adb.org/projects/49345-001/main#project-overview
-cost: "US$2 million"
+cost: "$2 million"
 fin_partners:
   - name: "Clean Energy Fund under the Clean Energy Financing Partnership Facility"
-    amount: "US$2 million"
+    amount: "$2 million"
 approval: "March 2016"
 completion: "February 2019"
 categories: [ "Climate Change" ]

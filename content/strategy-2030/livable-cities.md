@@ -14,7 +14,7 @@ op:
 draft: false
 ---
 
-The Asia-Pacific is home to 44% of the world's urban population. Nowhere else is the unprecedented economic transformation that the region underwent in the past two decades better manifested than in the proliferation of its cities.  
+Asia and the Pacific is home to 44% of the world's urban population. Nowhere else is the unprecedented economic transformation that the region underwent in the past two decades better manifested than in the proliferation of its cities. 
   
 This transformation is set to intensify as it was projected in 2019 that the region would be responsible for [90% of the 2.4 billion new members of the middle class](https://www.weforum.org/agenda/2019/12/asia-economic-growth/) entering the [global economy](https://www.weforum.org/agenda/2019/12/asia-economic-growth/). One characteristic of the middle class is that it is [disproportionately urban](https://www.adb.org/sites/default/files/publication/27726/special-chapter-03.pdf).
   
