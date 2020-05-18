@@ -2,16 +2,17 @@
 title: "Modernizing Power Trade Coordination in Central Asia"
 date: 2020-04-30T17:47:33+08:00
 image: images/stories/modernizing-power-trade-coordination-in-central-asia.jpg
-image_caption: "A project by the ADB and its partners, Asian Clean Energy Fund under Clean Energy Financing Partnership Facility and the High-Level Technology Fund, will help increase energy trade among Central Asian countries by modernizing its coordinating dispatch center, Energiya. An increased energy trade will help the subregion address its power outages and growing reliance on fossil fuels."
+image_caption: "**Keeping the Lights On.** Cutting-edge technology is about to turn Energiya, matched with a state-of-the-art power flow coordination center Energiya, which coordinates power flow between the national electricity grids of the Central Asian
+power system (CAPS) A project by the ADB and its partners, Asian Clean Energy Fund under Clean Energy Financing Partnership Facility and the High-Level Technology Fund, will help increase energy trade among Central Asian countries by modernizing its coordinating dispatch center, Energiya. An increased energy trade will help the subregion address its power outages and growing reliance on fossil fuels."
 author: Admin
 description: "This is meta description"
 country: Regional
-summary: "A technical assistance (TA) is underway to modernize Central Asia's energy coordinating dispatch center (CDC), Energiya. A modernized CDC will help increase regional energy trading and addresses frequent power outages and the increasing use of fossil fuels. The TA is cofinanced by the Asian Clean Energy Fund, under Clean Energy Financing Partnership Facility (ACEF-CEFPF), and the High-Level Technology Fund (HLTF)."
+summary: "A technical assistance (TA) is underway to modernize Central Asia's energy trade coordinating dispatch center (CDC), Energiya. A modernized CDC will help increase regional energy trading and addresses frequent power outages and the increasing use of fossil fuels. The TA is cofinanced by the Asian Clean Energy Fund, under Clean Energy Financing Partnership Facility (ACEF-CEFPF), and the High-Level Technology Fund (HLTF)."
 project_title: "Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System: Modernization of Coordinating Dispatch Center Energiya"
 project_url: https://www.adb.org/projects/52112-002/main#project-documents
 cost: "$2.5 million"
 fund_source: 
-  - name: "ADB: Technical Assistance Special Fund"
+  - name: "ADB"
     amount: "$500,000.00"
 fin_partners: 
   - name: "Asian Clean Energy Fund under the Clean Energy Financing Partnership Facility"
@@ -29,8 +30,8 @@ draft: false
 ### Partnership Progress
 <ul class="dr-results">
   <li><i class="icon-check-circle"></i> Needs assessment is completed and accepted by CDC Energiya </li>
-  <li><i class="icon-check-circle"></i> EDM design is completed and accepted by CDC Energiya </li>
-  <li><i class="icon-check-circle"></i> Modular procurement plan of the EDM is underway </li>
+  <li><i class="icon-check-circle"></i> Design of Energy Data Management technology is completed and accepted by CDC Energiya </li>
+  <li><i class="icon-check-circle"></i> Modular procurement plan of Energy Data Management is underway </li>
 </ul>
 
 ### Background
@@ -49,7 +50,7 @@ In late 2018, countries under the Central Asia Regional Economic Cooperation (CA
 
 The participating countries target coming out of the project with increased cross-border energy trade of at least 11,000 million kilowatt-hours annually. The interventions are split into three subprojects and are designed independently of one another yet contributes to the umbrella cluster TA.
 
-The first subproject, [Modernization of Coordinating Dispatch Center Energiya](https://www.adb.org/sites/default/files/project-documents/52112/52112-002-tasp-en.pdf), is cofinanced by the Asian Clean Energy Fund, under Clean Energy Financing Partnership Facility (CEFPF), and the High-Level Technology Fund (HLTF).It seeks to modernize the energy coordination dispatch center, Energiya, by introducing an energy data management (EDM) system to replace all Soviet-era equipment at Energiya. 
+The first subproject, [Modernization of Coordinating Dispatch Center Energiya](https://www.adb.org/sites/default/files/project-documents/52112/52112-002-tasp-en.pdf), is cofinanced by the Asian Clean Energy Fund, under Clean Energy Financing Partnership Facility (CEFPF), and the High-Level Technology Fund (HLTF). It seeks to modernize the energy coordination dispatch center, Energiya, by introducing an energy data management (EDM) system to replace all Soviet-era equipment at Energiya. 
 
 The EDM, a high-level technology (HLT), is expected to enable operation of the regional grid in real-time and significantly increase volumes of telemetry information collected by Energiya. This will also allow centralization of the CAPS’ emergency automation.  
 
@@ -61,8 +62,8 @@ The second and third subprojects complete the picture of an enhanced energy trad
 
 The ongoing subproject, which targets a modernized Energiya using high-level technology data management by the end of 2021, is on track.  
 
-An assessment of the needs of Energiya has been conducted and the design of the EDM system has also complete. The results of the needs assessment and EDM system design have been accepted by the CDC. 
+An assessment of the needs of Energiya has been conducted and the design of the EDM system is also complete. The results of the needs assessment and EDM system design have been accepted by the CDC. 
 
 As of writing, the modular procurement plan to acquire the EDM is being finalized, including preparations of bid documents. The modular approach is used to adapt to budget availability and urgency of need in procurement. Since the modular procurement plan indicates that the allocated amount may be slightly short, the project may seek  additional financing once the bidding for procurement of the EDM is complete in the autumn of 2020. 
 
-A regional workshop with Japan International Cooperation Agency (JICA) and consultants based in Europe is postponed due to the COVID-19 pandemic. The workshop will be the venue for JICA to share experiences of Japan for managing interregional power flows as well as disaster resilience of the grid. The consultants will present European experience on power trade. 
+A regional workshop with Japan International Cooperation Agency (JICA) and consultants based in Europe is postponed due to the COVID-19 pandemic. The workshop will be the venue for JICA to share experiences of Japan for managing interregional power flows as well as disaster resilience of the grid. The consultants will present European experience on power trade.
