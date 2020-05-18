@@ -10,7 +10,7 @@ Thanks in large measure to financing partnerships, ADB operations reached $33.75
 
 For 2019, ADB successfully collaborated with 33 different partners on 148 projects supportive of sovereign operations in 24 developing member countries.
 
- **This Partnership Report highlights ADB's performance in sovereign cofinancing in 2019.**
+ **This Partnership Report highlights ADB's 2019 performance in sovereign cofinancing.**
 
 ### Exploring New Opportunities
 
@@ -18,7 +18,9 @@ Sovereign cofinancing in 2019 saw ADB venturing into new fields and with new par
 
 The [52nd ADB Annual Meeting](https://www.adb.org/annual-meeting/2019/main) in Fiji (May 2019) coincided with financing partners’ increasing interest in the Pacific region, e.g., United Kingdom’s re-engagement with the region by establishing diplomatic representation in Samoa, Tonga, and Vanuatu in 2018. The meeting also put a spotlight on the Pacific region’s needs and opened opportunities for stronger partnerships. In April 2019, the [Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States](https://www.adb.org/site/funds/funds/ireland-trust-fund-climate-change-disaster-resilience-sids) (SIDS) was established to help SIDS manage disasters caused by natural hazards and the impacts of climate change. The fund had an initial €12 million contribution from Ireland.
 
-The same annual meeting also launched ADB’s initial foray into ocean health, the [Action Plan for Healthy Oceans and Sustainable Blue Economies for Asia and the Pacific](https://www.adb.org/news/adb-launches-5-billion-healthy-oceans-action-plan), which aims to expand financing for ocean health and marine economy to $5 billion from 2019 to 2024. Preliminary action such as stakeholder mapping and consultations have taken place in the latter half of 2019. The year also saw gradual but consistent progress in terms of engaging with partners not so familiar with ADB. For instance, steady dialogue with JPMorgan culminated in a partnership focusing on advancing women and trade, with JPMorgan committing $1.36 million as grant.
+{{< dr-artimage src="images/overview-exploring.jpg" align="" width="100%" alt="" caption="Former ADB President Takehiko Nakao speaking at the Ocean Health: Actions from Source to Sea seminar at the 52nd Annual Meeting in Fiji" >}}
+
+The same annual meeting also launched ADB’s initial foray into ocean health, the [Action Plan for Healthy Oceans and Sustainable Blue Economies for Asia and the Pacific](https://www.adb.org/news/adb-launches-5-billion-healthy-oceans-action-plan), which aims to expand financing for ocean health and marine economy to $5 billion from 2019 to 2024. Preliminary action such as stakeholder mapping and consultations have taken place in the latter half of 2019. The year also saw gradual but consistent progress in terms of engaging with partners not so familiar with ADB. For instance, steady dialogue with JPMorgan Chase & Co. culminated in a partnership focusing on advancing women and trade, with JPMorgan committing $1.36 million as grant.
 
 ### Building on Past Successes
 
