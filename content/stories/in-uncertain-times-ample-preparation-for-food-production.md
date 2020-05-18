@@ -2,7 +2,7 @@
 title: "In Uncertain Times, Ample Preparation for Food Production"
 date: 2020-04-30T17:47:33+08:00
 image: images/stories/in-uncertain-times-ample-preparation-for-food-production.jpg
-image_caption: "Worried about Water. Farmers in Bangladesh, like this one tilling her field, face escalating flood and drought risks."
+image_caption: "**Worried about Water.** Farmers in Bangladesh, like this woman tilling her field, may face escalating flood and drought risks, but now made more resilient to possible natural disasters and the effects of climate change."
 image_thumb: images/stories/in-uncertain-times-ample-preparation-for-food-production-th.jpg
 author: Admin
 description: "This is meta description"

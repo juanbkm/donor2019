@@ -2,7 +2,7 @@
 title: "Rebuilding the Road to the Border"
 date: 2020-03-31T17:47:33+08:00
 image: images/stories/rebuilding-the-road-to-the-border.jpg
-image_caption: "**Mirror, mirror, on the road**: Spherical convex mirrors on Tajikistan’s Ayni–Panjakent road that connects to the Uzbekistan border provide increased road safety for pedestrians and vehicles alike at dangerous curves and junctions."
+image_caption: "**Mirror, mirror, on the road.** Spherical convex mirrors on Tajikistan’s Ayni–Panjakent road that connects to the Uzbekistan border provide increased road safety for pedestrians and vehicles alike at dangerous curves and junctions."
 author: Admin
 description: "This is meta description"
 country: Tajikistan
@@ -10,7 +10,7 @@ summary: "Trade and tourism are booming in western Tajikistan after the rehabili
 project_title: "Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni–Uzbekistan Border Road) Improvement Project"
 cost: "$136 million"
 fund_source: 
-  - name: "Government of Tajikistan"
+  - name: "Tajikistan"
     amount: "$22 million"
 fin_partners:
   - name: "OPEC Fund for International Development"
@@ -65,8 +65,6 @@ Travel time from Ayni to the Uzbekistan border has been reduced from 3.5 hours t
 
 Shops, street vendors, and a small hotel have sprouted along the rehabilitated road. The roadside has been bustling with activity as more tourists visit. Taxi drivers and small businesses have more customers. The new road has made land travel faster, safer, and cheaper.
 
-{{< dr-quote align="right" quote="I used to spend 7-8 hours on the road between Dushanbe and Panjakent, Now, I can make the trip in 4 hours thanks to the improved road." source="Hikmat Sanginov" >}}
-
 “I used to spend 7-8 hours on the road between Dushanbe and Panjakent,” recalled Hikmat Sanginov, 36, a taxi driver of 10 years. “Now, I can make the trip in 4 hours thanks to the improved road.”
 
 In 2018, the border was reopened.
@@ -76,8 +74,6 @@ In the past, Hikmat never traveled to the Uzbek border, as the border was closed
 {{< dr-storyimage src="images/stories/rebuilding-the-road-to-the-border-2.jpg" align="" alt="" caption="" >}}
 
 The Hotel Umariyon at the center of Panjakent, owned by a local entrepreneur, opened in 2015 in anticipation of increased tourist activity.
-
-{{< dr-quote align="left" quote="The hotel opened when the road was just being improved, We have 30 rooms now" source="Komron Mukaramov" >}}
 
 “The hotel opened when the road was just being improved,” Komron Mukaramov, 34, and hotel administrator at Umariyon, said as he attended to guests, locals and foreigners, who had come to visit ancient Panjakent. With the opening of the border, the hotel has since expanded, adding a second floor. “We have 30 rooms now,” Komron said.
 

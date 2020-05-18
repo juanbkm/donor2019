@@ -1,9 +1,7 @@
 
-
 /* ----------------------------------------------------------------
   Banner
 -----------------------------------------------------------------*/
-
 #dr-banner {
   padding-bottom: 80px;
   h1 {
@@ -11,20 +9,47 @@
     padding: 0;
     line-height: 1.1;
     font-weight: 200;
-    font-size: 4rem;
+    font-size: 4.3rem;
     color: $adb-accent-orange;
+  }
+  @media only screen and (max-width: 940px) {
+    h1 {
+      font-size: 3.8rem;
+    }
+
+  } 
+  @media only screen and (max-width: 839px) {
+    h1 {
+      font-size: 3.6rem;
+    }
+
   }  
   p {
     margin: 0;
     padding: 10% 0 0 0;
     line-height: 1.1;
-    text-transform: uppercase; 
+    
   }
 
-  .section-1 .section-1a,
-  .section-1 .section-1b {
-    padding: 0;
+  .section-1 .section-1a {
+    padding-left: 30px;
+    padding-right: 0px;
   }
+
+  .section-1 .section-1b {
+    padding-right: 30px;
+    padding-left: 0px;
+  }
+
+  @media only screen and (max-width: 767px) {
+    .section-1 .section-1a {
+       padding-right: 30px;
+    }
+    .section-1 .section-1b {
+      padding-left: 30px; 
+    }
+  }
+
 
 
 .section-1 .flex-container-1a,
@@ -63,9 +88,20 @@
 
   .section-1 .flex-container-1a .fb:nth-child(2),
   .section-1 .flex-container-1a .fb:nth-child(3),
-  .section-1 .flex-container-1a .fb:nth-child(4) {
+  .section-1 .flex-container-1a .fb:nth-child(4),
+  .section-1 .flex-container-1a .fb:nth-child(5),
+  .section-1 .flex-container-1a .fb:nth-child(6),
+  .section-1 .flex-container-1a .fb:nth-child(7) {
     width: 33.333333333333333333333333333333333%;
     height: 195px;
+  }
+
+  @media only screen and (max-width: 767px) {
+    .section-1 .flex-container-1a .fb:nth-child(4),
+    .section-1 .flex-container-1a .fb:nth-child(5),
+    .section-1 .flex-container-1a .fb:nth-child(6) {
+      display: none;
+    }
   }
 
 
@@ -74,20 +110,29 @@
       display: none; 
     } 
     .section-1 .flex-container-1a .fb:nth-child(2),
-    .section-1 .flex-container-1a .fb:nth-child(3) {
+    .section-1 .flex-container-1a .fb:nth-child(3),
+    .section-1 .flex-container-1a .fb:nth-child(7) {
       width: 50%;
     }
   }
 
   .section-1 .flex-container-1a .fb:nth-child(2) {
-    background: url(./images/section1-section1a-01.jpg);
+    background-image: url(./images/section1-section1a-01.jpg);
+  }
+
+  .section-1 .flex-container-1a .fb:nth-child(7) {
+    background-image: url(./images/section1-section1b-06.jpg);
+  }
+
+   .section-1 .flex-container-1a .fb:nth-child(7):hover {
+    background-image: url(./images/section1-section1b-06-grey.jpg);
   }
 
   .section-1 .flex-container-1a .fb:nth-child(3) {
     background: #ea522b;
   }
 
-  .section-1 .flex-container-1a .fb .content-text {
+  .section-1 .flex-container-1a .fb:nth-child(3) .content-text {
     width: 100%;
     padding-left: 5%;
     padding-right: 5%;
@@ -99,13 +144,7 @@
     text-align: center;
   }
 
-  .section-1 .flex-container-1a .fb .content-text img {
-    margin: 0 auto;
-  }
-
-
-  .section-1 .flex-container-1a .fb .content-text p,
-  .section-1 .flex-container-1b .fb:nth-child(8) .content-text p {
+  .section-1 .flex-container-1a .fb:nth-child(3) .content-text p {
     margin: 15% 0 0 0;
     padding: 0;
     line-height: 1.3em;
@@ -115,6 +154,55 @@
     font-style: italic;  
   }
 
+  .section-1 .flex-container-1a .fb:nth-child(3) .content-text img {
+    margin: 0 auto;
+  }
+
+  .section-1 .flex-container-1a .fb:nth-child(7) .content-text {
+    position: absolute;
+    width: 100%;
+    transition: .5s ease;
+    opacity: 0;
+    font-size: 12px;
+    padding-left: 6%;
+    padding-right: 6%;
+    color: #fff;
+    left: 0;
+    bottom: 5%;
+    z-index: 9;
+    text-align: left; 
+  }
+
+  .section-1 .flex-container-1a .fb:nth-child(7) .content-text p {
+    margin: 0;
+    padding: 0;
+    font-size: 1.1em;
+    line-height: 1.3em;
+  }
+
+  .section-1 .flex-container-1a .fb:nth-child(7):hover .content-text {
+    opacity: 1; 
+  }
+
+  .section-1 .flex-container-1a .fb:nth-child(7):hover .tint {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: #000000;
+    opacity: 0.5; 
+    transition: .5s ease;
+  }
+
+
+
+  
+
+
+
+  
+
+
+
 
   .section-1 .flex-container-1b .fb {
     width: 33.333333333333333333333333333333333%;
@@ -122,36 +210,37 @@
   }
 
   @media only screen and (max-width: 400px) {
-  .section-1 .flex-container-1b .fb {
-    width: 50%;
-    height: 195px;
+    .section-1 .flex-container-1b .fb {
+      width: 50%;
+      height: 195px;
+    }
+
+    .section-1 .flex-container-1b .fb:nth-child(2),
+    .section-1 .flex-container-1b .fb:nth-child(4),
+    .section-1 .flex-container-1b .fb:nth-child(9),
+    .section-1 .flex-container-1b .fb:nth-child(10),
+    .section-1 .flex-container-1b .fb:nth-child(11) {
+      display: none; 
+    }  
+
   }
 
-  .section-1 .flex-container-1b .fb:nth-child(2),
-  .section-1 .flex-container-1b .fb:nth-child(4),
-  .section-1 .flex-container-1b .fb:nth-child(9) {
-    display: none; 
-  }  
-
-  }
-
   .section-1 .flex-container-1b .fb {
-  position: relative;
-  
+    position: relative;
   }
 
   .section-1 .flex-container-1b .fb .content-text {
-  position: absolute;
-  width: 100%;
-  transition: .5s ease;
-  opacity: 0;
-  font-size: 12px;
-  padding-left: 6%;
-  padding-right: 6%;
-  color: #fff;
-  left: 0;
-  bottom: 5%;
-  z-index: 9;
+    position: absolute;
+    width: 100%;
+    transition: .5s ease;
+    opacity: 0;
+    font-size: 12px;
+    padding-left: 6%;
+    padding-right: 6%;
+    color: #fff;
+    left: 0;
+    bottom: 5%;
+    z-index: 9;
   }
 
   .section-1 .flex-container-1b .fb:nth-child(8) .content-text {
@@ -159,6 +248,16 @@
   text-align: center;
   color: #4d4d4d;
   bottom: 10%;
+  }
+
+  .section-1 .flex-container-1b .fb:nth-child(8) .content-text p {
+    margin: 15% 0 0 0;
+    padding: 0;
+    line-height: 1.3em;
+    font-size: 13px;
+    text-align: center;
+    text-transform: none;
+    font-style: italic;  
   }
 
 
@@ -183,33 +282,60 @@
   }
 
   .section-1 .flex-container-1b .fb:first-child {
-    background: url(./images/section1-section1b-01.jpg);
+    background-image: url(./images/section1-section1b-01.jpg);
+  }
+
+  .section-1 .flex-container-1b .fb:first-child:hover {
+    background-image: url(./images/section1-section1b-01-grey.jpg);
   }
 
   .section-1 .flex-container-1b .fb:nth-child(3) {
-    background: url(./images/section1-section1b-02.jpg);
+    background-image: url(./images/section1-section1b-02.jpg);
   }
 
+    .section-1 .flex-container-1b .fb:nth-child(3):hover {
+    background-image: url(./images/section1-section1b-02-grey.jpg);
+  }
+
+
   .section-1 .flex-container-1b .fb:nth-child(5) {
-    background: url(./images/section1-section1b-03.jpg);
+    background-image: url(./images/section1-section1b-03.jpg);
+  }
+
+    .section-1 .flex-container-1b .fb:nth-child(5):hover {
+    background-image: url(./images/section1-section1b-03-grey.jpg);
   }
 
   .section-1 .flex-container-1b .fb:nth-child(6) {
-    background: url(./images/section1-section1b-04.jpg);
+    background-image: url(./images/section1-section1b-04.jpg);
+  }
+
+    .section-1 .flex-container-1b .fb:nth-child(6):hover {
+    background-image: url(./images/section1-section1b-04-grey.jpg);
   }
 
   .section-1 .flex-container-1b .fb:nth-child(7) {
-  background: url(./images/section1-section1b-05.jpg);
+    background-image: url(./images/section1-section1b-05.jpg);
+  }
+
+  .section-1 .flex-container-1b .fb:nth-child(7):hover {
+    background-image: url(./images/section1-section1b-05-grey.jpg);
   }
 
   .section-1 .flex-container-1b .fb:nth-child(8) {
-  background: #e6e6e6;
+    background: #d0d0d0;
   }
 
-  .section-1 .section-1a,
-  .section-1 .section-1b {
-  padding: 0;
+
+  .section-1 .flex-container-1b .fb:nth-child(12) {
+    background-image: url(./images/section1-section1b-07.jpg);
   }
+
+   .section-1 .flex-container-1b .fb:nth-child(12):hover {
+    background-image: url(./images/section1-section1b-07-grey.jpg);
+  }
+
+  
 
 
 }

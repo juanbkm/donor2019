@@ -2,13 +2,12 @@
 title: "Modernizing Power Trade Coordination in Central Asia"
 date: 2020-04-30T17:47:33+08:00
 image: images/stories/modernizing-power-trade-coordination-in-central-asia.jpg
-image_caption: "**Keeping the Lights On.** Cutting-edge technology is about to turn Energiya, matched with a state-of-the-art power flow coordination center Energiya, which coordinates power flow between the national electricity grids of the Central Asian
-power system (CAPS) A project by the ADB and its partners, Asian Clean Energy Fund under Clean Energy Financing Partnership Facility and the High-Level Technology Fund, will help increase energy trade among Central Asian countries by modernizing its coordinating dispatch center, Energiya. An increased energy trade will help the subregion address its power outages and growing reliance on fossil fuels."
+image_caption: "**Keeping the Lights On.** Cutting-edge technology is about to turn Energiya into a state-of-the-art power flow coordination center in Central Asia. A modernized Energiya will help increase regional energy trading and address frequent power outages and increasing use of fossil fuels."
 author: Admin
 description: "This is meta description"
 country: Regional
 summary: "A technical assistance (TA) is underway to modernize Central Asia's energy trade coordinating dispatch center (CDC), Energiya. A modernized CDC will help increase regional energy trading and addresses frequent power outages and the increasing use of fossil fuels. The TA is cofinanced by the Asian Clean Energy Fund, under Clean Energy Financing Partnership Facility (ACEF-CEFPF), and the High-Level Technology Fund (HLTF)."
-project_title: "Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System: Modernization of Coordinating Dispatch Center Energiya"
+project_title: "Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System"
 project_url: https://www.adb.org/projects/52112-002/main#project-documents
 cost: "$2.5 million"
 fund_source: 

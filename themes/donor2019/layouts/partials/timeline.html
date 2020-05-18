@@ -1,6 +1,6 @@
 {{ $data := index .Site.Data }}
   {{ with $data.timeline }}
-  {{ with .title }}<h4 class="dr-tl-hd">{{ . | markdownify}}</h4>{{ end }}
+  {{ with .title }}<h4 id="timeline" class="dr-tl-hd">{{ . | markdownify}}</h4>{{ end }}
 
   <ul class="timeline">
     <li><div class="timeline-badge"></div></li>
