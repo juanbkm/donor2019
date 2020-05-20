@@ -2,7 +2,7 @@
 title: "Critical Thoroughfare Gets Much Needed Makeover"
 date: 2020-04-19T09:43:49+08:00
 image: images/stories/critical-thoroughfare-gets-much-eeded-makeover.jpg
-image_caption: "Bridge connecting North and South Tarawa. Major infrastructure upgraded under the Kiribati Road Rehabilitation Project."
+image_caption: "**Island Connection.** People from the western and eastern parts of Tarawa Atoll in Kiribati are now reconnected by this climate-resilient bridge that is part of the newly rehabilitated South Tarawa Road."
 image_thumb: images/stories/critical-thoroughfare-gets-much-eeded-makeover-th.jpg
 author: Admin
 description: "This is meta description"
@@ -14,12 +14,12 @@ cost: "$76.06 million"
 fund_source: 
   - name: "ADB"
     amount: "$23.4 million"
-  - name: "Government of Kiribati"
+  - name: "Kiribati"
     amount: "$6.83 million"
 fin_partners: 
   - name: "World Bank"
     amount: "$26.97 million"
-  - name: "Government of Australia"
+  - name: "Australia"
     amount: "$18.86 million"
 approval: "December 2015"
 completion: "May 2017"
@@ -42,7 +42,7 @@ draft: false
 
 ### Background
 
-Kiribati is one of the most remote and geographically dispersed nations on the planet. The challenges this isolation presents are compounded by the fact that the country’s overall mobility rests on one main road—the South Tarawa road──connecting the east and the west of Tarawa atoll, capital of the country. This overworked, beaten road has borne the brunt of much of people's mobility in the past decades. Unfortunately, the South Tarawa, while crucial to the country's economy, has not been comprehensively maintained since the 1970s. The road's condition hampered economic opportunities and access to basic services for approximately 42% of the country' population.
+Kiribati is one of the most remote and geographically dispersed nations on the planet. The challenges this isolation present are compounded by the fact that the country’s overall mobility rests on one main road—the South Tarawa road—connecting the east and the west of Tarawa atoll, capital of the country. This overworked, beaten road has borne the brunt of much of people's mobility in the past decades. Unfortunately, the South Tarawa, while crucial to the country's economy, has not been comprehensively maintained since the 1970s. The road's condition hampered economic opportunities and access to basic services for approximately 42% of the country' population.
 
 Being a Pacific island country, Kiribati is extremely susceptible to external shocks, which arise from its vulnerability to climate change, dependence on imports, and reliance on income from overseas sources. Compounding this vulnerability was poor mobility due to inadequate transport infrastructure.
 
@@ -62,13 +62,13 @@ The project also addressed Kiribati’s need for better road asset management th
 
 ### Results
 
-Today, economic activity in South Tarawa has increased thanks to a safer, more efficient road. “I used to worry about the patients I transport,” says Tenneke Matireei, a local ambulance driver. “With the bad condition of the road, have to drive very slowly. Some patients have died on the road as we couldn’t make it to the hospital in time.” [(Source)](https://www.worldbank.org/en/news/feature/2016/11/22/making-kiribati-main-road-safer) 
+Today, economic activity in South Tarawa has increased thanks to a safer, more efficient road. “I used to worry about the patients I transport,” says [Tenneke Matireei](https://www.worldbank.org/en/news/feature/2016/11/22/making-kiribati-main-road-safer), a local ambulance driver. “With the bad condition of the road, I have to drive very slowly. Some patients have died on the road as we couldn’t make it to the hospital in time.” 
 
-{{< dr-quote align="right" quote="I used to worry about the patients I transport, with the bad condition of the road, have to drive very slowly. Some patients have died on the road as we couldn’t make it to the hospital in time." source="Tenneke Matireei" >}}
+{{< dr-quote align="right" quote="I used to worry about the patients I transport. With the bad condition of the road, I have to drive very slowly. Some patients have died on the road as we couldn’t make it to the hospital in time." source="Tenneke Matireei" >}}
 
 Before the road reconstruction, it was impossible to drive faster than 10 kilometers an hour. These days, not only is Tenneke able to transport his patients more quickly and efficiently, but the ambulance also lasts longer without breaking down. 
 
-Dilly Faulkner, a general construction supervisor who worked on a key part of the Kiribati Road Rehabilitation Project has seen significant changes. “Before, people didn’t want to buy vehicles because of the condition of the road. Now, you see so many vehicles. Everybody enjoys the ride on the road, so they buy cars for themselves. People can well go straight away to the hospital or go to the airport to catch a plane. It makes me feel proud. Really proud.” [(Source)](https://www.adb.org/news/features/no-alternate-routes-rehabilitation-and-upgrade-kiribati-s-main-road)
+[Dilly Faulkner](https://www.adb.org/news/features/no-alternate-routes-rehabilitation-and-upgrade-kiribati-s-main-road), a general construction supervisor who worked on a key part of the Kiribati Road Rehabilitation Project has seen significant changes. “Before, people didn’t want to buy vehicles because of the condition of the road. Now, you see so many vehicles. Everybody enjoys the ride on the road, so they buy cars for themselves. People can well go straight away to the hospital or go to the airport to catch a plane. It makes me feel proud. Really proud.”
 
 The project’s outputs not only improved the travel time and experience on the South Tarawa Road, it also improved pedestrian safety. There is also less flooding and damage from heavy rain; and road signages and lighting have improved security on the highway. 
 

@@ -64,6 +64,16 @@
         line-height: 1;
       }
     }
+    &.dr-tf {
+      .dr-stat {
+        width: 30%;
+        p {
+          font-size: 1.6rem;
+          font-weight: 200;
+          line-height: 1;
+        }
+      } 
+    }
   }
   .dr-side-nav {
     .nav-link {

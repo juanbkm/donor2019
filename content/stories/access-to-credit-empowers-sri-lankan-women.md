@@ -18,7 +18,7 @@ fund_source:
     amount: "$75 million (Technical Assistance)"
 fin_partners:
   - name: "Japan Fund for Poverty Reduction"
-    amount: "$2 million (Technical Assistance)"
+    amount: "$2 million"
   - name: "Women Entrepreneurs Finance Initiative"
     amount: "$12.6 million"
 approval: "15 Feb 2016"
@@ -32,10 +32,11 @@ draft: false
 ### Partnership Results
 
 <ul class="dr-results">
-<li><i class="icon-check-circle"></i> During 2016-2018, $100 million successfully disbursed through ten local banks to 1,755 SMEs, out of which 484 (27%) are owned or led by women, exceeding project targets. </li>
-<li><i class="icon-check-circle"></i> Based on the success of the original $100 million credit line, an additional loan of $75 million and an additional grant for $12.6 million from We-FI.</li>
-<li><i class="icon-check-circle"></i> As of February 2019, $71.9 million additional loan and $6.15 million We-Fi grant were disbursed to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs.  637 women-led SMEs have so far benefited from the blended finance of ADB’s credit line and We-Fi grant.</li>
-<li><i class="icon-check-circle"></i> 744 women are trained on business development under the JFPR and We-Fi funded TA. </li>
+<li><i class="icon-check-circle"></i>$100 million successfully disbursed in 2016-2018 through ten local banks to 1,755 SMEs, out of which 484 (27%) are owned or led by women</li>
+<li><i class="icon-check-circle"></i>$75 million additional loan and $12.6 million additional grant from We-FI, after the success of the original $100 million credit line</li>
+<li><i class="icon-check-circle"></i>$71.9 million additional loan and $6.15 million We-Fi grant disbursed as of February 2019 to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs</li> 
+<li><i class="icon-check-circle"></i>637 women-led SMEs benefited from the blended finance of ADB credit line and We-Fi grant, so far</li>
+<li><i class="icon-check-circle"></i>744 women trained on business development under the technical assistance funded by JFPR and We-Fi</li>
 </ul>
 
 ### Background
@@ -43,7 +44,7 @@ Sri Lanka’s women face a significant economic participation challenge:  only a
 
 Disenfranchised, the women remain an untapped national economic resource. That is a missed opportunity for Sri Lanka as it is transitioning to upper-middle-income status.  
 
-The International Finance Corporation estimates that 40%─ or 65 million– of SMEs in the developing world have $5.2 trillion unmet financing needs. SMEs, even though they make up 90% of businesses in the Asia-Pacific region, remain an unattractive prospect for capital lending. SMEs have been identified as an important strategic sector for promoting growth and social development of Sri Lanka.
+The International Finance Corporation estimates that 40%, or 65 million, of SMEs in the developing world have $5.2 trillion unmet financing needs. SMEs, even though they make up 90% of businesses in the Asia-Pacific region, remain an unattractive prospect for capital lending. SMEs have been identified as an important strategic sector for promoting growth and social development of Sri Lanka.
 
 The Sri Lankan government decided to address this gap by enlisting the ADB's assistance in promoting women's entrepreneurship, a central pillar of ADB's Strategy 2030 in promoting gender equality.  
 
@@ -65,9 +66,9 @@ The participating banks keep the lending momentum to women-led SMEs going by str
 
 Indumala Rajapaksha, a salon owner, gained capital to expand her bridal service salon business from the ADB credit line through the Commercial Bank of Ceylon. Using the money, she was able to invest in salon facilities in a new Colombo branch and add six new staff to the existing 37 employees, out of which 27 are women. 
 
-{{< dr-quote align="right" quote="I am proud of serving new brides with traditional Sri Lankan attire to enhance their inner beauty. I am also glad to create new employment opportunities, especially for females, and promote local production of wedding dresses" source="Indumala Rajapaksha" >}}
+{{< dr-quote align="right" quote="I am proud of serving new brides with traditional Sri Lankan attire to enhance their inner beauty. I am also glad to create new employment opportunities, especially for females, and promote local production of wedding dresses." source="Indumala Rajapaksha" >}}
 
-"I am proud of serving new brides with traditional Sri Lankan attire to enhance their inner beauty. I am also glad to create new employment opportunities, especially for females, and promote local production of wedding dresses," project beneficiary and business owner,” Indumala said.
+"I am proud of serving new brides with traditional Sri Lankan attire to enhance their inner beauty. I am also glad to create new employment opportunities, especially for females, and promote local production of wedding dresses," project beneficiary and business owner Indumala said.
 
 From the training angle, as of February 2019, 744 women entrepreneurs from SMEs across the country were trained. Out of this, 557 completed the training funded by JFPR, and 187 completed the training funded by We-Fi.  
 

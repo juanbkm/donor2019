@@ -3,10 +3,10 @@
 <div class="container clearfix">
   {{- partial "sectiontitle.html" . -}} {{ range .Pages }}
   <div class="row py-5">
-    <div class="col-md-4">
+    <div class="col-md-6">
       <img src="{{ .Params.main_image }}" alt="" />
     </div>
-    <div class="col-md-7 offset-md-1 dr-modalities">
+    <div class="col-md-5 offset-md-1 dr-modalities">
       <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
       <p>{{ .Params.summary }}</p>
     </div>

@@ -34,7 +34,7 @@ ADB is focusing on agriculture-related services, rural roads, market infrastruct
 
 ADB’s partnership with the International Fund for Agricultural Development (IFAD) is going strong as bilateral discussions in May 2019 identified new opportunities for future collaboration, covering not only project design and cofinancing, but also knowledge management, policy engagement, and joint partnerships with other development partners such as the private sector and farmers' organizations. For 2019-2021, IFAD estimates potential cofinancing of $171.50 million for Afghanistan and Pakistan; $135 million for the People’s Republic of China and Mongolia; $423.30 million for Bangladesh, Bhutan, India, Nepal, and Sri Lanka; and $195 million for Cambodia, Indonesia, Lao, Myanmar, The Philippines, Thailand, and Viet Nam.
 
-{{< dr-artimage src="images/agri-1-47371-dahla-dam.jpg" align="right" alt="" caption="The project, which will expand Dahla Dam, will help improve Afghanistan’s agricultural productivity, water resources management, energy generation, and growth outlook." >}}
+{{< dr-artimage src="images/agri-1-47371-dahla-dam.jpg" align="right" alt="" caption="Investments that address irrigation issues in an integrated manner do not only improve agricultural productivity, they also enhance water resources management, energy generation, and growth outlook." >}}
 
 In 2019, IFAD approved a $40 million grant for the [Afghanistan: Arghandab Integrated Water Resources Development Project](https://www.adb.org/projects/48096-002/main). This will, in general, improve the availability and management of water resources in the Arghandab basin in Kandahar province. Among its relevant expected outcomes are increased reliability of irrigation water supplies downstream of the Dahla dam and improved agriculture water productivity by providing on-farm support to farmers to improve crop production.
 
@@ -42,7 +42,7 @@ ADB’s Water Financing Partnership Facility (WFPF) continues its good work in p
 
 In 2019, the WFPF contributed $300,000 to the preparation of the [People’s Republic of China: Yangtze River Green Ecological Corridor Comprehensive Agriculture Project](https://www.adb.org/projects/51116-002/main), which will strengthen rural livelihoods, modernize agriculture production systems, and minimize environmental degradation. It also contributed $750,000 to the [Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project](https://www.adb.org/projects/53237-002/main), a feasibility study to enhance government readiness for a project that will improve agricultural productivity and profitability through sustainable small-scale water resources management.
 
-{{< dr-artimage src="images/agri-2-pak.jpg" align="left" alt="" caption="A lad enjoys the moment when the crop is ready to be harvested." >}}
+{{< dr-artimage src="images/agri-2-pak.jpg" align="left" alt="" caption="Partnerships and investments are needed to create an enabling environment for agricultural productivity, diversification, and climate resilience.">}}
 
 To improve agricultural value chains in Pakistan, the Agence Française de Développement, through the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries (AFD Trust Fund), is providing $200,000 for the [Pakistan: Preparing the Punjab Agriculture Markets Development Project](https://www.adb.org/projects/53070-002/main). The project will finance the development of a modern holistic wholesale agriculture market in Lahore and prepare a master plan for development of wholesale markets in other locations. The AFD Trust Fund was established in 2005 and has a total committed funds of $5.8 million as of December 2019.
 
@@ -50,7 +50,7 @@ In Cambodia, the Project Readiness Improvement Trust Fund is contributing $150,0
 
 ### Increasing Agricultural Productivity and Food Security Using High-Level Technologies
 
-{{< dr-artimage src="images/agri-3-ban-gen.jpg" align="" alt="" caption="In the hill tracts, indigenous people conduct shifting cultivation by which they grow their crops. Women working in a pineapple field." >}}
+{{< dr-artimage src="images/agri-3-ban-gen.jpg" align="" alt="" caption="Investments in technology can make farms more efficient and productive.">}}
 
 Advanced technologies can increase the efficiency of agricultural operations and ensure the sustainable use of land and water resources. With $500,000 financing each from the Republic of Korea e-Asia and Knowledge Partnership Fund and the High-Level Technology Fund, ADB approved the [Regional: Digital Solutions to Improve Agricultural Value Chains Project](https://www.adb.org/projects/49054-001/main). This project is testing the use of information and communication technologies in agriculture in increasing productivity, efficiency, and profitability of stakeholders along value chains. This eAgriculture system is being implemented in Bangladesh, Pakistan, Tajikistan, and Viet Nam.
 

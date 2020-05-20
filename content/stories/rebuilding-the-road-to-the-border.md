@@ -8,15 +8,16 @@ description: "This is meta description"
 country: Tajikistan
 summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the OPEC Fund for International Development, the new road links to a cross-country highway that serves as conduit for trade goods."
 project_title: "Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni–Uzbekistan Border Road) Improvement Project"
+project_url: https://www.adb.org/projects/45432-002/main
 cost: "$136 million"
 fund_source: 
+  - name: "ADB"
+    amount: "$100 million"
   - name: "Tajikistan"
     amount: "$22 million"
 fin_partners:
   - name: "OPEC Fund for International Development"
-    amount: "$14 million (Loan)"
-  - name: "Asian Development Fund"
-    amount: "$100 million (Grant)"
+    amount: "$14 million"
 approval: "September 2012"
 completion: "August 2017"
 categories: [ "Regional Cooperation and Integration​" ]

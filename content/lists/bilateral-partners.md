@@ -4,7 +4,6 @@ date: 2020-04-17T18:46:06+08:00
 pretitle: "Official Cofinancing from"
 date_range: "1967–2019"
 units: "$ million"
-pdf: dr2019-resource-cofin-from-bilateral.pdf
 weight: 3
 draft: false
 ---
@@ -59,10 +58,10 @@ draft: false
   <tr>
     <td>China, People&#39;s Republic of</td>
     <td>90.00</td>
-    <td>1,295.09</td>
+    <td>75.58</td>
     <td>-</td>
     <td>0.04</td>
-    <td>1,385.13</td>
+    <td>165.62</td>
   </tr>
   <tr>
     <td>Denmark</td>
@@ -99,10 +98,10 @@ draft: false
   <tr>
     <td>India</td>
     <td>-</td>
-    <td>58.82</td>
+    <td>-</td>
     <td>-</td>
     <td>1.00</td>
-    <td>59.82</td>
+    <td>1.00</td>
   </tr>
   <tr>
     <td>Ireland</td>
@@ -131,10 +130,10 @@ draft: false
   <tr>
     <td>Korea, Republic of</td>
     <td>138.79</td>
-    <td>1,818.80</td>
+    <td>1,818.81</td>
     <td>12.00</td>
-    <td>3.44</td>
-    <td>1,973.03</td>
+    <td>3.00</td>
+    <td>1,972.60</td>
   </tr>
   <tr>
     <td>Kuwait</td>
@@ -177,7 +176,7 @@ draft: false
     <td>330.34</td>
   </tr>
   <tr>
-    <td>portugal</td>
+    <td>Portugal</td>
     <td>15.00</td>
     <td>-</td>
     <td>-</td>
@@ -259,12 +258,12 @@ draft: false
   </tbody>
   <tfoot>
   <tr>
-    <td>TOTAL Bilaterals</td>
-    <td>3,839.20</td>
-    <td>25,839.89</td>
+    <td>TOTAL<br> <em>Bilaterals</em></td>
+    <td>3,839.19</td>
+    <td>24,561.57</td>
     <td>2,920.50</td>
-    <td>709.89</td>
-    <td>33,294.51</td>
+    <td>709.45</td>
+    <td>32,030.72</td>
   </tr>
   </tfoot>
 </table>

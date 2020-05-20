@@ -5,7 +5,7 @@
 #dr-banner {
   padding-bottom: 80px;
   h1 {
-    margin: 0;
+    margin: 0 20px;
     padding: 0;
     line-height: 1.1;
     font-weight: 200;
@@ -26,9 +26,10 @@
   }  
   p {
     margin: 0;
-    padding: 10% 0 0 0;
+    padding: 5% 0 0 25px;
     line-height: 1.1;
-    
+    text-transform: uppercase;
+    letter-spacing: 1px;
   }
 
   .section-1 .section-1a {

@@ -64,7 +64,7 @@ draft: false
     <td>0.10</td>
   </tr>
   <tr>
-    <td>ENECO</td>
+    <td>Eneco</td>
     <td>15.00</td>
     <td>-</td>
     <td>-</td>

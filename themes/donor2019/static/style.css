@@ -4418,7 +4418,7 @@ html[xmlns] .slider-wrap {
 #dr-banner {
   padding-bottom: 80px; }
   #dr-banner h1 {
-    margin: 0;
+    margin: 0 20px;
     padding: 0;
     line-height: 1.1;
     font-weight: 200;
@@ -4432,8 +4432,10 @@ html[xmlns] .slider-wrap {
       font-size: 3.6rem; } }
   #dr-banner p {
     margin: 0;
-    padding: 10% 0 0 0;
-    line-height: 1.1; }
+    padding: 5% 0 0 25px;
+    line-height: 1.1;
+    text-transform: uppercase;
+    letter-spacing: 1px; }
   #dr-banner .section-1 .section-1a {
     padding-left: 30px;
     padding-right: 0px; }
@@ -9317,7 +9319,8 @@ td.actions {
 
 .dr-tl-hd {
   text-align: right;
-  font-size: 2rem; }
+  font-size: 2rem;
+  color: #eb6440; }
   .dr-tl-hd strong {
     font-weight: 100;
     font-size: 4rem;
@@ -9390,6 +9393,13 @@ td.actions {
   display: inline-block;
   vertical-align: top; }
   #dr-modalities .dr-mod-partner .dr-stat p {
+    font-size: 1.6rem;
+    font-weight: 200;
+    line-height: 1; }
+
+#dr-modalities .dr-mod-partner.dr-tf .dr-stat {
+  width: 30%; }
+  #dr-modalities .dr-mod-partner.dr-tf .dr-stat p {
     font-size: 1.6rem;
     font-weight: 200;
     line-height: 1; }

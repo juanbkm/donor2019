@@ -2,19 +2,19 @@
 title: "Improving River Basin Management"
 date: 2020-04-24T11:43:16+08:00
 image: images/stories/improving-river-basin-management-in-the-pyanj.jpg
-image_caption: "Threatened by climate change, the Pyanj River Basin (PRB) is now the center of climate-proofing activities, thanks to a collaborative project by ADB and the Japan Fund for Poverty Reduction."
+image_caption: "**Resilient River Basin.** Lives and livelihoods of people dependent on the Pyanj River Basin in Tajikistan have a more secure future as the basin becomes better protected and climate-proofed."
 image_thumb: images/stories/improving-river-basin-management-in-the-pyanj-th.jpg
 author: Admin
 description: "This is meta description"
 country: Tajikistan
-summary: "Threatened by climate change, the Pyanj River Basin (PRB) is now the center of climate-proofing activities, thanks to a collaborative project by ADB and the Japan Fund for Poverty Reduction."
+summary: "Threatened by climate change, the Pyanj River Basin is now the center of climate-proofing activities, thanks to a collaborative project by ADB and the Japan Fund for Poverty Reduction."
 project_title: "Water Resources Management in the Pyanj River Basin Project"
 project_url: https://www.adb.org/projects/47181-002/main#project-pds
 cost: "$33.73 million"
 fund_source: 
   - name: "ADB"
     amount: "$25 million"
-  - name: "Government of Tajikistan"
+  - name: "Tajikistan"
     amount: "$3.73 million"
 fin_partners: 
   - name: "Japan Fund for Poverty Reduction"
@@ -51,7 +51,7 @@ The Water Resource Management in the Pyanj River Project’s technical assistanc
 
 The project also plans to form a regional level Pyanj River Basin (PRB) commission comprising representatives from Afghanistan and Tajikistan. The project has begun facilitating consultations with Afghanistan. The aim is for Tajikistan and Afghanistan to draft an agreement to form the joint PRB commission and thresh out its institutional structure, implementation plan, and administrative and technical operational procedures. The project will also help the planned commission conduct hydro-meteorological monitoring and forecasting.
 
-While forming these organizations, the project is making the Chubek Irrigation System more energy efficient. It will install a sediment-excluding basin to reduce sediment inflow to the irrigation system and build-up along its canals. It will modernize and rehabilitate the irrigation and distribution infrastructure, including all its pumping units. These upgrades will ensure that the irrigation system can withstand climate change risks anticipated during the next [50 years](https://www.adb.org/sites/default/files/project-document/198876/47181-002-pam.pdf). years.
+While forming these organizations, the project is making the Chubek Irrigation System more energy efficient. It will install a sediment-excluding basin to reduce sediment inflow to the irrigation system and build-up along its canals. It will modernize and rehabilitate the irrigation and distribution infrastructure, including all its pumping units. These upgrades will ensure that the irrigation system can withstand climate change risks anticipated during the next [50 years](https://www.adb.org/sites/default/files/project-document/198876/47181-002-pam.pdf).
 
 The project is also working on improving farmers’ capacity to manage their land while enhancing their water use skills. Through a series of training and demonstration, farmers, both women and men, were provided with inputs on how to make their farms profitable using agronomic techniques, improved seeds, balanced application of fertilizers, and the establishment of water use associations (WUA). Women are actively involved in their own farm lots, but they were encouraged to participate more by joining the project activities, particularly in managing the [WUAs](https://www.adb.org/sites/default/files/project-document/198876/47181-002-pam.pdf).
 
@@ -61,4 +61,4 @@ The project will be completed by 2024. Once accomplished, it will increase the C
 
 The project’s technical assistance component has already made headway in organizing river basin organizations and water user associations. Series of river basin dialogues has been conducted with participation of local government officers and water users. Through consultants funded by the JFPR, the project has started showing farmers, local officials, and government organizations how they can help the river basin. The staff of the river basin organizations will be [selected soon](https://www.adb.org/projects/47181-002/main#project-pds).
 
-The project demonstrates the importance of people’s organized actions─ from the ground up to the regional level─ to protect the river basin and the lives that depend on it. Climate change resiliency, the project aims to show, is not merely infrastructure improvement but, more importantly, the protection of the poorest and the most vulnerable.
+The project demonstrates the importance of people’s organized actions─from the ground up to the regional level─to protect the river basin and the lives that depend on it. Climate change resiliency, the project aims to show, is not merely infrastructure improvement but, more importantly, the protection of the poorest and the most vulnerable.

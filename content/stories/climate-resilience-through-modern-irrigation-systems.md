@@ -2,19 +2,19 @@
 title: "Climate Resilience through Modern Irrigation Systems"
 date: 2020-04-24T11:43:16+08:00
 image: images/stories/climate-resilience-through-modern-irrigation-systems.jpg
-image_caption: "**Pressurized Piped Irrigation with Remote Sensing.** Farmers are looking forward to modern technology that promises to change the way farming is done in five provinces in Viet Nam."
+image_caption: "**Irrigation Going High Tech.** Farmers are looking forward to modern irrigation technology that promises to change the way farming is done in five provinces in Viet Nam."
 image_thumb: images/stories/climate-resilience-through-modern-irrigation-systems-th.jpg
 author: Admin
 description: "This is meta description"
 country: Viet Nam
 summary: "A pressurized piped irrigation system equipped with remote sensing technology promises to change the way farming is done in five provinces in Viet Nam. Supported by the Climate Change Fund and Netherlands Trust Fund, the irrigation systems will climate-proof farmlands and directly benefit about 39,140 households, including 7,050 ethnic minority households."
 project_title: "Water Efficiency Improvement in Drought-Affected Provinces Project"
-project_url: https://www.adb.org/projects/49404-002/main#project-documents
+project_url: https://www.adb.org/projects/49404-002/main
 cost: "$124.26 million"
 fund_source: 
   - name: "ADB"
     amount: "$100 million"
-  - name: "Government of Viet Nam"
+  - name: "Viet Nam"
     amount: "$23.21 million"
 fin_partners: 
   - name: "Netherlands Trust Fund"
@@ -31,8 +31,8 @@ draft: false
 ### Expected Partnership Results
 
 <ul class="dr-results">
-  <li><i class="icon-check-circle"></i> Eight irrigation systems by 2026</li>
-  <li><i class="icon-check-circle"></i> Direct benefits to 39,140 households, including 7,050 ethnic minority households in five provinces</li>
+  <li><i class="icon-check-circle"></i>8 irrigation systems by 2026</li>
+  <li><i class="icon-check-circle"></i>39,140 households as direct beneficiaries, including 7,050 ethnic minority households</li>
 </ul>
 
 ### Background
@@ -45,7 +45,7 @@ However, their choice of crops and existing irrigation system were mismatched. M
 
 ### Interventions
 
-This mismatch was addressed by the Water Efficiency Improvement in Drought-Affected Provinces Project. Initiated by ADB through the collaboration of the Climate Change Fund and the Netherlands Trust Fund, this project will introduce an innovative solution: pressurized piped irrigation with remote sensing technology.  
+This mismatch was addressed by the [Water Efficiency Improvement in Drought-Affected Provinces Project](https://www.adb.org/projects/49404-002/main). Initiated by ADB through the collaboration of the Climate Change Fund and the Netherlands Trust Fund, this project will introduce an innovative solution: pressurized piped irrigation with remote sensing technology.  
 
 The pressurized piped irrigation system functions like domestic water supply systems. It provides water on demand through a system of hydrants and control valves. These give farmers greater flexibility to control the amount and duration of irrigation while simultaneously allowing operators to control and measure water use more effectively and to apply the correct water charges. Piped systems are also more resilient to extreme weather conditions and need less maintenance, thus making them more cost-effective.  
 
@@ -59,6 +59,6 @@ The preparation of this project has already meaningfully brought development par
 
 Though still ongoing, the project also complements initiatives by other development partners. A Green Climate Fund grant to be administered by the United Nations Development Programme will provide vulnerable smallholder farmers in the project area with improved access to water and capacity to adopt on-farm water management practices. A parallel technical support from the Government of Australia through the Australian Water Partnership will help improve water resource planning and management. These initiatives were developed in coordination with ADB and share the project’s expected outcomes.
 
-Eight modern irrigation systems are now being set up in the provinces of  Binh Thuan, Dak Lak, Dak Nong, Khanh Hoa,and Ninh Thuan in Viet Nam.  Once fully established, they will directly benefit about 40,000 households, including 7,000 ethnic minority[households](https://www.adb.org/sites/default/files/project-documents/49404/49404-002-pam-en.pdf). They are tailored to the needs of Viet Nam’s farmers, and a strategic fit to the country’s overall goal for the agriculture sector: sustained growth, improved efficiency, and competitiveness. They also support Viet Nam’s national climate change strategy that aims to ensure food and water security.  
+Eight modern irrigation systems are now being set up in the provinces of  Binh Thuan, Dak Lak, Dak Nong, Khanh Hoa, and Ninh Thuan in Viet Nam. Once fully established, they will directly benefit about 40,000 households, including 7,000 ethnic minority [households](https://www.adb.org/sites/default/files/project-documents/49404/49404-002-pam-en.pdf). They are tailored to the needs of Viet Nam’s farmers, and a strategic fit to the country’s overall goal for the agriculture sector: sustained growth, improved efficiency, and competitiveness. They also support Viet Nam’s national climate change strategy that aims to ensure food and water security.  
 
 The project is not just modernizing irrigation in Viet Nam, it is also empowering farmers to protect their crops against extreme weather changes. The facilities give them sufficient control over their irrigation supply and make them active stakeholders in protecting natural resources severely threatened by climate change.

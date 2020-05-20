@@ -4,7 +4,6 @@ date: 2020-04-18T22:35:40+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
-pdf: dr2019-resource-cofin-for-ta.pdf
 weight: 2
 draft: false
 ---
@@ -22,7 +21,7 @@ draft: false
     <td colspan="3"></td>
   </tr>
   <tr class="region">
-    <td>SOUTHEAST ASIA</td>
+    <td>CENTRAL AND WEST ASIA</td>
     <td>13,650.00</td>
     <td></td>
   </tr>
@@ -201,12 +200,7 @@ draft: false
     <td>JFPR</td>
   </tr>
 
-  <tr>
-    <td>Project / Technical Assistance Name</td>
-    <td>Amount</td>
-    <td>Financing Partner</td>
-  </tr>
-  <tr>
+ <tr class="country">
     <td>People&#39;s Republic of China</td>
     <td></td>
     <td></td>

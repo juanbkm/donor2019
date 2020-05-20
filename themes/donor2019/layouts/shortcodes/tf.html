@@ -4,48 +4,85 @@
 <div class="row justify-content-md-center">
   <div class="col-md-4">
     <div class="nav flex-column nav-pills dr-side-nav" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-      {{ range where $tf ".type" "single" }}
-      <a class="nav-link" id="dr-{{ .id }}-tab" data-toggle="pill" href="#dr-{{ .id }}" role="tab" aria-controls="v-pills-home" aria-selected="true">{{ .name }}</a>
-      {{ end }}
+      
+        <h6>Single Partner Trust Funds</h6>
+
+        {{ range where $tf ".type" "single" }}
+          <a class="nav-link" id="dr-{{ .id }}-tab" data-toggle="pill" href="#dr-{{ .id }}" role="tab" aria-controls="v-pills-home" aria-selected="false">{{ .name }}</a>
+          {{ end }}
+
+       <h6>Multi-partner Trust Funds</h6>
+
+          {{ range where $tf ".type" "multi" }}
+          <a class="nav-link" id="dr-{{ .id }}-tab" data-toggle="pill" href="#dr-{{ .id }}" role="tab" aria-controls="v-pills-home" aria-selected="true">{{ .name }}</a>
+          {{ end }}
+        
+
+      
     </div>
   </div>
   <div class="col-md-8">
     
     <div class="tab-content" id="v-pills-tabContent">
       {{ range where $tf ".type" "single" }}
-      <div class="tab-pane fade dr-mod-partner" id="dr-{{ .id }}" role="tabpanel" aria-labelledby="dr-{{ .id }}-tab">
-        <h5>{{ .name }}</h5>
+      <div class="tab-pane fade dr-mod-partner dr-tf" id="dr-{{ .id }}" role="tabpanel" aria-labelledby="dr-{{ .id }}-tab">
+        <h5>{{ .name }} ({{ .year }})</h5>
 
-        {{ with .tfp }}
+        {{ with .tcc }}
         <div class="dr-stat">
-          <h6>Memorandum of Understanding</h6>
+          <h6>Total Contributions Committed</h6>
           <p>{{ . }}</p>
         </div>
         {{ end }}
 
         {{ with .cfp }}
         <div class="dr-stat">
-          <h6>Partnership Framework Arrangement</h6>
+          <h6>Committed for Projects</h6>
           <p>{{ . }}</p>
         </div>
         {{ end }}
-
         
         <div class="dr-stat">
-          <h6>Framework Cofinancing Agreement</h6>
+          <h6>Contributor</h6>
           <ul class="dr-funding">
-            {{ range $contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
+            {{ range .contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
           </ul>
-          
         </div>
-        
 
-        {{ with .ccp }}
+        {{ $markdown := .description | markdownify }}
+        {{ if not ( strings.Contains $markdown "<p>" ) }}
+            <p>{{ $markdown }}</p>
+        {{ else }}
+            {{ $markdown }}
+        {{ end }}
+        
+      </div>
+      {{ end }}
+
+      {{ range where $tf ".type" "multi" }}
+      <div class="tab-pane fade dr-mod-partner dr-tf" id="dr-{{ .id }}" role="tabpanel" aria-labelledby="dr-{{ .id }}-tab">
+        <h5>{{ .name }} ({{ .year }})</h5>
+
+        {{ with .tcc }}
         <div class="dr-stat">
-          <h6>Cumulative Commitment for Projects</h6>
+          <h6>Total Contributions Committed</h6>
           <p>{{ . }}</p>
         </div>
         {{ end }}
+
+        {{ with .cfp }}
+        <div class="dr-stat">
+          <h6>Committed for Projects</h6>
+          <p>{{ . }}</p>
+        </div>
+        {{ end }}
+        
+        <div class="dr-stat">
+          <h6>Contributor</h6>
+          <ul class="dr-funding">
+            {{ range .contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
+          </ul>
+        </div>
 
         {{ $markdown := .description | markdownify }}
         {{ if not ( strings.Contains $markdown "<p>" ) }}

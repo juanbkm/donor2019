@@ -4,7 +4,6 @@ date: 2020-04-17T21:18:07+08:00
 pretitle: "Official Cofinancing from"
 date_range: "1967–2019"
 units: "$ million"
-pdf: dr2019-resource-cofin-from-multilateral.pdf
 weight: 4
 draft: false
 ---
@@ -162,9 +161,9 @@ draft: false
     <td>Global Environment Facility</td>
     <td>-</td>
     <td>-</td>
-    <td>152.40</td>
-    <td>75.61</td>
-    <td>228.01</td>
+    <td>162.95</td>
+    <td>86.39</td>
+    <td>249.34</td>
   </tr>
   <tr>
     <td>
@@ -231,17 +230,6 @@ draft: false
     <td>0.63</td>
   </tr>
   <tr>
-    <td>
-      Least Developed Countries Fund for Climate Change under the
-      GlobalEnvironment Facility
-    </td>
-    <td>-</td>
-    <td>-</td>
-    <td>10.55</td>
-    <td>-</td>
-    <td>10.55</td>
-  </tr>
-  <tr>
     <td>Neighbourhood Investment Facility</td>
     <td>-</td>
     <td>-</td>
@@ -300,14 +288,6 @@ draft: false
     <td>-</td>
     <td>1.42</td>
     <td>1.42</td>
-  </tr>
-  <tr>
-    <td>Special Climate Change Fund under the Global Environment Facility</td>
-    <td>-</td>
-    <td>-</td>
-    <td>-</td>
-    <td>10.78</td>
-    <td>10.78</td>
   </tr>
   <tr>
     <td>
@@ -382,7 +362,7 @@ draft: false
   </tbody>
   <tfoot>
   <tr>
-    <td>TOTAL Multilaterals and Global Funds</td>
+    <td>TOTAL<br> <em>Multilaterals and Global Funds</em></td>
     <td>301.01</td>
     <td>21,875.39</td>
     <td>2,197.83</td>
