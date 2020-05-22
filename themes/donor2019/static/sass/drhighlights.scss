@@ -8,6 +8,7 @@
     border-radius: 0;
     font-weight: 200;
     font-size: 1.4rem;
+    color: $body-color;
   }
   .nav-link.active, .show > .nav-link {
     color: $adb-accent-orange;
@@ -62,27 +63,20 @@
   
 }
 .dr-qt {
-  font-weight: 700;
-  font-size: 6rem;
-  line-height: .5;
+  color: $body-font;
+  font-weight: 300;
+  font-size: 3rem;
+  line-height: 1;
   margin: 0 0 40px 0;
   padding: 0;
   position: relative;
   em {
+    line-height: 1;
     color: $adb-gray-three;
     font-style: normal;
-    font-size: 3rem;
-    font-weight: 300;
+    font-size: 5rem;
+    font-weight: 700;
   }
-}
-
-
-/* ----------------------------------------------------------------
-	DR Commitments
------------------------------------------------------------------*/
-
-#dr-data-commitments {
-  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
 }
 
 .chart-content {
@@ -99,6 +93,7 @@
     width: 60%;
     .dr-amount {
       font-size: 2rem !important;
+      font-weight: 200;
       line-height: 1;
       display: block;
     }
@@ -117,6 +112,10 @@
       display: block;
       color: $adb-main-blue-eleven;
     }
+  }
+  .dr-breakdown {
+    display: block;
+    font-size: .8rem;
   }
   .dr-percent {
     float: right;
@@ -188,67 +187,6 @@
   color: transparent;
 }
 
-.color-cyan li a:hover,
-.color-cyan li a:focus,
-.color-cyan li a.active, 
-.chart li.color-cyan a:hover,
-.chart li.color-cyan a:focus,
-.chart li.color-cyan a.active {
-  background: url(./images/dot-cyan.png) left top;
-}
-
-.color-blue li a:hover,
-.color-blue li a:focus,
-.color-blue li a.active,
-.chart li.color-blue a:hover,
-.chart li.color-blue a:focus,
-.chart li.color-blue a.active,
-.openchart li.color-blue   {
-  background: url(./images/dot-blue.png) left top;
-}
-
-.openchart li.color-lightblue   {
-  background: url(./images/dot-lightblue.png) left top;
-}
-
-.openchart li.color-lightgreen   {
-  background: url(./images/dot-lightgreen.png) left top;
-}
-
-.color-green li a:hover,
-.color-green li a:focus,
-.color-green li a.active,
-.chart li.color-green a:hover,
-.chart li.color-green a:focus,
-.chart li.color-green a.active,
-.openchart li.color-green   {
-  background: url(./images/dot-green.png) left top;
-}
-
-.color-dark-green li a:hover,
-.color-dark-green li a:focus,
-.color-dark-green li a.active,
-.chart li.color-dark-green a:hover,
-.chart li.color-dark-green a:focus,
-.chart li.color-dark-green a.active,
-.openchart li.color-dark-green {
-  background: url(./images/dot-dark-green.png) left top;
-}
-
-.color-red li a:hover,
-.color-red li a:focus,
-.color-red li a.active,
-.chart li.color-red a:hover,
-.chart li.color-red a:focus,
-.chart li.color-red a.active,
-.openchart li.color-red    {
-  background: url(./images/dot-red.png) left top;
-}
-
-.openchart li.color-lightred    {
-  background: url(./images/dot-lightred.png) left top;
-}
-
 .chart-content {
   position: relative;
   width: 100%;
@@ -284,15 +222,108 @@
 
 }
 .dr-pre-head {
-  font-size: 26px;
-  font-weight: 300;
+  font-size: 16px;
+  font-weight: 200;
   margin: 0;
+  text-transform: uppercase;
 }
+
+
+/* ----------------------------------------------------------------
+	DR Commitments
+-----------------------------------------------------------------*/
+
+#dr-data-commitments {
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+
+  .dr-qt em {
+    color: $adb-main-blue-one;
+  }
+
+  .chart li a:hover,
+  .chart li a:focus,
+  .chart li a.active {
+    background-color: $adb-main-blue-one;
+  }
+  .dr-partner,
+  .dr-country,
+  .dr-sector,
+  .dr-cofin-type {
+    color: $adb-main-blue-one;
+  }
+  .openchart li a:hover,
+  .openchart li a:focus,
+  .openchart li a.active,
+  .openchart li.active {
+    background-color: $adb-accent-orange-three;
+  }
+  .adb-chart .dr-typeof {
+    text-align: right;
+    width: 100%;
+  }
+  .adb-chart .tab-pane:first-child .dr-typeof {
+    text-align: left;
+  }
+  .scf-chart .dr-typeof {
+    text-align: right;
+    width: 100%;
+    .dr-amount {
+      font-size: 1.2rem !important;
+    }
+  }
+}
+
+
+/* ----------------------------------------------------------------
+	DR Raised
+-----------------------------------------------------------------*/
+
+#dr-data-raised {
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+
+  .dr-qt em {
+    color: $adb-accent-orange-three;
+  }
+
+  .chart li a:hover,
+  .chart li a:focus,
+  .chart li a.active {
+    background-color: $adb-accent-orange-three;
+  }
+  .dr-partner,
+  .dr-country,
+  .dr-sector,
+  .dr-cofin-type {
+    color: $adb-accent-orange-three;
+  }
+  .openchart li a:hover,
+  .openchart li a:focus,
+  .openchart li a.active,
+  .openchart li.active {
+    background-color: $adb-accent-orange-three;
+  }
+  .adb-chart .dr-typeof {
+    text-align: right;
+    width: 100%;
+  }
+  .adb-chart .tab-pane:first-child .dr-typeof {
+    text-align: left;
+  }
+  .scf-chart .dr-typeof {
+    text-align: right;
+    width: 100%;
+    .dr-amount {
+      font-size: 1.2rem !important;
+    }
+  }
+}
+
 /* ----------------------------------------------------------------
 	DR Who
 -----------------------------------------------------------------*/
 #dr-who {
-  .dr-qt {
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+  .dr-qt em {
     color: $adb-accent-orange;
   }
 
@@ -318,6 +349,7 @@
 	DR What
 -----------------------------------------------------------------*/
 #dr-what {
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
   .dr-qt {
     color: $adb-accent-green;
   }
@@ -341,6 +373,7 @@
 	DR Where
 -----------------------------------------------------------------*/
 #dr-where {
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
   .dr-qt {
     color: $adb-main-blue-eleven;
     em {

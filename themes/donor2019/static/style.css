@@ -276,6 +276,14 @@ li {
   border-top: 1px solid #c2ccd2;
   margin: 20px auto 80px auto; }
 
+@media (max-width: 767.98px) {
+  .dr-article-body h3 {
+    line-height: 1.5;
+    font-size: 24px;
+    margin-top: 20px; }
+  .dr-article-body h3:after {
+    margin: 20px auto 20px auto; } }
+
 .clear {
   clear: both;
   display: block;
@@ -1392,6 +1400,7 @@ body.stretched #header.full-header .container {
       color: white; }
   #logo img {
     display: block;
+    width: auto;
     height: 80px !important;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -3412,7 +3421,14 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
     max-width: none;
     text-align: center;
     border: 0 !important;
-    padding: 0 !important; }
+    padding: 0 !important; } }
+  @media (max-width: 991.98px) and (max-width: 767.98px) {
+    #logo {
+      height: 70px !important; }
+      #logo img {
+        height: 50px !important;
+        width: auto; } }
+@media (max-width: 991.98px) {
   /* ----------------------------------------------------------------
 		Primary Menu
 	-----------------------------------------------------------------*/
@@ -4407,7 +4423,7 @@ html[xmlns] .slider-wrap {
   background: url(./images/two-girls.png) no-repeat bottom right, linear-gradient(120deg, #007db7 30%, #98cc52 60%, #cdde40) !important; }
 
 .dr-slide-2 {
-  background: url(./images/two-boys.png) no-repeat bottom right, linear-gradient(120deg, #eb6440 30%, #f68c3e 60%, #fdb515) !important; }
+  background: url(./images/two-boys.png) no-repeat bottom right, linear-gradient(120deg, #eb6440 30%, #f68c3e 60%, #fdb715) !important; }
 
 .dr-slide-3 {
   background: url(./images/two-girls.png) no-repeat bottom right, linear-gradient(120deg, #007db7 30%, #98cc52 60%, #cdde40) !important; }
@@ -4429,7 +4445,7 @@ html[xmlns] .slider-wrap {
       font-size: 3.8rem; } }
   @media only screen and (max-width: 839px) {
     #dr-banner h1 {
-      font-size: 3.6rem; } }
+      font-size: 3.4rem; } }
   #dr-banner p {
     margin: 0;
     padding: 5% 0 0 25px;
@@ -4650,7 +4666,9 @@ html[xmlns] .slider-wrap {
     display: inline-block;
     margin-right: 10px;
     vertical-align: middle; }
-
+  @media (max-width: 767.98px) {
+    #dr-building img {
+      position: relative; } }
 /* ----------------------------------------------------------------
   Explore
 -----------------------------------------------------------------*/
@@ -4666,6 +4684,11 @@ html[xmlns] .slider-wrap {
       font-size: 4rem;
       line-height: 1;
       font-weight: 100; }
+    @media (max-width: 767.98px) {
+      #dr-explore .flex-container-3 .fb1 {
+        height: auto; }
+        #dr-explore .flex-container-3 .fb1 h1 {
+          font-size: 3.6rem; } }
   @media only screen and (max-width: 400px) {
     #dr-explore .flex-container-3 .fb1 {
       width: 100%; } }
@@ -5340,6 +5363,10 @@ body.stretched .container-fullwidth .breadcrumb {
         font-size: 24px; } }
   .dr-section-title#dr-section-overview h2 {
     font-size: 64px; }
+    @media (max-width: 767.98px) {
+      .dr-section-title#dr-section-overview h2 {
+        line-height: 1.5;
+        font-size: 24px; } }
   .dr-section-title p {
     padding: 0;
     margin: 0 0 40px 0;
@@ -5389,6 +5416,9 @@ body.stretched .container-fullwidth .breadcrumb {
   #content .content-wrap {
     position: relative;
     padding: 40px 0; }
+    @media (max-width: 767.98px) {
+      #content .content-wrap {
+        padding: 20px 0; } }
   #content .container {
     position: relative; }
 
@@ -8431,7 +8461,8 @@ td.actions {
 .dr-side-nav .nav-link {
   border-radius: 0;
   font-weight: 200;
-  font-size: 1.4rem; }
+  font-size: 1.4rem;
+  color: #555; }
 
 .dr-side-nav .nav-link.active, .dr-side-nav .show > .nav-link {
   color: #eb6440;
@@ -8484,23 +8515,19 @@ td.actions {
       background-color: #98cc52 !important; }
 
 .dr-qt {
-  font-weight: 700;
-  font-size: 6rem;
-  line-height: .5;
+  color: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 300;
+  font-size: 3rem;
+  line-height: 1;
   margin: 0 0 40px 0;
   padding: 0;
   position: relative; }
   .dr-qt em {
+    line-height: 1;
     color: #dddddd;
     font-style: normal;
-    font-size: 3rem;
-    font-weight: 300; }
-
-/* ----------------------------------------------------------------
-	DR Commitments
------------------------------------------------------------------*/
-#dr-data-commitments {
-  border-bottom: 1px solid #c2ccd2; }
+    font-size: 5rem;
+    font-weight: 700; }
 
 .chart-content {
   width: 100%;
@@ -8518,6 +8545,7 @@ td.actions {
     .chart-content .dr-region .dr-amount,
     .chart-content .dr-sectors .dr-amount {
       font-size: 2rem !important;
+      font-weight: 200;
       line-height: 1;
       display: block; }
     .chart-content .dr-typeof .dr-partner,
@@ -8547,6 +8575,9 @@ td.actions {
       font-weight: 700;
       display: block;
       color: #00B6C9; }
+  .chart-content .dr-breakdown {
+    display: block;
+    font-size: .8rem; }
   .chart-content .dr-percent {
     float: right;
     line-height: 1 !important;
@@ -8608,59 +8639,6 @@ td.actions {
   background: none;
   color: transparent; }
 
-.color-cyan li a:hover,
-.color-cyan li a:focus,
-.color-cyan li a.active,
-.chart li.color-cyan a:hover,
-.chart li.color-cyan a:focus,
-.chart li.color-cyan a.active {
-  background: url(./images/dot-cyan.png) left top; }
-
-.color-blue li a:hover,
-.color-blue li a:focus,
-.color-blue li a.active,
-.chart li.color-blue a:hover,
-.chart li.color-blue a:focus,
-.chart li.color-blue a.active,
-.openchart li.color-blue {
-  background: url(./images/dot-blue.png) left top; }
-
-.openchart li.color-lightblue {
-  background: url(./images/dot-lightblue.png) left top; }
-
-.openchart li.color-lightgreen {
-  background: url(./images/dot-lightgreen.png) left top; }
-
-.color-green li a:hover,
-.color-green li a:focus,
-.color-green li a.active,
-.chart li.color-green a:hover,
-.chart li.color-green a:focus,
-.chart li.color-green a.active,
-.openchart li.color-green {
-  background: url(./images/dot-green.png) left top; }
-
-.color-dark-green li a:hover,
-.color-dark-green li a:focus,
-.color-dark-green li a.active,
-.chart li.color-dark-green a:hover,
-.chart li.color-dark-green a:focus,
-.chart li.color-dark-green a.active,
-.openchart li.color-dark-green {
-  background: url(./images/dot-dark-green.png) left top; }
-
-.color-red li a:hover,
-.color-red li a:focus,
-.color-red li a.active,
-.chart li.color-red a:hover,
-.chart li.color-red a:focus,
-.chart li.color-red a.active,
-.openchart li.color-red {
-  background: url(./images/dot-red.png) left top; }
-
-.openchart li.color-lightred {
-  background: url(./images/dot-lightred.png) left top; }
-
 .chart-content {
   position: relative;
   width: 100%;
@@ -8690,77 +8668,139 @@ td.actions {
     padding-top: 5px; }
 
 .dr-pre-head {
-  font-size: 26px;
-  font-weight: 300;
-  margin: 0; }
+  font-size: 16px;
+  font-weight: 200;
+  margin: 0;
+  text-transform: uppercase; }
+
+/* ----------------------------------------------------------------
+	DR Commitments
+-----------------------------------------------------------------*/
+#dr-data-commitments {
+  border-bottom: 1px solid #c2ccd2; }
+  #dr-data-commitments .dr-qt em {
+    color: #007db7; }
+  #dr-data-commitments .chart li a:hover,
+  #dr-data-commitments .chart li a:focus,
+  #dr-data-commitments .chart li a.active {
+    background-color: #007db7; }
+  #dr-data-commitments .dr-partner,
+  #dr-data-commitments .dr-country,
+  #dr-data-commitments .dr-sector,
+  #dr-data-commitments .dr-cofin-type {
+    color: #007db7; }
+  #dr-data-commitments .openchart li a:hover,
+  #dr-data-commitments .openchart li a:focus,
+  #dr-data-commitments .openchart li a.active,
+  #dr-data-commitments .openchart li.active {
+    background-color: #fdb715; }
+  #dr-data-commitments .adb-chart .dr-typeof {
+    text-align: right;
+    width: 100%; }
+  #dr-data-commitments .adb-chart .tab-pane:first-child .dr-typeof {
+    text-align: left; }
+  #dr-data-commitments .scf-chart .dr-typeof {
+    text-align: right;
+    width: 100%; }
+    #dr-data-commitments .scf-chart .dr-typeof .dr-amount {
+      font-size: 1.2rem !important; }
+
+/* ----------------------------------------------------------------
+	DR Raised
+-----------------------------------------------------------------*/
+#dr-data-raised {
+  border-bottom: 1px solid #c2ccd2; }
+  #dr-data-raised .dr-qt em {
+    color: #fdb715; }
+  #dr-data-raised .chart li a:hover,
+  #dr-data-raised .chart li a:focus,
+  #dr-data-raised .chart li a.active {
+    background-color: #fdb715; }
+  #dr-data-raised .dr-partner,
+  #dr-data-raised .dr-country,
+  #dr-data-raised .dr-sector,
+  #dr-data-raised .dr-cofin-type {
+    color: #fdb715; }
+  #dr-data-raised .openchart li a:hover,
+  #dr-data-raised .openchart li a:focus,
+  #dr-data-raised .openchart li a.active,
+  #dr-data-raised .openchart li.active {
+    background-color: #fdb715; }
+  #dr-data-raised .adb-chart .dr-typeof {
+    text-align: right;
+    width: 100%; }
+  #dr-data-raised .adb-chart .tab-pane:first-child .dr-typeof {
+    text-align: left; }
+  #dr-data-raised .scf-chart .dr-typeof {
+    text-align: right;
+    width: 100%; }
+    #dr-data-raised .scf-chart .dr-typeof .dr-amount {
+      font-size: 1.2rem !important; }
 
 /* ----------------------------------------------------------------
 	DR Who
 -----------------------------------------------------------------*/
-#dr-who .dr-qt {
-  color: #eb6440; }
-
-#dr-who .chart li a:hover,
-#dr-who .chart li a:focus,
-#dr-who .chart li a.active {
-  background-color: #eb6440; }
-
-#dr-who .dr-partner,
-#dr-who .dr-country,
-#dr-who .dr-sector {
-  color: #eb6440; }
-
-#dr-who .openchart li a:hover,
-#dr-who .openchart li a:focus,
-#dr-who .openchart li a.active,
-#dr-who .openchart li.active {
-  background-color: #eb6440; }
+#dr-who {
+  border-bottom: 1px solid #c2ccd2; }
+  #dr-who .dr-qt em {
+    color: #eb6440; }
+  #dr-who .chart li a:hover,
+  #dr-who .chart li a:focus,
+  #dr-who .chart li a.active {
+    background-color: #eb6440; }
+  #dr-who .dr-partner,
+  #dr-who .dr-country,
+  #dr-who .dr-sector {
+    color: #eb6440; }
+  #dr-who .openchart li a:hover,
+  #dr-who .openchart li a:focus,
+  #dr-who .openchart li a.active,
+  #dr-who .openchart li.active {
+    background-color: #eb6440; }
 
 /* ----------------------------------------------------------------
 	DR What
 -----------------------------------------------------------------*/
-#dr-what .dr-qt {
-  color: #98cc52; }
-
-#dr-what .chart li a:hover,
-#dr-what .chart li a:focus,
-#dr-what .chart li a.active,
-#dr-what .openchart li a:hover,
-#dr-what .openchart li a:focus,
-#dr-what .openchart li a.active {
-  background-color: #98cc52; }
-
-#dr-what .nav-link.active, #dr-what .show > .nav-link {
-  color: #98cc52; }
-
-#dr-what .dr-cofin-type {
-  color: #98cc52; }
+#dr-what {
+  border-bottom: 1px solid #c2ccd2; }
+  #dr-what .dr-qt {
+    color: #98cc52; }
+  #dr-what .chart li a:hover,
+  #dr-what .chart li a:focus,
+  #dr-what .chart li a.active,
+  #dr-what .openchart li a:hover,
+  #dr-what .openchart li a:focus,
+  #dr-what .openchart li a.active {
+    background-color: #98cc52; }
+  #dr-what .nav-link.active, #dr-what .show > .nav-link {
+    color: #98cc52; }
+  #dr-what .dr-cofin-type {
+    color: #98cc52; }
 
 /* ----------------------------------------------------------------
 	DR Where
 -----------------------------------------------------------------*/
-#dr-where .dr-qt {
-  color: #00B6C9; }
-  #dr-where .dr-qt em {
-    color: #dddddd;
-    display: block;
-    font-size: 3rem;
-    width: 60%;
-    position: absolute;
-    top: 20px;
-    right: 0; }
-
-#dr-where .chart li a:hover,
-#dr-where .chart li a:focus,
-#dr-where .chart li a.active {
-  background-color: #00B6C9; }
-
-#dr-where .nav-link.active, #dr-where .show > .nav-link {
-  color: #00B6C9; }
-
-#dr-where .dr-country,
-#dr-where .dr-sector {
-  color: #00B6C9; }
+#dr-where {
+  border-bottom: 1px solid #c2ccd2; }
+  #dr-where .dr-qt {
+    color: #00B6C9; }
+    #dr-where .dr-qt em {
+      color: #dddddd;
+      display: block;
+      font-size: 3rem;
+      width: 60%;
+      position: absolute;
+      top: 20px;
+      right: 0; }
+  #dr-where .chart li a:hover,
+  #dr-where .chart li a:focus,
+  #dr-where .chart li a.active {
+    background-color: #00B6C9; }
+  #dr-where .nav-link.active, #dr-where .show > .nav-link {
+    color: #00B6C9; }
+  #dr-where .dr-country,
+  #dr-where .dr-sector {
+    color: #00B6C9; }
 
 .tab-content h4 {
   margin: 0;

@@ -7,7 +7,7 @@ image_thumb: images/stories/critical-thoroughfare-gets-much-eeded-makeover-th.jp
 author: Admin
 description: "This is meta description"
 country: Kiribati
-summary: "After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the World Bank, Government of Australia, and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape. "
+summary: "After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the [World Bank](./partners/multilateral/world-bank-group/), [Government of Australia](./partners/bilateral/australia/), and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape. "
 project_title: "Kiribati: Road Rehabilitation Project"
 project_url: https://www.adb.org/projects/44281-013/main#project-pds
 cost: "$76.06 million"
@@ -48,7 +48,7 @@ Being a Pacific island country, Kiribati is extremely susceptible to external sh
 
 ### Interventions
 
-To address this transport and mobility challenge that affects almost half of the country's population, the Government of Kiribati requested the ADB to help finance the [Kiribati Road Rehabilitation Project](https://www.adb.org/projects/44281-013/main#project-pds). The project was cofinanced by the World Bank, Government of Australia, and the Government of Kiribati.
+To address this transport and mobility challenge that affects almost half of the country's population, the Government of Kiribati requested the ADB to help finance the [Kiribati Road Rehabilitation Project](https://www.adb.org/projects/44281-013/main#project-pds). The project was cofinanced by the [World Bank]({{< ref "world-bank-group.md" >}}), [Government of Australia]({{< ref "australia.md" >}}), and the Government of Kiribati.
 
 The project’s main outputs were i) a rehabilitated South Tarawa highway and provisions like feeder roads, footpaths for cyclists and walkers, and bus shelters, and ii) strengthened capacities of local communities in road maintenance for road safety and sustainability.  
 

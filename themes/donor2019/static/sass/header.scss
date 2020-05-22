@@ -235,12 +235,13 @@ body.stretched {
 	}
 	img {
 		display: block;
-		//width: 389px;
+		width: auto;
 		height: 80px !important;
 		margin-top: 10px;
 		margin-bottom: 10px;
 		max-width: 100%;
 	}
+	
 }
 
 #header.transparent-header.full-header #logo { border-right-color: rgba($black-color,0.1); }
@@ -2475,6 +2476,13 @@ body.side-panel-open:not(.device-xs):not(.device-sm):not(.device-md) .body-overl
 		text-align: center;
 		border: 0 !important;
 		padding: 0 !important;
+		@include media-breakpoint-down(sm) {
+			height: 70px !important;
+			img {
+				height: 50px !important;
+				width: auto;
+			}
+		}
 	}
 
 	/* ----------------------------------------------------------------

@@ -6,7 +6,7 @@ image_caption: "**Mirror, mirror, on the road.** Spherical convex mirrors on Taj
 author: Admin
 description: "This is meta description"
 country: Tajikistan
-summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the OPEC Fund for International Development, the new road links to a cross-country highway that serves as conduit for trade goods."
+summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the [OPEC Fund for International Development](./partners/multilateral/opec-fund-international-development/), the new road links to a cross-country highway that serves as conduit for trade goods."
 project_title: "Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni–Uzbekistan Border Road) Improvement Project"
 project_url: https://www.adb.org/projects/45432-002/main
 cost: "$136 million"
@@ -44,7 +44,7 @@ Across the border in Uzbekistan, the road links with the city of Samarkand, an a
 
 In 2010, the border was closed.
 
-To spur development and job creation in Sughd province, a significant improvement in the road network was critical. This was the objective of ADB’s [Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni-Uzbekistan Border Road) Improvement Project](https://www.adb.org/projects/45432-002/main) approved in 2012. The project reconnected the isolated Zarafshan Valley region to markets, schools, and public services. Cofinanced with the OPEC Fund for International Development, the project was developed under ADB’s [Central Asia Regional Economic Cooperation](https://www.adb.org/countries/subregional-programs/carec) (CAREC) Program, which promotes the establishment of regional transport corridors that would link economic hubs with each other and with the larger Asian, European, and global markets. The Ayni-Uzbekistan border road is a crucial part of [CAREC Corridor 6](https://www.adb.org/projects/45432-002/main), which would provide landlocked Central Asian countries with vital access to the shipping ports in Iran and Pakistan.
+To spur development and job creation in Sughd province, a significant improvement in the road network was critical. This was the objective of ADB’s [Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni-Uzbekistan Border Road) Improvement Project](https://www.adb.org/projects/45432-002/main) approved in 2012. The project reconnected the isolated Zarafshan Valley region to markets, schools, and public services. Cofinanced with the [OPEC Fund for International Development]({{< ref "opec-fund-international-development.md" >}}), the project was developed under ADB’s [Central Asia Regional Economic Cooperation](https://www.adb.org/countries/subregional-programs/carec) (CAREC) Program, which promotes the establishment of regional transport corridors that would link economic hubs with each other and with the larger Asian, European, and global markets. The Ayni-Uzbekistan border road is a crucial part of [CAREC Corridor 6](https://www.adb.org/projects/45432-002/main), which would provide landlocked Central Asian countries with vital access to the shipping ports in Iran and Pakistan.
 
 ### Interventions
 

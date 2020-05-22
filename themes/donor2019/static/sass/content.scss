@@ -21,6 +21,9 @@
 	.content-wrap {
 		position: relative;
 		padding: $content-padding/2 0;
+		@include media-breakpoint-down(sm) {
+			padding: $content-padding/4 0;
+		}
 	}
 
 	.container { position: relative; }

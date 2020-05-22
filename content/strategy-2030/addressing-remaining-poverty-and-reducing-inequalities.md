@@ -47,7 +47,7 @@ Many governments in Asia have been spending less than $10 per person per year on
 
 ### Ensuring Social Protection for Those in Need
 
-Social protection is integral to reducing inequalities. It decreases people’s exposure to risks and protects them against any event that may threaten their incomes. In 2019, ADB began a project, [Developing Insurance Markets for Sustainable and Resilient Societies in Asia and the Pacific](https://www.adb.org/projects/53134-001/main#project-documents), that reduces the risks marginalized women and farmers faced by using practical insurance solutions.  Cofinanced with Korea, the project is now improving the insurance and pension industry in developing member countries to ensure that poor and marginalized households are better protected.
+Social protection is integral to reducing inequalities. It decreases people’s exposure to risks and protects them against any event that may threaten their incomes. In 2019, ADB began a project, [Developing Insurance Markets for Sustainable and Resilient Societies in Asia and the Pacific](https://www.adb.org/projects/53134-001/main#project-documents), that reduces the risks marginalized women and farmers faced by using practical insurance solutions.  Cofinanced with [Korea]({{< ref "korea.md" >}}), the project is now improving the insurance and pension industry in developing member countries to ensure that poor and marginalized households are better protected.
 
 ### Moving Forward
 

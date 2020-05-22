@@ -46,6 +46,10 @@
 	}
 	&#dr-section-overview h2 {
 		font-size: 64px;
+		@include media-breakpoint-down(sm) {
+			line-height: 1.5;
+			font-size: round($page-title-size / 1.17);
+		}
 	}
 
 	p {
