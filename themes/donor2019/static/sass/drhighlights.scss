@@ -350,7 +350,7 @@
 -----------------------------------------------------------------*/
 #dr-what {
   border-bottom: 1px solid lighten($adb-dr-gray, 40%);
-  .dr-qt {
+  .dr-qt em {
     color: $adb-accent-green;
   }
   .chart li a:hover,
@@ -374,17 +374,9 @@
 -----------------------------------------------------------------*/
 #dr-where {
   border-bottom: 1px solid lighten($adb-dr-gray, 40%);
-  .dr-qt {
+  .dr-qt em {
     color: $adb-main-blue-eleven;
-    em {
-      color: $adb-gray-three;
-      display: block;
-      font-size: 3rem;
-      width: 60%;
-      position: absolute;
-      top: 20px;
-      right: 0;
-    }
+    
   }
   .chart li a:hover,
   .chart li a:focus,

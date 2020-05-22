@@ -8763,7 +8763,7 @@ td.actions {
 -----------------------------------------------------------------*/
 #dr-what {
   border-bottom: 1px solid #c2ccd2; }
-  #dr-what .dr-qt {
+  #dr-what .dr-qt em {
     color: #98cc52; }
   #dr-what .chart li a:hover,
   #dr-what .chart li a:focus,
@@ -8782,16 +8782,8 @@ td.actions {
 -----------------------------------------------------------------*/
 #dr-where {
   border-bottom: 1px solid #c2ccd2; }
-  #dr-where .dr-qt {
+  #dr-where .dr-qt em {
     color: #00B6C9; }
-    #dr-where .dr-qt em {
-      color: #dddddd;
-      display: block;
-      font-size: 3rem;
-      width: 60%;
-      position: absolute;
-      top: 20px;
-      right: 0; }
   #dr-where .chart li a:hover,
   #dr-where .chart li a:focus,
   #dr-where .chart li a.active {
