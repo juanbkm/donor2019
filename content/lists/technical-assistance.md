@@ -4,6 +4,7 @@ date: 2020-04-18T22:35:40+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
+pdf: dr2019-resource-cofin-from-ta.pdf
 weight: 2
 draft: false
 ---

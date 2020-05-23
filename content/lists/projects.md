@@ -4,6 +4,7 @@ date: 2020-04-18T00:24:25+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
+pdf: dr2019-resource-cofin-from-psc.pdf
 weight: 1
 draft: false
 ---

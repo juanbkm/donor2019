@@ -1,17 +1,35 @@
 {{ define "main" }}
 
 <div class="container clearfix">
-  {{- partial "sectiontitle.html" . -}} {{ range .Pages }}
-  <div class="row py-5">
+  {{- partial "sectiontitle.html" . -}} 
+  <div class="row">
+    {{ with .Site.GetPage "project-specific-cofinancing.md" }}
     <div class="col-md-6">
       <img src="{{ .Params.main_image }}" alt="" />
-    </div>
-    <div class="col-md-5 offset-md-1 dr-modalities">
       <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
       <p>{{ .Params.summary }}</p>
     </div>
+    {{ end }}
+    {{ with .Site.GetPage "trust-funds.md" }}
+    <div class="col-md-6">
+      <img src="{{ .Params.main_image }}" alt="" />
+      <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+      <p>{{ .Params.summary }}</p>
+    </div>
+    {{ end }}
   </div>
-  {{ end }}
+  <div class="row">
+    {{ with .Site.GetPage "partnership-framework-agreements.md" }}
+    <div class="col-md-6">
+      <img src="{{ .Params.main_image }}" alt="" />
+    </div>
+    <div class="col-md-6">
+      <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+      <p>{{ .Params.summary }}</p>
+    </div>
+    {{ end }}
+  </div>
+  
 </div>
 
 {{ end }}

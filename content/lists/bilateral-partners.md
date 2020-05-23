@@ -4,6 +4,7 @@ date: 2020-04-17T18:46:06+08:00
 pretitle: "Official Cofinancing from"
 date_range: "1967–2019"
 units: "$ million"
+pdf: dr2019-resource-cofin-from-bilateral.pdf
 weight: 3
 draft: false
 ---
