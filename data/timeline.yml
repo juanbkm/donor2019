@@ -1,4 +1,4 @@
-title   : "**2019** Milestones"
+title   : "**2019** Timeline"
 month   : 
   - name: February
     item :
@@ -7,7 +7,7 @@ month   :
         link: https://www.adb.org/news/adb-afd-commit-providing-5-billion-cofinancing-next-3-years
         img: 32891-adb-afd-vppc-final.jpg
         text: |
-          ADB, AFD increases cofinancing commitment
+          <span class="dr-fin">ADB, AFD increases cofinancing commitment</span>
 
           ADB and Agence Francaise de Developpement amended their Partnership Framework Agreement to increase their cofinancing commitment for 2016-2022 from $3 billion to $5 billion, adding $1 billion each to raise their individual commitment to $2.5 billion.
 
@@ -15,13 +15,14 @@ month   :
 
   - name: March
     item :
-      - milestone: ADB X Australia
+      - milestone: ADB X AIIB 
         link: https://www.adb.org/news/adb-and-aiib-presidents-discuss-strategic-and-operational-issues
         text: |
-          The new ASEAN Australia Smart Cities Trust Fund was established under the Urban Financing Partnership facility. 
-      - milestone: ADB X Ireland 
+          ADB, Asian Infrastructure Investment Bank (AIIB) sign cofinancing framework agreement. 
+      - milestone: ADB X Australia 
+        financing: Australia - $0.71 million 
         text: |
-          ADB and Ireland establish the Ireland Trust fund for Building Climate Change and Disaster resilience in Small Island Developing States. 
+          Australia gave an additional contribution to the Multi-Donor Trust Fund under the Water Financing Partnership Facility.
   - name: April
     item :
       - milestone: ADB X ASEAN X Australia
@@ -38,13 +39,12 @@ month   :
     item :
       - milestone: ADB X Japan
         financing: JICA - $ 2 billion
-        text: 
       - milestone: ADB, JICA to cofinance world class railway
         financing: 
         link: https://www.adb.org/news/philippines-adb-sign-loan-milestone-malolos-clark-railway-project 
         img: 45886-malolos-clark-signing-final.jpg
         text: |
-          ADB approves the Philippines: Malolos–Clark Railway Project, ADB’s largest infrastructure project financing to date. ADB and JICA will combine finance and expertise to build a 53.1 kilometer railway that will connect Malolos, a suburb north of Manila, to Clark economic zone and Clark International Airport.
+          ADB approves the Philippines: Malolos–Clark Railway Project, among ADB’s largest infrastructure project financing to date. ADB and JICA will combine finance and expertise to build a 53.1 kilometer railway that will connect Malolos, a suburb north of Manila, to Clark economic zone and Clark International Airport.
       - milestone: ADB, Partners to finance Healthy Oceans Action Plan
         financing: 
         link: https://www.adb.org/news/adb-launches-5-billion-healthy-oceans-action-plan

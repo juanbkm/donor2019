@@ -9351,13 +9351,15 @@ td.actions {
 
 .dr-tl-hd {
   text-align: right;
-  font-size: 2rem;
-  color: #eb6440; }
+  font-size: 2rem; }
   .dr-tl-hd strong {
     font-weight: 100;
     font-size: 4rem;
     line-height: 1;
     display: block; }
+
+#May .tt-body .dr-milestone:first-child {
+  border-bottom: none; }
 
 .dr-milestone {
   padding: 10px;

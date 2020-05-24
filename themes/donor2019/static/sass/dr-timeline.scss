@@ -107,13 +107,16 @@
 .dr-tl-hd {
   text-align: right;
   font-size: 2rem;
-  color: $adb-accent-orange;
   strong {
     font-weight: 100;
     font-size: 4rem;
     line-height: 1;
     display: block;
   }
+}
+
+#May .tt-body .dr-milestone:first-child {
+  border-bottom: none;
 }
 
 .dr-milestone {
