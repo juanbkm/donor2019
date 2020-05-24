@@ -66,6 +66,10 @@ Among the bilateral financing partners, Japan led in terms of volume with a $2.3
 
 Following the course set by Strategy 2030, ADB will explore innovative funding solutions to increase the availability of resources for project and strengthen its collaboration with new multilateral partners such as the Asian Infrastructure Investment Bank and the New Development Bank.
 
+{{< dr-artimage src="./images/modalities/psc-chart.png" width="100%" >}}
+
+These are some of the more notable PSCs in 2019.
+
 ### Billion Dollar Railway
 
 ADB’s biggest cofinanced project in 2019 is the [Philippines: Malolos-Clark Railway Project](https://www.adb.org/projects/52083-001/main), with $2.01 billion coming from Japan.
