@@ -2,7 +2,8 @@
 title: "Trust Funds"
 date: 2020-05-14T10:49:17+08:00
 main_image: images/modalities/tf.jpg
-summary: Either single donor or multi-donor, trust funds are means of channeling cofinancing resources to various projects and activities that meet certain eligibility criteria, e.g., focus on smart cities in selected countries
+id: dr-tf
+summary: Trust funds are single- or multi-partner channels of cofinancing resources to fund various projects, programs, technical assistance, and other activities. ADB administers contributions of financing partners as a trustee or administrator of about 45 trust funds, 14 of which fall under umbrella Financing Partnership Facilities. In 2019, trust funds contributed around $181 million in ADB’s sovereign operations.
 tf:
   - item:
     type: single

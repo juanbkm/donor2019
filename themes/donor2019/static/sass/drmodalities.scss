@@ -1,11 +1,16 @@
 #dr-modalities {
   .dr-modalities {
+    a {
+      color: $body-color;
+      padding: 80px 20px;
+      display: block;
+    }
     h4 {
-      border-bottom: 1px solid lighten($adb-dr-gray, 40%);
       font-size: 1.8rem;
-      a {
-        color: $body-color;
-      }
+      margin: 0;
+    }
+    img {
+      margin-bottom: 10px;
     }
   }
   .dr-intro {
@@ -42,6 +47,26 @@
     }
   }
 
+  #dr-psc {
+    h4 {
+      color: $adb-accent-orange;
+    }
+  }
+  #dr-tf {
+    h4 {
+      color: $adb-accent-green;
+    }
+  }
+  #dr-pfa {
+    background-color: $adb-gray-four;
+    padding: 80px 20px;
+    a {
+      padding: 0;
+    }
+    h4 {
+      color: $body-color;
+    }
+  }
   .dr-mod-partner {
     h5 {
       color: $adb-accent-orange;

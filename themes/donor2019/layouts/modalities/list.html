@@ -3,33 +3,40 @@
 <div class="container clearfix">
   {{- partial "sectiontitle.html" . -}} 
   <div class="row">
-    {{ with .Site.GetPage "project-specific-cofinancing.md" }}
-    <div class="col-md-6">
+    {{ with .Site.GetPage "/modalities/project-specific-cofinancing" }}
+    <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+      <a href="{{.Permalink}}">
       <img src="{{ .Params.main_image }}" alt="" />
-      <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+      <h4>{{.Title}}</h4>
       <p>{{ .Params.summary }}</p>
+      </a>
     </div>
     {{ end }}
-    {{ with .Site.GetPage "trust-funds.md" }}
-    <div class="col-md-6">
+    {{ with .Site.GetPage "/modalities/trust-funds" }}
+    <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+      <a href="{{.Permalink}}">
       <img src="{{ .Params.main_image }}" alt="" />
-      <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+      <h4>{{.Title}}</h4>
       <p>{{ .Params.summary }}</p>
-    </div>
-    {{ end }}
-  </div>
-  <div class="row">
-    {{ with .Site.GetPage "partnership-framework-agreement.md" }}
-    <div class="col-md-6">
-      <img src="{{ .Params.main_image }}" alt="" />
-    </div>
-    <div class="col-md-6">
-      <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
-      <p>{{ .Params.summary }}</p>
+      </a>
     </div>
     {{ end }}
   </div>
-  
+  {{ with .Site.GetPage "/modalities/partnership-framework-agreements" }}
+  <div id="{{ .Params.id }}" class="row dr-modalities">
+    
+    <div class="col-md-6">
+      <img src="{{ .Params.main_image }}" alt="" />
+    </div>
+    <div class="col-md-6">
+      <a href="{{.Permalink}}">
+      <h4>{{.Title}}</h4>
+      <p>{{ .Params.summary }}</p>
+    </a>
+    </div>
+    
+  </div>
+  {{ end }}
 </div>
 
 {{ end }}

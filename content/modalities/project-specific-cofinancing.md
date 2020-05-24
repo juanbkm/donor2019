@@ -2,7 +2,8 @@
 title: "Project Specific Cofinancing"
 date: 2020-05-14T09:31:01+08:00
 main_image: images/modalities/psc.jpg
-summary: These are cofinancing for individual projects, government by a cofinancing agreement or a memorandum of understanding, that are not under a framework cofinancing arrangement or global fund.
+id: dr-psc
+summary: Project-specific cofinancing, whether for a loan or a grant, is undertaken by ADB and a financing partner through a signed cofinancing agreement if the cofinancing is to be administered by ADB, or a memorandum of understanding if the cofinancing will not be ADB-administered. ADB also accesses the resources of Global Funds for project-specific cofinancing. In 2019, ADB mobilized $4.71 billion in loans and grants from partners.
 projects:
   - item:
     title: "Philippines: Malolos-Clark Railway Project"
@@ -57,15 +58,19 @@ weight: 1
 draft: false
 ---
 
-Project-specific cofinancing (PSC) refers to a financing partnership between ADB and donor-partners on individual development projects. Whether through grants, loans, and technical assistance, PSC works especially well in the field, when donors are decentralized operationally and financially, from their headquarters. PSC is generally governed by a cofinancing agreement for ADB-administered cofinancing or a memorandum of understanding (MOU) for cofinancing not administered by ADB.
+Project-specific cofinancing (PSC) is using the financing partners' funds for individual development projects, programs, or technical assistance. In 2019, ADB mobilized $4.71 billion in loans and grants from partners, comprising 96% of total sovereign cofinancing commitments. This was divided among 54 individual projects.
 
-PSC made up 94% of the 2019 total cofinanced projects, amounting to US$4.71 billion. Japan is top cofinancier for PSC with US$XX. These are some of the more notable projects in 2019
+About $4.64 billion of PSCs funded investment projects, while $63.3 million went to various technical assistance. Bilateral partners provided the bulk of PSCs at $3.59 billion, while $1.12 billion came from multilateral partners, including $206.5 million from global funds. The JP Morgan Chase Foundation provided the lone cofinancing from the private sector, with a grant of $1.3 million for the [Regional: Promoting Transformative Gender Equality Agenda in Asia and the Pacific](https://www.adb.org/projects/52214-001/main), a technical assistance to that aims to help accelerate gender equality progress in the region.
+
+Among the bilateral financing partners, Japan led in terms of volume with a $2.35 billion commitment. The bulk of this, specifically $2.01 billion, is dedicated to the Malolos-Clark Railway Project, which aims to build a 53.1-kilometer railway that will connect Malolos, a suburb north of Manila, to Clark economic zone and Clark International Airport. Australia, on the other hand, topped the cofinanciers for grants, with 18 projects cofinanced totaling $83 million. Among such projects were the Renewable Energy Project in Tonga and the Northern Mountain Provinces Transport Connectivity in Viet Nam. The European Union, among multilaterals, cofinanced the most with 4 projects, including the Solomon Islands Urban Water Supply and Sanitation Sector Project and the Lao PDR Sustainable Rural Infrastructure and Watershed Management Sector Project.
+
+Following the course set by Strategy 2030, ADB will explore innovative funding solutions to increase the availability of resources for project and strengthen its collaboration with new multilateral partners such as the Asian Infrastructure Investment Bank and the New Development Bank.
 
 ### Billion Dollar Railway
 
-The [Philippines: Malolos-Clark Railway Project](https://www.adb.org/projects/52083-001/main) is the biggest cofinanced project in 2019.
+ADB’s biggest cofinanced project in 2019 is the [Philippines: Malolos-Clark Railway Project](https://www.adb.org/projects/52083-001/main), with $2.01 billion coming from Japan.
 
-An important flagship project of ADB’s host country, the Malolos-Clark Railway is also ADB’s single largest infrastructure project financing ever at US$2.75 billion and biggest bilateral partnership in 2019. The Japan International Cooperation Agency (JICA) is cofinancing the project, which is expected to improve local, national, and international connectivity with the direct link to the international airport at Clark, making it a gateway for Asian destinations. The Philippines received US$2.01 billion or 41% of ADB cofinancing this year.
+An important flagship project of ADB’s host country, the Malolos-Clark Railway is also ADB’s second largest cofinanced infrastructure project ever. The Japan International Cooperation Agency (JICA) is cofinancing the project, which is expected to improve local, national, and international connectivity with the direct link to the international airport at Clark, making it a gateway for Asian destinations. With this single loan, the Philippines received 41% of ADB sovereign cofinancing this year.
 
 {{< mod-proj i="0" >}}
 
@@ -77,26 +82,26 @@ Four partners—Australia, the European Union, New Zealand, and the World Bank�
 
 {{< mod-proj i="1" >}}
 
-### New Project with a New Partner
+### Engaging a New Partner
 
-The [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main) marks ADB’s first cofinancing with new partner New Development Bank (NDB). The project will ease travel for millions of commuters across Mumbai, help decongest heavily crowded suburban rail systems, and contribute to providing a modern, clean, and livable urban environment.
+ADB and new partner New Development Bank (NDB) embarked on the [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main) their first cofinanced project. The metro rail project will ease travel for millions of commuters across Mumbai, help decongest heavily crowded suburban rail systems, and contribute to providing a modern, clean, and livable urban environment.
 
-The Shanghai-based NDB is a new multilateral development bank setup in 2015 by five BRICS countries to mobilize resources for development projects in BRICS, emerging economies and developing countries. ADB and NDB signed a memorandum of understanding on cooperation in July 2016.
+The Shanghai-based NDB is a new multilateral development bank set up in 2015 by five BRIC countries to mobilize resources for development projects in BRIC, emerging economies, and developing countries. ADB and NDB signed a memorandum of understanding in July 2016.
 
 {{< mod-proj i="2" >}}
 
-### Partnership to Generate More Partnerships
+### Getting More Financing Partners on Board
 
-The financing partnership among ADB, France, and Germany on the [People's Republic of China: Shandong Green Development Fund Project](https://www.adb.org/projects/51194-001/main) is expected to create ripples of new partnerships with the private sector in climate financing.
+The financing partnership among ADB, France, and Germany on the [People's Republic of China: Shandong Green Development Fund Project](https://www.adb.org/projects/51194-001/main) is expected to create new partnerships on climate financing with the private sector.
 
-The project will help establish the Shandong Green Development Fund (SGDF) and attract private, institutional, and commercial financing for climate mitigation and adaptation projects. In fact, the Green Climate Fund (GCF) approved US$100 million for the project in November 2019, the first GCF funding for the People’s Republic of China. By catalyzing climate finance, the SGDF is expected to help reduce carbon emissions by 2.5 million tons per year and directly build resilience for at least 2 million people in Shandong Province.
+The project will help establish the Shandong Green Development Fund (SGDF) and attract private, institutional, and commercial financing for climate mitigation and adaptation projects. In fact, the Green Climate Fund (GCF) approved $100 million for the project in November 2019, the first GCF funding for the People’s Republic of China. By catalyzing climate finance, the SGDF is expected to help reduce carbon emissions by 2.5 million tons per year and directly build resilience for at least 2 million people in Shandong Province.
 
 {{< mod-proj i="3" >}}
 
 ### Long Arms of Cofinancing
 
-The [Regional: Pacific Private Sector Development Initiative, Phase IV](https://www.adb.org/projects/53072-001/main) (PSDI IV) is the PSC with the broadest and furthest reach, providing advisory and capacity-building assistance to all 14 Pacific Island Countries (PICs) to improve the PICs business enabling environments. The multi-phased initiative is expected to support inclusive, private sector-led economic growth in the Pacific subregion. The fourth phase is financed by Australia.
+The [Regional: Pacific Private Sector Development Initiative, Phase IV](https://www.adb.org/projects/53072-001/main) (PSDI IV) is the PSC with the broadest DMC coverage, providing advisory and capacity-building assistance to all 14 Pacific Island Countries (PICs) to improve the PICs business enabling environments. The multi-phased initiative is expected to support inclusive, private sector-led economic growth in the Pacific subregion. The fourth phase is financed by Australia.
 
-PSDI IV will build on past achievements across six core areas of focus: access to finance, business law reform, state-owned enterprise reform, public-private partnerships, competition and consumer protection, and the economic empowerment of women. The 14 PICs are Cook Islands, Fiji, Federated States of Micronesia, Kiribati, Nauru, Niue, Palau, Papua New Guinea, Marshall Islands, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu.
+PSDI IV will build on past achievements across six core areas: access to finance, business law reform, state-owned enterprise reform, public-private partnerships, competition and consumer protection, and the economic empowerment of women. The 14 PICs are Cook Islands, Fiji, Federated States of Micronesia, Kiribati, Marshall Islands, Nauru, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu.
 
 {{< mod-proj i="4" >}}

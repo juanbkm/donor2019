@@ -9378,11 +9378,17 @@ td.actions {
     font-weight: 100;
     margin-bottom: 10px; }
 
+#dr-modalities .dr-modalities a {
+  color: #555;
+  padding: 80px 20px;
+  display: block; }
+
 #dr-modalities .dr-modalities h4 {
-  border-bottom: 1px solid #c2ccd2;
-  font-size: 1.8rem; }
-  #dr-modalities .dr-modalities h4 a {
-    color: #555; }
+  font-size: 1.8rem;
+  margin: 0; }
+
+#dr-modalities .dr-modalities img {
+  margin-bottom: 10px; }
 
 #dr-modalities .dr-intro p {
   font-size: 1.2rem;
@@ -9408,6 +9414,20 @@ td.actions {
     letter-spacing: 1px; }
   #dr-modalities .dr-mod-proj p {
     margin-bottom: 10px; }
+
+#dr-modalities #dr-psc h4 {
+  color: #eb6440; }
+
+#dr-modalities #dr-tf h4 {
+  color: #98cc52; }
+
+#dr-modalities #dr-pfa {
+  background-color: #f2f2f2;
+  padding: 80px 20px; }
+  #dr-modalities #dr-pfa a {
+    padding: 0; }
+  #dr-modalities #dr-pfa h4 {
+    color: #555; }
 
 #dr-modalities .dr-mod-partner h5 {
   color: #eb6440;
