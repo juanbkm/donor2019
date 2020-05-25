@@ -2,7 +2,7 @@
 title: "Wind Power for More Renewable Power"
 date: 2020-04-30T17:47:33+08:00
 image: images/stories/wind-power-for-energy-efficiency-and-security.jpg
-image_caption: "**Windmills of Your Mind.** Sri Lanka is planning to build a wind farm by 2022 and has undertaken meticulous preparations for harvesting power from winds."
+image_caption: "**Windmills of Your Mind.** Sri Lanka is planning to build a wind farm by 2022 and has undertaken meticulous preparations for harvesting power from the winds."
 author: Admin
 description: "This is meta description"
 country: Sri Lanka
@@ -51,7 +51,6 @@ The technical assistance supported a capacity building program for CEB staff to 
 To help prepare the CEB in facilitating public-private partnerships, the technical assistance supported the CEB in:
 
 * Preparing procurement packages and relevant bidding documents for the proposed CEB wind power generation, and competitive bidding documents for private sector participation; and
-
 * Preparing a road map and options for private sector involvement in further developing renewable energy sources in the country.
 
 ### Results

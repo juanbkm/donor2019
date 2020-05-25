@@ -2,12 +2,13 @@
 title: "Support for Survivors of Domestic Violence"
 date: 2020-05-18T10:45:00+08:00
 image: images/stories/support-for-survivors-of-domestic-violence.jpg
-image_caption: "Heads Up High. Social, legal, and medical support services will become more available for women and young girls who are survivors of domestic violence in Mongolia."
+image_caption: "**Heads Up High.** Social, legal, and medical support services will become more available for women and young girls who are survivors of domestic violence in Mongolia."
 author: Admin
 description: "This is meta description"
 country: Mongolia
 summary: "Mongolia is keen on eradicating domestic violence against women and children. The Japan Fund for Poverty Reduction contributed $3 million to an ADB project that aims to help survivors break free from this vicious cycle."
 project_title: "Mongolia: Combating Domestic Violence Against Women and Children"
+project url: "https://www.adb.org/projects/51217-001/main"
 cost: "$3 million"
 fund_source: 
 fin_partners: 
@@ -18,11 +19,11 @@ completion: "December 2022"
 categories: [ "Gender, Governance" ]
 draft: false
 ---
-### Partnership Results
+### Partnership Progress
 <ul class="dr-results">
-	<li><i class="icon-check-circle"></i> Effective multidisciplinary response and services for survivor women and children of domestic violence</li>
-	<li><i class="icon-check-circle"></i> Improved capacity of key officials and staff responsible for protection and rehabilitation services for domestic violence survivors</li>
-	<li><i class="icon-check-circle"></i> Improved community behavior on prevention, reporting, and protection of survivors</li>
+	<li><i class="icon-check-circle"></i> Gender Action Plan completed </li>
+	<li><i class="icon-check-circle"></i> Stakeholder communication strategy prepared</li>
+	<li><i class="icon-check-circle"></i> Design of the shelters in preparation</li>
 </ul>
 
 ### Background
@@ -47,8 +48,8 @@ By addressing domestic violence, the project is expected to support Mongolia’s
 
 **Behavior improvement of key stakeholders on prevention, reporting and protection of survivors.** The project will expand the existing helpline center, which receives distress calls, provides psychological and legal counseling, and refers calls to the police. Targeted and focused behavior change campaign will be launched, covering identification and prevention of domestic violence, reporting cases, and supporting and protecting women. Community groups will be mobilized to reinforce the communication campaign and provide support mechanisms.  
 
-### Results
+### Expected Results
 
 Mongolia stands to make a critical contribution to accelerating progress in gender equality through this project.  Once all interventions are in place the project is expected to ensure safety of women and improve the quality of life for women and children, resulting in indirect contribution to the improved socio-economic development of communities.   
 
-About 2,132 persons, including 600 women survivor and 130 persons with disabilities (PWDs), will directly benefit from the shelters, economic empowerment program, capacity building and behavior change communication activities. Thousands will indirectly benefit from the project, including women who will have increased awareness and access to institutions and services for combatting domestic violence. 
+About 2,132 persons, including 600 women survivor and 130 persons with disabilities (PWDs), will directly benefit from the shelters, economic empowerment program, capacity building and behavior change communication activities. Thousands will indirectly benefit from the project, including women who will have increased awareness and access to institutions and services for combatting domestic violence.

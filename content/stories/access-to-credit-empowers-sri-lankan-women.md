@@ -10,7 +10,7 @@ country: Sri Lanka
 summary: "Women in Sri Lanka now find it easier to borrow long-term capital from banks under the ADB’s Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project that is supported by Women Entrepreneurs Finance Initiative (We-Fi) grant and the Japan Fund for Poverty Reduction (JFPR)."
 project_title: "Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project"
 project_url: https://www.adb.org/projects/49273-001/main#project-pds
-cost: "$188.74 million"
+cost: "$188.7 million"
 fund_source: 
   - name: "ADB"
     amount: "$100 million (Loan)"
@@ -34,7 +34,7 @@ draft: false
 <ul class="dr-results">
 <li><i class="icon-check-circle"></i>$100 million successfully disbursed in 2016-2018 through ten local banks to 1,755 SMEs, out of which 484 (27%) are owned or led by women</li>
 <li><i class="icon-check-circle"></i>$75 million additional loan and $12.6 million additional grant from We-FI, after the success of the original $100 million credit line</li>
-<li><i class="icon-check-circle"></i>$71.9 million additional loan and $6.15 million We-Fi grant disbursed as of February 2019 to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs</li> 
+<li><i class="icon-check-circle"></i>$71.9 million additional loan and $6.2 million We-Fi grant disbursed as of February 2019 to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs</li> 
 <li><i class="icon-check-circle"></i>637 women-led SMEs benefited from the blended finance of ADB credit line and We-Fi grant, so far</li>
 <li><i class="icon-check-circle"></i>744 women trained on business development under the technical assistance funded by JFPR and We-Fi</li>
 </ul>
@@ -52,7 +52,7 @@ The Sri Lankan government decided to address this gap by enlisting the ADB's ass
 
 The [Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project](https://www.adb.org/projects/49273-001/main#project-pds) provides long-term financing through 10 local participating banks to targeted SMEs, with attention to women-led SMEs. It also supported the capacity enhancement of women entrepreneurs. A $100 million credit line and a $2 million technical assistance (TA) financed by Japan Fund for Poverty Reduction (JFPR) supported women-led SMEs gain better access to finance from banks. The technical assistance from JFPR supported business development training for women in export-oriented and agri-businesses sectors, along with awareness raising campaign for entrepreneurship in the information and communications technology sector.  
 
-{{< dr-yt video="ok9H12WwT-Q" title="SMEs Mainstream Women into Sri Lanka’s Economy" cover="cover-yt-access-to-credit-empowers-sri-lankan-women.jpg" >}}
+{{< dr-yt video="cFajRgjUnP4" title="SMEs Mainstream Women into Sri Lanka’s Economy" cover="cover-yt-access-to-credit-empowers-sri-lankan-women.jpg" >}}
 
 With the successful disbursement and development impacts (see Results section), the government requested ADB for an additional $75 million credit line and a $12.6 million grant from the Women Entrepreneurs Finance Initiative (We-Fi) to expand the project’s gender elements. The We-Fi grant provides (i) blended finance facility with the ADB’s credit line to women-led SMEs that are constrained by limited capital, and (ii) capacity development support for a broader range of stakeholders—including women entrepreneurs, banks, government organizations civil society organizations and other key stakeholders.  
 
@@ -60,7 +60,7 @@ With the successful disbursement and development impacts (see Results section), 
 
 The project opened opportunities for women to plan, expand and jumpstart their businesses and promoted women entrepreneurship by developing an ecosystem for women entrepreneurship by ensuring more women-owned or led SMEs have access to finance, training, and mentorship opportunities.  
 
-From the finance angle, from 2016-2018, the original $100 million loan was disbursed to 1,755 SMEs, out of which 484 (27.6%) are women-led. As of February 2019, $71.9 million additional loan and $6.15 million We-Fi grant were disbursed to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs.
+From the finance angle, from 2016-2018, the original $100 million loan was disbursed to 1,755 SMEs, out of which 484 (27.6%) are women-led. As of February 2019, $71.9 million additional loan and $6.2 million We-Fi grant were disbursed to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs.
 
 The participating banks keep the lending momentum to women-led SMEs going by strengthening their banking operations to attract women clients as a new and promising segment for their business growth.
 

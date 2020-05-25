@@ -6,7 +6,7 @@ image_caption: "**Mirror, mirror, on the road.** Spherical convex mirrors on Taj
 author: Admin
 description: "This is meta description"
 country: Tajikistan
-summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the [OPEC Fund for International Development](./partners/multilateral/opec-fund-international-development/), the new road links to a cross-country highway that serves as conduit for trade goods."
+summary: "Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the OPEC Fund for International Development, the new road links to a cross-country highway that serves as conduit for trade goods."
 project_title: "Tajikistan: Central Asia Regional Economic Cooperation Corridor 6 (Ayni–Uzbekistan Border Road) Improvement Project"
 project_url: https://www.adb.org/projects/45432-002/main
 cost: "$136 million"
@@ -33,7 +33,7 @@ draft: false
 <li><i class="icon-check-circle"></i> 31 bridges rehabilitated</li>
 <li><i class="icon-check-circle"></i> National Road Safety Strategy and Action Plan developed and implemented</li>
 <li><i class="icon-check-circle"></i> Sarazm border-crossing point constructed</li>
-<li><i class="icon-check-circle"></i> Reduced travel time from Ayni to the Uzbekistan border from 3.5 hours to 1.4 hours for cars and taxis and 1.8 hours for buses and trucks</li>
+<li><i class="icon-check-circle"></i> Reduced travel time from Ayni to Sarazm from 3.5 to 1.4 hours for cars/taxis and 1.8 hours for buses/trucks</li>
 </ul>
 
 ### Background
@@ -54,7 +54,7 @@ The rehabilitation and upgrading of 112.7 kilometers of the Ayni–Uzbekistan bo
 
 An important part of the project is the development of a National Road Safety Strategy and Action Plan and the conduct of road safety audits, which allayed concerns about increased frequency of road accidents. Road maintenance vehicles and equipment were also procured, and public information campaigns and trainings were conducted.
 
-{{< dr-yt video="S0nx3WnI_Ys" title="Rebuilding the Road to the Border" cover="cover-yt-rebuilding-the-road-to-the-border.jpg" >}}
+{{< dr-yt video="Haa4wJwWSpc" title="Rebuilding the Road to the Border" cover="cover-yt-rebuilding-the-road-to-the-border.jpg" >}}
 
 At the Sarazm border post, new facilities provide comfort and ease to tourists─a new administrative building, a new customs control building, two new checkpoints, gender-friendly toilet facilities, parking lots, street lighting, and landscaping.
 

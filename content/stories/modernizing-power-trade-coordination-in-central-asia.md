@@ -15,9 +15,9 @@ fund_source:
     amount: "$500,000.00"
 fin_partners: 
   - name: "Asian Clean Energy Fund under the Clean Energy Financing Partnership Facility"
-    amount: "$1.00 million"
+    amount: "$1.0 million"
   - name: "High-Level Technology Fund"
-    amount: "$1.00 million"
+    amount: "$1.0 million"
 approval: "January 2019"
 completion: "December 2021"
 categories: [ "Governance" ]
@@ -65,4 +65,4 @@ An assessment of the needs of Energiya has been conducted and the design of the 
 
 As of writing, the modular procurement plan to acquire the EDM is being finalized, including preparations of bid documents. The modular approach is used to adapt to budget availability and urgency of need in procurement. Since the modular procurement plan indicates that the allocated amount may be slightly short, the project may seek  additional financing once the bidding for procurement of the EDM is complete in the autumn of 2020. 
 
-A regional workshop with Japan International Cooperation Agency (JICA) and consultants based in Europe is postponed due to the COVID-19 pandemic. The workshop will be the venue for JICA to share experiences of Japan for managing interregional power flows as well as disaster resilience of the grid. The consultants will present European experience on power trade. 
+A regional workshop with Japan International Cooperation Agency (JICA) and consultants based in Europe is postponed due to the COVID-19 pandemic. The workshop will be the venue for JICA to share experiences of Japan for managing interregional power flows as well as disaster resilience of the grid. The consultants will present European experience on power trade.

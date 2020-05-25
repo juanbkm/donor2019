@@ -2,7 +2,7 @@
 title: "Improving Urban Mobility in Congested Mumbai"
 date: 2020-04-24T11:43:16+08:05
 image: images/stories/improving-urban-mobility-in-mumbai.jpg
-image_caption: "Mumbai's 7.5 million suburban railway commuters will soon enjoy a safer and more comfortable means of transport in and around the city. ADB and financing partner, New Development Bank are working with the Mumbai government to help the India's financial capital decongest its public transport system."
+image_caption: "**Metro Rails in Mumbai.** Mumbai's 7.5 million railway commuters will soon enjoy a safer and more comfortable means of transport in and around the city with the development of a new metro rail system that would help decongest its public transport system."
 image_thumb: images/stories/improving-urban-mobility-in-mumbai-th.jpg
 author: Admin
 description: "This is meta description"
@@ -10,7 +10,7 @@ country: India
 summary: "India's Mumbai will soon have a modern public transport system that will help decongest existing public transportation in the city. The ADB project, cofinanced by the New Development Bank, will enhance urban mobility in a city of 12 million and provide some 7.5 million daily suburban commuters with a modern, safer, and more comfortable transportation. "
 project_title: "India: Mumbai Metro Rail Systems Project"
 project_url: https://www.adb.org/projects/49469-007/main#project-pds
-cost: "$1,675 million"
+cost: "$1.7 billion"
 fund_source: 
   - name: "ADB"
     amount: "$926 million"
@@ -29,7 +29,9 @@ draft: false
 
 ### Partnership Progress
 <ul class="dr-results">
-  <li><i class="icon-check-circle"></i> </li>
+  <li><i class="icon-check-circle"></i>Gender Equality and Social Inclusion Action Plan completed</li>
+  <li><i class="icon-check-circle"></i>Social and Environmental Due Diligence Reports completed</li>
+  <li><i class="icon-check-circle"></i>Maha Mumbai Metro (M3) Operation Corporation Limited (MMMOCL) established to manage operation and maintenance</li>
 </ul>
 
 ### Background
@@ -40,7 +42,7 @@ The railway is the primary means of transport for 12 million of Mumbai's inhabit
 
 Aiming to address the problem, the Government of Maharashtra came up with a masterplan in 2013. The plan includes developing a metro rail system that would supplement the highly congested suburban railway. Twelve lines are planned for metro rail development covering over 276 km.
 
-ADB is supporting the government's Metro expansion plans by financing two of the state's proposed lines. The [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main#project-pds), which is the largest infrastructure loan in ADB history is cofinanced by the New Development Bank.
+ADB is supporting the government's Metro expansion plans by financing two of the state's proposed lines. The [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main#project-pds), which is the largest infrastructure loan in ADB history is cofinanced by the [New Development Bank]({{< ref "new-development-bank.md" >}}).
 
 ### Interventions
 
@@ -50,6 +52,8 @@ The loan, which NDB is cofinancing, will fund lines 2A (going from Dahisar to D.
 
 The project also has value-adding features that enhance the benefits of the new lines, including safety and gender inclusiveness. Mumbai's suburban rail system records many injuries and fatalities every year. To address this, part of ADB's funding ensures that passenger safety is paramount with the procurement of state-of-the-art carriages equipped with surveillance systems and real-time track monitoring to ensure safety. The new railway lines also have features that benefit women, including women-only carriages, mobile applications for women's security, separate ticket counters, and reporting desks to address incidents of harassment. There will also be station and carriage facilities for elderly or differently-abled passengers, including priority e-ticket counters.
 
-### Results
+### Expected Results
 
 Once operational by the end of 2022, an estimated 2 million passengers a day will use the two new lines, travelling in improved safety and comfort. It will also reduce emissions from vehicles, with carbon dioxide emissions expected to fall by about 166,000 tons a year.
+
+

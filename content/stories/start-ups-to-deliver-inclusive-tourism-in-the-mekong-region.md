@@ -2,13 +2,14 @@
 title: "Start-Ups to Deliver Inclusive Tourism in the Mekong Region"
 date: 2020-04-10T16:18:10+08:00
 image: images/stories/start-ups-to-deliver-inclusive-tourism-in-the-mekong-region.jpg
-image_caption: "The Mekong subregion’s incredible rural landscape is just one of the many reasons millions of tourists flock to this part of Asia yearly. An ADB project supported by the Government of Australia is helping tourism start-ups promote a more inclusive and sustainable tourism in the Greater Mekong Region."
+image_caption: "**Tourism Upgrade in the Mekong.** New tourism enterprises that use startup technology will promote a more inclusive and sustainable tourism industry in the Greater Mekong Region and support the millions of tourists who flock to this part of Asia yearly."
 image_thumb: images/stories/start-ups-to-deliver-inclusive-tourism-in-the-mekong-region-th.jpg
 author: Admin
 description: "This is meta description"
 country: Regional
 summary: "The Mekong region is set to introduce tourists to a wider array of attractions after several tourism start-ups are placed under an innovation accelerator program, supported by the Government of Australia. If the success of these start-ups gains and sustains momentum, the Mekong region will soon see a more inclusive and sustainable tourism industry."
 project_title: "REG: Mekong Tourism Innovation"
+project_url: "https://www.adb.org/projects/52108-001/main"
 cost: "$150,000"
 fin_partners: 
   - name: "Government of Australia"
@@ -34,13 +35,13 @@ draft: false
 
 The Greater Mekong Subregion is where Asia’s ancient and diverse cultural heritage manifests into an attractive destination. The countries in the subregion provide an alluring combination of rich culture, striking rural landscapes, and vibrant urban centers.  
 
-Within the Association of Southeast Asian Nations (ASEAN) members is a smaller group called the ASEAN-4, made up of Cambodia, Lao PDR, Myanmar, and Viet Nam. These are the ASEAN members whose natural and cultural tourism assets are bound by the Mekong River. Collectively, the ASEAN-4 received 29.3 million tourists in 2018. For the whole of the ASEAN region, the number of tourist arrivals is expected to rise to 155.4 million in 2022. [(Source)](https://seasia.co/2019/03/15/international-tourist-arrivals-in-southeast-asia-countries-2018) 
+Within the Association of Southeast Asian Nations (ASEAN) members is a smaller group called the ASEAN-4, made up of Cambodia, Lao PDR, Myanmar, and Viet Nam. These are the ASEAN members whose natural and cultural tourism assets are bound by the Mekong River. Collectively, the ASEAN-4 received 29.3 million tourists in 2018. For the whole of the ASEAN region, the number of [tourist arrivals](https://seasia.co/2019/03/15/international-tourist-arrivals-in-southeast-asia-countries-2018) is expected to rise to 155.4 million in 2022.  
 
-These arrivals, however, mainly benefit fewer than ten getaway destinations.  These destinations include heritage sites, the Mekong River, city capitals, beach resorts, and sites promoting their cultural identities. The promotion of secondary destinations is constrained by inadequate transport infrastructure, a weak business-enabling environment, slow deployment of digital marketing tools, and few market linkages between tourism and other sectors.
+These arrivals, however, mainly benefit fewer than ten getaway destinations. These destinations include heritage sites, the Mekong River, city capitals, beach resorts, and sites promoting their cultural identities. The promotion of secondary destinations is constrained by inadequate transport infrastructure, a weak business-enabling environment, slow deployment of digital marketing tools, and few market linkages between tourism and other sectors.
 
 ### Interventions
 
-Seeing huge potential for inclusive and sustainable tourism growth in diversifying tourism destinations, the Asian Development Bank (ADB) together with the Greater Mekong Subregion (GMS) Tourism Working Group (TWG) and the Government of Australia created the Mekong Innovative Startups in Tourism (MIST) accelerator program, under the Mekong Business Initiative in 2017. The pilot MIST in 2017 successfully incubated ASEAN-4 tourism startups and facilitated market access and technology transfer for another 12 mature tourism technology. Building on this success, ADB and the Government of Australia got together and formulated the regional [Mekong Tourism Innovation Project](https://www.adb.org/sites/default/files/project-documents/52108/52108-001-tcr-en.pdf) to continue supporting MIST in  2018.
+Seeing huge potential for inclusive and sustainable tourism growth in diversifying tourism destinations, ADB together with the Greater Mekong Subregion (GMS) Tourism Working Group (TWG) and the [Government of Australia]({{< ref "australia.md" >}}) created the Mekong Innovative Startups in Tourism (MIST) accelerator program, under the Mekong Business Initiative in 2017. The pilot MIST in 2017 successfully incubated ASEAN-4 tourism startups and facilitated market access and technology transfer for another 12 mature tourism technology. Building on this success, ADB and the [Government of Australia]({{< ref "australia.md" >}}) got together and formulated the regional [Mekong Tourism Innovation Project](https://www.adb.org/sites/default/files/project-documents/52108/52108-001-tcr-en.pdf) to continue supporting MIST in  2018.
 
 The start-up track teaches business fundamentals to early-stage travel and hospitality startups, while connecting them with industry and investors. The market access track helps clear market entry obstacles, form local partnerships, and secure financing for proof-of-concept pilots.
 
@@ -48,7 +49,7 @@ These enterprises must be owned or co-founded by a citizen from the ASEAN-4, hav
 
 ### Results
 
-The six-day MIST bootcamp was held in Ho Chi Minh, Viet Nam in May 2018, where 19 qualified start-ups went through 30 hours of mentorship and learning from 12 international tourism coaches. The bootcamp is also where the 19 start-ups competed to join coveted pitching sessions to potential investors at the 2018 MIST Forum.   Nine new tourism enterprises graduated from the MIST accelerator program, five on start-up track, and four on the market access track.  
+The six-day MIST bootcamp was held in Ho Chi Minh, Viet Nam in May 2018, where 19 qualified start-ups went through 30 hours of mentorship and learning from 12 international tourism coaches. The bootcamp is also where the 19 start-ups competed to join coveted pitching sessions to potential investors at the 2018 MIST Forum. Nine new tourism enterprises graduated from the MIST accelerator program, five on start-up track, and four on the market access track.  
 
 After the MIST boot camp, reports on market expansion from the participants showed that there had been an increase in market activity among the participating enterprises. Specifically, 23 financing and business affiliation agreements were signed, and an estimated $1.65 million potential investment was raised.  
 

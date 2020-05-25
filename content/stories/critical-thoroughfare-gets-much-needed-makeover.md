@@ -7,20 +7,20 @@ image_thumb: images/stories/critical-thoroughfare-gets-much-eeded-makeover-th.jp
 author: Admin
 description: "This is meta description"
 country: Kiribati
-summary: "After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the [World Bank](./partners/multilateral/world-bank-group/), [Government of Australia](./partners/bilateral/australia/), and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape. "
+summary: "After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the World Bank, Government of Australia, and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape. "
 project_title: "Kiribati: Road Rehabilitation Project"
 project_url: https://www.adb.org/projects/44281-013/main#project-pds
-cost: "$76.06 million"
+cost: "$76.1 million"
 fund_source: 
   - name: "ADB"
     amount: "$23.4 million"
   - name: "Kiribati"
-    amount: "$6.83 million"
+    amount: "$6.8 million"
 fin_partners: 
   - name: "World Bank"
-    amount: "$26.97 million"
+    amount: "$27 million"
   - name: "Australia"
-    amount: "$18.86 million"
+    amount: "$18.9 million"
 approval: "December 2015"
 completion: "May 2017"
 categories: [ "Governance" ]
@@ -53,6 +53,8 @@ To address this transport and mobility challenge that affects almost half of the
 The project’s main outputs were i) a rehabilitated South Tarawa highway and provisions like feeder roads, footpaths for cyclists and walkers, and bus shelters, and ii) strengthened capacities of local communities in road maintenance for road safety and sustainability.  
 
 For the first output, the road design was a crucial element. The South Tarawa Road runs near the edge of a lagoon for most of its length. The rising sea levels and coastal erosion threaten the road’s sustainability, so the project design was coordinated with another World Bank-financed climate change adaptation project to help incorporate climate-resilience into the design, the [Kiribati Adaptation Program](https://projects.worldbank.org/en/projects-operations/project-detail/P112615). At the end of the project, 36 kilometers of highway had been rehabilitated and 9.2 kilometers of feeder roads were repaired. A 57-km footpath for cyclists and walkers, 36 bus shelters to keep commuters protected from rain or the heat of the sun, and 114 speed bumps to promote safe driving speed were also put in place.
+
+{{< dr-yt video="3MgqaJCkcto" title="Kiribati: Lone Highway Made Safer, Better" cover="cover-yt-lone-highway-made-safer-better.jpg" >}}
 
 Wanting to sustain the roads’ optimal functionality, the second main output of the project addressed the need for maintenance, capacity building, and institutional reforms. These were crucial to ensure that the roads remain serviceable for at least 20 years.  
 

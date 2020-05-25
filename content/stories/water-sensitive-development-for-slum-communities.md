@@ -1,13 +1,14 @@
 ---
 title: "Water-sensitive Development for Slum Communities"
 date: 2020-03-31T17:47:33+08:00
-image: images/stories/water-sensitive-development-for-slum-communities.jpg
-image_caption: "From Balancing in Bamboo Rafts in Floods to Walking on Nature-based Design Footpaths. Slum residents in Makassar City, Indonesia, like this woman and her child, used to wade in stagnant floodwaters. Now, they walk on urban paved footpaths."
+image: images/stories/rebuilding-the-road-to-the-border.jpg
+image_caption: "**Nature-based Design Footpaths.** Slum residents in Makassar City, Indonesia, like this woman and her child, used to either balance on bamboo rafts or wade in stagnant floodwaters. Now, they walk on paved urban footpaths designed by the residents themselves."
 author: Admin
 description: "This is meta description"
 country: Indonesia
 summary: "Urban footpaths with nature-based designs and other water-sensitive improvements have transformed slums in Makassar City, Indonesia for the better, and the makeover is just beginning. The project, jointly financed by Switzerland, The Rockefeller Foundation, the United Kingdom, and United States, piloted green technology to improve the lives and health of the urban poor."
-project_title: "Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach (Indonesia component)"
+project_title: "Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach"
+project_url: https://www.adb.org/projects/51290-001/main
 cost: "$525,000"
 fin_partners:
   - name: "Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility"
@@ -53,7 +54,7 @@ The project then developed the community’s capacity for operation and maintena
 
 ### Results
 
-ADB Vice President for Knowledge Management and Sustainable Development Bambang Susantono, with City Mayor Iqbal Suhaeb and Australia’s Consul General Richard Matthews, officially unveiled this pilot demonstration site, covering 11 households, on 19 October 2019. The now vibrant community will serve as inspiration for improving livability and access through nature-based solutions. This will be replicated in six additional informal settlements in Makassar, also through a grant from UCCRTF.
+Bambang Susantono, ADB Vice President for Knowledge Management and Sustainable Development, along with with City Mayor Iqbal Suhaeb and Australia’s Consul General Richard Matthews, officially unveiled this pilot demonstration site, covering 11 households, on 19 October 2019. The now vibrant community will serve as inspiration for improving livability and access through nature-based solutions. This will be replicated in six additional informal settlements in Makassar, also through a grant from UCCRTF.
 
 The women of Batua have expressed their sincere appreciation for the project. They are no longer worried about their children falling from bamboo rafts and rickety footpaths. They also save time in collecting water and other supplies, and their relatives and sellers visit more often. The transformation of the neighborhood has definitely established a closer bond among the residents and created a sense of pride in something that they were all a part of.
 

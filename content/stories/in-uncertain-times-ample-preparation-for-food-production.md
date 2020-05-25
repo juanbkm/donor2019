@@ -55,4 +55,4 @@ Subject to the outcome of the feasibility study, the proposed project, which is 
 
 The improvements on the irrigation distribution and drainage systems will cover 60,500 hectares and benefit about 287,600 people, while the postharvest management infrastructure will benefit about 215,700 people.
 
-Flood embankments and water control structures will protect farms and communities covering about 242,000 hectares and benefit about 1.15 million people. Best of all, by preparing for climate risks, the agricultural production is expected to increase on 302,500 hectares and benefit about 1.44 million people.
+Flood embankments and water control structures will protect farms and communities covering about 242,000 hectares and benefit about 1.15 million people. Best of all, by preparing for climate risks, the agricultural production is expected to increase on 302,500 hectares and benefit about 1.4 million people.

@@ -43,11 +43,11 @@ Many interventions have been done to improve urban infrastructure in Rajasthan. 
 
 Approved in October 2014, the program is ADB’s first project that combines a policy loan to support urban sector reforms with a project loan to improve urban services. The policy-based loan led to the creation of a state corporation─the Rajasthan Urban Drinking Water, Sewerage, and Infrastructure Corporation (RUDSICO). This umbrella organization oversees the entire urban sector in the state. Previously, water supply and wastewater operations were handled by the Public Health Engineering Department while other urban services were handled by other entities. Having a single corporatized entity in charge of not just water supply but the whole urban sector ensures an integrated approach to urban development. This also reduces overlaps in responsibilities among municipalities and other development [authorities](https://www.adb.org/sites/default/files/project-document/149163/42267-026-rrp.pdf).
 
-{{< dr-yt video="ij18Aa_iXc4" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
+{{< dr-yt video="6RqqJavxeWI" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
 
 The policy-based loan also helped Rajasthan establish a new corporatized utility—the Jaipur Water Supply and Sewerage Board (JWSSB). The JWSSB is an independent utility that manages water supply and sewerage services in Jaipur, the capital of Rajasthan. Before its establishment, water supply and sewage management services were handled by multiple agencies, such as the Jaipur Municipal Corporation, Jaipur Development Authority, the Public Health and Engineering Board, and the Rajasthan Housing Board.
 
-The project’s outcomes were bolstered by a sanitation grant from the Bill & Melinda Gates Foundation (BMGF). The BMGF grant is providing low-income families in the towns of Khandela, Lalsot, and Phulera with innovative sanitation improvements, including septage management. The BMGF grant was also used to develop the Fecal Sludge and Septage Management guidelines for urban local bodies in the State, which the government has approved.
+The project’s outcomes were bolstered by a sanitation grant from the [Bill & Melinda Gates Foundation (BMGF)]({{< ref "bill-melinda-gates-foundation.md" >}}). The BMGF grant is providing low-income families in the towns of Khandela, Lalsot, and Phulera with innovative sanitation improvements, including septage management. The grant was also used to develop the Fecal Sludge and Septage Management guidelines for urban local bodies in the State, which the government has approved.
 
 ### Results
 

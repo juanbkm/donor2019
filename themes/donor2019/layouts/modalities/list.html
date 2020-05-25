@@ -1,5 +1,8 @@
 {{ define "main" }}
 
+{{- if .Sections -}}
+{{- range .Sections -}}
+{{- range $i, $e := .Data.Pages -}}
 <div class="container clearfix">
   {{- partial "sectiontitle.html" . -}} 
   <div class="row">
@@ -36,9 +39,16 @@
     </div>
     
   </div>
-  {{ end }}
-
-  
+  {{ end }} 
 </div>
+
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- range $i, $e := .Data.Pages -}}
+  
+
+{{- end -}}
 
 {{ end }}
