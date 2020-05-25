@@ -61,10 +61,21 @@
     background-color: $adb-gray-four;
     padding: 80px 20px;
     a {
-      padding: 0;
+      padding: 0 0;
     }
     h4 {
       color: $body-color;
+    }
+  }
+  #dr-sptf {
+    h3:first-child {
+      margin-top: 0;
+    }
+    h5 {
+      color: $adb-accent-green;
+    }
+    li {
+      font-size: .8rem;
     }
   }
   .dr-mod-partner {
@@ -74,30 +85,35 @@
       margin-bottom: 10px;
     }
     h6 {
-      font-size: .8rem;
+      font-size: .7rem;
       font-weight: 300;
       text-transform: uppercase;
       margin: 0;
+    }
+    p {
+      font-size: .9rem;
     }
     .dr-stat {
       width: 45%;
       display: inline-block;
       vertical-align: top;
       p {
-        font-size: 1.6rem;
+        font-size: 1.4rem;
         font-weight: 200;
         line-height: 1;
       }
     }
-    &.dr-tf {
+    &.dr-sptf {
       .dr-stat {
         width: 30%;
+        padding: 0 5px 0 0;
         p {
-          font-size: 1.6rem;
-          font-weight: 200;
-          line-height: 1;
+          font-size: 1.4rem;
         }
       } 
+      h5 {
+        color: $adb-accent-green;
+      }
     }
   }
   .dr-side-nav {

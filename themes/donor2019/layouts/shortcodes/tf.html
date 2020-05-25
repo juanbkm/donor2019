@@ -1,16 +1,14 @@
 {{ $tf := $.Page.Params.tf }}
-{{ $contributor := $.Page.Params.contributor }}
 <section class="dr-tf">
 <div class="row justify-content-md-center">
   <div class="col-md-4">
     <div class="nav flex-column nav-pills dr-side-nav" id="v-pills-tab" role="tablist" aria-orientation="vertical">
       
         <h6>Single Partner Trust Funds</h6>
-
         {{ range where $tf ".type" "single" }}
           <a class="nav-link" id="dr-{{ .id }}-tab" data-toggle="pill" href="#dr-{{ .id }}" role="tab" aria-controls="v-pills-home" aria-selected="false">{{ .name }}</a>
-          {{ end }}
-
+        {{ end }}
+        
        <h6>Multi-partner Trust Funds</h6>
 
           {{ range where $tf ".type" "multi" }}

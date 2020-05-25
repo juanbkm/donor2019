@@ -1,0 +1,54 @@
+{{ $tf := $.Page.Params.tf }}
+<section id="dr-sptf">
+<div class="row justify-content-md-center py-lg-5">
+  <div class="col-md-4">
+    <h5>Multi-partner Trust Funds</h5>
+    <ul>
+    {{ range where $tf ".type" "multi" }}
+      <li>{{ .name }} ({{ .year }})</li>
+    {{ end }}
+    </ul>
+  </div>
+  <div class="col-md-8">
+    <h3>Multi-partner Trust Funds <em>with active projects in 2019</em></h3>
+    {{ range where $tf ".type" "multi" }}
+    <div class="dr-mod-partner dr-sptf">
+    <h5>{{ .name }} ({{ .year }})</h5>
+
+    {{ with .tcc }}
+    <div class="dr-stat">
+      <h6>Total Contributions Committed</h6>
+      <p>{{ . }}</p>
+    </div>
+    {{ end }}
+
+    {{ with .cfp }}
+    <div class="dr-stat">
+      <h6>Committed for Projects</h6>
+      <p>{{ . }}</p>
+    </div>
+    {{ end }}
+        
+    <div class="dr-stat">
+      <h6>Contributor</h6>
+      <ul class="dr-funding">
+        {{ range .contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
+      </ul>
+    </div>
+
+    {{ $markdown := .description | markdownify }}
+    {{ if not ( strings.Contains $markdown "<p>" ) }}
+        <p>{{ $markdown }}</p>
+    {{ else }}
+        {{ $markdown }}
+    {{ end }}
+        
+  </div>
+  {{ end }}
+
+      
+  </div>
+
+  </div>
+</div>
+</section>

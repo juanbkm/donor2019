@@ -25,6 +25,10 @@ li {
     margin: 0;
     margin-bottom: 80px;
   }
+  .dr-page-title h2 {
+    border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+    padding-bottom: 40px;
+  }
   h3 {
     clear: both;
     font-size: 1.8rem;
@@ -34,6 +38,13 @@ li {
     letter-spacing: .4rem;
     color: $adb-dr-gray;
     margin-top: $margin-big;
+    em {
+      display: block;
+      font-size: 1rem;
+      font-style: normal;
+      text-transform: lowercase;
+      letter-spacing: 1px;
+    }
   }
   h3:after {
     content: '';

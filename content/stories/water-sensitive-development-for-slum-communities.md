@@ -1,7 +1,7 @@
 ---
 title: "Water-sensitive Development for Slum Communities"
 date: 2020-03-31T17:47:33+08:00
-image: images/stories/rebuilding-the-road-to-the-border.jpg
+image: images/stories/water-sensitive-development-for-slum-communities.jpg
 image_caption: "From Balancing in Bamboo Rafts in Floods to Walking on Nature-based Design Footpaths. Slum residents in Makassar City, Indonesia, like this woman and her child, used to wade in stagnant floodwaters. Now, they walk on urban paved footpaths."
 author: Admin
 description: "This is meta description"
