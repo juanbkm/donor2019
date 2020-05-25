@@ -10,10 +10,10 @@
 
       {{ "<!-- side nav -->" | safeHTML }}
       <div class="nav flex-column nav-pills dr-side-nav" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-        <a class="nav-link" id="v-pills-pta-tab" data-toggle="pill" href="" role="tab" aria-controls="v-pills-pta" aria-selected="false">by Product and Type of Assistance</a>
-        <a class="nav-link sub-nav active" id="v-pills-loans-grants-tab" data-toggle="pill" href="#v-pills-loans-grants" role="tab" aria-controls="v-pills-loans-grants" aria-selected="false">Loans & Grants</a>
-        <a class="nav-link sub-nav" id="v-pills-ipvta-tab" data-toggle="pill" href="#v-pills-ipvta" role="tab" aria-controls="v-pills-ipvta" aria-selected="false">Investment Projects vs. Technical Assistance</a>
-        <a class="nav-link sub-nav" id="v-pills-psvtfc-tab" data-toggle="pill" href="#v-pills-psvtfc" role="tab" aria-controls="v-pills-psvtfc" aria-selected="false">Project-Specific vs. Trust Fund Cofinancing</a>
+        <span style="display: block; padding: 0.5rem 1rem; font-weight: 200; font-size: 1.4rem; color: #555;">by Product and Type of Assistance</span>
+        <a class="nav-link sub-nav active" id="v-pills-loans-grants-tab" data-toggle="pill" href="#v-pills-loans-grants" role="tab" aria-controls="v-pills-loans-grants" aria-selected="false">By Product: Loans & Grants</a>
+        <a class="nav-link sub-nav" id="v-pills-ipvta-tab" data-toggle="pill" href="#v-pills-ipvta" role="tab" aria-controls="v-pills-ipvta" aria-selected="false">By Assistance Type: Projects & Technical Assistance</a>
+        
       </div>
 
       {{ "<!-- /side nav -->" | safeHTML }}
@@ -26,12 +26,12 @@
           <h4>by Product and Type of Assistance</h4>
         </div>
         <div class="tab-pane fade active show" id="v-pills-loans-grants" role="tabpanel" aria-labelledby="v-pills-loans-grants-tab">
-          <p>Loan and equity cofinancing accounted for 92%, grant cofinancing for investment projects for 3%, and grant cofinancing for technical assistance for 5%.</p>
+          <p>Loan cofinancing accounted for 92%, grant cofinancing for investment projects for 3%, and grant cofinancing for technical assistance for 5%.</p>
           
           <ul class="chart nav nav-pills">
             <li class="" style="width: 92%;"><a href="#loan-co" data-toggle="tab">$4.52 billion - Loan Cofinancing</a></li>
-            <li class="" style="width: 3%;"><a href="#grant-co-inv" data-toggle="tab">$152.41 million - Grant Cofinancing for Investment Projects</a></li>
-            <li class="color-green" style="width: 5%;"><a href="#grant-co-tech" data-toggle="tab">$218.90 million - Grant Cofinancing for Technical Assistance  </a></li>
+            <li class="" style="width: 3%;"><a href="#grant-co-inv" data-toggle="tab">$152.4 million - Grant Cofinancing for Investment Projects</a></li>
+            <li class="color-green" style="width: 5%;"><a href="#grant-co-tech" data-toggle="tab">$218.9 million - Grant Cofinancing for Technical Assistance  </a></li>
           </ul>
           <br />
           <div class="chart-content tab-content">
@@ -56,7 +56,7 @@
               <div style="width: 95%;">
                 <div class="dr-typeof">
                   <p>
-                    <span class="dr-amount">$152.41 million</span>
+                    <span class="dr-amount">$152.4 million</span>
                     <span class="dr-cofin-type">Grant Cofinancing for Investment Projects</span>
                     <span class="dr-projects">22 Projects</span></p>
 
@@ -71,7 +71,7 @@
               <div style="width: 100%;">
                 <div class="dr-typeof">
                   <p>
-                    <span class="dr-amount">$218.90 million</span>
+                    <span class="dr-amount">$218.9 million</span>
                     <span class="dr-cofin-type">Grant Cofinancing for Technical Assistance</span>
                     <span class="dr-projects">112 Projects</span></p>
 
@@ -90,7 +90,7 @@
           <p>Of the $4.89 billion sovereign cofinancing commitments in 2019, 96% was for investment project cofinancing and 4% for technical assistance cofinancing.</p>
           <ul class="chart nav nav-pills">
             <li class="" style="width: 96%;"><a href="#inv-pro" data-toggle="tab">$4.67 billion - Investment Projects </a></li>
-            <li class="" style="width: 4%;"><a href="#tech-assist" data-toggle="tab">$218.90 million - Technical Assistance </a></li>
+            <li class="" style="width: 4%;"><a href="#tech-assist" data-toggle="tab">$218.9 million - Technical Assistance </a></li>
           </ul>
         
           <div class="chart-content tab-content">
@@ -113,7 +113,7 @@
 
               <div style="width: 100%;">
                 <div class="dr-typeof">
-                  <p><span class="dr-amount">$218.90 million</span> 
+                  <p><span class="dr-amount">$218.9 million</span> 
                      <span class="dr-cofin-type">Technical Assistance</span>
                      <span class="dr-projects">112 Projects</span></p>
 

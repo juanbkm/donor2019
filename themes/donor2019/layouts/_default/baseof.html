@@ -154,9 +154,15 @@
 
 	<script>
 		
-		$('.nav-pills > li > a').hover(function() {
-		$(this).tab('show');
-		});
+		$('.chart.nav.nav-pills > li > a').hover(function() {
+      	$(this).tab('show');
+      	});
+
+      	$('.chart.nav.nav-pills > li > a').mouseleave(function(){
+      	$(this).removeClass("active");
+      	$('.body-tab').removeClass("active");
+
+      	});
 		
 
 
