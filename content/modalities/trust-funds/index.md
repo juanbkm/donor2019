@@ -4,6 +4,56 @@ date: 2020-05-24T17:18:39+08:00
 main_image: images/modalities/tf.jpg
 id: dr-tf
 summary: Trust funds are single- or multi-partner channels of cofinancing resources to fund various projects, programs, technical assistance, and other activities. ADB administers contributions of financing partners as a trustee or administrator of about 45 trust funds, 14 of which fall under umbrella Financing Partnership Facilities. In 2019, trust funds contributed around $181 million in ADB’s sovereign operations.
+tfnav:
+  - name: Single Partner Trust Fund
+    image: images/modalities/sptf.jpg
+    summary: |
+      ADB is a trustee of 18 active single-partner trust funds, with contributions from Australia, Canada, People’s Republic of China, Denmark, France, Ireland, Japan, Republic of Korea, and Spain.
+    link: ./modalities/trust-funds/single-partner-trust-funds/
+  - name: Multi-partner Trust Funds
+    image: images/modalities/mptf.jpg
+    summary: |
+      Bigger and more flexible multi-partner trust funds introduced in the 2000s have promoted collaboration among ADB’s financing partners and attracted new and nontraditional partners from the private sector, including philanthropic organizations.
+    link: ./modalities/trust-funds/multi-partner-trust-funds/
+  - name: Financing Partnerships Facilities
+    image: images/modalities/fpf.jpg
+    summary: |
+      Financing partnerships facilities support ADB’s corporate initiatives, such as fostering regional integration and cooperation, increasing investments in clean energy, developing green cities, increasing water investments, and increasing health impacts and health security across the region. Each FPF houses one or more trust funds that finance projects and programs that contribute toward achieving the FPF’s targets and objectives.
+    link: ./modalities/trust-funds/financing-partnerships-facilities/
+stories:
+  - storytitle: Wind Power for More Renewable Power
+    lead: "Sri Lanka is keen on developing wind power as an alternative to more costly thermal power. An ADB technical assistance supported by the Clean Energy Fund, built the capacity of Sri Lanka’s largest electric company to handle wind power projects with private sector involvement."
+    image: images/stories/wind-power-for-energy-efficiency-and-security.jpg
+    project_title: "Sri Lanka: Wind Power Generation Project"
+    project_url: https://www.adb.org/projects/49345-001/main#project-overview
+    cost: "$2 million"
+    fin_partners:
+     - name: "Clean Energy Fund under the Clean Energy Financing Partnership Facility"
+       amount: "$2 million"
+    approval: "March 2016"
+    completion: "February 2019"
+  - storytitle: "Raising the Quality of Urban Service Delivery"
+    image: images/stories/the-importance-of-policy-in-alleviating-urban-poverty.jpg
+    lead: "The Rajasthan Urban Sector Development Program, a partnership among ADB, Bill & Melinda Gates Foundation, and the Government of India, showed that physical investments that uplift the lives of the urban poor are better planned if they are combined with policy actions that strengthen institutions that oversee infrastructure and planning."
+    project_title: "Rajasthan Urban Sector Development Program"
+    project_url: https://www.adb.org/projects/42267-026/main#project-pds
+    cost: "$613 million"
+    fin_partners:
+     - name: "Bill & Melinda Gates Foundation"
+       amount: "$2 million"
+    approval: "October 2014"
+    completion: "June 2020"
+  - title: "In Uncertain Times, Ample Preparation for Food Production"
+    image: images/stories/in-uncertain-times-ample-preparation-for-food-production.jpg
+    lead: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnerships Facility, through The Netherlands Trust Fund, is supporting the preparations."
+    project_title: "Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project"
+    project_url: https://www.adb.org/projects/53237-002/main
+    cost: "$1.25 million"
+    fin_partners:
+     - name: "The Netherlands Trust Fund under the Water Financing Partnerships Facility"
+       amount: "$750,000"
+    approval: "December 2019"
+    completion: "November 2020"
 weight: 
 draft: false
 ---
@@ -19,3 +69,5 @@ Of the 45 ADB-managed trust funds, 14 are housed under ADB’s Financing Partner
 FPFs are operational mechanisms for strategic, long-term, multi-partner cooperation. They have set targets and objectives, ensure a steady and coordinated flow of funds, and are intensively managed to ensure that these goals are achieved, from application processing to project development and results monitoring. In 2019, the ASEAN Australia Smart Cities was established under the Urban Financing Partnerships Facility with an initial funding of $15.2 million. It aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
 
 {{< dr-artimage src="./images/modalities/tf-chart.png" width="100%" >}}
+
+{{< tf-nav >}}

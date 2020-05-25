@@ -1,0 +1,55 @@
+{{ $tfnav := $.Page.Params.tfnav }}
+<div class="row">
+  {{ range $tfnav }}
+  <div class="col-md-4">
+    <img src="{{ .image }}" alt="">
+    <h5><a href="{{ .link | absURL }}">{{ .name }}</a></h5>
+    {{ $markdown := .summary | markdownify }}
+
+    {{ if not ( strings.Contains $markdown "<p>" ) }}
+        <p>{{ $markdown }}</p>
+    {{ else }}
+        {{ $markdown }}
+    {{ end }}
+  </div>
+  {{ end}}
+</div>
+
+{{ $stories := $.Page.Params.stories }}
+{{ range $stories }}
+<div class="row">
+  <div class="col">
+    <h3>{{ .storytitle }}</h3>
+    {{ $markdown := .lead | markdownify }}
+
+    {{ if not ( strings.Contains $markdown "<p>" ) }}
+        <p>{{ $markdown }}</p>
+    {{ else }}
+        {{ $markdown }}
+    {{ end }}
+  </div>
+</div>
+<div class="row justify-content-md-center dr-mod-proj">
+  <div class="col-md-6">
+    {{ with .image }} <img src="{{ . }}" alt=""> {{ end }}
+  </div>
+  <div class="col-md-6">
+    <h6>Project</h6>
+    <p><a href="{{ .project_url }}">{{ .project_title }}</a></p>
+
+    <h6>Project Cost</h6>
+    <p class="dr-cost">{{ .cost }}</p>
+    {{ $finpart := .fin_partners }}              
+    <h6>Financing {{ cond (eq (len $finpart) 1) "Partner" "Partners" }}</h6>
+    <p class="dr-partner"></p>
+    <ul class="dr-funding">
+      {{ range .fin_partners}}<li>{{ .name  | markdownify }}</li>{{ end }}
+    </ul>
+    <h6>Approval Date:</h6>
+    <p>{{ .approval }}</p>
+    
+    <h6>Completion Date:</h6>
+    <p>{{ .completion }}</p>
+  </div>
+</div>
+{{ end }}
