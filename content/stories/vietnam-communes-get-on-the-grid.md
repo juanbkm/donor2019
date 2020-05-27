@@ -29,6 +29,7 @@ completion: "May 2018"
 categories: [ "Climate change" ]
 filter:
   - "dr-climate"
+weight: 8
 draft: false
 ---
 

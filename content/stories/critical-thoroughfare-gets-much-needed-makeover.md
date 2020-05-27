@@ -26,6 +26,7 @@ completion: "May 2017"
 categories: [ "Governance" ]
 filter:
   - "dr-governance"
+weight: 11
 draft: false
 ---
 

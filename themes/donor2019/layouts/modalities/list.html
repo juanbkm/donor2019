@@ -1,54 +1,42 @@
 {{ define "main" }}
 
-{{- if .Sections -}}
-{{- range .Sections -}}
-{{- range $i, $e := .Data.Pages -}}
-<div class="container clearfix">
-  {{- partial "sectiontitle.html" . -}} 
-  <div class="row">
-    {{ with .Site.GetPage "/modalities/project-specific-cofinancing" }}
-    <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
-      <a href="{{.Permalink}}">
-      <img src="{{ .Params.main_image }}" alt="" />
-      <h4>{{.Title}}</h4>
-      <p>{{ .Params.summary }}</p>
-      </a>
-    </div>
-    {{ end }}
-    {{ with .Site.GetPage "/modalities/trust-funds" }}
-    <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
-      <a href="{{.Permalink}}">
-      <img src="{{ .Params.main_image }}" alt="" />
-      <h4>{{.Title}}</h4>
-      <p>{{ .Params.summary }}</p>
-      </a>
-    </div>
-    {{ end }}
-  </div>
-  {{ with .Site.GetPage "/modalities/partnership-framework-agreements" }}
-  <div id="{{ .Params.id }}" class="row dr-modalities">
-    
-    <div class="col-md-6">
-      <img src="{{ .Params.main_image }}" alt="" />
-    </div>
-    <div class="col-md-6">
-      <a href="{{.Permalink}}">
-      <h4>{{.Title}}</h4>
-      <p>{{ .Params.summary }}</p>
-    </a>
-    </div>
-    
-  </div>
-  {{ end }} 
-</div>
-
-{{- end -}}
-{{- end -}}
-{{- end -}}
-
-{{- range $i, $e := .Data.Pages -}}
-  
-
-{{- end -}}
+      <div class="container clearfix">
+        {{- partial "sectiontitle.html" . -}} 
+        <div class="row">
+          {{ with .Site.GetPage "/modalities/project-specific-cofinancing" }}
+          <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+            <a href="{{.Permalink}}">
+            <img src="{{ .Params.main_image }}" alt="" />
+            <h4>{{.Title}}</h4>
+            <p>{{ .Params.summary }}</p>
+            </a>
+          </div>
+          {{ end }}
+          {{ with .Site.GetPage "/modalities/trust-funds" }}
+          <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+            <a href="{{.Permalink}}">
+            <img src="{{ .Params.main_image }}" alt="" />
+            <h4>{{.Title}}</h4>
+            <p>{{ .Params.summary }}</p>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+        {{ with .Site.GetPage "/modalities/partnership-framework-arrangements" }}
+        <div id="{{ .Params.id }}" class="row dr-modalities">
+          
+          <div class="col-md-6">
+            <img src="{{ .Params.main_image }}" alt="" />
+          </div>
+          <div class="col-md-6">
+            <a href="{{.Permalink}}">
+            <h4>{{.Title}}</h4>
+            <p>{{ .Params.summary }}</p>
+          </a>
+          </div>
+          
+        </div>
+        {{ end }} 
+      </div>
 
 {{ end }}

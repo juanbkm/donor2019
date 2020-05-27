@@ -24,6 +24,7 @@ completion: "June 2023"
 categories: [ "Livable Cities" ]
 filter:
   - "dr-livable"
+weight: 10
 draft: false
 ---
 

@@ -1,0 +1,41 @@
+{{ $gf := $.Page.Params.gf }}
+<section class="dr-gf">
+<div class="row justify-content-md-center">
+  <div class="col-md-4">
+    <div class="dr-mod-nav">
+      <h5>Single Partner Trust Funds</h5>
+      <ul>
+        {{ range $gf }}
+        <li><a href="./modalities/global-funds/#dr-{{ .id }}">{{ .name }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="col-md-8">
+    <h3>Global Fundswith Active Projects In 2019</h3>
+    {{ range $gf }}
+      <div class="dr-mod-partner dr-gf" id="dr-{{ .id }}">
+        <h5><a href="{{ .url }}" target="_blank">{{ .name }}</a></h5>
+
+        {{ with .ccpsc }}
+        <div class="dr-stat">
+          <h6>Cumulative contribution to project-specific cofinancing</h6>
+          <p>{{ . }}</p>
+        </div>
+        {{ end }}
+
+        {{ $markdown := .description | markdownify }}
+        {{ if not ( strings.Contains $markdown "<p>" ) }}
+            <p>{{ $markdown }}</p>
+        {{ else }}
+            {{ $markdown }}
+        {{ end }}
+        
+      </div>
+      {{ end }}
+
+    
+
+  </div>
+</div>
+</section>

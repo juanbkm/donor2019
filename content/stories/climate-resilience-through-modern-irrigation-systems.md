@@ -26,6 +26,7 @@ completion: "June 2026"
 categories: [ "Climate Change​" ]
 filter:
   - "dr-climate"
+weight: 5
 draft: false
 ---
 ### Expected Partnership Results

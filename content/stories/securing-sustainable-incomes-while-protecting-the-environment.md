@@ -19,6 +19,7 @@ completion: "October 2019"
 categories: [ "Poverty​" ]
 filter:
   - "dr-poverty"
+weight: 2
 draft: false
 ---
 

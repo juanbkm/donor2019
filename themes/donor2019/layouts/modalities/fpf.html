@@ -1,0 +1,54 @@
+{{ define "main" }}
+
+<div class="container dr-article-body">
+    <div class="row">
+        <div class="col mx-auto dr-page-title">
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Params.lead }}</p>
+        </div>
+    </div>
+    <div class="row justify-content-md-center mb-5">
+      <div class="col-md-4">
+        <div class="dr-contributions">
+          {{ with .Params.total }}
+            {{ . | markdownify }}
+            <p>Total contributions received as of 31 December 2019</p>
+          {{ end }}
+          
+          <h5>2019 Contributions</h5>
+          {{ with .Params.contributions }}
+            {{ . | markdownify }}
+            
+          {{ end }}
+
+          <h5>Contributors</h5>
+          <ul>
+          {{ range .Params.contributors }}
+            <li>{{ .name }}</li>  
+          {{ end }}
+          </ul>
+
+
+        </div>
+
+
+         {{ $markdown := .Params.summary | markdownify }}
+
+          {{ if not ( strings.Contains $markdown "<p>" ) }}
+              <p>{{ $markdown }}</p>
+          {{ else }}
+              {{ $markdown }}
+          {{ end }}
+      </div>
+      <div class="col-md-8">
+          {{ with .Params.chart }}
+            <img src="./images/modalities/{{ . }}" alt="" class="dr-mod-chart">
+          {{ end }}
+          {{ .Content }}
+
+      </div>
+  </div>
+
+</div>
+
+{{ end }}

@@ -1,22 +1,20 @@
-{{ $fca := $.Page.Params.fca }}
-{{$first := index ($.Page.Params.fca) 0 }}
+{{ $pfa := $.Page.Params.pfa }}
+{{$first := index ($.Page.Params.pfa) 0 }}
 
-<section id="dr-fca">
-<div class="row justify-content-md-center py-5">
+<section class="dr-pfa">
+<div class="row justify-content-md-center">
   <div class="col-md-4">
-    <h5>Framework Cofinancing Arrangements</h5>
-    <div class="dr-side-nav">
-      <ul>
-      {{ range $fca }}
-        <li>{{ .name }}</li>
+    <div class="nav flex-column nav-pills dr-side-nav" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+      {{ range $pfa }}
+      <a class="nav-link {{ if $first }}{{ end }}" id="dr-{{ .id }}-tab" data-toggle="pill" href="#dr-{{ .id }}" role="tab" aria-controls="v-pills-home" aria-selected="true">{{ .name }}</a>
       {{ end }}
-      </ul>
     </div>
   </div>
   <div class="col-md-8">
-    <h3>ADB'S ACTIVE FCAs FOR 2019</h3>
-    {{ range $fca }}
-      <div class="dr-mod-partner dr-fca" id="dr-{{ .id }}">
+    
+    <div class="tab-content" id="v-pills-tabContent">
+      {{ range $pfa }}
+      <div class="tab-pane fade dr-mod-partner" id="dr-{{ .id }}" role="tabpanel" aria-labelledby="dr-{{ .id }}-tab">
         <h5>{{ .name }}</h5>
 
         {{ with .mou }}
@@ -33,7 +31,7 @@
         </div>
         {{ end }}
 
-        {{ with .fca }}
+        {{ with .pfa }}
         <div class="dr-stat">
           <h6>Framework Cofinancing Agreement</h6>
           <p>{{ . }}</p>
@@ -56,7 +54,7 @@
         
       </div>
       {{ end }}
-    
+    </div>
 
   </div>
 </div>

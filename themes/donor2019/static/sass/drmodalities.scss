@@ -78,6 +78,29 @@
       font-size: .8rem;
     }
   }
+  #dr-fca {
+    h3:first-child {
+      margin-top: 0;
+    }
+    h5 {
+      color: $adb-accent-orange;
+    }
+    li {
+      font-size: .8rem;
+    }
+  }
+  .dr-gf {
+    h3:first-child {
+      margin-top: 0;
+    }
+    h5,
+    h5 a {
+      color: $adb-accent-orange;
+    }
+    li {
+      font-size: .8rem;
+    }
+  }
   .dr-mod-partner {
     h5 {
       color: $adb-accent-orange;
@@ -115,6 +138,30 @@
         color: $adb-accent-green;
       }
     }
+    &.dr-gf {
+      .dr-stat {
+        width: 100%;
+        padding: 0 5px 0 0;
+        p {
+          font-size: 1.4rem;
+        }
+      } 
+      h5 {
+        color: $adb-accent-green;
+      }
+    }
+    &.dr-fca {
+      .dr-stat {
+        width: 45%;
+        padding: 0 5px 0 0;
+        p {
+          font-size: 1.4rem;
+        }
+      } 
+      h5 {
+        color: $adb-accent-orange;
+      }
+    }
   }
   .dr-side-nav {
     .nav-link {
@@ -123,5 +170,15 @@
       font-size: 1rem;
     }
     
+  }
+  .dr-mod-nav {
+    position: sticky;
+  }
+  .dr-gf-nav {
+    background-color: $adb-gray-four;
+    width: 30%;
+    float: right;
+    padding: 20px;
+    margin: 0 0 20px 20px;
   }
 }

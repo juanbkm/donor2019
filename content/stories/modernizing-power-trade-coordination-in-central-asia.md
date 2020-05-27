@@ -23,6 +23,7 @@ completion: "December 2021"
 categories: [ "Governance" ]
 filter:
   - "dr-governance"
+weight: 12
 draft: false
 ---
 

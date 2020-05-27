@@ -22,6 +22,7 @@ filter:
   - "dr-climate"
   - "dr-liveable"
   - "dr-gender"
+weight: 4
 draft: false
 ---
 ### Partnership Results

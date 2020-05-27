@@ -23,6 +23,7 @@ categories: [ "Rural Development and Food Security", "Climate Change" ]
 filter:
   - "dr-rural"
   - "dr-climate"
+weight: 7
 draft: false
 ---
 ### Partnership Results

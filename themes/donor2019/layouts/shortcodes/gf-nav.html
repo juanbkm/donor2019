@@ -1,0 +1,10 @@
+{{ $gf := $.Site.GetPage "/modalities/global-funds" }}
+{{ with $gf }}
+<div id="" class="dr-gf-nav">
+    <a href="{{ .Permalink }}">
+    <img src="{{ .Params.main_image }}" alt="" />
+    <h5>{{ .Title }}</h5>
+    <p>{{ .Params.lead }}</p>
+    </a>
+</div>
+{{ end }}

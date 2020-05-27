@@ -17,6 +17,10 @@ fin_partners:
 approval: "October 2018"
 completion: "December 2022"
 categories: [ "Gender, Governance" ]
+filter:
+  - "dr-governance"
+  - "dr-gender"
+weight: 15
 draft: false
 ---
 ### Partnership Progress

@@ -57,6 +57,7 @@ projects:
 weight: 1
 draft: false
 ---
+{{< gf-nav >}}
 
 Project-specific cofinancing (PSC) is using the financing partners' funds for individual development projects, programs, or technical assistance. In 2019, ADB mobilized $4.71 billion in loans and grants from partners, comprising 96% of total sovereign cofinancing commitments. This was divided among 54 individual projects.
 

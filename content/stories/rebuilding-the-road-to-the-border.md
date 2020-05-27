@@ -23,6 +23,7 @@ completion: "August 2017"
 categories: [ "Regional Cooperation and Integration​" ]
 filter:
   - "dr-regional"
+weight: 13
 draft: false
 ---
 ### Partnership Results

@@ -1,8 +1,8 @@
 ---
-title: "Framework Cofinancing Arrangements"
+title: "Partnership Framework Arrangements"
 date: 2020-05-14T10:38:34+08:00
-main_image: images/modalities/fca.jpg
-summary: These are agreements or MOU with a specific financing partner that cover a wide range of activities. They promote better planning and coordination, predictability of cofinancing volume, and greater efficiencies.
+main_image: images/modalities/pfa.jpg
+summary: Partnership framework arrangements (PFAs) facilitate better planning and coordination of joint cofinancing activities. They enable ADB and a partner to cofinance projects—either as PSCs or via trust funds─ that match their sector and country priorities over a specific period of time. PFAs allow both parties to commit and pool resources that will support their common project pipeline. This type of arrangement increases the predictability of cofinancing volumes. They also make negotiations for individual projects in the pipeline, and the reporting and exchange of information on said projects, a little easier.
 fca:
   - item:
     name: Abu Dhabi Fund for Development
@@ -127,14 +127,21 @@ weight: 2
 draft: false
 ---
 
-Framework Cofinancing Arrangements (FCAs) encompass a wide range of partnerships that facilitates better planning and coordination of joint cofinancing activities. They help increase the predictability of cofinancing volumes, reduce the need for detailed negotiations for each transaction, and streamline processes for reporting and information exchange. An agreement or memorandum of understanding serves as documentation for FCAs. In particular, FCAs
+PFAs can come in different forms—from a memorandum of understanding to an aide memoire to a framework cofinancing agreement─ depending on the preferences and limitations of a financing partner. For instance, ADB and the Agence Française de Développement (AFD) have a Partnership Framework Arrangement, ADB and the Eurasian Development Bank have a Framework Cofinancing Arrangement, and ADB and KfW have a Memorandum of Agreement.
+
+Generally, PFAs detail the guiding principles of the partnership, the institutions’ common objectives, the scope of their cooperation and activities, and processes for monitoring, reporting, information exchange, and evaluation. PFAs may be updated through exchanges of letters. Specifically, PFAs
 
 * formalize the country, sector, and drivers of change priorities of the financing partner
-* establish the terms and mode of cofinancing
-* identify the roles and responsibilities of each party (such as project administration and information sharing); and/or
-* indicate the financing partner’s amount available for cofinancing over a period.
 
-In 2019, ADB had active FCAs with 13 financing partners, with a total funding envelope of US$18.75 billion. Under these agreements, ten projects amounting to $3.74 billion were signed in 2019.
+* establish the terms and mode of cofinancing
+
+* identify the roles and responsibilities of each party (such as project administration and information sharing)
+
+* indicate the financing partner’s amount available for cofinancing over a period
+
+ADB’s first PFA, framework cofinancing agreement, was with the Government of Japan in 2007. This FCA, which they formalized as the “Framework Agreement for the Implementation of the Accelerated Cofinancing Scheme,” committed between $1 billion and $2 billion (equivalent) over 5 years for projects that enhance climate investments, strengthen regional cooperation, and support energy efficiency for countries in Central Asia, the Caucasus, and the Pacific. This was followed by agreements with the Republic of Korea and the Islamic Development Bank (IsDB) in 2008, the People’s Republic of China in 2009, and France's AFD in 2010.
+
+In 2019, ADB had active FPAs with 11 financing partners, with a total funding envelope of about $20.25 billion. Two were expanded in 2019—those for the Agence Française de Développement and the KfW and one was newly signed, the Asian Infrastructure Investment Bank. Under all active FCAs, ten projects amounting to $3.74 billion were signed in 2019. This represents 77% of sovereign cofinancing operations for the year.
 
 
 {{< fca >}}
