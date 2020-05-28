@@ -3,9 +3,10 @@ title: "Clean Energy Financing Partnership Facility"
 date: 2020-05-27T14:06:15+08:00
 layout: "fpf"
 pagetype: fpf
+image: cefpf-mi.jpg
 lead: Improving access to energy, enhancing energy security, and decreasing the rate of climate change
 contributions: $14.9 million for the Clean Energy Fund *($3.3 million from Norway; $5.8 million from Sweden; $5.9 million from the United Kingdom)*
-total: $295.5 million
+total: $**295.5 million**
 contributors:
   - name: Australia
   - name: Canada
@@ -14,7 +15,57 @@ contributors:
   - name: Spain
   - name: Sweden 
   - name: United Kingdom
-chart: cefpf.png 
+chart: cefpf.png
+tf:
+  - name: Asian Clean Energy Fund
+    type: single
+    id: acef
+    tcc: $57.1 million  
+    rap: $57.3 million for 40 projects
+    fn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.  
+    contributor:
+      - partner: Japan
+    description: |
+      ACEF supports developing member countries in their efforts towards reducing greenhouse gases through utilization of renewable energy and energy efficiency technologies. ACEF prioritizes activities that will be implemented in cooperation with Japanese aid agencies, as the part of the Enhanced Sustainable Development for Asia initiative.
+  - name: Canadian Climate Fund for the Private Sector in Asia
+    type: single
+    id: ccfpsa
+    tcc: $81.5 million
+    rap: $75.0 million for 16 projects
+    fn:   
+    contributor:
+      - partner: Canada
+    description: |
+      CFPS aims to catalyze greater private sector investment in climate change mitigation and adaptation by helping the private sector overcome technology risks and cost hurdles to initiate and scale-up projects that reduce greenhouse gas (GHG) emissions and increase climate resilience.
+  - name: Carbon Capture and Storage Fund
+    type: multi
+    id: ccsf
+    tcc: $38.3 million
+    rap: $38.2 million for 18 projects and direct charges
+    fn:   
+    contributor:
+      - partner: Global Carbon Capture and Storage Institute* ($14.5 million) 
+      - partner: United Kingdom ($23.8 million)
+    description: |
+      CCSF aims to accelerate the physical deployment of carbon capture and storage (CCS) demonstration projects by (i) promoting projects, (ii) engaging in capacity development for CCS, (iii) supporting geological investigations and environmental studies related to potential carbon dioxide storage sites, and (iv) undertaking community awareness and support programs. 
+      
+      *The Global Carbon Capture and Storage Institute was a contributor to the Carbon Capture and Storage Fund MDTF from 2009 to 2018.
+  - name: Clean Energy Fund
+    type: multi
+    id: cef
+    tcc: $118.6 million
+    rap: $96.2 million for 132 projects and direct charges
+    fn:   
+    contributor:
+      - partner: Australia ($13.3 million)  
+      - partner: Norway ($46.6 million)
+      - partner: Spain ($9.5 million)
+      - partner: Sweden ($30 million)
+      - partner: United Kingdom ($19.2 million)
+    description: |
+      CCSF aims to accelerate the physical deployment of carbon capture and storage (CCS) demonstration projects by (i) promoting projects, (ii) engaging in capacity development for CCS, (iii) supporting geological investigations and environmental studies related to potential carbon dioxide storage sites, and (iv) undertaking community awareness and support programs. 
+      
+      *The Global Carbon Capture and Storage Institute was a contributor to the Carbon Capture and Storage Fund MDTF from 2009 to 2018.
 weight: 
 draft: false
 ---

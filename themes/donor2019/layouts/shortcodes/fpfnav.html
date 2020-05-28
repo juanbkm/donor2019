@@ -1,0 +1,17 @@
+{{ $tfnav := $.GetPage "modalities/clean-energy-financing-partnership-facility" }}
+<div class="row">
+  {{ range $tfnav }}
+  <div class="col-md-4">
+    <img src="{{ .image }}" alt="">
+    <h5><a href="{{ .link | absURL }}">{{ .name }}</a></h5>
+    {{ $markdown := .summary | markdownify }}
+
+    {{ if not ( strings.Contains $markdown "<p>" ) }}
+        <p>{{ $markdown }}</p>
+    {{ else }}
+        {{ $markdown }}
+    {{ end }}
+  </div>
+  {{ end}}
+</div>
+

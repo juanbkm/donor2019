@@ -124,6 +124,12 @@
         font-size: 1.4rem;
         font-weight: 200;
         line-height: 1;
+        margin-bottom: 10px;
+      }
+      p.dr-fn {
+        font-size: .7rem !important;
+        font-weight: 200;
+        line-height: 1;
       }
     }
     &.dr-sptf {
@@ -162,6 +168,33 @@
         color: $adb-accent-orange;
       }
     }
+  }
+  .dr-contributions {
+    h6 {
+      color: $adb-gray-one;
+      font-size: 2rem;
+      font-weight: 200;
+      margin: 0;
+    }
+    strong {
+      font-size: 3rem;
+      font-weight: 400;
+      margin: 0;
+    }
+    p {
+      font-size: 1rem;
+      margin-right: 60px;
+      line-height: 1.2;
+      em {
+        display: block;
+        font-size: 0.8rem;
+        padding: 5px 0;
+      }
+    }
+  }
+  .dr-mod-chart {
+    margin-bottom: 40px;
+    
   }
   .dr-side-nav {
     .nav-link {

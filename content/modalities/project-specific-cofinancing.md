@@ -1,17 +1,17 @@
 ---
-title: "Project Specific Cofinancing"
+title: "Project-specific Cofinancing"
 date: 2020-05-14T09:31:01+08:00
 main_image: images/modalities/psc.jpg
 id: dr-psc
-summary: Project-specific cofinancing, whether for a loan or a grant, is undertaken by ADB and a financing partner through a signed cofinancing agreement if the cofinancing is to be administered by ADB, or a memorandum of understanding if the cofinancing will not be ADB-administered. ADB also accesses the resources of Global Funds for project-specific cofinancing. In 2019, ADB mobilized $4.71 billion in loans and grants from partners.
+summary: Project-specific cofinancing, whether for a loan or a grant, is undertaken by ADB and a financing partner through a signed cofinancing agreement, if the cofinancing is to be administered by ADB, or a memorandum of understanding, if the cofinancing will not be ADB-administered. ADB also accesses the resources of Global Funds for project-specific cofinancing. In 2019, ADB mobilized $4.71 billion in loans and grants from partners.
 projects:
   - item:
     title: "Philippines: Malolos-Clark Railway Project"
     url: https://www.adb.org/projects/52083-001/main
     image: philippines.jpg
-    cost: $6,139 million
+    cost: $6.14 billion
     partners:
-      - name: "Japan International Cooperation Agency- **$2,011 million**"
+      - name: "Japan International Cooperation Agency- **$2.01 billion**"
     approval: May 2019
     completion: May 2019
   - item:
@@ -30,7 +30,7 @@ projects:
     title: "India: Mumbai Metro Rail Systems Project"
     url: https://www.adb.org/projects/49469-007/main
     image: india.jpg
-    cost: $1,675 million
+    cost: $1.68 billion
     partners: 
       - name: "New Development Bank – **$260 million**"
     approval: February 2019
@@ -67,11 +67,13 @@ Among the bilateral financing partners, Japan led in terms of volume with a $2.3
 
 Following the course set by Strategy 2030, ADB will explore innovative funding solutions to increase the availability of resources for project and strengthen its collaboration with new multilateral partners such as the Asian Infrastructure Investment Bank and the New Development Bank.
 
+By product type and source, the PSCs are distributed as follows:
+
 {{< dr-artimage src="./images/modalities/psc-chart.png" width="100%" >}}
 
 These are some of the more notable PSCs in 2019.
 
-### Billion Dollar Railway
+### Malolos-Clark Railway Project
 
 ADB’s biggest cofinanced project in 2019 is the [Philippines: Malolos-Clark Railway Project](https://www.adb.org/projects/52083-001/main), with $2.01 billion coming from Japan.
 
@@ -79,7 +81,7 @@ An important flagship project of ADB’s host country, the Malolos-Clark Railway
 
 {{< mod-proj i="0" >}}
 
-### Multi-Partners for Policy Reforms
+### Improved Fiscal and Infrastructure Management Program
 
 The [Tuvalu: Improved Fiscal and Infrastructure Management Program](https://www.adb.org/projects/50377-001/main) has the most number of financing partners in 2019.
 
@@ -87,7 +89,7 @@ Four partners—Australia, the European Union, New Zealand, and the World Bank�
 
 {{< mod-proj i="1" >}}
 
-### Engaging a New Partner
+### Mumbai Metro Rail Systems Project
 
 ADB and new partner New Development Bank (NDB) embarked on the [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main) their first cofinanced project. The metro rail project will ease travel for millions of commuters across Mumbai, help decongest heavily crowded suburban rail systems, and contribute to providing a modern, clean, and livable urban environment.
 
@@ -95,7 +97,7 @@ The Shanghai-based NDB is a new multilateral development bank set up in 2015 by 
 
 {{< mod-proj i="2" >}}
 
-### Getting More Financing Partners on Board
+### Shandong Green Development Fund Project 
 
 The financing partnership among ADB, France, and Germany on the [People's Republic of China: Shandong Green Development Fund Project](https://www.adb.org/projects/51194-001/main) is expected to create new partnerships on climate financing with the private sector.
 
@@ -103,10 +105,11 @@ The project will help establish the Shandong Green Development Fund (SGDF) and a
 
 {{< mod-proj i="3" >}}
 
-### Long Arms of Cofinancing
+### Pacific Private Sector Development Initiative 
 
 The [Regional: Pacific Private Sector Development Initiative, Phase IV](https://www.adb.org/projects/53072-001/main) (PSDI IV) is the PSC with the broadest DMC coverage, providing advisory and capacity-building assistance to all 14 Pacific Island Countries (PICs) to improve the PICs business enabling environments. The multi-phased initiative is expected to support inclusive, private sector-led economic growth in the Pacific subregion. The fourth phase is financed by Australia.
 
 PSDI IV will build on past achievements across six core areas: access to finance, business law reform, state-owned enterprise reform, public-private partnerships, competition and consumer protection, and the economic empowerment of women. The 14 PICs are Cook Islands, Fiji, Federated States of Micronesia, Kiribati, Marshall Islands, Nauru, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu.
 
 {{< mod-proj i="4" >}}
+

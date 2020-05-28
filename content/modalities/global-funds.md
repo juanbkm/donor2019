@@ -4,9 +4,11 @@ date: 2020-05-14T10:54:03+08:00
 main_image: images/modalities/gf.jpg
 lead: ADB participates in and accesses funds from Global Funds where the International Bank for Reconstruction and Development acts as Trustee. These funds are designed for particular development projects or technical assistance.
 summary: |
-  Global funds are funding initiatives managed by other multilateral banks, which can be accessed by multiple agencies, including ADB. ADB helps its developing member countries access global funds that has the World Bank as Trustee.
-  
-  Global Funds leverage public or private resources in support of international initiatives, enabling partners to provide direct and coordinated response to global priorities. ADB contributes to the Global Funds and assists developing member countries in gaining access to its financing.
+  Global funds are funding initiatives managed by other multilateral banks. Through ADB, the developing member countries can access these global funds, for which the International Bank for Reconstruction and Development serves as trustee.  
+
+  Global funds leverage public or private resources in support of international initiatives, enabling partners to provide direct and coordinated response to global priorities. ADB contributes to the Global Funds and assists developing member countries in gaining access to its financing.  
+
+  In 2019, loan cofinancing from global funds reached $152 million while grant cofinancing, for both investment grants and technical assistance, reached $54.5 million. The Green Climate Fund was a significant contributor, with a $95 million loan cofinancing for Mongolia’s Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project and a $29 million grant for Tonga’s Renewable Energy Project. 
 chart: gf-chart.png
 gf:
   - name: Climate Investment Funds

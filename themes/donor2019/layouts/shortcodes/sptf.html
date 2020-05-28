@@ -22,13 +22,15 @@
     </div>
     {{ end }}
 
-    {{ with .cfp }}
+    
     <div class="dr-stat">
-      <h6>Committed for Projects</h6>
-      <p>{{ . }}</p>
+      {{ with .cfp }}<h6>Committed for Projects</h6>
+      <p>{{ . }}</p>{{ end }}
+      {{ with .sa }}<h6>Scholars Awarded</h6>
+      <p>{{ . }}</p>{{ end }}
+      {{ with .cfpfn }}<p class="dr-fn">{{ . }}</p>{{ end }} 
     </div>
-    {{ end }}
-        
+         
     <div class="dr-stat">
       <h6>Contributor</h6>
       <ul class="dr-funding">

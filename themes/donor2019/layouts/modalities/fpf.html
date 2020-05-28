@@ -11,13 +11,14 @@
       <div class="col-md-4">
         <div class="dr-contributions">
           {{ with .Params.total }}
-            {{ . | markdownify }}
+            <h6>{{ . | markdownify }}</h6>
             <p>Total contributions received as of 31 December 2019</p>
           {{ end }}
-          
+        
+
           <h5>2019 Contributions</h5>
           {{ with .Params.contributions }}
-            {{ . | markdownify }}
+          <p>{{ . | markdownify }}</p>
             
           {{ end }}
 
@@ -28,23 +29,57 @@
           {{ end }}
           </ul>
 
-
         </div>
+        
 
-
-         {{ $markdown := .Params.summary | markdownify }}
-
-          {{ if not ( strings.Contains $markdown "<p>" ) }}
-              <p>{{ $markdown }}</p>
-          {{ else }}
-              {{ $markdown }}
-          {{ end }}
       </div>
       <div class="col-md-8">
           {{ with .Params.chart }}
             <img src="./images/modalities/{{ . }}" alt="" class="dr-mod-chart">
           {{ end }}
+
           {{ .Content }}
+
+          {{ range .Params.tf }}
+          <div class="dr-mod-partner dr-sptf">
+            <h5>{{ .name }}</h5>
+            {{ if eq .type "single" }} 
+              <p class="dr-type">Single Partner</p>
+            {{ else if eq .type "multi" }}
+            <p class="dr-type">Multi-partner</p>
+            {{ end }}
+
+            {{ with .tcc }}
+            <div class="dr-stat">
+              <h6>Total Contributions Committed</h6>
+              <p>{{ . }}</p>
+            </div>
+            {{ end }}
+      
+          
+          <div class="dr-stat">
+            {{ with .rap }}<h6>Resources allocated to project</h6>
+            <p>{{ . }}</p>{{ end }}
+            {{ with .fn }}<p class="dr-fn">{{ . }}</p>{{ end }} 
+          </div>
+               
+          <div class="dr-stat">
+            <h6>Contributor</h6>
+            <ul class="dr-funding">
+              {{ range .contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
+            </ul>
+          </div>
+      
+          {{ $markdown := .description | markdownify }}
+          {{ if not ( strings.Contains $markdown "<p>" ) }}
+              <p>{{ $markdown }}</p>
+          {{ else }}
+              {{ $markdown }}
+          {{ end }}
+              
+        </div>
+        {{ end }}
+
 
       </div>
   </div>

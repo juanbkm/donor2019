@@ -1,6 +1,7 @@
 ---
 title: "Financing Partnerships Facilities"
 date: 2020-05-25T16:27:03+08:00
+layout: "fpflist"
 main_image: images/modalities/fpf.jpg
 pageid: dr-fpf
 summary: |

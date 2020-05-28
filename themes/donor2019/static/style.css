@@ -9500,6 +9500,11 @@ td.actions {
   #dr-modalities .dr-mod-partner .dr-stat p {
     font-size: 1.4rem;
     font-weight: 200;
+    line-height: 1;
+    margin-bottom: 10px; }
+  #dr-modalities .dr-mod-partner .dr-stat p.dr-fn {
+    font-size: .7rem !important;
+    font-weight: 200;
     line-height: 1; }
 
 #dr-modalities .dr-mod-partner.dr-sptf .dr-stat {
@@ -9528,6 +9533,29 @@ td.actions {
 
 #dr-modalities .dr-mod-partner.dr-fca h5 {
   color: #eb6440; }
+
+#dr-modalities .dr-contributions h6 {
+  color: #333;
+  font-size: 2rem;
+  font-weight: 200;
+  margin: 0; }
+
+#dr-modalities .dr-contributions strong {
+  font-size: 3rem;
+  font-weight: 400;
+  margin: 0; }
+
+#dr-modalities .dr-contributions p {
+  font-size: 1rem;
+  margin-right: 60px;
+  line-height: 1.2; }
+  #dr-modalities .dr-contributions p em {
+    display: block;
+    font-size: 0.8rem;
+    padding: 5px 0; }
+
+#dr-modalities .dr-mod-chart {
+  margin-bottom: 40px; }
 
 #dr-modalities .dr-side-nav .nav-link {
   border-radius: 0;
