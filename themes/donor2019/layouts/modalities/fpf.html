@@ -10,16 +10,12 @@
     <div class="row justify-content-md-center mb-5">
       <div class="col-md-4">
         <div class="dr-contributions">
-          {{ with .Params.total }}
-            <h6>{{ . | markdownify }}</h6>
-            <p>Total contributions received as of 31 December 2019</p>
-          {{ end }}
-        
-
-          <h5>2019 Contributions</h5>
+          {{ with .Params.total }}<h6>{{ . | markdownify }}</h6>{{ end }}
+          {{ with .Params.totalcaption }}<p>{{ . | markdownify }}</p>{{ end }}
+          
           {{ with .Params.contributions }}
+          <h5>2019 Contributions</h5>
           <p>{{ . | markdownify }}</p>
-            
           {{ end }}
 
           <h5>Contributors</h5>
