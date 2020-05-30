@@ -42,7 +42,7 @@ The El Nino Southern Oscillation (ENSO) in 2014 to 2016 revealed Viet Nam’s vu
 
 Water scarcity and economic factors prompted many farmers in these regions to grow high value crops (HVC), such as coffee, peppers, grapes, apples, dragon fruits, and mangoes that can withstand longer dry spells and more suited to the changing agroecological environment. Notably, an increasing number of farmers are adapting on-farm micro-irrigation practices such as drip or sprinkler systems. This means less cost for farmers because these systems need less manpower and electricity for pumping water. 
 
-However, their choice of crops and existing irrigation system were mismatched. Many irrigation existing systems were originally designed for rice and cannot be applied to HVCs. These existing systems  lack the flexibility to provide the needed amount of water on demand. They are also less reliable and efficient, in part because of poor maintenance. They present challenges for water management, too, due to difficulties related to access control and enforcement of water allocation rules.  
+However, their choice of crops and existing irrigation system were mismatched. Many existing irrigation systems were originally designed for rice and cannot be applied to HVCs. They lack the flexibility to provide the needed amount of water on demand. They are also less reliable and efficient, in part because of poor maintenance. They present challenges for water management, too, due to difficulties related to access control and enforcement of water allocation rules.  
 
 ### Interventions
 

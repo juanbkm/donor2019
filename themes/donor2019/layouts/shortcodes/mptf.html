@@ -15,22 +15,22 @@
     <div class="dr-mod-partner dr-sptf">
     <h5>{{ .name }} ({{ .year }})</h5>
 
-    {{ with .tcc }}
+    
     <div class="dr-stat">
       <h6>Total Contributions Committed</h6>
-      <p>{{ . }}</p>
+      {{ with .tcc }}<p>{{ . }}</p>{{ end }}
+      {{ with .tccfn }}<p class="dr-fn">{{ . }}</p>{{ end }}
     </div>
-    {{ end }}
-
-    {{ with .cfp }}
+  
     <div class="dr-stat">
       <h6>Committed for Projects</h6>
-      <p>{{ . }}</p>
+      {{ with .cfp }}<p>{{ . }}</p>{{ end }}
+      {{ with .cfpfn }}<p class="dr-fn">{{ . }}</p>{{ end }} 
     </div>
-    {{ end }}
-        
+          
     <div class="dr-stat">
-      <h6>Contributor</h6>
+      {{ $contributor := .contributor }}
+      <h6>{{ cond (eq (len $contributor) 1) "Contributor" "Contributors" }}</h6>
       <ul class="dr-funding">
         {{ range .contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
       </ul>

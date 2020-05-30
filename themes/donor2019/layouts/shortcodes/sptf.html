@@ -32,7 +32,8 @@
     </div>
          
     <div class="dr-stat">
-      <h6>Contributor</h6>
+      {{ $contributor := .contributor }}
+      <h6>{{ cond (eq (len $contributor) 1) "Contributor" "Contributors" }}</h6>
       <ul class="dr-funding">
         {{ range .contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
       </ul>

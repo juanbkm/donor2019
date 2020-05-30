@@ -144,7 +144,7 @@ tf:
     description: |
       The fund seeks to reduce poverty and promote social development by supporting projects and technical assistance that address the needs of the poorest and most vulnerable in Asia and the Pacific. It provides grants to initiatives that focus on the agriculture, natural resources and rural development sector, as wells as projects that focus on health, transport, and education.
 
-      In 2019, Japan replenished the funds by $17.75 million. In the same year, JFPR supported projects that provided the poor with greater access to water (Balochistan Water Resources Development in Pakistan), made communities resilient to climate change [Resilient Community Development in Myanmar](https://www.adb.org/projects/51242-002/main#project-pds), provided the marginalized access to health services ([Second Health Human Resources Development Project](https://www.adb.org/projects/40354-017/main#project-pds) in Viet Nam ), and improved skills development to match the labor (Skills and < href="" target="_blank">[Knowledge for Inclusive Economic Growth in Viet Nam](https://www.adb.org/projects/49122-004/main#project-pds)). 
+      In 2019, Japan replenished the funds by $17.75 million. In the same year, JFPR supported projects that provided the poor with greater access to water (Balochistan Water Resources Development in Pakistan), made communities resilient to climate change [Resilient Community Development in Myanmar](https://www.adb.org/projects/51242-002/main#project-pds), provided the marginalized access to health services ([Second Health Human Resources Development Project](https://www.adb.org/projects/40354-017/main#project-pds) in Viet Nam ), and improved skills development to match the labor [Skills and Knowledge for Inclusive Economic Growth in Viet Nam](https://www.adb.org/projects/49122-004/main#project-pds)). 
   - item:
     type: single
     name: Japan Fund for Public Policy Training
@@ -172,7 +172,7 @@ tf:
       - item:
         partner: Japan  
     description: |
-      This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and non-sovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by US$9.25 million. It also cofinanced a project with ADB that seeks to improve <a href="https://www.adb.org/projects/49173-004/main#project-pds" target="_blank">Mongolia’s health system</a> to benefit its disadvantaged groups.
+      This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and non-sovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by US$9.25 million. It also cofinanced a project with ADB that seeks to improve [Mongolia’s health system](https://www.adb.org/projects/49173-004/main#project-pds) to benefit its disadvantaged groups.
   - item:
     type: single
     name: Japan Scholarship Program
