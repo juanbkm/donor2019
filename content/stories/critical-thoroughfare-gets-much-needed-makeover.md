@@ -1,6 +1,6 @@
 ---
 title: "Critical Thoroughfare Gets Much Needed Makeover"
-date: 2020-04-19T09:43:49+08:00
+date: 2020-05-30T08:15:00+08:00
 image: images/stories/critical-thoroughfare-gets-much-eeded-makeover.jpg
 image_caption: "**Island Connection.** People from the western and eastern parts of Tarawa Atoll in Kiribati are now reconnected by this climate-resilient bridge that is part of the newly rehabilitated South Tarawa Road."
 image_thumb: images/stories/critical-thoroughfare-gets-much-eeded-makeover-th.jpg
@@ -26,7 +26,7 @@ completion: "May 2017"
 categories: [ "Governance" ]
 filter:
   - "dr-governance"
-weight: 11
+weight: 6
 draft: false
 ---
 

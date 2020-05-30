@@ -1,6 +1,6 @@
 ---
 title: "Start-Ups to Deliver Inclusive Tourism in the Mekong Region"
-date: 2020-04-10T16:18:10+08:00
+date: 2020-05-30T08:12:00+08:00
 image: images/stories/start-ups-to-deliver-inclusive-tourism-in-the-mekong-region.jpg
 image_caption: "**Tourism Upgrade in the Mekong.** New tourism enterprises that use startup technology will promote a more inclusive and sustainable tourism industry in the Greater Mekong Region and support the millions of tourists who flock to this part of Asia yearly."
 image_thumb: images/stories/start-ups-to-deliver-inclusive-tourism-in-the-mekong-region-th.jpg
@@ -19,7 +19,7 @@ completion: "October 2018"
 categories: [ "​Regional Cooperation and Integration​" ]
 filter:
   - "dr-regional"
-weight: 14
+weight: 9
 draft: false
 ---
 

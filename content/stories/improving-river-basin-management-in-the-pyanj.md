@@ -1,6 +1,6 @@
 ---
 title: "Improving River Basin Management"
-date: 2020-04-24T11:43:16+08:00
+date: 2020-05-30T08:09:00+08:00
 image: images/stories/improving-river-basin-management-in-the-pyanj.jpg
 image_caption: "**Resilient River Basin.** Lives and livelihoods of people dependent on the Pyanj River Basin in Tajikistan have a more secure future as the basin becomes better protected and climate-proofed."
 image_thumb: images/stories/improving-river-basin-management-in-the-pyanj-th.jpg
@@ -24,7 +24,7 @@ completion: "June 2024"
 categories: [ "Climate Change​" ]
 filter:
   - "dr-climate"
-weight: 6
+weight: 12
 draft: false
 ---
 

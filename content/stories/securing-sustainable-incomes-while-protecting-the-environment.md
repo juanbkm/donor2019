@@ -1,6 +1,6 @@
 ---
 title: "Securing Sustainable Income while Protecting the Environment"
-date: 2020-04-24T11:43:16+08:00
+date: 2020-05-30T08:17:00+08:00
 image: images/stories/securing-sustainable-incomes-while-protecting-the-environment.jpg
 image_caption: "**Eco-friendly Earnings.** Ecosystem-based and financially viable businesses have increased the incomes of fisherfolks in two coastal communities in Palawan, Philippines and East Kalimantan, Indonesia."
 image_thumb: images/stories/securing-sustainable-incomes-while-protecting-the-environment-th.jpg
@@ -19,7 +19,7 @@ completion: "October 2019"
 categories: [ "Poverty​" ]
 filter:
   - "dr-poverty"
-weight: 2
+weight: 4
 draft: false
 ---
 

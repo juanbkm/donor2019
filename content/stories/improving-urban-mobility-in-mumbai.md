@@ -1,6 +1,6 @@
 ---
 title: "Improving Urban Mobility in Congested Mumbai"
-date: 2020-04-24T11:43:16+08:05
+date: 2020-05-30T08:18:00+08:00
 image: images/stories/improving-urban-mobility-in-mumbai.jpg
 image_caption: "**Metro Rails in Mumbai.** Mumbai's 7.5 million railway commuters will soon enjoy a safer and more comfortable means of transport in and around the city with the development of a new metro rail system that would help decongest its public transport system."
 image_thumb: images/stories/improving-urban-mobility-in-mumbai-th.jpg
@@ -24,7 +24,7 @@ completion: "June 2023"
 categories: [ "Livable Cities" ]
 filter:
   - "dr-livable"
-weight: 10
+weight: 3
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Wind Power for More Renewable Power"
-date: 2020-04-30T17:47:33+08:00
+date: 2020-05-30T08:10:00+08:00
 image: images/stories/wind-power-for-energy-efficiency-and-security.jpg
 image_caption: "**Windmills of Your Mind.** Sri Lanka is planning to build a wind farm by 2022 and has undertaken meticulous preparations for harvesting power from the winds."
 author: Admin
@@ -18,7 +18,7 @@ completion: "February 2019"
 categories: [ "Climate Change" ]
 filter:
   - "dr-climate"
-weight: 9
+weight: 11
 draft: false
 ---
 ### Partnership Results

@@ -1,6 +1,6 @@
 ---
 title: "Access to Credit Empowers Sri Lankan Women"
-date: 2020-04-10T22:10:09+08:00
+date: 2020-05-30T08:11:00+08:00
 image: images/stories/smes-mainstream-women-into-sri-lankas-economy.jpg
 image_caption: "**Women Mean Business.** These women entrepreneurs in Sri Lanka and many others like them can now obtain loans faster and easier from local banks to jumpstart their own small business enterprises."
 image_thumb: images/stories/smes-mainstream-women-into-sri-lankas-economy-th.jpg
@@ -26,7 +26,7 @@ completion: "30 Sep 2020"
 categories: [ "Gender​" ]
 filter:
   - "dr-gender"
-weight: 3
+weight: 10
 draft: false
 ---
 

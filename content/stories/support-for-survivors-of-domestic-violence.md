@@ -1,6 +1,6 @@
 ---
 title: "Support for Survivors of Domestic Violence"
-date: 2020-05-18T10:45:00+08:00
+date: 2020-05-30T08:14:00+08:00
 image: images/stories/support-for-survivors-of-domestic-violence.jpg
 image_caption: "**Heads Up High.** Social, legal, and medical support services will become more available for women and young girls who are survivors of domestic violence in Mongolia."
 author: Admin
@@ -8,7 +8,7 @@ description: "This is meta description"
 country: Mongolia
 summary: "Mongolia is keen on eradicating domestic violence against women and children. The Japan Fund for Poverty Reduction contributed $3 million to an ADB project that aims to help survivors break free from this vicious cycle."
 project_title: "Mongolia: Combating Domestic Violence Against Women and Children"
-projec_url: "https://www.adb.org/projects/51217-001/main"
+project_url: "https://www.adb.org/projects/51217-001/main"
 cost: "$3 million"
 fund_source: 
 fin_partners: 
@@ -20,7 +20,7 @@ categories: [ "Gender, Governance" ]
 filter:
   - "dr-governance"
   - "dr-gender"
-weight: 15
+weight: 7
 draft: false
 ---
 ### Partnership Progress

@@ -1,6 +1,6 @@
 ---
 title: "In Uncertain Times, Ample Preparation for Food Production"
-date: 2020-04-30T17:47:33+08:00
+date: 2020-05-30T08:20:00+08:00
 image: images/stories/in-uncertain-times-ample-preparation-for-food-production.jpg
 image_caption: "**Worried about Water.** Faced with escalating flood and drought risks, farmers in Bangladesh, like this woman tilling her field, are increasing their resilience to climate change and securing food for the future."
 image_thumb: images/stories/in-uncertain-times-ample-preparation-for-food-production-th.jpg
@@ -23,7 +23,7 @@ categories: [ "Rural Development and Food Security", "Climate Change" ]
 filter:
   - "dr-rural"
   - "dr-climate"
-weight: 7
+weight: 1
 draft: false
 ---
 ### Partnership Results

@@ -1,6 +1,6 @@
 ---
 title: "Climate Resilience through Modern Irrigation Systems"
-date: 2020-04-24T11:43:16+08:00
+date: 2020-05-30T08:07:00+08:00
 image: images/stories/climate-resilience-through-modern-irrigation-systems.jpg
 image_caption: "**Irrigation Going High Tech.** Farmers are looking forward to modern irrigation technology that promises to change the way farming is done in five provinces in Viet Nam."
 image_thumb: images/stories/climate-resilience-through-modern-irrigation-systems-th.jpg
@@ -26,7 +26,7 @@ completion: "June 2026"
 categories: [ "Climate Change​" ]
 filter:
   - "dr-climate"
-weight: 5
+weight: 14
 draft: false
 ---
 ### Expected Partnership Results

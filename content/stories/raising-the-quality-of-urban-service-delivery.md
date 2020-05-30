@@ -1,6 +1,6 @@
 ---
 title: "Raising the Quality of Urban Service Delivery"
-date: 2020-04-19T11:43:16+08:00
+date: 2020-05-30T08:19:00+08:00
 image: images/stories/the-importance-of-policy-in-alleviating-urban-poverty.jpg
 image_caption: "**Policy for Alleviating Poverty.** Sweeping policy actions motivated various stakeholders, including state institutions, municipalities, households, and investors, to work together to improve the quality of urban life in Rajasthan."
 image_thumb: images/stories/the-importance-of-policy-in-alleviating-urban-poverty-th.jpg
@@ -24,7 +24,7 @@ completion: "June 2020"
 categories: [ "Poverty​" ]
 filter:
   - "dr-poverty"
-weight: 1
+weight: 2
 draft: false
 ---
 ### Partnership Results

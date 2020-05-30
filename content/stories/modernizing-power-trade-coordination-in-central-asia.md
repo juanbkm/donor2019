@@ -1,6 +1,6 @@
 ---
 title: "Modernizing Power Trade Coordination in Central Asia"
-date: 2020-04-30T17:47:33+08:00
+date: 2020-05-30T08:13:00+08:00
 image: images/stories/modernizing-power-trade-coordination-in-central-asia.jpg
 image_caption: "**Keeping the Lights On.** Cutting-edge technology is about to turn Energiya into a state-of-the-art power flow coordination center in Central Asia. A modernized Energiya will help increase regional energy trading and address frequent power outages and increasing use of fossil fuels."
 author: Admin
@@ -23,7 +23,7 @@ completion: "December 2021"
 categories: [ "Governance" ]
 filter:
   - "dr-governance"
-weight: 12
+weight: 8
 draft: false
 ---
 

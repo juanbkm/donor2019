@@ -1,6 +1,6 @@
 ---
 title: "Viet Nam's Communes Get on the Grid"
-date: 2020-04-24T11:43:16+08:00
+date: 2020-05-30T08:06:00+08:00
 image: images/stories/vietnam-communes-get-on-the-grid.jpg
 image_caption: "**Lighting Remote Communities.** A low-voltage line runs through a commune road and has helped bring electricity into these poor communities where some of Viet Nam’s indigenous people live. Hundreds of thousands of households directly benefitted from the project."
 image_thumb: images/stories/vietnam-communes-get-on-the-grid-th.jpg
@@ -29,7 +29,7 @@ completion: "May 2018"
 categories: [ "Climate change" ]
 filter:
   - "dr-climate"
-weight: 8
+weight: 15
 draft: false
 ---
 
