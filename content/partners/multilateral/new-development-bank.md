@@ -12,7 +12,7 @@ The <a href="https://www.ndb.int/">New Development Bank (NDB)</a> was establishe
 In 2019, NDB cofinanced a project seeking to improve urban mobility in India by improving and expanding its railway system.  
 
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Nordic Development Fund
+##### _1 January 2014–31 December 2019_ Cofinancing with New Development Bank
 
 <table class="table dr-partner-table">
 <tr>

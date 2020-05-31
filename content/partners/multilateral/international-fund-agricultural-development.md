@@ -2,7 +2,7 @@
 title: "International Fund for Agricultural Development"
 date: 2020-04-11T19:06:49+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$616.92 million"
+project_specific_cofinancing: "$616.9 million"
 trust_funds_contribution: 
 partner_logo: images/partners/ifad.png
 draft: false

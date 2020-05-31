@@ -2,8 +2,8 @@
 title: "Nordic Development Fund"
 date: 2020-04-11T19:06:55+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$64.51 million"
-trust_funds_contribution: "$7.80 million"
+project_specific_cofinancing: "$64.5 million"
+trust_funds_contribution: "$7.8 million"
 partner_logo: images/partners/ndf.png
 draft: false
 ---
