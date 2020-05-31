@@ -2,7 +2,7 @@
 title: "JP Morgan Chase Foundation"
 date: 2020-04-11T19:08:08+08:00
 partner_type: Others
-project_specific_cofinancing: "$1.29 million"
+project_specific_cofinancing: "$1.3 million"
 trust_funds_contribution:
 partner_logo:
 draft: false
