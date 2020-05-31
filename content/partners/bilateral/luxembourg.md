@@ -2,7 +2,7 @@
 title: "Luxembourg"
 date: 2020-04-11T19:44:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$1.44 million"
+project_specific_cofinancing: "$1.4 million"
 trust_funds_contribution: "$21.4 million"
 partner_logo:
 draft: false

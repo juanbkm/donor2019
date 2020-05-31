@@ -3,18 +3,19 @@ title: "Denmark"
 date: 2020-04-11T19:32:32+08:00
 partner_type: Bilateral
 partner_logo:
-project_specific_cofinancing: "$64.44 million"
-trust_funds_contribution: "$14.79 million"
+project_specific_cofinancing: "$64.4 million"
+trust_funds_contribution: "$14.8 million"
 draft: false
 ---
 
-#### Active Trust Funds 
-* Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas 
+#### Active Trust Funds
+
+* Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas I and II
 * Gender and Development Cooperation Fund 
 * Governance Cooperation Fund 
-* Second Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas 
 
-#### Development Assistance Agencies 
+#### Development Assistance Agencies
+
 * Ministry of Foreign Affairs 
 * Danish International Development Agency under the Ministry of Foreign Affairs 
 

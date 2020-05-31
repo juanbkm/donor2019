@@ -4,14 +4,16 @@ date: 2020-04-11T19:35:12+08:00
 partner_type: Bilateral
 partner_logo:
 project_specific_cofinancing: "$79.3 million"
-trust_funds_contribution: "$58.14 million"
+trust_funds_contribution: "$58.1 million"
 draft: false
 ---
 
-#### Active Trust Fund 
+#### Active Trust Fund
+
 * Future Carbon Fund 
 
-#### Development Assistance Agencies 
+#### Development Assistance Agencies
+
 * Ministry of Foreign Affairs 
 * Finnish Fund for Industrial Development Cooperation Ltd. (Finnfund) 
 

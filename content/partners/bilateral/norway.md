@@ -2,15 +2,15 @@
 title: "Norway"
 date: 2020-04-11T19:47:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$254.33 million"
-trust_funds_contribution: "$76.01 million"
+project_specific_cofinancing: "$254.3 million"
+trust_funds_contribution: "$76 million"
 partner_logo:
 draft: false
 ---
 
 #### New Trust Funds Contributions 
 
-* NOK30 million (US$3.25 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility 
+* NOK30 million (US$3.3 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility 
  
 #### Active Trust Funds 
 

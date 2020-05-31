@@ -3,7 +3,7 @@ title: "Project-specific Cofinancing"
 date: 2020-05-14T09:31:01+08:00
 main_image: images/modalities/psc.jpg
 id: dr-psc
-summary: Project-specific cofinancing, whether for a loan or a grant, is undertaken by ADB and a financing partner through a signed cofinancing agreement, if the cofinancing is to be administered by ADB, or a memorandum of understanding, if the cofinancing will not be ADB-administered. ADB also accesses the resources of Global Funds for project-specific cofinancing. In 2019, ADB mobilized $4.71 billion in loans and grants from partners.
+summary: Project-specific cofinancing, whether for a loan or a grant, is undertaken by ADB and a financing partner through a signed cofinancing agreement, if the cofinancing is to be administered by ADB, or a memorandum of understanding, if the cofinancing will not be ADB-administered. ADB also accesses the resources of [Global Funds](./modalities/global-funds) for project-specific cofinancing. In 2019, ADB mobilized $4.71 billion in loans and grants from partners.
 projects:
   - item:
     title: "Philippines: Malolos-Clark Railway Project"

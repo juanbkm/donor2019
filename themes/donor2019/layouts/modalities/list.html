@@ -5,20 +5,20 @@
         <div class="row">
           {{ with .Site.GetPage "/modalities/project-specific-cofinancing" }}
           <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
-            <a href="{{.Permalink}}">
+            
             <img src="{{ .Params.main_image }}" alt="" />
-            <h4>{{.Title}}</h4>
-            <p>{{ .Params.summary }}</p>
-            </a>
+            <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+            <p>{{ .Params.summary | markdownify }}</p>
+            
           </div>
           {{ end }}
           {{ with .Site.GetPage "/modalities/trust-funds" }}
           <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
-            <a href="{{.Permalink}}">
+            
             <img src="{{ .Params.main_image }}" alt="" />
-            <h4>{{.Title}}</h4>
-            <p>{{ .Params.summary }}</p>
-            </a>
+            <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+            <p>{{ .Params.summary | markdownify }}</p>
+            
           </div>
           {{ end }}
         </div>
@@ -29,10 +29,8 @@
             <img src="{{ .Params.main_image }}" alt="" />
           </div>
           <div class="col-md-6">
-            <a href="{{.Permalink}}">
-            <h4>{{.Title}}</h4>
-            <p>{{ .Params.summary }}</p>
-          </a>
+            <h4><a href="{{.Permalink}}">{{.Title}}</a></h4>
+            <p>{{ .Params.summary | markdownify }}</p>
           </div>
           
         </div>

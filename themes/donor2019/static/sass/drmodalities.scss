@@ -1,9 +1,9 @@
 #dr-modalities {
   .dr-modalities {
     a {
-      color: $body-color;
-      padding: 80px 20px;
-      display: block;
+      //color: $body-color;
+      //padding: 80px 20px;
+      //display: block;
     }
     h4 {
       font-size: 1.8rem;
@@ -48,22 +48,21 @@
   }
 
   #dr-psc {
-    h4 {
+    padding: 80px 20px;
+    h4 a {
       color: $adb-accent-orange;
     }
   }
   #dr-tf {
-    h4 {
+    padding: 80px 20px;
+    h4 a {
       color: $adb-accent-green;
     }
   }
   #dr-pfa {
     background-color: $adb-gray-four;
     padding: 80px 20px;
-    a {
-      padding: 0 0;
-    }
-    h4 {
+    h4 a {
       color: $body-color;
     }
   }

@@ -3,14 +3,14 @@ title: "Germany"
 date: 2020-04-11T19:37:32+08:00
 partner_type: Bilateral
 project_specific_cofinancing: "$4,789.05 million"
-trust_funds_contribution: "$122.49 million"
+trust_funds_contribution: "$122.5 million"
 partner_logo:
 draft: false
 ---
 
 #### 2019 Trust Funds Contribution 
 
-* US$2.22 million for the Cities Development Initiative for Asia Trust Fund 
+* US$2.2 million for the Cities Development Initiative for Asia Trust Fund 
 
 #### Active Trust Funds 
 

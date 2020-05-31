@@ -3,7 +3,7 @@ title: "Ireland"
 date: 2020-04-11T19:39:20+08:00
 partner_type: Bilateral
 project_specific_cofinancing:
-trust_funds_contribution: "$15.81 million"
+trust_funds_contribution: "$15.8 million"
 partner_logo:
 draft: false
 ---

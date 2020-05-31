@@ -2,8 +2,8 @@
 title: "New Zealand"
 date: 2020-04-11T19:46:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$136.61 million"
-trust_funds_contribution: "$0.46 million"
+project_specific_cofinancing: "$136.6 million"
+trust_funds_contribution: "$460,000"
 partner_logo:
 draft: false
 ---

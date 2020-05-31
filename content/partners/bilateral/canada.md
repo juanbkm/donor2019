@@ -3,8 +3,8 @@ title: "Canada"
 date: 2020-04-11T19:19:39+08:00
 partner_type: Bilateral
 partner_logo:
-project_specific_cofinancing: "$234.81 million"
-trust_funds_contribution: "$264.63 million"
+project_specific_cofinancing: "$234.8 million"
+trust_funds_contribution: "$264.6 million"
 draft: false
 ---
 
@@ -20,7 +20,7 @@ draft: false
 * Regional Malaria and other Communicable Disease Threats Trust Fund 
 
 #### Development Assistance Agency 
-* Global Affairs Canada (formerly the Department of Foreign Affairs, Trade, and Development) 
+* Global Affairs Canada (formerly Department of Foreign Affairs, Trade, and Development) 
 
 <a href="https://www.adb.org/publications/canada-fact-sheet" target="_blank">Canada</a>’s priority themes are: (i) gender equality; (ii) increasing food security: food aid and nutrition; sustainable agricultural development particularly for small-scale farmers and women; (iii) securing the future of children and youth: access to quality education; maternal and child health; (iv) stimulating sustainable and inclusive economic growth: building economic foundations; growing businesses; and (v) innovations in international assistance.  
 

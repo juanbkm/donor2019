@@ -3,12 +3,12 @@ title: "Australia"
 date: 2020-04-11T09:47:05+08:00
 partner_type: Bilateral
 partner_logo:
-project_specific_cofinancing: "$980.37 million"
+project_specific_cofinancing: "$980.4 million"
 trust_funds_contribution: "$172.5 million"
 draft: false
 ---
 #### 2019 Trust Funds Contributions
-* A$21.47 million (US$15.24 million) to ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility 
+* A$21.5 million (US$15.2 million) to ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility 
 * A$1 million (US$0.71 million) to the Multi-Donor Trust Fund under the Water Financing Partnership Facility 
 
 #### Active Trust Funds 

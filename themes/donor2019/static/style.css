@@ -9400,11 +9400,6 @@ td.actions {
     font-weight: 100;
     margin-bottom: 10px; }
 
-#dr-modalities .dr-modalities a {
-  color: #555;
-  padding: 80px 20px;
-  display: block; }
-
 #dr-modalities .dr-modalities h4 {
   font-size: 1.8rem;
   margin: 0; }
@@ -9437,18 +9432,20 @@ td.actions {
   #dr-modalities .dr-mod-proj p {
     margin-bottom: 10px; }
 
-#dr-modalities #dr-psc h4 {
-  color: #eb6440; }
+#dr-modalities #dr-psc {
+  padding: 80px 20px; }
+  #dr-modalities #dr-psc h4 a {
+    color: #eb6440; }
 
-#dr-modalities #dr-tf h4 {
-  color: #98cc52; }
+#dr-modalities #dr-tf {
+  padding: 80px 20px; }
+  #dr-modalities #dr-tf h4 a {
+    color: #98cc52; }
 
 #dr-modalities #dr-pfa {
   background-color: #f2f2f2;
   padding: 80px 20px; }
-  #dr-modalities #dr-pfa a {
-    padding: 0 0; }
-  #dr-modalities #dr-pfa h4 {
+  #dr-modalities #dr-pfa h4 a {
     color: #555; }
 
 #dr-modalities #dr-sptf h3:first-child {

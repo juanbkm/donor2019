@@ -10,12 +10,12 @@ draft: false
 
 #### 2019 Trust Funds Contribution 
 
-* US$1.78 million replenishment for the Domestic Resource Mobilization Trust Fund 
-* US$15.19 million replenishment for the High-Level Technology Fund 
-* US$9.25 million replenishment for the Japan Fund for the Joint Crediting Mechanism 
-* US$17.75 million replenishment for the Japan Fund for Poverty Reduction 
-* US$4.27 million replenishment for the Japan Scholarship Program 
-* US$109.03 million replenishment for the Leading Asia’s Private Infrastructure Fund 
+* $1.8 million replenishment for the Domestic Resource Mobilization Trust Fund 
+* $15.2 million replenishment for the High-Level Technology Fund 
+* $9.3 million replenishment for the Japan Fund for the Joint Crediting Mechanism 
+* $17.8 million replenishment for the Japan Fund for Poverty Reduction 
+* $4.3 million replenishment for the Japan Scholarship Program 
+* $109 million replenishment for the Leading Asia’s Private Infrastructure Fund 
 
 #### Active Trust Funds 
 

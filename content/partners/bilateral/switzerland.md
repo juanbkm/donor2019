@@ -2,15 +2,15 @@
 title: "Switzerland"
 date: 2020-04-11T19:53:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$56.61 million"
-trust_funds_contribution: "$41.61 million"
+project_specific_cofinancing: "$56.6 million"
+trust_funds_contribution: "$41.6 million"
 partner_logo:
 draft: false
 ---
 
 #### New Trust Funds Contributions 
 
-* US$0.57 million additional contribution to Cities Development Initiative for Asia Trust Fund
+* $570,000 additional contribution to Cities Development Initiative for Asia Trust Fund
 
 #### Active Trust Funds 
 
@@ -23,7 +23,7 @@ draft: false
 * Swiss Agency for Development and Cooperation (SDC)
 * State Secretariat for Economic Affairs (SECO) 
  
-<a href="https://www.adb.org/publications/switzerland-fact-sheet" target="_blank">Switzerland<?a>’s development cooperation is coordinated between the Swiss Agency for Development and Cooperation (SDC) within the Federal Department of Foreign Affairs, and the State Secretariat for Economic Affairs (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
+<a href="https://www.adb.org/publications/switzerland-fact-sheet" target="_blank">Switzerland</a>’s development cooperation is coordinated between the Swiss Agency for Development and Cooperation (SDC) within the Federal Department of Foreign Affairs, and the State Secretariat for Economic Affairs (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Switzerland
 

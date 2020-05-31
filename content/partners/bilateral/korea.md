@@ -3,14 +3,14 @@ title: "Korea, Republic of"
 date: 2020-04-11T19:42:20+08:00
 partner_type: Bilateral
 project_specific_cofinancing: "$1,833.81 million"
-trust_funds_contribution: "$138.79 million"
+trust_funds_contribution: "$138.8 million"
 partner_logo:
 draft: false
 ---
 
 #### 2019 Trust Funds Contributions
 
-* US$16.64 million replenishment for the Republic of Korea e-Asia and Knowledge Partnership Fund 
+* US$16.6 million replenishment for the Republic of Korea e-Asia and Knowledge Partnership Fund 
 
 #### Active Trust Funds
 

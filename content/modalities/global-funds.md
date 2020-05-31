@@ -14,16 +14,16 @@ gf:
   - name: Climate Investment Funds
     id: cif
     url: https://www.climateinvestmentfunds.org/
-    image:
+    image: cif.png
     ccpsc: $978.3 million
     description: |
       The Climate Investment Funds (CIF), established in 2008, is a global finance mechanism that aims to help developing countries shift to low carbon technologies and promote climate resilient development. There are two funding windows under CIF: Clean Technology Fund (CTF) and Strategic Climate Fund (SCF). CTF finances to promote the use of low carbon technologies with a significant potential for long-term greenhouse gas emissions savings, while SCF finances new development approaches or scale-up activities geared toward specific climate change challenge or sectoral response. CIF works with multilateral organizations like the African Development Bank, Asian Development Bank, European Bank for Reconstruction and Development, Inter-American Development Bank, and the World Bank Group.
       
-      In 2019, the SCF cofinanced projects on the development of a national solar park in Cambodia, scaling up energy efficiency in India, and establishment of an energy investment facility in the Pacific Region. The CTF, on the other hand, cofinanced a project on the promotion of low-carbon development in Central Asia. The CTF also provided US$83 million in replenishment funds in 2019.
+      In 2019, the SCF cofinanced projects on the [development of a national solar park in Cambodia](https://www.adb.org/projects/51182-001/main#project-pds),[scaling up energy efficiency in India](https://www.adb.org/projects/52196-001/main#project-pds), and [establishment of an energy investment facility in the Pacific Region](https://www.adb.org/projects/49450-022/main#project-pds). The CTF, on the other hand, cofinanced a project on the [promotion of low-carbon development in Central Asia](https://www.adb.org/projects/50287-001/main#project-pds). The CTF also provided US$83 million in replenishment funds in 2019.
   - name: Global Agriculture and Food Security Program
     id: gafsp
     url: https://www.gafspfund.org/
-    image:
+    image: gafsp.png
     ccpsc: $60.1 million
     description: |
       The Global Agriculture and Food Security Program (GAFSP), established in 2009, is an intermediary fund designed to support strategic investments in agriculture and food security. This global initiative aims to
@@ -34,11 +34,11 @@ gf:
 
       Specifically, GAFSP’s public sector funding window assists strategic country or regional programs from sector-wide country or regional consultations. The private sector window provides long and short-term loans, credit guarantees, and equity to support private sector activities for improving agricultural development and food security.
 
-      In 2019, the GAFSP cofinanced a project on evaluating climate-friendly agribusiness value chains interventions in Myanmar.
+      In 2019, the GAFSP cofinanced a project on [evaluating climate-friendly agribusiness value chains interventions in Myanmar](https://www.adb.org/projects/48409-005/main#project-pds).
   - name: Global Environment Facility
     id: 
     url: https://www.thegef.org/
-    image:
+    image: gef.png
     ccpsc: $249.3 million
     description: |
       The Global Environment Facility (GEF), established in 1991, is global partnership that helps tackle the planet’s most pressing environmental problems. GEF brings together 183 countries, international institutions, nongovernmental organizations, and the private sector, joined by the objective of helping developing countries address environmental problems. The GEF administers three funds: 
@@ -47,11 +47,11 @@ gf:
       * Least Developed Countries Fund (LDCF) - addresses the special needs of the 51 least developed countries that are especially vulnerable to the adverse impacts of climate change. In 2019, LDCF provided US$290,000 in replenishment funds.
       * Special Climate Change Fund (SCCF) - supports adaptation and technology transfer in all developing countries party to the United Nations Framework Convention on Climate Change 
       
-      In 2019, the GEF cofinanced projects aiming to mainstream climate resilience for green cities development in Viet Nam, and another supporting the preparation of urban services improvement project in Myanmar. GEF also provided US$140,000 in replenishment funds in 2019.
+      In 2019, the GEF cofinanced projects aiming to [mainstream climate resilience for green cities development in Viet Nam](https://www.adb.org/projects/47274-003/main#project-pds), and another [supporting the preparation of urban services improvement project in Myanmar](https://www.adb.org/projects/50109-001/main#project-pds). GEF also provided US$140,000 in replenishment funds in 2019.
   - name: Global Partnership for Education
     id: gpe
     url: http://www.globalpartnership.org/
-    image:
+    image: gpe.png
     ccpsc: $127.7 million
     description: |
       The Global Partnership for Education (GPE), established in 2002, ensures that every child receives quality education, especially the poorest and most vulnerable. GPE is a multi-stakeholder partnership and funding platform that galvanizes global and national support for education in developing countries, specifically in the following focus areas:
@@ -69,7 +69,7 @@ gf:
   - name: Green Climate Fund
     id: gcf
     url: https://www.greenclimate.fund/
-    image:
+    image: gcf.png
     ccpsc: $294.8 million
     description: |
       Created in 2010, the Green Climate Funds (GCF) is a global fund designed to help developing countries rise to the challenge of climate change. GCF was built by the 194 signatory countries of the United Nations Framework Convention on Climate Change as a financing mechanism delivering funding to projects that:
@@ -77,11 +77,13 @@ gf:
       * reduce greenhouse gas emissions in developing countries
       * help vulnerable societies adapt to the unavoidable impacts of climate change
 
-      GCF aims to catalyze a flow of climate finance to invest in low-emission and climate-resilient development, driving a paradigm shift in the global response to climate change. The Fund’s investments can be in the form of grants, loans, equity, or guarantees. In 2019, GCF approved funding for a [project on renewable energy in Tonga](https://www.adb.org/projects/49450-012/main#project-pds) and [green and affordable housing in Mongolia's Ulaanbaatar](https://www.adb.org/projects/49169-002/main#project-pds). In 2019, GCF provided US$74.9million in replenishment funds.
+      GCF aims to catalyze a flow of climate finance to invest in low-emission and climate-resilient development, driving a paradigm shift in the global response to climate change. The Fund’s investments can be in the form of grants, loans, equity, or guarantees. 
+      
+      In 2019, GCF approved funding for a [project on renewable energy in Tonga](https://www.adb.org/projects/49450-012/main#project-pds) and [green and affordable housing in Mongolia's Ulaanbaatar](https://www.adb.org/projects/49169-002/main#project-pds). In 2019, GCF provided US$74.9million in replenishment funds.
   - name: Women Entrepreneurs Finance Initiative
     id: wefi
     url: https://we-fi.org/
-    image:
+    image: wefi.png
     ccpsc: $17.7 million
     description: |
       The Women Entrepreneurs Finance Initiative (We-Fi), founded in 2017, is a collaborative partnership that enables women entrepreneurs to gain access to financing, build capacities, and expand networks. With funding of $354 million from 14 governments, this partnership is designed to unlock financing for women-led/owned businesses in developing countries, including in the most challenging environments. It also assists governments in creating enabling environments for women in business.

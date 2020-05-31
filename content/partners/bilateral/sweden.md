@@ -2,7 +2,7 @@
 title: "Sweden"
 date: 2020-04-11T19:52:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$368.32 million"
+project_specific_cofinancing: "$368.3 million"
 trust_funds_contribution: "$113.6 million"
 partner_logo:
 draft: false
@@ -10,7 +10,7 @@ draft: false
 
 #### New Trust Funds Contributions 
 
-* SEK55 million (US$5.71 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility  
+* SEK55 million (US$5.7 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility  
  
 #### Active Trust Funds 
 

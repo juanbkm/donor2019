@@ -3,14 +3,16 @@ title: "Belgium"
 date: 2020-04-11T19:12:41+08:00
 partner_type: Bilateral
 partner_logo:
-project_specific_cofinancing: "$0.2 million"
-trust_funds_contribution: "$49.21 million"
+project_specific_cofinancing: "$200,000"
+trust_funds_contribution: "$49.2 million"
 draft: false
 ---
 #### Active Trust Fund 
+
 * Future Carbon Fund 
 
-#### Development Assistance Agencies 
+#### Development Assistance Agencies
+ 
 * International and European Financial Affairs, Belgian Federal Treasury 
 * Directorate-General for Development Cooperation and Humanitarian Aid integrated into the Federal Public Service Foreign Affairs, Foreign Trade and     Development Cooperation 
 * Belgian Technical Cooperation 

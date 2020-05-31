@@ -2,8 +2,8 @@
 title: "Netherlands, The"
 date: 2020-04-11T19:45:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$390.33 million"
-trust_funds_contribution: "$78.23 million"
+project_specific_cofinancing: "$390.3 million"
+trust_funds_contribution: "$78.2 million"
 partner_logo:
 draft: false
 ---

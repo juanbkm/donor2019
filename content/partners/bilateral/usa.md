@@ -2,8 +2,8 @@
 title: "Unites States of America"
 date: 2020-04-11T19:57:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$20.89 million"
-trust_funds_contribution: "$154.59 million"
+project_specific_cofinancing: "$20.9 million"
+trust_funds_contribution: "$154.6 million"
 partner_logo:
 draft: false
 ---
