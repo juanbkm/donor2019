@@ -8526,13 +8526,13 @@ td.actions {
     width: 60%; }
     .dr-res-nav #dr-res-tf-tab.active,
     #dr-res-tab #dr-res-tf-tab.active {
-      background-color: #0099d8 !important; }
+      background-color: #98cc52 !important; }
   .dr-res-nav #dr-res-gf-tab,
   #dr-res-tab #dr-res-gf-tab {
     width: 40%; }
     .dr-res-nav #dr-res-gf-tab.active,
     #dr-res-tab #dr-res-gf-tab.active {
-      background-color: #98cc52 !important; }
+      background-color: #fdb715 !important; }
 
 .dr-qt {
   color: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -8544,7 +8544,7 @@ td.actions {
   position: relative; }
   .dr-qt em {
     line-height: 1;
-    color: #dddddd;
+    color: #98cc52;
     font-style: normal;
     font-size: 5rem;
     font-weight: 700; }
@@ -8902,14 +8902,12 @@ td.actions {
 #dr-res-tf p {
   padding: 20px 0; }
 
-#dr-res-gf {
-  width: 40%;
-  margin-left: auto; }
-  #dr-res-gf p {
-    padding: 20px 0; }
-  #dr-res-gf em {
-    font-size: .8rem;
-    display: block; }
+#dr-res-gf p {
+  padding: 20px 0; }
+
+#dr-res-gf em {
+  font-size: .8rem;
+  display: block; }
 
 #dr-partners #content .dr-why-partner {
   display: grid;

@@ -17,6 +17,8 @@
     <h3>ADB'S ACTIVE FCAs FOR 2019</h3>
     {{ range $fca }}
       <div class="dr-mod-partner dr-fca" id="dr-{{ .id }}">
+        {{ with .image }} <img src="./images/modalities/{{ . }}" alt="">{{ end }}
+
         <h5>{{ .name }}</h5>
 
         {{ with .mou }}

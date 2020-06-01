@@ -9,7 +9,7 @@ fca:
     name: Abu Dhabi Fund for Development
     id: adfd
     url:
-    image:
+    image: adfd.png
     mou: 2015 to 2020
     ccp: $30 million for 1 project
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
@@ -21,32 +21,32 @@ fca:
     name: Agence Française de Développement
     id: afd
     url:
-    image:
+    image: afd.png
     pfa: (2016 to 2022) $4 billion
     ccp: US$2.65 billion for 30 Projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
-      ADB’s and Agence Française de Développement (AFD)’s partnership is built on their common goal of inclusive development and sustainable growth in Asia and the Pacific.  In 2019, these two institutions strengthened their partnership by amending their existing Partnership Framework Agreement (PFA)-- originally signed in 2016--to increase their commitments from $1.5 billion each for the first 3 years to $2.5 billion each for the succeeding 3 years.  In the first 3 years of the PFA, the two have exceeded their original individual commitment of $1.5 million, with France committing $1.58 billion. Two projects were committed for cofinancing under this arrangement in 2019-- the [Green Power Development and Energy Efficiency Improvement Investment Program—Tranche 2](https://www.adb.org/projects/47037-005/main#project-pds) in Sri Lanka and the [Shandong Green Development Fund in the People’s Republic of China](https://www.adb.org/projects/51194-001/main#project-pds).
+      ADB’s and Agence Française de Développement (AFD)’s partnership is built on their common goal of inclusive development and sustainable growth in Asia and the Pacific.  In 2019, these two institutions strengthened their partnership by amending their existing Partnership Framework Agreement (PFA)-- originally signed in 2016--to increase their commitments from $1.5 billion each for the first 3 years to $2.5 billion each for the succeeding 3 years.  In the first 3 years of the PFA, the two have exceeded their original individual commitment of $1.5 million, with France committing $1.58 billion. Two projects were committed for cofinancing under this arrangement in 2019-- the [Green Power Development and Energy Efficiency Improvement Investment Program—Tranche 2](https://www.adb.org/projects/47037-005/main) in Sri Lanka and the [Shandong Green Development Fund in the People’s Republic of China](https://www.adb.org/projects/51194-001/main).
 
       The PFA details the two organizations’ arrangements on enhancing institutional, research, and knowledge cooperation. It also reflects how they will pursue their operational cooperation in the form of cofinancing, joint research and development of knowledge products, a staff exchange program, and regular policy dialogue in the spirit of the Paris Declaration on Aid Effectiveness.
   - item:
     name: Asian Infrastructure Investment Bank (new)
     id: aiib
     url:
-    image:
+    image: aiib.png
     mou: 2019 to 2022
     ccp: US$200 million for 1 Project
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
       ADB and the Asian Infrastructure Investment Bank (AIIB) signed their cofinancing framework agreement in March 2019. This new agreement guides the two organizations’ collaboration going forward and builds on their previous MOU on Strengthening Cooperation, which they signed in May 2016. 
 
-      In 2019, three sovereign projects were committed for Cofinancing with AIIB while several others are in the pipeline. They cofinanced the [Dhaka and Western Zone Transmission Grid Expansion](https://www.adb.org/projects/51137-003/main#project-pds) in 2019. ADB and AIIB are working together to improve economic and social development in Asia through cofinancing of infrastructure projects.
+      In 2019, three sovereign projects were committed for Cofinancing with AIIB while several others are in the pipeline. They cofinanced the [Dhaka and Western Zone Transmission Grid Expansion](https://www.adb.org/projects/51137-003/main) in 2019. ADB and AIIB are working together to improve economic and social development in Asia through cofinancing of infrastructure projects.
 
   - item:
     name: Eurasian Development Bank
     id: edb
-    url:
-    image:
+    url: 
+    image: edb.png
     fca: (2016 to 2021) $1.00 billion
     ccp: $395 million for 4 Project
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
@@ -56,7 +56,7 @@ fca:
     name: International Fund for Agricultural Development
     id: ifad
     url:
-    image:
+    image: ifad.png
     fca: 2018 to 2023
     ccp: $120 million for 3 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
@@ -66,7 +66,7 @@ fca:
     name: Islamic Development Bank
     id: idb
     url:
-    image:
+    image: isdb.png
     fca: (2018 to 2022) $2.00 billion
     ccp: $1.76 billion for 11 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
@@ -78,7 +78,7 @@ fca:
     name: Japan International Cooperation Agency
     id: jica
     url:
-    image:
+    image: jica.png
     mou: (2015 to 2020) $10 billion
     ccp: $3.89 billion for 8 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
@@ -90,12 +90,12 @@ fca:
     name: KfW
     id: kfw
     url:
-    image:
+    image: kfw.png
     mou: (2020 TO 2023) $2.00 billion
     ccp: $4.00 billion for 19 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
-      In November 2019, ADB and KfW, the German state-owned development bank, expanded their existing cofinancing partnership with an additional $2.00 billion over the next 4 years to support continued economic development in Asia and Pacific Region. This revised MOU for cofinancing expands the previous $2 billion cofinancing partnership that ADB and KfW launched in 2014 and renewed in 2017 for an additional $2 billion. Three projects were cofinanced in 2019 under this arrangement: [Green Energy Corridor and Grid Strengthening in India](https://www.adb.org/projects/44426-016/main#project-pds); [Fiscal and Public Expenditure Management Program-Subprogram 3](https://www.adb.org/projects/50168-003/main#project-pds) in Indonesia, and the [Shandong Green Development Fund](https://www.adb.org/projects/51194-001/main#project-pds) in the People’s Republic of China.
+      In November 2019, ADB and KfW, the German state-owned development bank, expanded their existing cofinancing partnership with an additional $2.00 billion over the next 4 years to support continued economic development in Asia and Pacific Region. This revised MOU for cofinancing expands the previous $2 billion cofinancing partnership that ADB and KfW launched in 2014 and renewed in 2017 for an additional $2 billion. Three projects were cofinanced in 2019 under this arrangement: [Green Energy Corridor and Grid Strengthening](https://www.adb.org/projects/44426-016/main) in India; [Fiscal and Public Expenditure Management Program-Subprogram 3](https://www.adb.org/projects/50168-003/main) in Indonesia, and the [Shandong Green Development Fund](https://www.adb.org/projects/51194-001/main) in the People’s Republic of China.
 
       From 2014 to 2019, their collaboration has produced 14 cofinanced projects. Their sectors of common interest include renewable energy and energy efficiency, urban infrastructure including urban mobility and climate finance, small and medium-sized enterprises financing and financial inclusion, health, vocational training, and regional integration.
 
@@ -103,7 +103,7 @@ fca:
     name: Nordic Development Fund
     id: ndf
     url:
-    image:
+    image: ndf.png
     mou: 2011 onwards
     ccp: $45.7 million for 18 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
@@ -115,27 +115,27 @@ fca:
     name: OPEC Fund for International Development
     id: ofid
     url:
-    image:
+    image: ofid.png
     fca: (2016 to 2021) $600.0 million
     ccp: $236.0 million for 11 Projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
       ADB’s and the OPEC Fund for International Development’s (OFID) ongoing collaboration is through an FCA they signed in August 2016 that runs through to 2021. This FCA provided $600.0 million in cofinancing for projects from 2016 to 2021 and expands the previous MOU they both signed in April 2015.
 
-      ADB and OFID support projects focused on energy (renewable energy and energy efficiency), transport, agriculture, water supply and sanitation, education, and health. In 2019, the [Central Asia Regional Economic Cooperation Corridors 2, 3, and 5](https://www.adb.org/projects/52042-001/main#project-pds) project in Tajikistan was cofinanced under this arrangement.
+      ADB and OFID support projects focused on energy (renewable energy and energy efficiency), transport, agriculture, water supply and sanitation, education, and health. In 2019, the [Central Asia Regional Economic Cooperation Corridors 2, 3, and 5](https://www.adb.org/projects/52042-001/main) project in Tajikistan was cofinanced under this arrangement.
 
         - item:
     name: Republic of Korea (Ministry of Strategy and Finance)
     id: rok
     url:
-    image:
+    image: moef.png
     mou: (2018 to 2020) $650 million
     ccp: $1.82 billion for 20 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
       The current partnership of ADB and the Republic of Korea’s Ministry of Economy and Finance is under an MOU signed in May 2018. This agreement builds on the gains of their two previous MOUs signed in 2011 and 2015, and their original FCA signed in 2008. 
 
-      The 2018 MOU runs until 2020 and details Korea’s commitment to provide $650 million of concessional loans to cofinance ADB projects and programs. Projects under this MOU focus on transport, energy, environment, health, public governance and education. The MOU also prioritizes information and communication technology (ICT)-based projects. In 2019, two projects were cofinanced under this MOU: the [Ulaanbaatar Air Quality Improvement Program](https://www.adb.org/projects/51199-001/main#project-pds) in Mongolia and the [Energy Sector Reforms and Financial Sustainability Program—Subprogram 1](https://www.adb.org/projects/53165-001/main#project-pds) in Pakistan.
+      The 2018 MOU runs until 2020 and details Korea’s commitment to provide $650 million of concessional loans to cofinance ADB projects and programs. Projects under this MOU focus on transport, energy, environment, health, public governance and education. The MOU also prioritizes information and communication technology (ICT)-based projects. In 2019, two projects were cofinanced under this MOU: the [Ulaanbaatar Air Quality Improvement Program](https://www.adb.org/projects/51199-001/main) in Mongolia and the [Energy Sector Reforms and Financial Sustainability Program—Subprogram 1](https://www.adb.org/projects/53165-001/main) in Pakistan.
 
 
 weight: 2
