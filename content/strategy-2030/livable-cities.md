@@ -19,8 +19,10 @@ Asia and the Pacific is home to 44% of the world's urban population. Nowhere els
 This transformation is set to intensify as it was projected in 2019 that the region would be responsible for [90% of the 2.4 billion new members of the middle class](https://www.weforum.org/agenda/2019/12/asia-economic-growth/) entering the [global economy](https://www.weforum.org/agenda/2019/12/asia-economic-growth/). One characteristic of the middle class is that it is [disproportionately urban](https://www.adb.org/sites/default/files/publication/27726/special-chapter-03.pdf).
   
 Strategy 2030’s goal is to help its developing member countries (DMCs) transform their congested, polluted, and inequitable cities into livable ones—competitive, equitable, environment-friendly, disaster-resilient, and efficient in its services.
+
+{{< dr-yt video="ivJqZ-2cKRA" align="" title="India: Improving Urban Mobility in Congested Mumbai" cover="cover-yt-improving-urban-mobility-in-mumbai.jpg" >}}
   
-The livable cities agenda cuts across several themes and sectors, including water and urban sanitation, transport for urban services, climate change and disaster resilience, and urban and financial planning. In 2019, 25 cofinanced projects were approved for water and urban sanitation amounting to $171.5 million. Another 17 cofinanced projects on transport were approved, totalling $2.74 billion. Climate financing reached $6.37 billion in 2019, $705 million coming from financing partners.
+The livable cities agenda cuts across several themes and sectors, including water and urban sanitation, transport for urban services, climate change and disaster resilience, and urban and financial planning. In 2019, 25 cofinanced projects were approved for water and urban sanitation amounting to $171.5 million. Another 17 cofinanced projects on transport were approved, totaling $2.74 billion. Climate financing reached $6.37 billion in 2019, $705 million coming from financing partners.
 
 ### Improving Services in Urban Areas to Make Them Inclusive and Sustainable
 
@@ -63,15 +65,3 @@ The WFPF financed a technical assistance for $0.75 million to prepare the [Cli
 ### Moving Forward
 
 At the rate Asia and the Pacific is urbanizing, cities are clearly at the forefront in shaping the quality of life of its populace. Interventions to strengthen the financial sustainability of cities, to improve their resilience against natural and man-made disasters and crises, to better plan their towns and their linkage with surrounding urban and rural areas, and more will be needed. In the next years, ADB’s partners have pledged more support for the urban financing partnership facility (UFPF). For the UFPF, additional support is expected toward making cities more livable from the latest trust fund to join UFPF, the ASEAN Australia Smart Cities Trust Fund.  In November 2019, during the ADB's consultation with donors, UFPF got a commitment from the [Government of the UK]({{< ref "uk.md" >}}) to provide additional financing for Phase 2 of the UCCRTF. The indicative funding replenishment committed by the UK Government is about $100 million (£75million) over seven years from April 2021 to March 2028.
-
-#### References
-
-UFPF Annual Report 2019
-
-[WFPF Annual Report 2019](https://www.adb.org/sites/default/files/institutional-document/569526/wfpf-annual-report-2019.pdf)
-
-[5 ways interventions can support environmentally sustainable growth](http://evaluation-lessons.org/5-ways-interventions-can-support-environmentally-sustainable-growth)
-
-[In 2020 Asia will have the world's largest GDP. Here's what that means](https://www.weforum.org/agenda/2019/12/asia-economic-growth/)
-
-[The Rise of Asia’s Middle Class](https://www.adb.org/sites/default/files/publication/27726/special-chapter-03.pdf)

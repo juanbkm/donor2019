@@ -27,13 +27,13 @@ Several cofinanced projects explicitly address the non-income dimensions of pove
 
 To generate quality jobs in developing member countries, ADB’s S2030 aims to strengthen the business environment while enhancing the financial sector. This strategy ensures sustainable development and ensures both worker and businesses, especially small and medium sized enterprises (SME), are empowered and made more productive.
 
-{{< dr-yt video="ij18Aa_iXc4" align="" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
+{{< dr-yt video="ofDO_jRtuF0" align="" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
 
 One project designed to strengthen SMEs is the [Supporting Internationalization of Small and Medium-Sized Enterprises: Linking India and the Greater Mekong Subregion (GMS) Project](https://www.adb.org/projects/53112-001/main#project-overview). Cofinanced with the United Kingdom Fund for Asia Regional Trade and Connectivity under the Regional Cooperation and Integration Financing Partnership Facility, this project aims to encourage cross-border investments among small enterprises in GMS countries and India. This will lead to a more vibrant regional trade and stronger SMEs.
 
 ### Improving Education and Training
 
-{{< dr-artimage src="images/pov-1-ino-generic.jpg" align="right" alt="" caption="Investments in the education sector can help raise the quality of formal and technical education and ensure employablity of graduates." >}}
+{{< dr-artimage src="images/pov-1-ino-generic.jpg" align="right" alt="" caption="Partnerships that improve education and training help raise the quality of formal and technical education. They ensure employablity of graduates." >}}
 
 Improving education and training ensures the employability and job readiness of graduates, who will be the pillars of sustainable economic growth in their respective countries. ADB in 2019 pursued projects that improve both formal and technical education in many countries across Asia. One example is the [Supporting the Advanced Knowledge and Skills for Sustainable Growth Project in Indonesia](https://www.adb.org/projects/50395-007/main#project-overview). Through the financing partnership of ADB, Japan Fund for Poverty Reduction, and the High-level Technology Fund, this project will upgrade four public universities in Indonesia to improve the country’s skilled human capital. When the project is completed, these universities will be providing high-quality and demand-based programs, providing Indonesia with a highly skilled human capital ready to meet labor market demands.
 

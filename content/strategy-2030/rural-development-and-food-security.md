@@ -18,7 +18,7 @@ On the backs of farmers lay the food needs of entire populations. In Asia and th
 
 Many of Asia’s farmers contend with their own poverty. Over 90% till less than two hectares of land and earn little from their harvest, due to limited access to modern agricultural technologies, financing, and markets. Together, however, these smallholders contribute 80% of Asia’s food requirements.
 
-{{< dr-yt video="dB72AriglgY" align="" title="Water Efficiency Improvement in Drought-Affected Provinces Project" cover="cover-yt-climate-resilience-through-modern-irrigation-systems.jpg" >}}
+{{< dr-yt video="XVBeMQqJTR8" align="" title="Water Efficiency Improvement in Drought-Affected Provinces Project" cover="cover-yt-climate-resilience-through-modern-irrigation-systems.jpg" >}}
 
 Asia’s agricultural markets are riddled with problems, from trading cartels and local monopolies, to dilapidated storage facilities and lack of cold chain and packing systems. Such inefficiencies result in a large amount of food waste, high prices of agricultural products, and compromised food safety.
 
@@ -42,7 +42,7 @@ ADB’s Water Financing Partnership Facility (WFPF) continues its good work in p
 
 In 2019, the WFPF contributed $300,000 to the preparation of the [People’s Republic of China: Yangtze River Green Ecological Corridor Comprehensive Agriculture Project](https://www.adb.org/projects/51116-002/main), which will strengthen rural livelihoods, modernize agriculture production systems, and minimize environmental degradation. It also contributed $750,000 to the [Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project](https://www.adb.org/projects/53237-002/main), a feasibility study to enhance government readiness for a project that will improve agricultural productivity and profitability through sustainable small-scale water resources management.
 
-{{< dr-artimage src="images/agri-2-pak.jpg" align="left" alt="" caption="Partnerships and investments are needed to create an enabling environment for agricultural productivity, diversification, and climate resilience.">}}
+{{< dr-artimage src="images/agri-2-pak.jpg" align="" alt="" caption="Partnerships and investments are needed to create an enabling environment for agricultural productivity, diversification, and climate resilience.">}}
 
 To improve agricultural value chains in Pakistan, the Agence Française de Développement, through the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries (AFD Trust Fund), is providing $200,000 for the [Pakistan: Preparing the Punjab Agriculture Markets Development Project](https://www.adb.org/projects/53070-002/main). The project will finance the development of a modern holistic wholesale agriculture market in Lahore and prepare a master plan for development of wholesale markets in other locations. The AFD Trust Fund was established in 2005 and has a total committed funds of $5.8 million as of December 2019.
 
@@ -50,13 +50,13 @@ In Cambodia, the Project Readiness Improvement Trust Fund is contributing $150,0
 
 ### Increasing Agricultural Productivity and Food Security Using High-Level Technologies
 
-{{< dr-artimage src="images/agri-3-ban-gen.jpg" align="" alt="" caption="Investments in technology can make farms more efficient and productive.">}}
+{{< dr-artimage src="images/agri-3-ban-gen.jpg" align="" alt="" caption="Investments in technology can make farms more efficient and productive. They can also help ensure that land and water resources are used in a sustainable manner.">}}
 
 Advanced technologies can increase the efficiency of agricultural operations and ensure the sustainable use of land and water resources. With $500,000 financing each from the Republic of Korea e-Asia and Knowledge Partnership Fund and the High-Level Technology Fund, ADB approved the [Regional: Digital Solutions to Improve Agricultural Value Chains Project](https://www.adb.org/projects/49054-001/main). This project is testing the use of information and communication technologies in agriculture in increasing productivity, efficiency, and profitability of stakeholders along value chains. This eAgriculture system is being implemented in Bangladesh, Pakistan, Tajikistan, and Viet Nam.
 
 The High Level Technology Fund is also providing a $1.6 million grant to the Cambodia: Irrigated Agriculture Improvement Project, which will modernize and climate-proof irrigation systems and improve farming practices and promote crop diversification. The grant will help establish a water resources management data center to improve data use on in better water resources planning, management, and investment.
 
-The Japan Fund for Poverty Reduction provided $2 million for the Pakistan: Enhancing Technology-Based Agriculture and Marketing in Rural Punjab Project, which will facilitate the rapid adoption of advanced technologies to improve the productivity and profitability of the agriculture sector in Punjab Province, Pakistan. It will help increase farmers' access to such technologies to strengthen agriculture value chains in rural Punjab. It will also enable further development and adoption of advanced technologies to benefit the agriculture sector.
+The Japan Fund for Poverty Reduction provided $2 million for the Pakistan: Enhancing Technology-Based Agriculture and Marketing in Rural Punjab Project, which will facilitate the rapid adoption of advanced technologies to improve the productivity and profitability of the agriculture sector in Punjab Province, Pakistan. It will help increase farmers' access to such technologies to strengthen agriculture value chains in rural Punjab. It will also enable further development and adoption of advanced technologies to benefit the agriculture sector.  
 
 The WFPF-supported Indonesia: Integrated Participatory Development and Management of Irrigation Program was also completed in 2019. The $105,000 WFPF funding enabled the introduction of LIDAR (light detection and ranging) surveys for operations and maintenance of irrigation networks. The precision of this high-level technology allows the easy identification of irrigation infrastructure that need utmost rehabilitation. About 6,000 hectares of irrigation area were covered by the WFPF-funded LIDAR pilot survey.
 
@@ -69,11 +69,3 @@ Following the forum, ADB approved several programs and projects that aim to enha
 ### Moving Forward
 
 In 2019, ADB published the report, “Ending Hunger in Asia and the Pacific by 2030: An Assessment of Investment Requirements in Agriculture,” which proposes to double investments in agricultural research and development, improvement of water management, and infrastructure to reduce marketing costs and postharvest losses. Such large investment, the report said, will help end hunger and malnutrition and achieve food security in the region by 2030. Future financing partnerships keen on fast-tracking agriculture sector development should take heed. Likewise, work on improving market connectivity and agricultural value chain linkages and promoting the adoption of climate-smart farming technologies should be smarter and more sustainable. From ongoing threats such as climate change to emerging new threats such as global pandemics, the need to protect food security in Asia and the Pacific just keeps getting stronger.
-
----
-
-#### Resources
-
-Briefing Note: Rural Development and Food Security Forum 2019 Rural Development and Food Security (Agriculture) Thematic Group Work Plan For 2020−2021
-
-Summary of the ADB-IFAD High-level Bilateral Meetings and Roundtable Discussion

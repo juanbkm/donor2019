@@ -25,6 +25,8 @@ ADB regional cooperation and integration (RCI) focuses on projects that build tr
 
 * **South Asia Subregional Economic Cooperation (SASEC)** - This program brings together Bangladesh, Bhutan, India, Maldives, Myanmar, Nepal, and Sri Lanka. SASEC countries share a vision of boosting intraregional trade and cooperation in South Asia, while also developing connectivity and business with Southeast Asia.
 
+{{< dr-yt video="Haa4wJwWSpc" align="" title="Rebuilding the Road to the Border" cover="cover-yt-rebuilding-the-road-to-the-border.jpg" >}}
+
 In 2019, ADB approved 50 cofinanced projects that included RCI elements in their project design. Cofinancing for these projects totaled $2.74 billion. Among the top cofinanciers were JICA with $2,353.72 million contributions, [AIIB]({{< ref "asian-infrastructure-investment-bank.md" >}}) with $200 million, [EBRD]({{< ref "european-bank-reconstruction-development.md" >}}) with $60 million, [OFID]({{< ref "opec-fund-international-development.md" >}}) with $40 million, and the [Government of Australia]({{< ref "australia.md" >}}) with $23.9 million. The sectors with highest RCI-related projects were transport, energy, finance, water and urban infrastructure and services, and industry and trade. The DMCs with most RCI-related projects in 2019 were the Philippines, Sri Lanka, Bangladesh, multi-country or regional, and Georgia.
 
 ### Fostering Greater and Higher-Quality Connectivity Between Economies
@@ -35,7 +37,7 @@ A project in Tajikistan's important economic corridors, the [Tajikistan: Central
 
 Similarly, in Georgia, the [North-South Corridor (Kvesheti–Kobi) Road Project](https://www.adb.org/projects/51257-001/main#project-pds) was approved in 2019 with cofinancing from the [European Bank of Reconstruction and Development]({{< ref "european-bank-reconstruction-development.md" >}}) for $60 million. The project, which runs from 2019 to 2026, is expected to improve connectivity and safety along the North-South Corridor through a 23-kilometers climate-resilient two-lane highway between Kvesheti and Kobi.
 
-{{< dr-artimage src="images/strategy-2030/rci-1-mon.jpg" align="" alt="" caption="Daily operations at the 15-megawatt (MW) Sermsang Khushig Khundii Solar plant in Khushig valley, Tuv aimag, which is located 40 kilometers (km) from Mongolia''s capital, Ulaanbaatar, and 17 km from the new international airport. The private sector project involves the operation and maintenance of the solar plant. In addition it will also include the construction of a 110/10kV substation, a 14-km long 110kV double circuit overhead electricity transmission line, as well as the extension of the 110/10kV Khushig substation owned by the National Power Transmission Grid SOJSC." >}}
+{{< dr-artimage src="images/strategy-2030/rci-1-mon.jpg" align="" alt="" caption="Energy is an important factor in enhancing regional connectivity. The use of renewable sources of energy, such as solar power plants, helps ensure sustainable power supply used for the transport and production of goods between and among countries.">}}
 
 To address energy needs, a project in Mongolia, [Sermsang Khushig Khundii Solar Project](https://www.adb.org/projects/52127-001/main#project-pds) with cofinancing from the Leading Asia's Private Infrastructure Fund (LEAP) for $9.10 million was approved. The project involves the construction, operation, and maintenance of a 15-megawatt (MW) solar power plant in Khushig Valley, which is located 40 kilometers from Ulaanbaatar and 17 kilometers from the new international airport.
 
@@ -45,7 +47,7 @@ Trade is at the heart of inter-country and regional cooperation. To support the 
 
 In Sri Lanka, the [South Asia Subregional Economic Cooperation Port Access Elevated Highway Project](https://www.adb.org/projects/50299-001/main#project-pds) was approved with cofinancing from the Japan International Cooperation Agency for $342.73 million and technical assistance from the Japan Fund for Poverty Reduction for $1.25 million. The project will construct about 5.3 kilometers of an elevated toll highway with related facilities between the New Kelani Bridge (NKB) and Galle Face in central Colombo. It will provide a direct link to the city center and the port from the Colombo- Katunayake Expressway via the NKB, and then extend the expressway network into the city. The project will improve last-mile connectivity between the country's expressway network and Colombo's international port, provide better logistics services for freight operations, and facilitate regional trade. It will help alleviate traffic congestion in Colombo's densely populated areas. It will run from 2019 - 2025.
 
-{{< dr-artimage src="images/strategy-2030/rci-2-mal.jpg" align="left" alt="" caption="A 290-meter L-shaped quay and onshore facilities built under the ADF funded Domestic Maritime Transport Project significantly increased efficiency and reduced congestion at Malé’s domestic harbor (Malé North Harbor), the main hub for the distribution of good in the Maldive’s." >}}
+{{< dr-artimage src="images/strategy-2030/rci-2-mal.jpg" align="left" alt="" caption="Partnerships and investments that address congestion in transport and distribution hubs help increase efficiency in the delivery of goods and services across borders." >}}
 
 Some hindrances to trade include unstreamlined regulations and various requirements to move goods. To address this, a project in the Maldives, the [South Asia Subregional Economic Cooperation National Single Window Project](https://www.adb.org/projects/51330-001/main#project-pds), was approved with cofinancing from the High-Level Technology Fund for $0.5 million. The technical assistance will contribute to supporting the Government of the Maldives in related capacity development of various stakeholders, including on change management. The project will use information and communication technology to improve efficiency in cross-border control procedures by supporting the development of an automated system to share and harmonize data across systems of transnational regulatory agencies. It will also allow traders and other service providers to submit and obtain unified clearance of export and import documentation requirements through a single point of entry. It will run from 2019 - 2023.
 
@@ -55,16 +57,8 @@ Supporting the internationalization of small and medium enterprises (SMEs) is es
 
 ### Moving Forward
 
-{{< dr-artimage src="images/strategy-2030/rci-3-ban-covid.jpg" align="right" alt="" caption="" >}}
+{{< dr-artimage src="images/strategy-2030/rci-3-ban-covid.jpg" align="right" alt="" caption="The ongoing pandemic has highlighted the urgency of regional cooperation." >}}
 
 The global threat that the novel coronavirus, or COVID19, presented in early 2020, has highlighted how critical regional cooperation is. ADB's Asian Development Outlook puts regional economic growth in developing Asia in a sharp decline in 2020 because of the pandemic. This puts all developing Asia's subregions in weak growth this year due to weak global demand. The report opines that "subregions that are more economically open, like East and Southeast Asia, or tourism-dependent like the Pacific, will be hard hit."
 
 While some amount of cross-border trade and investment activities is seen to slow down, regional cooperation in the areas of health and medical information sharing must be doubled. An [ADB analysis](https://blogs.adb.org/Asia-Pacific-overcome-COVID-19-by-working-together) observes that "COVID-19 reminds us that we are highly interconnected, not just in terms of goods, capital, and information but also human interaction, and that disease does not respect national boundaries."
-
-#### References
-
-[Asian Development Bank Support for Regional Cooperation and Integration: thematic evaluation](https://www.adb.org/sites/default/files/evaluation-document/110946/files/adb-support-rci.pdf)
-
-[Monitoring Regional Economic Integration in Asia](https://www.adb.org/sites/default/files/publication/185039/adbi-pb2016-1.pdf)
-
-Self-Assessment of the Regional Cooperation and Integration Fund (RCIF), 2019

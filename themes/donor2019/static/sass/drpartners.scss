@@ -84,9 +84,7 @@
     line-height: 1.2;
     font-size: 2.8rem;
   }
-  .dr-pager {
-    text-align: right;
-  }
+  
   h5 {
     em {
       display: block;
@@ -95,4 +93,7 @@
       font-weight: 300;
     }
   }
+}
+.dr-pager {
+  text-align: right;
 }

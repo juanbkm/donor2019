@@ -2,11 +2,11 @@
 title: "Governance and Capacity Building"
 date: 2020-05-01T01:01:02+08:00
 weight: 6
-lead: "Public management reforms and financial sustainability, service delivery, capacity and standards"
+lead: "Asia’s public sector institutions have a long way to go reach maximum efficiency. With about 127 cofinanced projects pursuing good governance in some form, ADB’s financing partnerships continue to help strengthen the capacity of public institutions to undertake policy reforms and promote private sector development."
 main_image: images/strategy-2030/governance.jpg
 main_image_thumb: images/strategy-2030/governance-th.jpg
 icon: images/strategy-2030/icn-governance.svg
-op_intro: "ADB's Strategy 2030 sets its course for strengthing governance and institutional capacity by pursuing the following:"
+op_intro: "ADB's Strategy 2030 sets its course for strengthening governance and institutional capacity by pursuing the following:"
 op: 
   - item: Governance and institutional capacity for service delivery
   - item: Public sector management and financial stability
@@ -17,7 +17,7 @@ Many of ADB's developing member countries (DMCs) are mired in deep-seated govern
 
 ADB's vision under Strategy 2030 requires effective governance and improved institutional capacity in its DMCs.
 
-{{< dr-yt video="Sfkk9NkCvnI" align="" title="Kiribati: Lone Highway Made Safer, Better" cover="cover-yt-lone-highway-made-safer-better.jpg" >}}
+{{< dr-yt video="3MgqaJCkcto" align="" title="Kiribati: Lone Highway Made Safer, Better" cover="cover-yt-lone-highway-made-safer-better.jpg" >}}
 
 Governance interventions cut across a wide array of sectors and themes, among them education, energy, finance, health, transport, urban, water, climate change and disaster risk management, gender, social development, rural development and food security, regional cooperation, and public-private partnership.
 
@@ -35,7 +35,7 @@ In terms of projects, the [Connecting the Railways of the Greater Mekong Subregi
 
 The [European Bank of Reconstruction and Development]({{< ref "european-bank-reconstruction-development.md" >}}) is cofinancing the [Georgia: North–South Corridor (Kvesheti–Kobi) Road Project](https://www.adb.org/projects/51257-001/main#project-pds) for $60.00 million. The project, which runs from 2019 to 2026, aims to improve connectivity and safety along the North-South Corridor by constructing about 23 kilometers (km) of climate-resilient two-lane highway between Kvesheti and Kobi (the project road) and about 5 km of all-weather access roads. The project will also help increase road safety awareness and improve the capacity of the Roads Department on project and contract management. The project expands efforts of ADB and other development partners to upgrade the country's national highway network along vital economic corridors. 
 
-{{< dr-artimage src="images/gov-1-uzb.jpg" align="left" alt="" caption="Talimarjan Power Plant" >}}
+{{< dr-artimage src="images/gov-1-uzb.jpg" align="left" alt="" caption="Improving corporate governance in the energy sector can significantly contribute to not just improving energy efficiency, but in securing reliable energy for all.">}}
 
 The Uzbekistan project, [Power Generation Efficiency Improvement Project](https://www.adb.org/projects/49253-003/main#project-pds), is cofinanced with the [Uzbekistan Fund for Reconstruction and Development]({{< ref "uzbekistan-fund-reconstruction-development.md" >}}) for $177.00 million, the [European Bank of Reconstruction and Development]({{< ref "european-bank-reconstruction-development.md" >}}) for $240.00 million, and Japan Fund for Poverty Reduction for $2.00 million. The project, which runs from 2019 to 2023, is constructing two units of 450 MW energy-efficient gas turbines at the Talimarjan Thermal Power Plant in the Kashkadarya region. It aims to contribute to energy saving, greenhouse gas emission reduction, and reliable power supply in Uzbekistan. The project builds on the experience gained through the Talimarjan Power Project, which helped improved corporate governance in the energy sector.
 
@@ -45,7 +45,7 @@ The Republic of Korea e-Asia and Knowledge Partnership Fund and the People's Rep
 
 The public sector management aspect of this operational priority focuses on improving public expenditure and fiscal management, reforms of state-owned enterprises, and social protection.
 
-{{< dr-artimage src="images/gov-2-pak.jpg" align="right" alt="" caption="" >}}
+{{< dr-artimage src="images/gov-2-pak.jpg" align="right" alt="" caption="Partnerships can help address fiscal, governance, technical, and policy deficits that reduce the quality and efficiency of public services.">}}
 
 In Pakistan, the [Energy Sector Reforms and Financial Sustainability Program (Subprogram 1)](https://www.adb.org/projects/53165-001/main#project-pds) is cofinanced with the Export-Import Bank of Korea for $80.00 million. The project aims to address fiscal, governance, technical, and policy deficits in Pakistan's energy sector. These deficits have adversely impacted the sector's quality and efficiency of services, and the sustainability of energy infrastructure and finances, thereby challenging Pakistan's fiscal balance and macroeconomic stability. The project runs from 2019-2020. 
 
@@ -53,16 +53,10 @@ In the Philippines, the [Strengthening the Transition of Vulnerable Communities 
 
 Cofinanced by KfW for $553.70 million, the [Fiscal and Public Expenditure Management Program (Subprogram 3)](https://www.adb.org/projects/50168-003/main#project-pds) in Indonesia supports critical fiscal and public expenditure management reforms to improve the quality of government spending on health, education, social protection, and infrastructure. The subprogram runs from 2019 to 2020. In Tonga, the [Building Macroeconomic Resilience Program, Subprogram 3](https://www.adb.org/projects/48361-003/main#project-pds)  was cofinanced with the [Government of Australia]({{< ref "australia.md" >}}) for $2.80 million, the [European Union]({{< ref "european-union.md" >}}) for $2.20 million, and the [World Bank]({{< ref "world-bank-group.md" >}}) for $5.50 million. The program, consisting of three subprograms, aimed to strengthen Tonga's long-term growth prospects and capacity to respond to external shocks. It supported government efforts to improve the country's fiscal position by adopting prudent policies and better public financial management, and improving the business climate by continuing policy, regulatory, and public enterprise reforms. The project ran from June to October 2019.
 
-{{< dr-artimage src="images/gov-3-tuv.jpg" align="left" alt="" caption="Ministry of Finance and National Planning is responsble for developing sound fiscal and macroeconomic policies. The office is located in Nuku'alofa, Tonga." >}}
+{{< dr-artimage src="images/gov-3-tuv.jpg" align="left" alt="" caption="Projects that support reforms in financial management and public service delivery, such as the Improved Fiscal and Infrastructure Management Program in Tonga, can help improve a country's macroeconomic stability.">}}
 
 Similarly, in Tuvalu, the [Improved Fiscal and Infrastructure Management Program](https://www.adb.org/projects/50377-001/main#project-pds) was cofinanced with the [Government of Australia]({{< ref "australia.md" >}}) for $1.00 million, the [European Union]({{< ref "european-union.md" >}})n for $1.50 million, the [World Bank]({{< ref "world-bank-group.md" >}}) for $7.50 million, and the [Government of New Zealand]({{< ref "new-zealand.md" >}}) for $ 0.6 million. The TA, which ran from October to December 2019, helped implement and sustain the government's medium-term public sector management reform agenda by supporting efforts to improve public financial management practices and public service delivery. The Government of Tuvalu recognizes that improved macroeconomic sustainability and public service delivery is critical, given the development challenges that it faces.
 
 ### Moving Forward
 
-Good governance and strong institutional capacity are the basis for country development. ADB’s partnerships will continue to help DMCs improve governance and create an enabling environment for sustainable growth by strengthening the quality and capacity of public institutions to undertake policy reforms and promote private sector development. They will also continue to support reforms in public expenditure; revenue collection, including tax system and enforcement; corruption eradication and anti-money-laundering activities, and more.  
-
-### References
-
-[Localizing the Sustainable Development Goals to Accelerate Implementation of the 2030 Agenda for Sustainable Development ](https://www.adb.org/sites/default/files/publication/472021/governance-brief-033-sdgs-implementation-2030-agenda.pdf)
-
-[The Fight against Corruption: Taming Tigers and Swatting Flies](http://documents.worldbank.org/curated/en/294321578642864410/pdf/The-Fight-against-Corruption-Taming-Tigers-and-Swatting-Flies.pdf)
+Good governance and strong institutional capacity are the basis for country development. ADB’s partnerships will continue to help DMCs improve governance and create an enabling environment for sustainable growth by strengthening the quality and capacity of public institutions to undertake policy reforms and promote private sector development. They will also continue to support reforms in public expenditure; revenue collection, including tax system and enforcement; corruption eradication and anti-money-laundering activities, and more.

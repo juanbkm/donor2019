@@ -20,7 +20,7 @@ Women make up about 50% of the population in many countries in Asia and the Paci
 
 While women have achieved positions of leadership, there are women who still struggle against sexual harassment and domestic violence. While there are women CEOs and billionaires, there are women who find accessing financial resources for livelihood activities difficult. And these often happen with women contending with unshared childcare and household chores. In Asia’s poorer countries, maternal mortality remains high. Many women have had the benefits of quality education and healthcare, yet many young girls are also still struggling to finish secondary education. In the workplace, women earn the equivalent of only 77% of men’s wages, with huge variations across countries and industries.
 
-{{< dr-yt video="ok9H12WwT-Q" align="" title="Sri Lanka: SMEs Mainstream Women into Sri Lanka’s Economy" cover="cover-yt-access-to-credit-empowers-sri-lankan-women.jpg" >}}
+{{< dr-yt video="cFajRgjUnP4" align="" title="Sri Lanka: SMEs Mainstream Women into Sri Lanka’s Economy" cover="cover-yt-access-to-credit-empowers-sri-lankan-women.jpg" >}}
 
 ADB continues to find ways to close gender equality gaps in the region. The share of ADB operations supporting gender mainstreaming grows every year and provides momentum toward achieving Strategy 2030’s ambitious target of having at least 75% of ADB’s committed operations support gender equality by 2030.
 
@@ -32,9 +32,9 @@ Many bilateral partners of ADB also prioritize gender equality in their developm
 
 ### Women’s Economic Empowerment
 
-{{< dr-artimage src="images/gen-1-sri.jpg" align="left" alt="" caption="In many countries in Asia, many women find it hard to access paid work because they are burdened with domestic and care work" >}}
-
 In many countries in Asia, women are still burdened by domestic and care work, which prohibit them from taking on paid skilled work or livelihood opportunities. Women are still at a disadvantage in accessing financial resources for livelihood and other paid work. In 2019, ADB tapped the Women Entrepreneurs Finance Initiative (We-Fi) for cofinancing of $9.5 million for the [Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project](https://www.adb.org/projects/49273-001/main#project-overview), which aims to provide a line of credit to small and medium-sized enterprises (SMEs) in Sri Lanka. The project had an innovative feature of allocating loan proceeds to participating financial institutions via an auction system. 
+
+{{< dr-artimage src="images/gen-1-sri.jpg" align="" alt="" caption="In many countries in Asia, many women find it hard to access paid work because they are burdened with domestic and care work." >}}
 
 We-Fi is also providing $2.24 million for an attached technical assistance for export-oriented cluster development to develop Sri Lanka's next generation of SMEs. ADB has received a further $20.19 million from We-Fi to finance the [Women Accelerating Vibrant Enterprises in Southeast Asia and the Pacific (WAVES)](https://www.adb.org/news/new-we-fi-financing-enhance-adbs-support-women-led-smes-viet-nam-and-pacific) program, which aims to promote inclusive and sustainable growth and development through women’s businesses and entrepreneurship.
 
