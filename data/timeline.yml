@@ -17,8 +17,11 @@ month   :
     item :
       - milestone: ADB X AIIB 
         link: https://www.adb.org/news/adb-and-aiib-presidents-discuss-strategic-and-operational-issues
+        img: 33686-adb-and-aiib-presidents-handshake-final.jpg
         text: |
           ADB, Asian Infrastructure Investment Bank (AIIB) sign cofinancing framework agreement. 
+
+          ADB President Takehiko Nakao and AIIB President Jin Liqun signed a cofinancing framework agreement for sovereign operations. ADB and AIIB have cofinanced 5 projects so far: 4 sovereign loans in Bangladesh, Georgia, India, and Pakistan, and one collaborative transaction in Myanmar.
       - milestone: ADB X Australia 
         financing: Australia - $0.71 million 
         text: |
