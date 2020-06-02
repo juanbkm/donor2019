@@ -6,7 +6,7 @@ image_caption: "**Keeping the Lights On.** Cutting-edge technology is about to t
 author: Admin
 description: "This is meta description"
 country: Regional
-summary: "Energiya, Central Asia's energy trade coordinating dispatch center, is getting a power boost from an ADB project cofinanced by the Asian Clean Energy Fund under Clean Energy Financing Partnership Facility and the High-Level Technology Fund. A recharged Energiya will help increase regional energy trading and addresses frequent power outages and the increasing use of fossil fuels."
+summary: "Coordinating Dispatch Center, Energiya, who is Central Asia’s power flow coordinator, is getting a power boost from an ADB project cofinanced by the Asian Clean Energy Fund under Clean Energy Financing Partnership Facility and the High-Level Technology Fund. A recharged Energiya will help increase regional energy trading and addresses frequent power outages and the increasing use of fossil fuels."
 project_title: "Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System"
 project_url: https://www.adb.org/projects/52112-002/main#project-documents
 cost: "$2.5 million"
@@ -66,4 +66,4 @@ An assessment of the needs of Energiya has been conducted and the design of the 
 
 As of writing, the modular procurement plan to acquire the EDM is being finalized, including preparations of bid documents. The modular approach is used to adapt to budget availability and urgency of need in procurement. Since the modular procurement plan indicates that the allocated amount may be slightly short, the project may seek  additional financing once the bidding for procurement of the EDM is complete in the autumn of 2020. 
 
-A regional workshop with Japan International Cooperation Agency (JICA) and consultants based in Europe is postponed due to the COVID-19 pandemic. The workshop will be the venue for JICA to share experiences of Japan for managing interregional power flows as well as disaster resilience of the grid. The consultants will present European experience on power trade.
+A regional workshop with Japan International Cooperation Agency (JICA) and consultants based in Europe is postponed due to the COVID-19 pandemic. The workshop will be the venue for JICA to share experiences of Japan for managing interregional power flows as well as disaster resilience of the grid. The consultants will present European experience on power trade. 

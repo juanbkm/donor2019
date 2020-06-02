@@ -1,13 +1,13 @@
 ---
-title: "Start-Ups to Deliver Inclusive Tourism in the Mekong Region"
+title: "Start-Ups Deliver Inclusive Tourism in the Mekong Region"
 date: 2020-05-30T08:12:00+08:00
 image: images/stories/start-ups-to-deliver-inclusive-tourism-in-the-mekong-region.jpg
-image_caption: "**Tourism Upgrade in the Mekong.** New tourism enterprises that use startup technology will promote a more inclusive and sustainable tourism industry in the Greater Mekong Region and support the millions of tourists who flock to this part of Asia yearly."
+image_caption: "**Tourism Upgrade in the Mekong.** New tourism enterprises using start-up technologies are promoting a more inclusive and sustainable tourism industry in the Greater Mekong Region by supporting the millions of tourists who flock to this part of Asia yearly."
 image_thumb: images/stories/start-ups-to-deliver-inclusive-tourism-in-the-mekong-region-th.jpg
 author: Admin
 description: "This is meta description"
 country: Regional
-summary: "The Mekong region is set to introduce tourists to a wider array of attractions after several tourism start-ups are placed under an innovation accelerator program, supported by the Government of Australia. If the success of these start-ups gains and sustains momentum, the Mekong region will soon see a more inclusive and sustainable tourism industry."
+summary: "The Mekong region is introducing tourists to a wider array of attractions after several tourism start-ups are placed under an innovation accelerator program, supported by the Government of Australia. As the success of these start-ups gains and sustains momentum, the Mekong region is on its way to having a more inclusive and sustainable tourism industry."
 project_title: "REG: Mekong Tourism Innovation"
 project_url: "https://www.adb.org/projects/52108-001/main"
 cost: "$150,000"
@@ -27,7 +27,7 @@ draft: false
 
 <ul class="dr-results">
   <li><i class="icon-check-circle"></i> The MIST program 2018 received 107 applications</li>
-  <li><i class="icon-check-circle"></i> Nine start-ups graduated from the MIST accelerator program, 5 in the startup track, 4 in the market access track, 14 start-ups finished the MIST bootcamp</li>
+  <li><i class="icon-check-circle"></i> Nine start-ups graduated from the MIST accelerator program, 5 in the start-up track, 4 in the market access track, 14 start-ups finished the MIST bootcamp</li>
   <li><i class="icon-check-circle"></i> After the program, 23 commercial partnerships were signed, US$1.65 million potential investment raised</li>
   <li><i class="icon-check-circle"></i> Raising the profile of the project 813 media stories made about project. 3.1 million social media shares</li>
 </ul>
@@ -42,7 +42,7 @@ These arrivals, however, mainly benefit fewer than ten getaway destinations. The
 
 ### Interventions
 
-Seeing huge potential for inclusive and sustainable tourism growth in diversifying tourism destinations, ADB together with the Greater Mekong Subregion (GMS) Tourism Working Group (TWG) and the [Government of Australia]({{< ref "australia.md" >}}) created the Mekong Innovative Startups in Tourism (MIST) accelerator program, under the Mekong Business Initiative in 2017. The pilot MIST in 2017 successfully incubated ASEAN-4 tourism startups and facilitated market access and technology transfer for another 12 mature tourism technology. Building on this success, ADB and the [Government of Australia]({{< ref "australia.md" >}}) got together and formulated the regional [Mekong Tourism Innovation Project](https://www.adb.org/sites/default/files/project-documents/52108/52108-001-tcr-en.pdf) to continue supporting MIST in  2018.
+Seeing huge potential for inclusive and sustainable tourism growth in diversifying tourism destinations, ADB together with the Greater Mekong Subregion (GMS) Tourism Working Group (TWG) and the [Government of Australia]({{< ref "australia.md" >}}) created the Mekong Innovative Start-ups in Tourism (MIST) accelerator program, under the Mekong Business Initiative in 2017. The pilot MIST in 2017 successfully incubated ASEAN-4 tourism start-ups and facilitated market access and technology transfer for another 12 mature tourism technology. Building on this success, ADB and the [Government of Australia]({{< ref "australia.md" >}}) got together and formulated the regional [Mekong Tourism Innovation Project](https://www.adb.org/sites/default/files/project-documents/52108/52108-001-tcr-en.pdf) to continue supporting MIST in 2018.
 
 The start-up track teaches business fundamentals to early-stage travel and hospitality startups, while connecting them with industry and investors. The market access track helps clear market entry obstacles, form local partnerships, and secure financing for proof-of-concept pilots.
 
@@ -56,4 +56,4 @@ After the MIST boot camp, reports on market expansion from the participants show
 
 Social media played a big role in spreading the word about the new tourism techenterprises. The project received extensive positive media exposure through the 813 media stories. It also gained 3.1 million social media shares, exceeding its target of 1 million. Both were well above the project’s targets.
 
-A vibrant tourism industry is an essential contributor to global trade and economic growth. An ADB report says that it is “perhaps the world’s largest voluntary transfer of resources from rich people to poor people.”
+By diversifying consumer services and markets, the MIST project also helped these destinations become resilient in the face of external shocks like natural disasters or pandemics. A vibrant tourism industry is an essential contributor to global trade and economic growth. An ADB report says that it is “perhaps the world’s largest voluntary transfer of resources from rich people to poor people.” 

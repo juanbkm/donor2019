@@ -27,6 +27,8 @@ In 2019, ADB mobilized a total of $7 billion in total climate finance, with $5.5
 
 ADB has consistently offered innovative cofinancing opportunities to partners, such as the Green Climate Fund, which supported nine projects with  [$473 million in grants and concessional financing in 2019](https://www.adb.org/news/op-ed/banking-action-how-adb-achieved-2020-climate-finance-milestone-one-year-ahead-time).  Other funds that prioritize climate change dimensions include, among others, the Asia Pacific Climate Finance Fund, Canadian Climate Fund for the Private Sector in Asia, Clean Energy Financing Partnership Facility, Climate Investment Fund, Global Environment Facility, Green Climate Fund, Integrated Disaster Risk Management Fund, Japan Fund for the Joint Crediting Mechanism, and the Urban Climate Change Resilience Trust Fund.
 
+{{< dr-yt video="O7-E3OY0xQU" align="" title="Improving River Basin Management in the Pyanj" cover="cover-yt-improving-river-basin-management.jpg" >}}
+
 ### Accelerating Low Greenhouse Gas Emissions Development
 
 Greenhouse gas emissions will increase as rapid urbanization progresses in many parts of Asia. This will heighten the need to promote energy efficiency, as it can significantly reduce greenhouse gas emissions. In 2019, ADB and the United States Agency for International Development (USAID) launched a [partnership](https://www.adb.org/news/usaid-adb-partner-expand-asia-and-pacifics-sustainable-energy-market) to boost the capacity of clean energy systems by 6 gigawatts while increasing regional energy trade by 10% over the next five years.  
@@ -51,7 +53,7 @@ The establishment of the [ASEAN Green Catalytic Climate Fund (ACGF)](https://www
 
 ### Increasing Focus on the Water-Food-Energy Security Nexus
 
-{{< dr-artimage src="images/cli-3-cam-generic.jpg" align="right" alt="" caption="No response to climate change will be effective without recognizing its connection to energy, water, and food security" >}}
+{{< dr-artimage src="images/cli-3-cam-generic.jpg" align="right" alt="" caption="No response to climate change will be effective without recognizing its connection to energy, water, and food security." >}}
 
 No response to climate change will be effective without recognizing its connection to water, energy, and food security. Projects should be designed to address not just climate change, but the increased demand for food and water, as well as energy. Policies and projects need to prioritize the rational and proper management and allocation of water across sectors while keeping an eye out for environmental stability. One project that demonstrates this integrated approach is the [Viet Nam: Water Efficiency Improvement in Drought Affected Provinces](https://www.adb.org/projects/49404-001/main), which combines technology and water use efficiency to ensure farmers’ productivity and resilience amid widespread drought.
 

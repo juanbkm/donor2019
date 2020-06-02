@@ -44,6 +44,10 @@ The river basin is enclosed by glaciers and snowfields as high as 3,500 meters. 
 
 Climate scenarios show that the spate of disasters in the area may worsen over time. Tajikistan is projected to experience temperature increase of up to 2° Celsius by 2050, which will lead to the faster decline of glaciers, estimated to be by 50% between [2010 to 2050](https://www.adb.org/sites/default/files/publication/42682/cwa-wp-06-pyanj-river-morphology.pdf).  Floods, avalanches, and landslides will surely follow. This increase in temperature will also lead to higher crop water demand in a land where agriculture is a major source of livelihood. This will threaten not just farmers’ incomes, but food security in the country as well.
 
+
+{{< dr-yt video="O7-E3OY0xQU" align="" title="Improving River Basin Management in the Pyanj" cover="cover-yt-improving-river-basin-management.jpg" >}}
+
+
 ### Interventions
 
 The need to make the Pyanj River Basin climate-proofed and better protected is critical. ADB and the Japan Fund for Poverty Reduction Fund (JPFR) worked together to address this concern by motivating the people to come together to protect the river while climate-proofing the Chubek irrigation system, the largest irrigation infrastructure drawing water from the Pyanj.

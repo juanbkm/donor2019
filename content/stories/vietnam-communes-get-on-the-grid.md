@@ -7,7 +7,7 @@ image_thumb: images/stories/vietnam-communes-get-on-the-grid-th.jpg
 author: Admin
 description: "This is meta description"
 country: Viet Nam
-summary: "Viet Nam is progressing toward achieving universal access to electricity by 2020 after an ADB project with cofinancing from the Clean Energy Fund under the Clean Energy Financing Partnership Facility helped provide hundreds of thousands of households with electricity and opened economic opportunities to the men and women of these communes."
+summary: "Viet Nam is progressing toward achieving universal access to electricity by 2020 after an ADB project with cofinancing from the Clean Energy Fund under Clean Energy Financing Partnership Facility helped provide hundreds of thousands of households with electricity and opened economic opportunities to the men and women of these communes."
 project_title: "Viet Nam: Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project"
 project_url: https://www.adb.org/projects/42182-013/main#project-overview
 cost: "$197.6 million"
@@ -22,7 +22,7 @@ counterpart:
   - name: "Viet Nam"
     amount: "$46.6 million"
 fin_partners: 
-  - name: "Clean Energy Fund under the Clean Energy Financing Partnership Facility"
+  - name: "Clean Energy Fund under the Clean Energy Financing Partnership Facility (Grant)"
     amount: "US$3.0 million"
 approval: "April 2014"
 completion: "May 2018"
@@ -71,4 +71,4 @@ Household electrification in project targeted areas increased from 83.5% at appr
 
 The cost of electricity was also affordable for commune households. An evaluation with independent verification found that electricity is affordable for households, as it costs an average of 6.54% share of their household monthly expenditures. 
 
-The project's outcomes provided both strategic and practical benefits to poor people, particularly women and ethnic groups. Specifically, it improved new electricity connections to 300,034 households, including a free service connection to 12,672 woman-headed households. The project also facilitated access to microcredit for 6,128 women and 2,994 borrowed to invest in livelihood activities.
+The project's outcomes provided both strategic and practical benefits to poor people, particularly women and ethnic groups. Specifically, it improved new electricity connections to 300,034 households, including a free service connection to 12,672 woman-headed households. The project also facilitated access to microcredit for 6,128 women and 2,994 borrowed to invest in livelihood activities. 
