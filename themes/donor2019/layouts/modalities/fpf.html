@@ -21,7 +21,7 @@
           <h5>Contributors</h5>
           <ul>
           {{ range .Params.contributors }}
-            <li>{{ .name }}</li>  
+            <li>{{ .name | markdownify }}</li>  
           {{ end }}
           </ul>
 

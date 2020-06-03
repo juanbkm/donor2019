@@ -45,6 +45,6 @@ EDB started working with ADB in 2013 in the areas of agriculture, transport, ene
 <td>100.00 </td>
 <td>L</td>
 </tr>
-</table>
+</table> 
 
 <p class="dr-footnote"><sup>a</sup> L = official loan cofinancing</p>

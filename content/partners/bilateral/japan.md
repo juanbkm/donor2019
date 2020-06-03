@@ -40,11 +40,11 @@ draft: false
 
 <a href="https://www.adb.org/publications/japan-fact-sheet" target="_blank">Japan</a> provides extensive development support to its Asia-Pacific neighbors. Japan’s official development assistance is coordinated mainly through the Japan International Cooperation Agency (JICA), in the forms of loan aid, technical cooperation, and grant aid. JICA’s work is concentrated on (i) strengthening the human capacity of individuals who will be key players in their countries’ development; (ii) fortifying partnerships between actors in Japan who are involved in, and contributing to, development cooperation and regional vitalization; (iii) contributing to international commitments and serving as a leader in the international community; and (iv) strengthening security measures. 
 
-ADB and JICA have a standing commitment to achieve US$10 billion in cofinancing for sovereign operations between 2016 and 2020. As of 30 November 2019 the combined cofinancing amount approved by ADB and JICA is US$7,264 million, comprising US$3,828 million by ADB and US$3,436 million by JICA. 
-
 In December 2015, ADB and JICA signed a Memorandum of Understanding for Strategic Partnership for Sustainable and Inclusive Development through Promotion of Quality Infrastructure Investment in Asia and the Pacific. Under this partnership, ADB and JICA (i) established the Leading Asia's Private Sector Infrastructure Fund (LEAP Fund), and (ii) promoted quality public infrastructure development in the region through cofinancing.     
 
 Capitalized by US$1.5 billion in equity from JICA, LEAP stimulates investment in quality and sustainable private sector infrastructure in Asia and the Pacific, including through public–private partnerships. To date, 17 projects have been approved with LEAP cofinancing in the cumulative amount of US$661.23 million.    
+
+ADB and JICA have a standing commitment to achieve US$10 billion in cofinancing for sovereign operations between 2016 and 2020. As of 31 December 2019 the combined cofinancing amount approved by ADB and JICA is roughly $7.3 billion, comprising $2.37 billion by ADB and $3.89 billion by JICA. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Japan
 

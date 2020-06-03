@@ -4,7 +4,6 @@ date: 2020-04-18T00:24:25+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
-pdf: dr2019-resource-cofin-from-psc.pdf
 weight: 1
 draft: false
 ---
@@ -14,7 +13,7 @@ draft: false
   <tr>
     <th rowspan="2">Project Name</th>
     <th rowspan="2">ADB</th>
-    <th colspan="2">Sovereign Cofinancing</th>
+    <th colspan="2">Cofinancing</th>
     <th rowspan="2">Financing Partner</th>
   </tr>
   <tr>

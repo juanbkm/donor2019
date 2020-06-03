@@ -91,7 +91,7 @@ Four partnersâ€”Australia, the European Union, New Zealand, and the World Bankâ€
 
 ### Mumbai Metro Rail Systems Project
 
-ADB and new partner New Development Bank (NDB) embarked on the [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main) their first cofinanced project. The metro rail project will ease travel for millions of commuters across Mumbai, help decongest heavily crowded suburban rail systems, and contribute to providing a modern, clean, and livable urban environment.
+ADB and new partner New Development Bank (NDB) embarked on the [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main) their first cofinanced project. The metro rail project will ease travel for millions of commuters across Mumbai, help decongest heavily crowded suburban rail systems, and contribute to providing a modern, clean, and livable urban environment. [(See related story)](./stories/improving-urban-mobility-in-mumbai/).
 
 The Shanghai-based NDB is a new multilateral development bank set up in 2015 by five BRIC countries to mobilize resources for development projects in BRIC, emerging economies, and developing countries. ADB and NDB signed a memorandum of understanding in July 2016.
 
@@ -107,9 +107,8 @@ The project will help establish the Shandong Green Development Fund (SGDF) and a
 
 ### Pacific Private Sector Development Initiative 
 
-The [Regional: Pacific Private Sector Development Initiative, Phase IV](https://www.adb.org/projects/53072-001/main) (PSDI IV) is the PSC with the broadest DMC coverage, providing advisory and capacity-building assistance to all 14 Pacific Island Countries (PICs) to improve the PICs business enabling environments. The multi-phased initiative is expected to support inclusive, private sector-led economic growth in the Pacific subregion. The fourth phase is financed by Australia.
+The [Regional: Pacific Private Sector Development Initiative, Phase IV](https://www.adb.org/projects/53072-001/main) (PSDI IV) is the PSC with the broadest DMC coverage, providing advisory and capacity-building assistance to all 14 Pacific Island Countries (PICs) to improve the PICs' business enabling environments. The multi-phased initiative is expected to support inclusive, private sector-led economic growth in the Pacific subregion. The fourth phase is financed by Australia.
 
 PSDI IV will build on past achievements across six core areas: access to finance, business law reform, state-owned enterprise reform, public-private partnerships, competition and consumer protection, and the economic empowerment of women. The 14 PICs are Cook Islands, Fiji, Federated States of Micronesia, Kiribati, Marshall Islands, Nauru, Niue, Palau, Papua New Guinea, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu.
 
 {{< mod-proj i="4" >}}
-

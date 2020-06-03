@@ -2,7 +2,7 @@
 title: "Bill & Melinda Gates Foundation"
 date: 2020-04-11T19:08:01+08:00
 partner_type: Others
-project_specific_cofinancing: "$3.49 million"
+project_specific_cofinancing: "$3.5 million"
 trust_funds_contribution: "$19 million"
 partner_logo: images/partners/bmgf.png
 draft: false
@@ -90,4 +90,3 @@ href="https://www.adb.org/projects/52064-001/main" target="_blank">Southeast Asi
 </table>
 
 <p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p>
-

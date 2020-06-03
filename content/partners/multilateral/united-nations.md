@@ -13,9 +13,9 @@ ADB have been collaborating with several UN agencies since 1972, among them the 
 
 ADB and UNDP have been collaborating extensively at the country level throughout the region. In April 2019, ADB and UNDP signed a memorandum of agreement to renew and deepen their collaboration in supporting progress towards the Sustainable Development Goals (SDGs) in Asia and the Pacific. The MOU supersedes a 2007 agreement between ADB and UNDP. Also in 2019, UNDP  cofinanced a technical assistance on renewable energy for the Pacific region.  
 
-* <a href="https://www.undp.org/content/undp/en/home.html">**UN Development Programme**</a><br> Cumulative project-specific cofinancing: US$115.64 million
+* <a href="https://www.undp.org/content/undp/en/home.html">**UN Development Programme**</a><br> Cumulative project-specific cofinancing: US$115.6 million
 * <a href="https://www.unicef.org/">**UN Children’s Fund**</a><br> 
-Cumulative project-specific cofinancing: US$4.31 million 
+Cumulative project-specific cofinancing: US$4.3 million 
 * <a href="https://www.unfpa.org/">**UN Population Fund**</a><br>
 Cumulative project-specific cofinancing: US$110,000.00
 * <a href="https://www.who.int/">**World Health Organization**</a><br> 
@@ -52,4 +52,4 @@ Cumulative project-specific cofinancing: US$480,000.00
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p> 

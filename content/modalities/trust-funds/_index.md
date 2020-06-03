@@ -4,7 +4,7 @@ date: 2020-05-24T17:18:39+08:00
 layout: "trust-funds"
 main_image: images/modalities/tf.jpg
 id: dr-tf
-summary: Trust funds are single- or multi-partner channels of cofinancing resources to fund various projects, programs, technical assistance, and other activities. ADB administers contributions of financing partners as a trustee or administrator of about 44 trust funds, 14 of which fall under umbrella [Financing Partnership Facilities](./modalities/trust-funds/financing-partnerships-facilities). In 2019, trust funds contributed around $181 million in ADB’s sovereign operations.
+summary: Trust funds are [single](./modalities/trust-funds/single-partner-trust-funds) or [multi-partner](./modalities/trust-funds/multi-partner-trust-funds) channels of cofinancing resources to fund various projects, programs, technical assistance, and other activities. ADB administers contributions of financing partners as a trustee or administrator of about 44 trust funds, 14 of which fall under umbrella [Financing Partnership Facilities](./modalities/trust-funds/financing-partnerships-facilities). In 2019, trust funds contributed around $181 million in ADB’s sovereign operations.
 tfnav:
   - name: Single Partner Trust Fund
     image: images/modalities/sptf.jpg
@@ -16,35 +16,24 @@ tfnav:
     summary: |
       Multi-partner trust funds promote collaboration among ADB’s financing partners and attract new partners from the private sector, including philanthropic organizations. ADB is a trustee of 12 multi-partner trust funds.
     link: ./modalities/trust-funds/multi-partner-trust-funds/
-  - name: Financing Partnerships Facilities
+  - name: Financing Partnership Facilities
     image: images/modalities/fpf.jpg
     summary: |
-      Financing partnerships facilities (FPFs) support ADB’s corporate initiatives on clean energy, health, regional cooperation, urban development, and water. Each FPF houses one or more trust funds that finance projects and programs to help achieve the FPF’s targets and objectives.
+      Financing partnership facilities house trust funds that finance projects to support ADB’s corporate initiatives on clean energy, health, regional cooperation, urban development, and water.
     link: ./modalities/trust-funds/financing-partnerships-facilities/
 stories:
   - storytitle: Wind Power for More Renewable Power
     lead: "Sri Lanka is keen on developing wind power as an alternative to more costly thermal power. An ADB technical assistance supported by the Clean Energy Fund, built the capacity of Sri Lanka’s largest electric company to handle wind power projects with private sector involvement."
     image: images/stories/wind-power-for-energy-efficiency-and-security.jpg
     project_title: "Sri Lanka: Wind Power Generation Project"
-    project_url: https://www.adb.org/projects/49345-001/main#project-overview
+    project_url: https://www.adb.org/projects/49345-001/main
     cost: "$2 million"
     fin_partners:
      - name: "Clean Energy Fund under the Clean Energy Financing Partnership Facility"
        amount: "$2 million"
     approval: "March 2016"
     completion: "February 2019"
-  - storytitle: "Raising the Quality of Urban Service Delivery"
-    image: images/stories/the-importance-of-policy-in-alleviating-urban-poverty.jpg
-    lead: "The Rajasthan Urban Sector Development Program, a partnership among ADB, Bill & Melinda Gates Foundation, and the Government of India, showed that physical investments that uplift the lives of the urban poor are better planned if they are combined with policy actions that strengthen institutions that oversee infrastructure and planning."
-    project_title: "Rajasthan Urban Sector Development Program"
-    project_url: https://www.adb.org/projects/42267-026/main#project-pds
-    cost: "$613 million"
-    fin_partners:
-     - name: "Bill & Melinda Gates Foundation"
-       amount: "$2 million"
-    approval: "October 2014"
-    completion: "June 2020"
-  - title: "In Uncertain Times, Ample Preparation for Food Production"
+  - storytitle: "In Uncertain Times, Ample Preparation for Food Production"
     image: images/stories/in-uncertain-times-ample-preparation-for-food-production.jpg
     lead: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnerships Facility, through The Netherlands Trust Fund, is supporting the preparations."
     project_title: "Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project"
@@ -55,6 +44,19 @@ stories:
        amount: "$750,000"
     approval: "December 2019"
     completion: "November 2020"
+  - storytitle: "Support for Survivors of Domestic Violence"
+    image: images/stories/support-for-survivors-of-domestic-violence.jpg
+    lead: "Mongolia is keen on eradicating domestic violence against women and children. The Japan Fund for Poverty Reduction contributed $3 million to an ADB project that aims to help survivors break free from this vicious cycle."
+    project_title: "Mongolia: Combating Domestic Violence Against Women and Children"
+    project_url: https://www.adb.org/projects/51217-001/main
+    cost: "$3.2 million"
+    fin_partners:
+     - name: "Japan Fund for Poverty Reduction"
+       amount: "$3.0 million"
+    approval: "October 2018"
+    completion: "December 2022"
+
+
 weight: 
 draft: false
 ---

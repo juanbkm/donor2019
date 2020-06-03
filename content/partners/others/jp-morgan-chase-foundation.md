@@ -31,5 +31,4 @@ href="https://www.adb.org/projects/52214-001/main" target="_blank">Promoting Tra
 </tr>
 </table>
 
-
 <p class="dr-footnote"><sup>a</sup> TA = technical assistance cofinancing</p>
