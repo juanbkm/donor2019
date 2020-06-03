@@ -24,7 +24,9 @@
             <li>{{ .name | markdownify }}</li>  
           {{ end }}
           </ul>
-
+          {{ with .Params.contributorsfn }}
+          <p class="dr-fn">{{ . | markdownify }}</p>
+          {{ end }}
         </div>
         
 
@@ -37,10 +39,10 @@
           {{ .Content }}
 
           {{ range .Params.tf }}
-          <div class="dr-mod-partner dr-sptf">
+          <div class="dr-mod-partner dr-sptf py-4">
             <h5>{{ .name }}</h5>
             {{ if eq .type "single" }} 
-              <p class="dr-type">Single Partner</p>
+            <p class="dr-type">Single Partner</p>
             {{ else if eq .type "multi" }}
             <p class="dr-type">Multi-partner</p>
             {{ end }}

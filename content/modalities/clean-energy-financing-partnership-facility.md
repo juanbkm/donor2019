@@ -7,6 +7,7 @@ image: cefpf-mi.jpg
 lead: Improving access to energy, enhancing energy security, and decreasing the rate of climate change
 contributions: $14.9 million for the Clean Energy Fund *($3.3 million from Norway; $5.8 million from Sweden; $5.9 million from the United Kingdom)*
 total: $**295.5 million**
+totalcaption: Total contributions received as of 31 December 2019
 contributors:
   - name: Australia
   - name: Canada
@@ -16,9 +17,11 @@ contributors:
   - name: Spain
   - name: Sweden 
   - name: United Kingdom
+
+contributorsfn: <sup>*</sup>The Global Carbon Capture and Storage Institute was a contributor to the multi-partner Carbon Capture and Storage Fund from 2009 to 2018.
 chart: cefpf.png
 tf:
-  - name: Asian Clean Energy Fund
+  - name: Asian Clean Energy Fund (ACEF)
     type: single
     id: acef
     tcc: $57.1 million  
@@ -28,9 +31,9 @@ tf:
       - partner: Japan
     description: |
       ACEF supports developing member countries in their efforts towards reducing greenhouse gases through utilization of renewable energy and energy efficiency technologies. ACEF prioritizes activities that will be implemented in cooperation with Japanese aid agencies, as the part of the Enhanced Sustainable Development for Asia initiative.
-  - name: Canadian Climate Fund for the Private Sector in Asia
+  - name: Canadian Climate Fund for the Private Sector in Asia (CFPS)
     type: single
-    id: ccfpsa
+    id: cfps
     tcc: $81.5 million
     rap: $75.0 million for 16 projects
     fn:   
@@ -38,7 +41,7 @@ tf:
       - partner: Canada
     description: |
       CFPS aims to catalyze greater private sector investment in climate change mitigation and adaptation by helping the private sector overcome technology risks and cost hurdles to initiate and scale-up projects that reduce greenhouse gas (GHG) emissions and increase climate resilience.
-  - name: Carbon Capture and Storage Fund
+  - name: Carbon Capture and Storage Fund (CCSF)
     type: multi
     id: ccsf
     tcc: $38.3 million
@@ -51,7 +54,7 @@ tf:
       CCSF aims to accelerate the physical deployment of carbon capture and storage (CCS) demonstration projects by (i) promoting projects, (ii) engaging in capacity development for CCS, (iii) supporting geological investigations and environmental studies related to potential carbon dioxide storage sites, and (iv) undertaking community awareness and support programs. 
       
       *The Global Carbon Capture and Storage Institute was a contributor to the multi-partner Carbon Capture and Storage Fund from 2009 to 2018.
-  - name: Clean Energy Fund
+  - name: Clean Energy Fund (CEF)
     type: multi
     id: cef
     tcc: $118.6 million
@@ -64,16 +67,16 @@ tf:
       - partner: Sweden ($30 million)
       - partner: United Kingdom ($19.2 million)
     description: |
-      CCSF aims to accelerate the physical deployment of carbon capture and storage (CCS) demonstration projects by (i) promoting projects, (ii) engaging in capacity development for CCS, (iii) supporting geological investigations and environmental studies related to potential carbon dioxide storage sites, and (iv) undertaking community awareness and support programs. 
+      CEF provides support for grant component of investment and technical assistance that lead to increased investment in clean energy, through a combination of (i) efficient energy use that extracts greater service value from each primary energy unit consumed and (ii) increased use of indigenous forms of renewable energy. 
 weight: 
 draft: false
 ---
 
-As of 2019, the Clean Energy Financing Partnership Facility (CEFPF) has supported projects that are expected to reduced emissions in ADB’s developing member countries (DMCs) by 24.8 million tons of CO<sub>2</sub> equivalent (tCO<sub>2</sub>e) per year, surpassing its 2020 target of 20 million tCO<sub>2</sub>e/year. Meanwhile, the CEFPF’s other targets—improved energy savings, installed renewable energy capacity, and renewable energy generation—are well within reach. To date, CEFPF has provided 392,887 households with access to clean energy. It has also helped increase clean energy investments in DMCs, leveraging from the ADB, the private sector and the non-private sector about $8.3 billion of clean energy investment.
+As of 2019, the Clean Energy Financing Partnership Facility (CEFPF) has supported projects that are expected to reduce emissions in ADB’s developing member countries (DMCs) by 24.8 million tons of CO<sub>2</sub> equivalent (tCO<sub>2</sub>e) per year, surpassing its 2020 target of 20 million tCO<sub>2</sub>e/year. Meanwhile, the CEFPF’s other targets—improved energy savings, installed renewable energy capacity, and renewable energy generation—are well within reach. To date, CEFPF has provided 392,887 households with access to clean energy. It has also helped increase clean energy investments in DMCs, leveraging from the ADB, the private sector and the non-private sector about $8.3 billion of clean energy investment.
 
 ADB established the CEFPF in 2007 in view of the escalating energy demand in Asia and the Pacific and the increasingly felt effects of climate change. CEFPF helps DMCs improve their energy security and transition to low-carbon use through cost-effective investments.
 
-In line with the ADB Strategy 2030 operational priority: Tackling Climate Change, Building Climate and Disaster Resilience, and Enhancing Environmental Sustainability, the CEFPF continues to support the energy sector in achieving its climate financing target, providing financial and technical support to DMC to implement their Nationally Determined Contributions, and reducing GHG emissions through clean energy projects and programs.
+In line with the ADB Strategy 2030 operational priority: Tackling [Climate Change, Building Climate and Disaster Resilience, and Enhancing Environmental Sustainability](./strategy-2030/climate-change/), the CEFPF continues to support the energy sector in achieving its climate financing target, providing financial and technical support to DMCs to implement their Nationally Determined Contributions, and reducing GHG emissions through clean energy projects and programs.
 
 In the coming decade, CEFPF will also continue to support projects that focus on energy efficiency, access to energy, renewable energy, carbon capture, utilization and storage, sustainable transport, as well as projects that will engage the private sector to invest in clean energy. It will prioritize support for project preparatory assistance for clean energy and energy access related projects, and pilot projects which will deliver innovative designs and high-level technology adoption and deployment in the DMCs.
 

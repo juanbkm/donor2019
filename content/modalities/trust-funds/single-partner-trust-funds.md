@@ -6,7 +6,7 @@ pageid: dr-sptf
 summary: |
   ADB is a trustee of 18 active single-partner trust funds, with contributions from Australia, Canada, People’s Republic of China, Denmark, France, Ireland, Japan, Republic of Korea, and Spain.
 
-  *Of the $181 commitment by trust funds, $68 million (38%) were from single-partner trust funds. The trust funds with new projects in 2019 are:*
+  Of the $181 commitment by trust funds, $68 million (38%) were from single-partner trust funds. The trust funds with new projects in 2019 are:
  
 chart: sptf-chart.png
 tf:

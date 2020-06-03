@@ -26,7 +26,7 @@ tf:
       - partner: United Kingdom ($82.4 million)
       - partner: United States ($153.7 million) 
     description: |
-      In 2019, through the Afghanistan Infrastructure Trust Fund (AITF), the ANA Trust Fund provided US$ 93 million in replenishment funds. AITF is a platform that facilitates financing for infrastructure development in Afghanistan. It provides technical assistance and grants for the construction of roads, railways, airports, energy infrastructure, and water management and irrigation facilities. AITF’s investments are closely aligned with Afghanistan’s development priorities, including the National Peace and Development Framework, the self-reliance agendas, the National Infrastructure Plan, and other national priority programs. Both ADB and Afghanistan are working together to attract more donors and partners to finance and cofinance projects for Afghanistan by contributing to the AITF. 
+      In 2019, through the Afghanistan Infrastructure Trust Fund (AITF), the ANA Trust Fund provided $ 93 million in replenishment funds. AITF is a platform that facilitates financing for infrastructure development in Afghanistan. It provides technical assistance and grants for the construction of roads, railways, airports, energy infrastructure, and water management and irrigation facilities. AITF’s investments are closely aligned with Afghanistan’s development priorities, including the National Peace and Development Framework, the self-reliance agendas, the National Infrastructure Plan, and other national priority programs. Both ADB and Afghanistan are working together to attract more donors and partners to finance and cofinance projects for Afghanistan by contributing to the AITF. 
   - item:
     type: multi
     name: Asia Pacific Climate Finance Fund 
@@ -105,7 +105,7 @@ tf:
     contributor:
       - partner: Japan
     description: |
-      In 2019, the Domestic Resource Mobilization Trust Fund contributed US$1.77 in replenishment funds. The fund supports technical assistance activities related to operations enhancing domestic resource mobilization in developing member countries. This helps translate the 2030 Agenda for sustainable development into specific plans, policies, and projects necessary to achieve the Sustainable Development Goals (SDGs). It is expected to help provide an improved environment for meeting the SDGs in Asia and the Pacific through increased mobilization of domestic resources. All developing member countries of the bank are eligible for funding. 
+      In 2019, the Domestic Resource Mobilization Trust Fund contributed $1.77 in replenishment funds. The fund supports technical assistance activities related to operations enhancing domestic resource mobilization in developing member countries. This helps translate the 2030 Agenda for sustainable development into specific plans, policies, and projects necessary to achieve the Sustainable Development Goals (SDGs). It is expected to help provide an improved environment for meeting the SDGs in Asia and the Pacific through increased mobilization of domestic resources. All developing member countries of the bank are eligible for funding. 
 
   - item:
     type: multi
@@ -185,12 +185,12 @@ tf:
     url: https://www.adb.org/site/funds/funds/high-level-technology-fund
     year: 2017
     image:
-    tcc: US$54.5 million 
+    tcc: $54.5 million 
     cfp: $25.2 million for 41 projects and direct charges 
     contributor:
-      - partner: Japan (US$54.5 million)
+      - partner: Japan ($54.5 million)
     description: |
-      As of 2019, the High-Level Technology Fund (HLTF) provided funding to four projects on water resources development, irrigation improvement, road development, and water supply and sanitation; as well as to eight technical assistances covering the areas of trade, energy, agriculture, social development, and knowledge exchange. In 2019, HLTF also provided US$15.20 million in replenishment funds. 
+      As of 2019, the High-Level Technology Fund (HLTF) provided funding to four projects on water resources development, irrigation improvement, road development, and water supply and sanitation; as well as to eight technical assistances covering the areas of trade, energy, agriculture, social development, and knowledge exchange. In 2019, HLTF also provided $15.20 million in replenishment funds. 
 
       This fund provides grant financing to promote the integration of high-level technology (HLT) and innovative solutions into ADB-financed and administered sovereign and non-sovereign projects. The fund seeks to encourage widespread adoption of HLT and enable technological development and/or the scaling up of the technology deployment in developing member countries. Projects from all ADB developing member countries are eligible for financing from this fund. 
 
@@ -204,7 +204,7 @@ tf:
     tcc: $7.8 million
     cfp: $7.6 million for 10 projects  
     contributor:
-      - partner:  Nordic Development Fund (US$7.8 million) 
+      - partner:  Nordic Development Fund ($7.8 million) 
     description: |
       The Project Readiness Improvement Trust Fund supports both design and procurement readiness of climate change-responsive infrastructure projects. It seeks to strengthen the content of the Bank’s climate change financing to help developing member countries access global funds. Southeast Asian member-countries are eligible to receive support from the fund. These developing member countries are Brunei Darussalam, Cambodia, Indonesia, the Lao People's Democratic Republic, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Viet Nam.      
 weight: 

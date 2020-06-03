@@ -21,7 +21,7 @@ contributors:
   - name: United States
 chart: ufpf-chart.png
 tf:
-  - name: ASEAN Australia Smart Cities Trust Fund
+  - name: ASEAN Australia Smart Cities Trust Fund (AASCTF)
     type: single
     id: aasctf
     tcc: A$21.5 million ($15.2 million)
@@ -31,8 +31,7 @@ tf:
       - partner: Australia (A$21.5 million [$15.2 million]) 
     description: |
       AASCTF helps build livable cities that are green, competitive, inclusive, and resilient, consistent with the ASEAN’s Sustainable Urbanization Strategy, which aims to promote high quality of life, competitive economies, and sustainable environments.
-tf:
-  - name: Cities Development Initiative for Asia Trust Fund
+  - name: Cities Development Initiative for Asia Trust Fund (CDIATF)
     type: multi
     id: cdiatf
     tcc: $5.8 million
@@ -42,9 +41,8 @@ tf:
       - partner: Austria ($2.3 million)
       - partner: Switzerland ($4.0 million)
     description: |
-      CDIA assists secondary cities in preparing sustainable and bankable infrastructure projects; linking them with funding sources; and strengthening their capacities to develop and implement high priority investments.
-tf:
-  - name: Urban Climate Change Resilience Trust Fund
+      CDIATF assists secondary cities in preparing sustainable and bankable infrastructure projects; linking them with funding sources; and strengthening their capacities to develop and implement high priority investments.
+  - name: Urban Climate Change Resilience Trust Fund (UCCRTF)
     type: multi
     id: uccrtf
     tcc: $149.4 million
@@ -57,8 +55,7 @@ tf:
       - partner: United States ($100,000.00 million) 
     description: |
       UCCRTF supports fast-growing cities in Asia to reduce the risks poor and vulnerable people face from floods, storms or droughts, by helping to better plan and design infrastructure to invest against these impacts.
-tf:
-  - name: Urban Environmental Infrastructure Fund  
+  - name: Urban Environmental Infrastructure Fund (UEIF) 
     type: multi
     id: ueif
     tcc: $21.5 million   
@@ -68,7 +65,6 @@ tf:
       - partner: Sweden ($21.5 million)  
     description: |
       UEIF supports ADB's response to the huge unmet needs of the region for both basic and economic infrastructure.  
-
 weight: 
 draft: false
 ---
@@ -77,12 +73,9 @@ Now celebrating a decade of cofinancing, the Urban Financing Partnership Facilit
 
 Established in 2009, the UFPF supports the development of Asia’s cities while addressing pervasive urban issues such as pollution, uneven growth, and urban poverty.  
 
-In the next decade, the UFPF will be guided by ADB’s new Livable Cities Operational Priority Plan 2019–2024, which is in line with ADB 2030’s operational priority on Making Cities More Livable. The Livable Cities Operational Priority Plan is anchored on three main operational priorities:  
+In the next decade, the UFPF will be guided by ADB’s new Livable Cities Operational Priority Plan 2019–2024, which is in line with ADB 2030’s operational priority on [Making Cities More Livable](./strategy-2030/livable-cities/). The Livable Cities Operational Priority Plan is anchored on three main operational priorities:  
 * improve the coverage, quality, efficiency, and reliability of services in urban areas 
 * strengthen urban planning and financial sustainability of cities 
 * improve the urban environment, climate resilience, and disaster management of cities, all of which are closely aligned with the targeted areas of support of UFPF 
 
-Read the [UPFP Annual Report 2019](https://www.adb.org/documents/urban-financing-partnership-facility-annual-report-2019).  
-
-
-
+Read the [UPFP Annual Report 2019](https://www.adb.org/documents/urban-financing-partnership-facility-annual-report-2019). 

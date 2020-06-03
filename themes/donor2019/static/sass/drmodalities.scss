@@ -135,6 +135,13 @@
     p {
       font-size: .9rem;
     }
+    p.dr-type {
+      margin-top: -15px;
+      font-size: 1rem;
+    }
+    .dr-funding li {
+      font-size: .9rem;
+    }
     .dr-stat {
       width: 45%;
       display: inline-block;
@@ -233,4 +240,9 @@
     padding: 20px;
     margin: 0 0 20px 20px;
   }
+}
+
+.dr-fn {
+  font-size: .8rem !important;
+  font-style: italic;
 }

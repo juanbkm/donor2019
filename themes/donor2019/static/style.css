@@ -9502,6 +9502,13 @@ td.actions {
 #dr-modalities .dr-mod-partner p {
   font-size: .9rem; }
 
+#dr-modalities .dr-mod-partner p.dr-type {
+  margin-top: -15px;
+  font-size: 1rem; }
+
+#dr-modalities .dr-mod-partner .dr-funding li {
+  font-size: .9rem; }
+
 #dr-modalities .dr-mod-partner .dr-stat {
   width: 45%;
   display: inline-block;
@@ -9580,6 +9587,10 @@ td.actions {
   float: right;
   padding: 20px;
   margin: 0 0 20px 20px; }
+
+.dr-fn {
+  font-size: .8rem !important;
+  font-style: italic; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes

@@ -4,7 +4,7 @@ date: 2020-05-24T17:18:39+08:00
 layout: "trust-funds"
 main_image: images/modalities/tf.jpg
 id: dr-tf
-summary: Trust funds are [single](./modalities/trust-funds/single-partner-trust-funds) or [multi-partner](./modalities/trust-funds/multi-partner-trust-funds) channels of cofinancing resources to fund various projects, programs, technical assistance, and other activities. ADB administers contributions of financing partners as a trustee or administrator of about 44 trust funds, 14 of which fall under umbrella [Financing Partnership Facilities](./modalities/trust-funds/financing-partnerships-facilities). In 2019, trust funds contributed around $181 million in ADB’s sovereign operations.
+summary: Trust funds are [single](./modalities/trust-funds/single-partner-trust-funds) or [multi-partner](./modalities/trust-funds/multi-partner-trust-funds) channels of cofinancing resources to fund various projects, programs, technical assistance, and other activities. ADB administers contributions of financing partners as a trustee or administrator of about 44 trust funds, 14 of which fall under umbrella [Financing Partnership Facilities](./modalities/trust-funds/financing-partnership-facilities). In 2019, trust funds contributed around $181 million in ADB’s sovereign operations.
 tfnav:
   - name: Single Partner Trust Fund
     image: images/modalities/sptf.jpg
@@ -20,7 +20,7 @@ tfnav:
     image: images/modalities/fpf.jpg
     summary: |
       Financing partnership facilities house trust funds that finance projects to support ADB’s corporate initiatives on clean energy, health, regional cooperation, urban development, and water.
-    link: ./modalities/trust-funds/financing-partnerships-facilities/
+    link: ./modalities/trust-funds//
 stories:
   - storytitle: Wind Power for More Renewable Power
     lead: "Sri Lanka is keen on developing wind power as an alternative to more costly thermal power. An ADB technical assistance supported by the Clean Energy Fund, built the capacity of Sri Lanka’s largest electric company to handle wind power projects with private sector involvement."
