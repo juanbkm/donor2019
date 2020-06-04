@@ -14,7 +14,7 @@ op:
 draft: false
 ---
 
-Asia and the Pacific is home to 44% of the world's urban population. Nowhere else is the unprecedented economic transformation that the region underwent in the past two decades better manifested than in the proliferation of its cities. 
+Asia and the Pacific is home to 44% of the world's urban population. Nowhere else is the unprecedented economic transformation that the region underwent in the past two decades better manifested than in the proliferation of its cities.
   
 This transformation is set to intensify as it was projected in 2019 that the region would be responsible for [90% of the 2.4 billion new members of the middle class](https://www.weforum.org/agenda/2019/12/asia-economic-growth/) entering the [global economy](https://www.weforum.org/agenda/2019/12/asia-economic-growth/). One characteristic of the middle class is that it is [disproportionately urban](https://www.adb.org/sites/default/files/publication/27726/special-chapter-03.pdf).
   
@@ -32,7 +32,7 @@ In the past decade, the Urban Financing Partnership Facility has been an essenti
 
 Water services are a critical component of a livable city. The Water Financing Partnership Facility (WFPF) was established in 2006 to provide additional financial and knowledge resources from development partners. By 2019, cumulative contributions from [Australia]({{< ref "australia.md" >}}), [Austria]({{< ref "austria.md" >}}), [Bill & Melinda Gates Foundation]({{< ref "bill-melinda-gates-foundation.md" >}}), [The Netherlands]({{< ref "netherlands.md" >}}), [Norway]({{< ref "norway.md" >}}), [Spain]({{< ref "spain.md" >}}), and [Switzerland]({{< ref "switzerland.md" >}}) have reached $116.401 million. In 2019, a total of $9.7 million was allocated to 21 projects. Half of this amount went to projects improving services on water supply, sanitation, and wastewater management, with a total of $4.83 million.
 
-The [New Development Bank]({{< ref "new-development-bank.md" >}}) is cofinancing the [Mumbai Metro Rail Systems](https:/www.adb.org/projects/52317-001/main#project-pds) for $260 million to help contribute to the development of a modern and safe rail-based urban transit system in Mumbai city. This will reduce pollution and traffic congestion, increase public transport ridership, and improve the overall quality of the city's transport system. The project runs from 2019 to 2023.  
+The [New Development Bank]({{< ref "new-development-bank.md" >}}) is cofinancing the [Mumbai Metro Rail Systems](https://www.adb.org/projects/49469-007/main) for $260 million to help contribute to the development of a modern and safe rail-based urban transit system in Mumbai city. This will reduce pollution and traffic congestion, increase public transport ridership, and improve the overall quality of the city's transport system. The project runs from 2019 to 2023.  
 
 In Pakistan, meanwhile, the UCCRTF provided a grant of $2 million as project readiness financing for the preparation and engineering design of the [Khyber Pakhtunkhwa Cities Improvement Project (KPCIP)](https://www.adb.org/projects/51036-003/main#project-pds).  The grant will ensure the timely and cost-effective achievement of the project outcomes and will run from 2019 to 2024. The KPCIP will improve the quality of life of the residents of at least four cities, including Abbottabad, Kohat, Mardan, and Peshawar, directly benefitting about 3.5 million of the urban population.
 
