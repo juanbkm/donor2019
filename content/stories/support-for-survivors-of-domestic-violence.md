@@ -2,7 +2,7 @@
 title: "Support for Survivors of Domestic Violence"
 date: 2020-05-30T08:14:00+08:00
 image: images/stories/support-for-survivors-of-domestic-violence.jpg
-image_caption: "**Heads Up High.** Social, legal, and medical support services will become more available for women and young girls who are survivors of domestic violence in Mongolia."
+image_caption: "**Heads Up High.** Psychological, legal, and medical support services will become more available for women and young girls who are survivors of domestic violence in Mongolia."
 author: Admin
 description: "This is meta description"
 country: Mongolia
@@ -26,9 +26,10 @@ draft: false
 ### Partnership Progress
 
 <ul class="dr-results">
-	<li><i class="icon-check-circle"></i> Gender action plan completed </li>
+	<li><i class="icon-check-circle"></i> Gender action plan under implementation</li>
 	<li><i class="icon-check-circle"></i> Stakeholder communication strategy prepared</li>
 	<li><i class="icon-check-circle"></i> Design of the shelters in preparation</li>
+  <li><i class="icon-check-circle"></i> Grants program for community-based initiatives now underway</i>
 </ul>
 
 ### Background
@@ -41,7 +42,7 @@ Women aged between 25 and 49 experienced the highest rates of domestic violence,
 
 The revised Law on Combating Domestic Violence has been in effect since 1 February 2017, but awareness and communication campaigns are sorely lacking. Many victims and survivors, their friends and families, do not know where and how to file complaints and request assistance.  
 
-The Japan Fund for Poverty Reduction provided a $3 million grant to advance gender equality in Mongolia by improving the quality of, and access to, prevention and response to domestic violence. The project, approved in late 2018 but became effective in 2019, is ADB’s first stand-alone project addressing domestic violence. It will increase government capacity and strengthen institutions to address reported cases of gender-based violence, particularly domestic violence. It will also help enhance community knowledge and understanding of gender-based violence and their consequences toward changing individual and community behavior. 
+The [Japan Fund for Poverty Reduction]({{< ref "japan.md" >}}) provided a $3 million grant to advance gender equality in Mongolia by improving the quality of, and access to, prevention and response to domestic violence. The project, approved in late 2018 but became effective in 2019, is ADB’s first stand-alone project addressing domestic violence. It will increase government capacity and strengthen institutions to address reported cases of gender-based violence, particularly domestic violence. It will also help enhance community knowledge and understanding of gender-based violence and their consequences toward changing individual and community behavior. 
 
 ### Interventions
 
@@ -51,10 +52,10 @@ By addressing domestic violence, the project is expected to support Mongolia’s
 
 **Capacity building of key officials and staff responsible for protection and rehabilitation services for domestic violence survivors.** Training programs on prevention, coordinated response, protection and rehabilitation will be tailored and targeted at different stakeholders, including staff of helpline centers, police officers, and various legal and medical professionals handling domestic violence cases.  
 
-**Behavior improvement of key stakeholders on prevention, reporting and protection of survivors.** The project will expand the existing helpline center, which receives distress calls, provides psychological and legal counseling, and refers calls to the police. Targeted and focused behavior change campaign will be launched, covering identification and prevention of domestic violence, reporting cases, and supporting and protecting women. Community groups will be mobilized to reinforce the communication campaign and provide support mechanisms.  
+**Behavior improvement of key stakeholders on prevention, reporting and protection of survivors.** The project will expand the existing helpline center, which receives distress calls, provides psychological and legal counseling, and refers calls to the police. Targeted and focused behavior change campaign will be launched, covering identification and prevention of domestic violence, reporting cases, and supporting and protecting women. Community groups will be mobilized to reinforce the communication campaign and provide support mechanisms. A nationwide small-scale grants program will support the community-based initiatives for the effective prevention and response to domestic violence. 
 
 ### Expected Results
 
-Mongolia stands to make a critical contribution to accelerating progress in gender equality through this project.  Once all interventions are in place the project is expected to ensure safety of women and improve the quality of life for women and children, resulting in indirect contribution to the improved socio-economic development of communities.
+Mongolia stands to make a critical contribution to accelerating progress in gender equality through this project.  Once all interventions are in place the project is expected to ensure safety of women and improve the quality of life for women and children, resulting in indirect contribution to the improved socio-economic development of communities. 
 
-About 2,132 persons, including 600 women survivor and 130 persons with disabilities (PWDs), will directly benefit from the shelters, economic empowerment program, capacity building and behavior change communication activities. Thousands will indirectly benefit from the project, including women who will have increased awareness and access to institutions and services for combatting domestic violence.
+About 2,132 persons, including 600 women survivor and 130 persons with disabilities (PWDs), will directly benefit from the shelters, economic empowerment program, capacity building and behavior change communication activities. Thousands will indirectly benefit from the project, including women who will have increased awareness and access to institutions and services for combatting domestic violence. 

@@ -47,7 +47,7 @@ draft: false
 
 Electrification has been one of Viet Nam’s remarkable achievements in the recent decades. Access to electricity increase rapidly from 2.5 % in 1975 to over 91 % in 2007.  With this, more than 97% of the country’s communes connected to the national grid. However, some 278 communes in the mountainous north, central, and south Viet Nam remained unconnected or electrified but received power only to the commune center. These communes are home to some of Viet Nam's poor indigenous communities. To address this remaining service gap, Viet Nam invested in expansion of distribution networks and rehabilitation of poorly constructed and unreliable low voltage electrical systems to attain universal access.
 
-The project, Viet Nam's [Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project](https://www.adb.org/projects/documents/vie-42182-013-pcr), received funding from ADB and the Clean Energy Fund under the Clean Energy Financing Partnership Facility. The result-- 99% of all Vietnamese families have access to electricity by 2020.
+The project, Viet Nam's [Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project](https://www.adb.org/projects/documents/vie-42182-013-pcr), received funding from ADB and the Clean Energy Fund under the [Clean Energy Financing Partnership Facility](./modalities/clean-energy-financing-partnership-facility/). The result-- 99% of all Vietnamese families have access to electricity by 2020.
 
 The project is consistent with Viet Nam’s Socio-Economic Development Plans and ADB’s country strategy and program for Viet Nam, which promote pro-poor, balanced economic through the sustainable use of electricity and renewable energy in an affordable manner. 
 
@@ -71,4 +71,4 @@ Household electrification in project targeted areas increased from 83.5% at appr
 
 The cost of electricity was also affordable for commune households. An evaluation with independent verification found that electricity is affordable for households, as it costs an average of 6.54% share of their household monthly expenditures. 
 
-The project's outcomes provided both strategic and practical benefits to poor people, particularly women and ethnic groups. Specifically, it improved new electricity connections to 300,034 households, including a free service connection to 12,672 woman-headed households. The project also facilitated access to microcredit for 6,128 women and 2,994 borrowed to invest in livelihood activities. 
+The project's outcomes provided both strategic and practical benefits to poor people, particularly women and ethnic groups. Specifically, it improved new electricity connections to 300,034 households, including a free service connection to 12,672 woman-headed households. The project also facilitated access to microcredit for 6,128 women and 2,994 borrowed to invest in livelihood activities.

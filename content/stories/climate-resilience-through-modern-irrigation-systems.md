@@ -46,7 +46,7 @@ However, their choice of crops and existing irrigation system were mismatched. M
 
 ### Interventions
 
-This mismatch was addressed by the [Water Efficiency Improvement in Drought-Affected Provinces Project](https://www.adb.org/projects/49404-002/main). Initiated by ADB through the collaboration of the Climate Change Fund and the Netherlands Trust Fund, this project will introduce an innovative solution: pressurized piped irrigation with remote sensing technology.  
+This mismatch was addressed by the [Water Efficiency Improvement in Drought-Affected Provinces Project](https://www.adb.org/projects/49404-002/main). Initiated by ADB through the collaboration of the Climate Change Fund and [The Netherlands Trust Fund](./modalities/water-financing-partnership-facility/#dr-ntf), this project will introduce an innovative solution: pressurized piped irrigation with remote sensing technology.  
 
 The pressurized piped irrigation system functions like domestic water supply systems. It provides water on demand through a system of hydrants and control valves. These give farmers greater flexibility to control the amount and duration of irrigation while simultaneously allowing operators to control and measure water use more effectively and to apply the correct water charges. Piped systems are also more resilient to extreme weather conditions and need less maintenance, thus making them more cost-effective.  
 
@@ -65,3 +65,4 @@ Though still ongoing, the project also complements initiatives by other developm
 Eight modern irrigation systems are now being set up in the provinces of  Binh Thuan, Dak Lak, Dak Nong, Khanh Hoa, and Ninh Thuan in Viet Nam. Once fully established, they will directly benefit about 40,000 households, including 7,000 ethnic minority [households](https://www.adb.org/sites/default/files/project-documents/49404/49404-002-pam-en.pdf). They are tailored to the needs of Viet Nam’s farmers, and a strategic fit to the country’s overall goal for the agriculture sector: sustained growth, improved efficiency, and competitiveness. They also support Viet Nam’s national climate change strategy that aims to ensure food and water security.  
 
 The project is not just modernizing irrigation in Viet Nam, it is also empowering farmers to protect their crops against extreme weather changes. The facilities give them sufficient control over their irrigation supply and make them active stakeholders in protecting natural resources severely threatened by climate change.
+

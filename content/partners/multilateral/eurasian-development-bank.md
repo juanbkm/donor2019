@@ -4,6 +4,7 @@ date: 2020-04-11T19:06:38+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$480 million*"
 trust_funds_contribution: 
+pscfn: <sup>*</sup>includes six projects (four signed, one approved, one cancelled)
 partner_logo: images/partners/edb.png
 draft: false
 ---
@@ -11,7 +12,7 @@ The <a href="https://eabr.org/en/"> Eurasian Development Bank (EDB)</a>, establi
 
 EDB started working with ADB in 2013 in the areas of agriculture, transport, energy, and public services. In 2016, ADB and EDB renewed their partnership. 
 
-<i>*includes six projects (four signed, one approved, one cancelled)</i>
+
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Eurasian Development Bank
 

@@ -50,7 +50,7 @@ Climate scenarios show that the spate of disasters in the area may worsen over t
 
 ### Interventions
 
-The need to make the Pyanj River Basin climate-proofed and better protected is critical. ADB and the Japan Fund for Poverty Reduction Fund (JPFR) worked together to address this concern by motivating the people to come together to protect the river while climate-proofing the Chubek irrigation system, the largest irrigation infrastructure drawing water from the Pyanj.
+The need to make the Pyanj River Basin climate-proofed and better protected is critical. ADB and the [Japan Fund for Poverty Reduction Fund]({{< ref "japan.md" >}}) (JPFR) worked together to address this concern by motivating the people to come together to protect the river while climate-proofing the Chubek irrigation system, the largest irrigation infrastructure drawing water from the Pyanj.
 
 The Water Resource Management in the Pyanj River Project’s technical assistance (TA) component has been supporting the government to organize river basin organizations (RBOS) comprising selected experts. The RBOs will help look after the basin using a river-basin management plan that they will craft.  For preparation and monitoring of the implementation of this plan, local government officers and RBO staff are also being trained to accurately measure and record diverted water flows at key sections along the river and to process the data they gathered properly.
 
@@ -66,4 +66,4 @@ The project will be completed by 2024. Once accomplished, it will increase the C
 
 The project’s technical assistance component has already made headway in organizing river basin organizations and water user associations. Series of river basin dialogues has been conducted with participation of local government officers and water users. Through consultants funded by the JFPR, the project has started showing farmers, local officials, and government organizations how they can help the river basin. The staff of the river basin organizations will be [selected soon](https://www.adb.org/projects/47181-002/main#project-pds).
 
-The project demonstrates the importance of people’s organized actions─from the ground up to the regional level─to protect the river basin and the lives that depend on it. Climate change resiliency, the project aims to show, is not merely infrastructure improvement but, more importantly, the protection of the poorest and the most vulnerable.
+The project demonstrates the importance of people’s organized actions─from the ground up to the regional level─to protect the river basin and the lives that depend on it. Climate change resiliency, the project aims to show, is not merely infrastructure improvement but, more importantly, the protection of the poorest and the most vulnerable. 

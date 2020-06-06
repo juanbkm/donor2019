@@ -20,11 +20,14 @@
                     </div>
                     {{end}}
                     
-                    {{with .Params.project_specific_cofinancing}}
+                    
                     <div class="">
+                        {{with .Params.project_specific_cofinancing}}
                         <span class="dr-type">Cumulative project-specific cofinancing</span> <span class="dr-amount"> {{- . -}}</span>   
+                        {{end}}
+                        {{with .Params.pscfn}}<span class="dr-fn">{{- . | markdownify -}}</span>{{end}}
                     </div>
-                    {{end}}
+                    
                     {{with .Params.trust_funds_contribution}}
                     <div class="">
                         <span class="dr-type">Cumulative trust funds contribution</span> <span class="dr-amount">{{- . -}}</span>    
