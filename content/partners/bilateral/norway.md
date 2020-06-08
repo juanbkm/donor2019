@@ -50,7 +50,7 @@ href="https://www.adb.org/projects/47275-001/main" target="_blank">Promoting Cle
 <tr>
 <td rowspan="3">Nepal</td>
 <td><a
-href="https://www.adb.org/projects/44219-014/main" target="_blank">South AsiaSubregional Economic Cooperation
+href="https://www.adb.org/projects/44219-014/main" target="_blank">South Asia Subregional Economic Cooperation
 Power System Expansion</a></td>
 <td>60.00 </td>
 <td>G</td>

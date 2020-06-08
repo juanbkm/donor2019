@@ -33,7 +33,7 @@ Its main partner countries in Asia include Lao PDR, where it supports initiative
 </tr>
 <tr>
 <td>Regional</td>
-<td><a href="https://www.adb.org/projects/49270-001/main" target="_parent">Supporting Low-Carbon Development in Asia and the Pacific through Carbon Markets</a></td>
+<td><a href="https://www.adb.org/projects/49270-001/main" target="_parent">Supporting Low Carbon Development in Asia and the Pacific through Carbon Markets</a></td>
 <td>0.07 </td>
 <td>TA</td>
 </tr>

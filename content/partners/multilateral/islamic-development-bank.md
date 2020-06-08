@@ -2,7 +2,7 @@
 title: "Islamic Development Bank"
 date: 2020-04-11T19:06:50+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$2,130.31 million"
+project_specific_cofinancing: "$2.13 billion"
 trust_funds_contribution: 
 partner_logo: images/partners/isdb.png
 draft: false
@@ -75,4 +75,4 @@ System Expansion and Efficiency Improvement Investment Plan—Tranche 2</a></td>
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> L = official loan cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> L = official loan cofinancing</p> 

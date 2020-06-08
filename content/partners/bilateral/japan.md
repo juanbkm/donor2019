@@ -2,8 +2,8 @@
 title: "Japan"
 date: 2020-04-11T19:41:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$13,865.78 million"
-trust_funds_contribution: "$1,858.32 million"
+project_specific_cofinancing: "$13.87 billion"
+trust_funds_contribution: "$1.86 billion"
 partner_logo:
 draft: false
 ---
@@ -935,7 +935,7 @@ Asia Tourism Infrastructure Development – Additional Financing</a></td>
 <tr>
 <td><a
 href="https://www.adb.org/projects/50059-002/main" target="_blank">Strengthening
-the Capacity of Nepal's Energy Sector to DeliverGender Equality and Social
+the Capacity of Nepal's Energy Sector to Deliver Gender Equality and Social
 Inclusion Results</a></td>
 <td>2.00 </td>
 <td>TA</td>
@@ -1433,7 +1433,7 @@ Asian Nations Countries</a></td>
 <tr>
 <td><a
 href="https://www.adb.org/projects/47149-001/main" target="_blank">Enhancing
-Transparancy and Exchange of Information for Tax Purposes</a></td>
+Transparency and Exchange of Information for Tax Purposes</a></td>
 <td>0.82 </td>
 <td>TA</td>
 
@@ -1563,7 +1563,7 @@ Framework and Transaction Flows</a></td>
 <tr>
 <td><a
 href="https://www.adb.org/projects/49157-001/main" target="_blank">Supporting
-the Adoption of Low Carbon Technologies in DevelopingMember Countries</a></td>
+the Adoption of Low Carbon Technologies in Developing Member Countries</a></td>
 <td>1.50 </td>
 <td>TA</td>
 
@@ -1571,7 +1571,7 @@ the Adoption of Low Carbon Technologies in DevelopingMember Countries</a></td>
 <tr>
 <td><a
 href="https://www.adb.org/projects/50405-001/main" target="_blank">Supporting
-the Development of Asian Bond Markets though Asian Bonds Online</a></td>
+the Development of Asian Bond Markets though AsianBondsOnline</a></td>
 <td>1.50 </td>
 <td>TA</td>
 
@@ -1603,4 +1603,4 @@ Transport Facilitation in the Pacific</a></td>
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing.</p>
+<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing.</p> 

@@ -8,10 +8,11 @@ main_image_thumb: images/strategy-2030/poverty-and-reducing-inequalities-th.jpg
 icon: images/strategy-2030/icn-poverty.svg
 op_intro: "ADB’s strategy 2030 will pursue the following under this operational priority:"
 op: 
-  - item: Generate quality jobs
-  - item: Improve education and training
   - item: Achieve better health for all
-  - item: Ensure social protection for those in need
+  - item: Improve education and training
+  - item: Ensure social protection for everyone
+  - item: Generate quality jobs
+  - item: Increase opportunities for the most vulnerable
 draft: false
 ---
 
@@ -21,15 +22,7 @@ While the region has made tremendous progress in reducing income poverty, inequa
 
 Partnerships have strengthened ADB’s efforts to address not just the income aspect of poverty, but of the many deprivations the poor experience daily. In 2019, all 148 cofinanced projects addressed poverty in one form or another.
 
-Several cofinanced projects explicitly address the non-income dimensions of poverty such as the nine projects that focused on improving access to education and the other nine on health for the marginalized. Another 17 cofinanced transport projects will contribute to the poor’s increased access to economic opportunities. Not only will they generate jobs during project implementation; the roads, once done, will make employment and markets accessible to the poor. 2019’s water and other infrastructure projects will also contribute to poverty reduction in many countries in Asia as they help make access to water and sanitation equitable.
-
-### Generating Quality Jobs
-
-To generate quality jobs in developing member countries, ADB’s S2030 aims to strengthen the business environment while enhancing the financial sector. This strategy ensures sustainable development and ensures both worker and businesses, especially small and medium sized enterprises (SME), are empowered and made more productive.
-
-{{< dr-yt video="ofDO_jRtuF0" align="" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
-
-One project designed to strengthen SMEs is the [Supporting Internationalization of Small and Medium-Sized Enterprises: Linking India and the Greater Mekong Subregion (GMS) Project](https://www.adb.org/projects/53112-001/main#project-overview). Cofinanced with the United Kingdom Fund for Asia Regional Trade and Connectivity under the [Regional Cooperation and Integration Financing Partnership Facility](./modalities/regional-cooperation-financing-partnership-facility/), this project aims to encourage cross-border investments among small enterprises in GMS countries and India. This will lead to a more vibrant regional trade and stronger SMEs.
+Several cofinanced projects explicitly address the non-income dimensions of poverty such as the nine projects that focused on improving access to education and the other nine on health for the marginalized. Another 17 cofinanced transport projects will contribute to the poor’s increased access to economic opportunities. Not only will they generate jobs during project implementation; the roads, once done, will make employment and markets accessible to the poor. Water and other infrastructure projects in 2019 will also contribute to poverty reduction in many countries in Asia as they help make water and sanitation accessible and affordable.
 
 ### Improving Education and Training
 
@@ -45,12 +38,20 @@ Many governments in Asia have been spending less than $10 per person per year on
 
 {{< dr-artimage src="images/pov-2-reg-rmi.jpg" align="" alt="" caption="Achieving better health for all entails making quality health care accessible and affordable to all." >}}
 
-### Ensuring Social Protection for Those in Need
+### Ensuring Social Protection for everyone
 
 Social protection is integral to reducing inequalities. It decreases people’s exposure to risks and protects them against any event that may threaten their incomes. In 2019, ADB began a project, [Developing Insurance Markets for Sustainable and Resilient Societies in Asia and the Pacific](https://www.adb.org/projects/53134-001/main#project-documents), that reduces the risks marginalized women and farmers faced by using practical insurance solutions.  Cofinanced with [Korea]({{< ref "korea.md" >}}), the project is now improving the insurance and pension industry in developing member countries to ensure that poor and marginalized households are better protected.
+
+### Generating Quality Jobs
+
+To generate quality jobs in developing member countries, ADB’s S2030 aims to enhance the business environment while strengthening the financial sector. This strategy ensures both worker and businesses, especially small and medium sized enterprises (SME), are empowered and made more productive.
+
+{{< dr-yt video="ofDO_jRtuF0" align="" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
+
+One project designed to strengthen SMEs is the [Supporting Internationalization of Small and Medium-Sized Enterprises: Linking India and the Greater Mekong Subregion (GMS) Project](https://www.adb.org/projects/53112-001/main#project-overview). Cofinanced with the United Kingdom Fund for Asia Regional Trade and Connectivity under the [Regional Cooperation and Integration Financing Partnership Facility](./modalities/regional-cooperation-financing-partnership-facility/), this project aims to encourage cross-border investments among small enterprises in GMS countries and India. This will lead to a more vibrant regional trade and stronger SMEs.
 
 ### Moving Forward
 
 {{< dr-artimage src="images/pov-3-fij-generic.jpg" align="left" alt="" caption="Partnerships that reduce poverty are investments for the people and their future." >}}
 
-Providing Asia with quality jobs, education, health care, and social protection is a tall task. This will be made harder with the impending global economic slow-down. In Asia and the Pacific, growth will fall to 2.2% this year, according to the [Asian Development Outlook 2020](https://www.adb.org/publications/asian-development-outlook-2020-innovation-asia). Partnerships can cushion this impact, helping the region to bounce back next year. Stronger partnerships can help ADB effectively respond to the region’s immediate needs while safeguarding the shared progress achieved through the years. They can scale up and widen the reach of poverty alleviation measures. They can help make access to quality education, health, jobs, and social protection, equitable. Partnerships can genuinely show that investing in poverty reduction initiatives is, ultimately, investing in people.
+Providing Asia with quality jobs, education, health care, and social protection is a tall task. This will be made harder with the impending global economic slow-down. In Asia and the Pacific, growth will fall to 2.2% this year, according to the [Asian Development Outlook 2020](https://www.adb.org/publications/asian-development-outlook-2020-innovation-asia). Partnerships can cushion this impact, helping the region to bounce back next year. Stronger partnerships can help ADB effectively respond to the region’s immediate needs while safeguarding the shared progress achieved through the years. They can scale up and widen the reach of poverty alleviation measures. They can help make access to quality education, health, jobs, and social protection, equitable. Partnerships can genuinely show that investing in poverty reduction initiatives is, ultimately, investing in people. 

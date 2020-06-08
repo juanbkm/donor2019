@@ -25,7 +25,7 @@ In April 2019, NDF partnered with ADB in designing the ADB Ventures, a new ventu
 </tr>
 <tr>
 <td>Bangladesh</td>
-<td><a href="https://www.adb.org/projects/46168-001/main" target="_blank">Capacity evelopment of Bangladesh Railway for Project Implementation</a></td>
+<td><a href="https://www.adb.org/projects/46168-001/main" target="_blank">Capacity Development of Bangladesh Railway for Project Implementation</a></td>
 <td>0.40 </td>
 <td>TA</td>
 </tr>
@@ -76,4 +76,4 @@ In April 2019, NDF partnered with ADB in designing the ADB Ventures, a new ventu
 </table>
 
 
-<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p> 

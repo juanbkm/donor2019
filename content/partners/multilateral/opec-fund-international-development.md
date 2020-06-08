@@ -2,7 +2,7 @@
 title: "OPEC Fund for International Development"
 date: 2020-04-11T19:06:56+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$1,077.53 million"
+project_specific_cofinancing: "$1.08 billion"
 trust_funds_contribution: 
 partner_logo: images/partners/ofid.png
 draft: false

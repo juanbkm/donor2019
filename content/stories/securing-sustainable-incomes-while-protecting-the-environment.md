@@ -7,7 +7,7 @@ image_thumb: images/stories/securing-sustainable-incomes-while-protecting-the-en
 author: Admin
 description: "This is meta description"
 country: Indonesia and the Philippines
-summary: "Threatened by climate change, the Pyanj River Basin is now the center of climate-proofing activities, thanks to a collaborative project by ADB and the Japan Fund for Poverty Reduction."
+summary: "A grant from the Japan Fund for Poverty Reduction has empowered marginalized fisherfolks in Indonesia and the Philippines to run their own alternative businesses while protecting the Coral Reef Triangle."
 project_title: "Regional: Developing Sustainable Alternative Livelihoods in Coastal Fishing Communities in the Coral Triangle: Indonesia and Philippines"
 project_url: "https://www.adb.org/projects/44129-012/main"
 cost: "$2 million"
@@ -53,5 +53,4 @@ In Berau, 52 business plans were crafted in eight villages, benefiting about 900
 
 The project also linked up the communities with organizations that helped expand their businesses in a sustainable way. In the Philippines, the beneficiaries linked up with Save Philippine Seas Foundation of Jewelmer Pearl Farm Corporation. The foundation provided additional seaweeds planting materials to 90 seaweeds farmers and helped monitor seaweed farming even after the project was completed in 2019. In Indonesia, the project linked up the beneficiaries with resort hotels and the NGO Save the Turtle Foundation. This helped farmers shift their livelihoods from hunting turtles to sell their shells to production and sale of accessories and souvenirs in Derawan and Maratua. It also enabled the beneficiaries to partner with 13 supermarkets across Berau where they can sell their products. 
 
-These livelihood activities breathed new life in the villages. They empowered the fishers, both male and female, to run viable businesses that expanded their skills and their reach within their own locales and beyond. These activities strengthened efforts not just to protect the coasts of the two countries involved, but of the whole coral triangle. They form part of regional activities that address the destruction across the coral triangle and reduce its vulnerability to climate change. 
-
+These livelihood activities breathed new life in the villages. They empowered the fishers, both male and female, to run viable businesses that expanded their skills and their reach within their own locales and beyond. These activities strengthened efforts not just to protect the coasts of the two countries involved, but of the whole coral triangle. They form part of regional activities that address the destruction across the coral triangle and reduce its vulnerability to climate change.

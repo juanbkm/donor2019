@@ -2,7 +2,7 @@
 title: "Germany"
 date: 2020-04-11T19:37:32+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$4,789.05 million"
+project_specific_cofinancing: "$4.79 billion"
 trust_funds_contribution: "$122.5 million"
 partner_logo:
 draft: false

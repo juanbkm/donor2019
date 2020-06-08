@@ -8,14 +8,12 @@ trust_funds_contribution: "$14.8 million"
 draft: false
 ---
 
-#### Active Trust Funds
-
+#### Active Trust Funds 
 * Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas I and II
 * Gender and Development Cooperation Fund 
 * Governance Cooperation Fund 
 
-#### Development Assistance Agencies
-
+#### Development Assistance Agencies 
 * Ministry of Foreign Affairs 
 * Danish International Development Agency under the Ministry of Foreign Affairs 
 

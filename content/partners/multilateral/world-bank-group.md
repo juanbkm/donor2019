@@ -2,7 +2,7 @@
 title: "World Bank Group"
 date: 2020-04-11T19:07:06+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$13,171.62 million"
+project_specific_cofinancing: "$13.17 billion"
 trust_funds_contribution: 
 partner_logo: images/partners/world-bank.png
 draft: false
@@ -353,4 +353,4 @@ Internet Connectivity for Micronesia</a></td>
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, L = official loan cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, L = official loan cofinancing</p> 

@@ -59,3 +59,7 @@ By addressing domestic violence, the project is expected to support Mongolia’s
 Mongolia stands to make a critical contribution to accelerating progress in gender equality through this project.  Once all interventions are in place the project is expected to ensure safety of women and improve the quality of life for women and children, resulting in indirect contribution to the improved socio-economic development of communities. 
 
 About 2,132 persons, including 600 women survivor and 130 persons with disabilities (PWDs), will directly benefit from the shelters, economic empowerment program, capacity building and behavior change communication activities. Thousands will indirectly benefit from the project, including women who will have increased awareness and access to institutions and services for combatting domestic violence. 
+
+### Related Story
+
+[Turning Mongolia Orange: Behavior Change Communication Against Domestic Violence](https://blogs.adb.org/blog/turning-mongolia-orange-behavior-change-communication-against-domestic-violence) By Pinky Serafica and Tsolmon Begzsuren (ADB Blog) 

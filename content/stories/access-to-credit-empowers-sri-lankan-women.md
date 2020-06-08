@@ -77,3 +77,6 @@ One of these women is Ruchirani Munasinghe. Ruchi learned about finance, marketi
 
 "I've gotten more confident in communicating and negotiating with banks after the intensive training. The ADB's financing facility also seem to have encouraged banks to process my loan application smoothly," Ruchi recalled.
 
+### Related Story
+
+[Promoting Women’s Entrepreneurship in Sri Lanka](https://www.youtube.com/watch?v=LsVnnF1kmWU) (ADB Youtube)

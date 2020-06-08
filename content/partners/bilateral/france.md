@@ -2,7 +2,7 @@
 title: "France"
 date: 2020-04-11T19:36:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$3,877.27 million"
+project_specific_cofinancing: "$3.88 billion"
 trust_funds_contribution: "$33.2 million"
 partner_logo:
 draft: false

@@ -2,7 +2,7 @@
 title: "Korea, Republic of"
 date: 2020-04-11T19:42:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$1,833.81 million"
+project_specific_cofinancing: "$1.83 billion"
 trust_funds_contribution: "$138.8 million"
 partner_logo:
 draft: false
@@ -365,7 +365,7 @@ Capacity for Enhanced Connectivity in Southeast Asia</a></td>
 <tr>
 <td><a
 href="https://www.adb.org/projects/50055-001/main" target="_blank">Creating
-a Regional Settlement Intermediary in ASEAN+3:Cross-Border Settlement
+a Regional Settlement Intermediary in ASEAN+3: Cross-Border Settlement
 Infrastructure Forum</a></td>
 <td>0.50 </td>
 <td>TA</td>

@@ -7,7 +7,7 @@ image_thumb: images/stories/the-importance-of-policy-in-alleviating-urban-povert
 author: Admin
 description: "This is meta description"
 country: India
-summary: "The Rajasthan Urban Sector Development Program, a partnership among ADB, Bill & Melinda Gates Foundation, and the Government of India, showed that physical investments that uplift the lives of the urban poor are better planned if they are combined with policy actions that strengthen institutions that oversee infrastructure and planning."
+summary: "The Rajasthan Urban Sector Development Program, a partnership among ADB, the Sanitation Financing Partnership Trust Fund supported by the Bill & Melinda Gates Foundation, and the Government of India, showed that physical investments that uplift the lives of the urban poor are better planned if they are combined with policy actions that strengthen institutions that oversee infrastructure and planning."
 project_title: "Rajasthan Urban Sector Development Program"
 project_url: https://www.adb.org/projects/42267-026/main#project-pds
 cost: "$613 million"
@@ -17,7 +17,7 @@ fund_source:
   - name: "India"
     amount: "$110 million"
 fin_partners:
-  - name: "Bill & Melinda Gates Foundation"
+  - name: "Sanitation Financing Partnership Trust Fund"
     amount: "$2 million"
 approval: "October 2014"
 completion: "June 2020"
@@ -46,7 +46,7 @@ Approved in October 2014, the program is ADB’s first project that combines a p
 
 {{< dr-yt video="ofDO_jRtuF0" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
 
-The policy-based loan also helped helped Rajasthan establish a new corporatized entity─the Jaipur Water Supply and Sewerage Board (JWSSB). The JWSSB is an independent utility that manages water supply and sewerage services in Jaipur, the capital of Rajasthan. Before its establishment,water supply and sewage management services were handled by multiple agencies, such as the Jaipur Municipal Corporation, Jaipur Development Authority, the Public Health and Engineering Board, and the Rajasthan Housing Board.
+The policy-based loan also helped helped Rajasthan establish a new corporatized entity─the Jaipur Water Supply and Sewerage Board (JWSSB). The JWSSB is an independent utility that manages water supply and sewerage services in Jaipur, the capital of Rajasthan. Before its establishment, water supply and sewage management services were handled by multiple agencies, such as the Jaipur Municipal Corporation, Jaipur Development Authority, the Public Health and Engineering Board, and the Rajasthan Housing Board.
 
 The project’s outcomes were bolstered by a sanitation grant from the [Bill & Melinda Gates Foundation (BMGF)]({{< ref "bill-melinda-gates-foundation.md" >}}). The BMGF grant is providing low-income families in the towns of Khandela, Lalsot, and Phulera with innovative sanitation improvements, including septage management. The grant was also used to develop the Fecal Sludge and Septage Management guidelines for urban local bodies in the State, which the government has approved.
 
@@ -58,4 +58,4 @@ The JWSSB’s creation likewise started the road to improved water supply and sa
 
 The project is still ongoing but with these two institutions in place, urban services in Rajasthan will potentially help the state’s poorest citizens to enjoy improved health, better environment, and higher standards of living. In addition, its project component is nearing completion. It will bring in septage treatments in three towns, improved water distribution networks in five project cities and upgraded sewerage systems in six project cities. Around 762.3 km of the targeted 1,699.7 km of sewers and 1,367.9 km out of the targeted 2,643.3 of water supply pipeline have been laid to date and 63,009 new house service connections have also been provided out of the [target](https://www.adb.org/sites/default/files/project-documents/42267/42267-026-prtr-en.pdf) 196,006.
 
-This program showcases the importance of policy in addressing urban poverty. Physical investments that uplift the lives of the urban poor are better planned if they are combined with policy actions that strengthen institutions that oversee infrastructure and planning. The approach becomes more holistic and the outcomes, more sustainable. Moreover, stronger institutions and good governance can ensure that the benefits of development reach the poor, which are often left marginalized and vulnerable in the fringes of society, especially in highly urbanized cities.
+This program showcases the importance of policy in addressing urban poverty. Physical investments that uplift the lives of the urban poor are better planned if they are combined with policy actions that strengthen institutions that oversee infrastructure and planning. The approach becomes more holistic and the outcomes, more sustainable. Moreover, stronger institutions and good governance can ensure that the benefits of development reach the poor, which are often left marginalized and vulnerable in the fringes of society, especially in highly urbanized cities. 
