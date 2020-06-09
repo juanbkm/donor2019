@@ -7,10 +7,14 @@ trust_funds_contribution: "$138.8 million"
 partner_logo:
 draft: false
 ---
+#### 2019 Project-specific Cofinancing
+
+* $140 million loan for 2 projects 
+* $1 million grant for 3 technical assistances 
 
 #### 2019 Trust Funds Contributions
 
-* US$16.6 million replenishment for the Republic of Korea e-Asia and Knowledge Partnership Fund 
+* KRW19.8 billion (equivalent to $16.6 million) replenishment for the Republic of Korea e-Asia and Knowledge Partnership Fund 
 
 #### Active Trust Funds
 
@@ -25,9 +29,9 @@ draft: false
 * Korea International Cooperation Agency under the Ministry of Foreign Affairs 
 * Korea Energy Agency 
 
-<a href="https://www.adb.org/publications/republic-korea-fact-sheet" target="_blank">Korea</a> is an important knowledge and development partner and works with ADB to support the growing demand for large-scale development projects, particularly for renewable energy, energy efficiency, water supply and sanitation, waste treatment, sustainable transportation, information and communication technology, and climate change. Korea has a standing Memorandum of Understanding with ADB, committing to provide US$650 million of concessional loans from 2018 to 2020. A previous agreement for 2015–2018 directed US$600 million cofinancing (96% of target) to ADB projects.    
+[Korea](https://www.adb.org/publications/republic-korea-fact-sheet) is an important knowledge and development partner and works with ADB to support the growing demand for large-scale development projects, particularly for renewable energy, energy efficiency, water supply and sanitation, waste treatment, sustainable transportation, information and communication technology, and climate change. Korea has a standing Memorandum of Understanding with ADB, committing to provide $650 million of concessional loans from 2018 to 2020. A previous agreement for 2015–2018 directed $600 million cofinancing (96% of target) to ADB projects.    
 
-In May 2019, ADB and Korea signed a Declaration of Intent for Korea to pledge US$350 million for cofinancing and a US$5 million grant for technical assistance to the ASEAN Catalytic Green Finance Facility under the ASEAN Infrastructure Fund. The Korea Energy Agency has committed continued support for the Asia Clean Energy Forum (ACEF) 2019 and 2020 and signed a cofinancing agreement (or Exchange of Letters) in April 2019. Contribution for ACEF 2019 (US$50,000) has been transferred to RETA 8953: Sustainable Energy for All Regional Hub for Asia and the Pacific (Subproject C) in May 2019.  
+In May 2019, ADB and Korea signed a Declaration of Intent for Korea to pledge $350 million for cofinancing and a $5 million grant for technical assistance to the ASEAN Catalytic Green Finance Facility under the ASEAN Infrastructure Fund. The Korea Energy Agency has committed continued support for the Asia Clean Energy Forum (ACEF) 2019 and 2020 and signed a cofinancing agreement (or Exchange of Letters) in April 2019. Contribution for ACEF 2019 ($50,000) has been transferred to RETA 8953: Sustainable Energy for All Regional Hub for Asia and the Pacific (Subproject C) in May 2019.  
 
 A cofinancing arrangement with the Ministry of Agriculture, Food and Rural Affairs signed in May 2019 for the grant transfer of KRW1,400,000,000 to support TA 9689: Agricultural Value Chain Development in Selected Asian Countries. A memorandum of understanding to strengthen cooperation in information exchange, knowledge sharing, and capacity building of ADB’s developing member countries was signed in June 2019.  
 
@@ -546,4 +550,4 @@ href="https://www.adb.org/projects/52109-001/main" target="_blank">Strengthening
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing</p> 

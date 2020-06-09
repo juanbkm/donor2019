@@ -10,16 +10,15 @@ draft: false
 #### Active Trust Funds 
 
 * Cooperation Fund in Support of Managing for Development Results 
-*Netherlands Trust Fund under the Water Financing Partnership Facility 
+* Netherlands Trust Fund under the Water Financing Partnership Facility 
  
 #### Development Assistance Agency
 
 * Ministry of Foreign Affairs  
+ 
+Currently, [The Netherlands](https://www.adb.org/publications/netherlands-fact-sheet) focuses its development support to Afghanistan, Bangladesh, Cambodia, Indonesia, India, Lao PDR, Myanmar, Nepal, Pakistan and Viet Nam. Its aid focuses on reproductive and sexual health and rights, water, food security, and security and the rule of law. It also provides support to gender equality, environment and climate change.
 
-In Asia, <a href="https://www.adb.org/publications/netherlands-fact-sheet" target="_blank">The Netherlands</a> have been providing development support to Afghanistan, Bangladesh, and Indonesia.  Its aid focuses on reproductive and sexual health and rights, water, food security, and security and the rule of law. It also provides support to gender equality, environment and climate change.  
-
-Its support to the Netherlands Trust Funds extends until 2020, through its US$9.5 million additional contribution to the Fund in 2017.  The country is the sole contributor to this fund, which supports rural, urban, and basin water demonstrations projects as well as support the quality of ADB’s Water Financing Program through knowledge, capacity and innovation services. 
-
+Its support to the Netherlands Trust Funds extends until 2020, through its $9.5 million additional contribution to the Fund in 2017.  The country is the sole contributor to this fund. The fund prioritizes activities designed to result in significantly more people with access to safe drinking water and improved sanitation, higher productivity and efficiency of irrigation and drainage services,  more people with reduced risk of flooding; sustainable management of water resources; increased knowledge and capacity; improved sector governance; and increased focus on water-food security nexus. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Netherlands, The
 

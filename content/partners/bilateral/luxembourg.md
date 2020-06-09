@@ -17,9 +17,9 @@ draft: false
 * Ministry of Finance  
 * Lux-Development  
 
-<a href="https://www.adb.org/publications/luxembourg-fact-sheet" target="_blank">Luxembourg</a> supports local development (agriculture and food security, decentralization and local governance, natural resources management, water and sanitation); education (vocational training and access to employment); health; microfinance and finance; renewable energies.
+[Luxembourg](https://www.adb.org/publications/luxembourg-fact-sheet) supports local development (agriculture and food security, decentralization and local governance, natural resources management, water and sanitation); education (vocational training and access to employment); health; microfinance and finance; renewable energies.
 
-Its main partner countries in Asia include Lao PDR, where it supports initiatives on health, TVET, and local development, and Viet Nam, where it supports local development, health, and vocational training. It also provides development assistance to Myanmar in the fields of education and tourism. Its financing partnership with ADB has included support for TA projects on financial system strengthening in Azerbaijan, Cambodia, Indonesia, Kyrgyz, Mongolia, Lao PDR and Viet Nam. 
+Its main partner countries in Asia include Lao PDR, where it supports initiatives on health,TVET, and local development, and Viet Nam, where it supports local development, health, and vocational training. It also provides development assistance to Myanmar in the fields of education and tourism. Its financing partnership with ADB has included support for TA projects on financial system strengthening in Azerbaijan, Cambodia, Indonesia, Kyrgyz, Mongolia, Lao PDR and Viet Nam. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Luxembourg
 
@@ -39,4 +39,4 @@ Its main partner countries in Asia include Lao PDR, where it supports initiative
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> TA = technical assistance cofinancing</p> 

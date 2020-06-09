@@ -7,10 +7,9 @@ trust_funds_contribution:
 partner_logo:
 draft: false
 ---
+The Uzbekistan Fund for Reconstruction and Development was established in 2006. It is a 100% state-owned fund that finances investment projects in Uzbekistan’s priority industrial sectors—oil and gas, chemicals, energy, and metals and mining. 
 
-The Uzbekistan Fund for Reconstruction and Development was established in 2006. It is a 100% state-owned fund that finances investment projects in Uzbekistan’s priority industrial sectors—oil and gas, chemicals, energy, and metals and mining.
-
-The Fund has partnered with foreign investors, international financial institutions, and export credit agencies. Its beneficiaries are entities engaged in strategic infrastructure and socioeconomic development of Uzbekistan. It has partnered with ADB since 2014, contributing US$740 million to its work with ADB. 
+The Fund has partnered with foreign investors, international financial institutions, and export credit agencies. Its beneficiaries are entities engaged in strategic infrastructure and socioeconomic development of Uzbekistan. It has partnered with ADB since 2014, contributing $740 million to its work with ADB. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Uzbekistan Fund for Reconstruction and Development
 

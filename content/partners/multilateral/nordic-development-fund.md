@@ -7,11 +7,12 @@ trust_funds_contribution: "$7.8 million"
 partner_logo: images/partners/ndf.png
 draft: false
 ---
+
 The <a href="https://www.ndf.fi/">Nordic Development Fund (NDF) </a> is a joint development finance institution of the Nordic countries. It was established in 1989 to provide concessional financing for climate change-related projects in Africa, Asia, and Latin America, usually in cooperation with trusted partners. 
 
 For its collaborations with ADB, NDF prioritizes projects on climate change mitigation and adaptation, infrastructure, natural resources management, and capacity building in Bangladesh, Cambodia, Lao People's Democratic Republic, Myanmar, Nepal, Sri Lanka, and Viet Nam.  
 
-In April 2019, NDF partnered with ADB in designing the ADB Ventures, a new venture capital and technical assistance fund to boost innovative early-stage growth companies with climate technology-driven business models and solutions for Asia Pacific. 
+In April 2019, NDF partnered with ADB in designing the [ADB Ventures](https://ventures.adb.org/), a new venture capital and technical assistance fund to boost innovative early-stage growth companies with climate technology-driven business models and solutions for Asia Pacific. 
 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Nordic Development Fund
@@ -76,4 +77,4 @@ In April 2019, NDF partnered with ADB in designing the ADB Ventures, a new ventu
 </table>
 
 
-<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p>

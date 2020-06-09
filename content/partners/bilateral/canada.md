@@ -8,21 +8,23 @@ trust_funds_contribution: "$264.6 million"
 draft: false
 ---
 
-#### Active Trust Funds 
+#### Active Trust Funds
+
 * Asia Pacific Project Preparation Facility 
-* Canadian Climate Fund for the Private Sector in Asia 
+* Canadian Climate Fund for the Private Sector in Asia under the Clean Energy Financing Partnership Facility 
 * Canadian Climate Fund for the Private Sector in Asia II 
 * Canadian Cooperation Fund on Climate Change 
 * Cooperation Fund in Support of Managing for Development Results 
 * Gender and Development Cooperation Fund  
 * Governance Cooperation Fund 
 * Integrated Disaster Risk Management Fund 
-* Regional Malaria and other Communicable Disease Threats Trust Fund 
+* Regional Malaria and other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
 
-#### Development Assistance Agency 
-* Global Affairs Canada (formerly Department of Foreign Affairs, Trade, and Development) 
+#### Development Assistance Agency
 
-<a href="https://www.adb.org/publications/canada-fact-sheet" target="_blank">Canada</a>’s priority themes are: (i) gender equality; (ii) increasing food security: food aid and nutrition; sustainable agricultural development particularly for small-scale farmers and women; (iii) securing the future of children and youth: access to quality education; maternal and child health; (iv) stimulating sustainable and inclusive economic growth: building economic foundations; growing businesses; and (v) innovations in international assistance.  
+* Global Affairs Canada (formerly Department of Foreign Affairs, Trade, and Development 
+
+[Canada](https://www.adb.org/publications/canada-fact-sheet)’s priority themes are: (i) gender equality; (ii) increasing food security: food aid and nutrition; sustainable agricultural development particularly for small-scale farmers and women; (iii) securing the future of children and youth: access to quality education; maternal and child health; (iv) stimulating sustainable and inclusive economic growth: building economic foundations; growing businesses; and (v) innovations in international assistance.  
 
 Canada’s priority sectors for development assistance are gender, governance, private sector development, and health, while special attention is given to fragile and conflict-affected and small island developing states. 
 

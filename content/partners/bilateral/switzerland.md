@@ -7,6 +7,9 @@ trust_funds_contribution: "$41.6 million"
 partner_logo:
 draft: false
 ---
+#### Project-Specific Cofinancing 
+
+* $2 million grant for 1 project and 1 technical assistance
 
 #### New Trust Funds Contributions 
 
@@ -14,8 +17,8 @@ draft: false
 
 #### Active Trust Funds 
 
-* Cities Development Initiative for Asia Trust Fund 
-* Urban Climate Change Resilience Trust Fund
+* Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnership Facility
+* Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility
 * Multi-Donor Trust Fund under the Water Financing Partnership Facility 
  
 #### Development Assistance Agencies 
@@ -23,7 +26,7 @@ draft: false
 * Swiss Agency for Development and Cooperation (SDC)
 * State Secretariat for Economic Affairs (SECO) 
  
-<a href="https://www.adb.org/publications/switzerland-fact-sheet" target="_blank">Switzerland</a>’s development cooperation is coordinated between the Swiss Agency for Development and Cooperation (SDC) within the Federal Department of Foreign Affairs, and the State Secretariat for Economic Affairs (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
+[Switzerland](https://www.adb.org/publications/switzerland-fact-sheet)'s development cooperation is coordinated between the Swiss Agency for Development and Cooperation (SDC) within the Federal Department of Foreign Affairs, and the State Secretariat for Economic Affairs (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Switzerland
 

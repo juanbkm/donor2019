@@ -7,10 +7,13 @@ trust_funds_contribution: "$76 million"
 partner_logo:
 draft: false
 ---
+#### 2019 Project-Specific Cofinancing 
 
-#### New Trust Funds Contributions 
+* $390,000 grant for 1 technical assistance 
 
-* NOK30 million (US$3.3 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility 
+#### Trust Funds Contributions 
+
+* NOK30 million ($3.3 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility 
  
 #### Active Trust Funds 
 
@@ -23,11 +26,11 @@ draft: false
 #### Development Assistance Agencies 
 
 * Ministry of Foreign Affairs  
-*Norwegian Agency for Development Cooperation
+* Norwegian Agency for Development Cooperation
 
-<a href="https://www.adb.org/publications/norway-fact-sheet" target="_blank">Norway</a>’s development aid prioritizes education, global health and vaccination, macroeconomics and public administration, private sector development, climate change adaptation and mitigation, environment, energy, democracy and good governance, marine pollution, and human rights. It has supported Afghanistan, Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, the People's Republic of China, Sri Lanka, and Viet Nam. 
+[Norway](https://www.adb.org/publications/norway-fact-sheet)’s development aid prioritizes education, global health and vaccination, macroeconomics and public administration, private sector development, climate change adaptation and mitigation, environment, energy, democracy and good governance, marine pollution, and human rights. It has supported Afghanistan, Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, the People's Republic of China, Sri Lanka, and Viet Nam. 
 
-In 2019, ADB and Norway and ADB signed two significant agreements. In November 2019, ADB and the Government of Norway signed the cofinancing agreement for an untied grant amounting to US$40 million to support the proposed South Asia Subregional Economic Cooperation Power Transmission and Distribution Sector Strengthening Project. In December 2019, ADB, Norway, and Pakistan’s Economic Affairs Division signed a tripartite MOU to transfer undisbursed NOR funds (US$4,994,473.98 and PKP44,425,841.58 as of September 2019) with the Pakistan Earthquake Fund to the Natural Disaster Risk Management Fund. Also in December 2019, Norway made an additional US$3.25 million contribution to the Clean Energy Fund. 
+In November 2019, ADB and the Government of Norway signed the cofinancing agreement for an untied grant amounting to $40 million to support the proposed South Asia Subregional Economic Cooperation Power Transmission and Distribution Sector Strengthening Project. In December 2019, Norway made an additional US$3.25 million contribution to the Clean Energy Fund. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Norway
 
@@ -74,4 +77,4 @@ School Sector Development Plan</a></td>
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p> 

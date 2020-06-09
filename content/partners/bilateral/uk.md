@@ -2,15 +2,15 @@
 title: "United Kingdom"
 date: 2020-04-11T19:56:20+08:00
 partner_type: Bilateral
-project_specific_cofinancing: "$1.05 billion"
+project_specific_cofinancing: "$1.14 billion"
 trust_funds_contribution: "$443.3 million"
 partner_logo:
 draft: false
 ---
 
-#### New Trust Funds Contributions 
+#### 2019 Trust Funds Contributions 
 
-* GBP9 million ($11.8 million) replenishment Clean Energy Fund under the Clean Energy Financing Partnership Facility
+* GBP9 million ($11.79 million) replenishment Clean Energy Fund under the Clean Energy Financing Partnership Facility
 
 #### Active Trust Funds 
 
@@ -306,4 +306,4 @@ Asia Economic Integration Partnership - Power Trading in Bangladesh and Nepal
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, TA = technical assistance cofinancing</p> 

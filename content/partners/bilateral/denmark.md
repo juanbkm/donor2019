@@ -9,15 +9,17 @@ draft: false
 ---
 
 #### Active Trust Funds 
+
 * Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas I and II
 * Gender and Development Cooperation Fund 
 * Governance Cooperation Fund 
 
 #### Development Assistance Agencies 
+
 * Ministry of Foreign Affairs 
 * Danish International Development Agency under the Ministry of Foreign Affairs 
 
-<a href="https://www.adb.org/publications/denmark-fact-sheet" target="_blank">Denmark</a>’s priority interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development.  
+[Denmark](https://www.adb.org/publications/denmark-fact-sheet)’s priority interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development.  
 
 Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the past, country policy papers also existed for the following Asian countries: Indonesia, Nepal, Pakistan, Viet Nam. 
 
@@ -50,4 +52,4 @@ Pilot Testing in Bangladesh and Nepal</a></td>
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p> 

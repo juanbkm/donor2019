@@ -7,11 +7,17 @@ project_specific_cofinancing: "$980.4 million"
 trust_funds_contribution: "$172.5 million"
 draft: false
 ---
+#### 2019 Project-specific Cofinancing
+
+* $83 million grant for 6 projects and 12 technical assistances 
+
 #### 2019 Trust Funds Contributions
+
 * A$21.5 million ($15.2 million) to ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility 
-* A$1 million ($0.71 million) to the Multi-Donor Trust Fund under the Water Financing Partnership Facility 
+* A$1 million ($700,000) to the Multi-Donor Trust Fund under the Water Financing Partnership Facility 
 
 #### Active Trust Funds 
+
 * ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility 
 * Asia Pacific Project Preparation Facility 
 * Australian Technical Assistance Grant 
@@ -23,9 +29,10 @@ draft: false
 * Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
 
 #### Development Assistance Agency
-* Department of Foreign Affairs and Trade
 
-In 2019, the ADB-Australia High-Level Consultations held in Manila focused on the reaffirmation of the partnerships between <a href="https://www.adb.org/publications/australia-fact-sheet" target="_blank">Australia</a> and ADB. Discussions emphasized the need to adapt to the changing context in the Asia-Pacific; private sector operations and public-private partnerships; thematic and sectoral topics such as climate change and disaster risk management; private sector and infrastructure; inclusiveness; innovation and risk; enhanced knowledge cooperation; and engagement in the Pacific and Southeast Asia. Australia plays a huge role in the economic stability and growth of the Indo-Pacific region and provides more aid to the Pacific island countries than any other donor.
+* [Department of Foreign Affairs and Trade](https://www.dfat.gov.au/)
+
+In 2019, the ADB-Australia High-Level Consultations held in Manila focused on the reaffirmation of the partnerships between [Australia](https://www.adb.org/publications/australia-fact-sheet) and ADB. Discussions emphasized the need to adapt to the changing context in the Asia-Pacific; private sector operations and public-private partnerships; thematic and sectoral topics such as climate change and disaster risk management; private sector and infrastructure; inclusiveness; innovation and risk; enhanced knowledge cooperation; and engagement in the Pacific and Southeast Asia. Australia plays a huge role in the economic stability and growth of the Indo-Pacific region and provides more aid to the Pacific island countries than any other donor.
 
 Australia channels funds toward development work in infrastructure; trade facilitation and international competitiveness; agriculture, fisheries and water; governance (policies, institutions and functioning economies); education; health; building resilience (humanitarian assistance, disaster risk reduction and social protection); climate change; and gender equality and empowering women and girls.
 

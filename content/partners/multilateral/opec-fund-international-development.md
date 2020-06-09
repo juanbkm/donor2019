@@ -7,11 +7,14 @@ trust_funds_contribution:
 partner_logo: images/partners/ofid.png
 draft: false
 ---
+
+#### 2019 Project-Specific Cofinancing
+
+* $40 million loan for 1 project 
+
 The <a href="https://opecfund.org/">OPEC Fund for International Development (OFID)</a> is a developmental funding agency by the member- states of the Organization of the Petroleum Exporting Countries (OPEC). It was established in 1976 and prioritizes projects in Armenia, Azerbaijan, Bangladesh, Bhutan, Cambodia, India, Kazakhstan, the Kyrgyz Republic, the Lao People's Democratic Republic, Maldives, Mongolia, Nepal, Papua New Guinea, the Philippines, Samoa, Solomon Islands, Sri Lanka, Tajikistan, Tonga, Turkmenistan, and Uzbekistan. 
 
-The priority focus of OFID’s Corporate Plan 2016–2025 is the energy–water–food nexus, underpinned by transportation as the enabling sector. It also prioritizes projects advancing agriculture, education, health, and water supply and sanitation. ADB and OFID currently have an ongoing framework cofinancing agreement until 2021.  
-
-In 2019, OFID cofinanced a project on transport in Tajikistan.  
+The priority focus of OFID’s Corporate Plan 2016–2025 is the energy–water–food nexus, underpinned by transportation as the enabling sector. It also prioritizes projects advancing agriculture, education, health, and water supply and sanitation. ADB and OFID currently have an ongoing framework cofinancing agreement until 2021. In 2019, OFID cofinanced a project on transport in Tajikistan.  
 
 
 
@@ -73,4 +76,4 @@ In 2019, OFID cofinanced a project on transport in Tajikistan.
 </table>
 
 
-<p class="dr-footnote">OPEC = Organization of Petroleum Exporting Countries <br> <sup>a</sup> L = official loan cofinancing</p>
+<p class="dr-footnote">OPEC = Organization of Petroleum Exporting Countries <br> <sup>a</sup> L = official loan cofinancing</p> 

@@ -2,7 +2,7 @@
 title: "European Investment Bank"
 date: 2020-04-11T19:06:40+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$2,248.17 million"
+project_specific_cofinancing: "$2.24 billion"
 trust_funds_contribution: 
 partner_logo: images/partners/eib.png
 draft: false
@@ -11,8 +11,6 @@ draft: false
 The <a href="https://www.eib.org/en/index.htm">European Investment Bank (EIB)</a>, is part of the European Investment Bank Group, the largest international financial institution. Its priority countries are Armenia, Bangladesh, Fiji, Georgia, India, the Lao People's Democratic Republic, Maldives, Mongolia, Nepal, Papua New Guinea, Sri Lanka, and Viet Nam. Within EIB’s Eastern Neighborhood countries, the lending focus is more on economic development and infrastructure while for the rest of Asia, EIB prioritizes support in the areas of climate change mitigation, urban transport, renewable energy and, to a limited extent, water. 
 
 EIB’s cofinancing with ADB focuses on projects that mitigate carbon emissions and contribute to the adaptation to climate change. In April 2019, EIB contributed €150 million to the newly-launched ASEAN Catalytic Green Finance Facility under the ASEAN Infrastructure Fund. 
-
-
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with European Bank for European Investment Bank
 

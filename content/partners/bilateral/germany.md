@@ -8,9 +8,14 @@ partner_logo:
 draft: false
 ---
 
+#### 2019 Project-specific Cofinancing
+
+* $891.3 million loan for 3 projects 
+* $380,000 grant for 1 technical assistance 
+
 #### 2019 Trust Funds Contribution 
 
-* US$2.2 million for the Cities Development Initiative for Asia Trust Fund 
+* €2 million (equivalent to $2.22 million) for the Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnership Facility
 
 #### Active Trust Funds 
 
@@ -24,9 +29,9 @@ draft: false
 * KfW 
 * Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
 
-ADB and KfW signed a second amendment to the ADB–KfW Cofinancing Memorandum of Understanding (MOU) in November 2019, extending the MoU to 2023, increasing cofinancing amount by another US$2 billion and expanding priority countries and themes. The original MOU, totaling US$2 billion, was first signed in July 2017 and later amended in September 2017 to extend its validity to 2020.  
+ADB and KfW signed a second amendment to the ADB–KfW Cofinancing Memorandum of Understanding (MOU) in November 2019, extending the MoU to 2023, increasing cofinancing amount by another $2 billion and expanding priority countries and themes. The original MOU, totaling $2 billion, was first signed in July 2017 and later amended in September 2017 to extend its validity to 2020 with an additional $2 billion.  
 
-<a href="https://www.adb.org/publications/germany-fact-sheet" target="_blank">Germany</a>’s priority sectors and themes are: (i) extending global partnerships and regional cooperation; (ii) supporting vocational training, sustainable and social economic development, and employment promotion; (iii) protecting the climate and biodiversity; (iv) combating the causes of conflict and displacement – assisting refugees; (v) strengthening human rights, participation and the capacity of state institutions; (vi) improving structures and living conditions in cities; and (vii) improving health and social protection systems. Priority countries include Afghanistan, Bangladesh, Cambodia, People’s Republic of China (PRC), India, Indonesia, Kyrgyzstan, Lao PDR, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Tajikistan, Timor-Leste, Uzbekistan, and Viet Nam. GIZ also prioritizes Kazakhstan, Maldives, Thailand, and the Pacific region.   
+[Germany](https://www.adb.org/publications/germany-fact-sheet)’s priority sectors and themes are: (i) extending global partnerships and regional cooperation; (ii) supporting vocational training, sustainable and social economic development, and employment promotion; (iii) protecting the climate and biodiversity; (iv) combating the causes of conflict and displacement – assisting refugees; (v) strengthening human rights, participation and the capacity of state institutions; (vi) improving structures and living conditions in cities; and (vii) improving health and social protection systems. Priority countries include Afghanistan, Bangladesh, Cambodia, People’s Republic of China (PRC), India, Indonesia, Kyrgyzstan, Lao PDR, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Tajikistan, Timor-Leste, Uzbekistan, and Viet Nam. GIZ also prioritizes Kazakhstan, Maldives, Thailand, and the Pacific region.   
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Germany
 

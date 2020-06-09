@@ -7,12 +7,12 @@ trust_funds_contribution: "$19 million"
 partner_logo: images/partners/bmgf.png
 draft: false
 ---
+<i>2019 Trust Fund Contribution </i>
+$3 million to the Sanitation Financing Partnership Trust Fund 
 
-The [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/) contributed an additional US$3 million to the Sanitation Financing Partnership Trust Fund in 2019. 
+The [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/) is a private foundation founded by Bill and Melinda Gates. It was established in 2000 with the goals to globally enhance healthcare, reduce extreme poverty, and expand educational opportunities and access to information technology. It supports all countries all around the world in the areas of healthcare, education, and poverty alleviation. 
 
-The Bill & Melinda Gates Foundation is a private foundation founded by Bill and Melinda Gates. It was established in 2000 with the goals to globally enhance healthcare, reduce extreme poverty, and expand educational opportunities and access to information technology. It supports all countries all around the world in the areas of healthcare, education, and poverty alleviation. 
-
-The Bill & Melinda Gates Foundation is the single donor to ADB’s Sanitation Financing Partnership Trust Fund under the Water Financing Partnership Facility, created in 2013. With an initial contribution of US$15 million, the trust fun aimed to leverage more than $28 million in investments from ADB to expand non-sewered sanitation and septage management solutions across Asia. The trust fund pilots innovations in sanitation and septage management, provide grant funds for innovations in ADB's sanitation projects, and support policies on septage management and sludge treatment to meet the needs of low-income urban communities who lack access to piped networks or safe wastewater disposal systems.
+The Bill & Melinda Gates Foundation is the single donor to ADB’s Sanitation Financing Partnership Trust Fund under the Water Financing Partnership Facility, created in 2013.  The Sanitation Financing Partnership Trust Fund aimed to leverage more than $28 million in investments from ADB to expand non-sewered sanitation and septage management solutions across Asia. The trust fund pilots innovations in sanitation and septage management, provide grant funds for innovations in ADB’s sanitation projects, and support policies on septage management and sludge treatment to meet the needs of low-income urban communities who lack access to piped networks or safe wastewater disposal systems. In 2019, it contributed an additional $3 million to the Trust Fund. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Bill & Melinda Gates Foundation
 
@@ -89,4 +89,4 @@ href="https://www.adb.org/projects/52064-001/main" target="_blank">Southeast Asi
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> G = grant cofinancing, TA = technical assistance cofinancing</p> 

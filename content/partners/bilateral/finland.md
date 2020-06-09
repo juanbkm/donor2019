@@ -8,16 +8,16 @@ trust_funds_contribution: "$58.1 million"
 draft: false
 ---
 
-#### Active Trust Fund
+#### Active Trust Fund 
 
 * Future Carbon Fund 
 
-#### Development Assistance Agencies
+#### Development Assistance Agencies 
 
 * Ministry of Foreign Affairs 
 * Finnish Fund for Industrial Development Cooperation Ltd. (Finnfund) 
 
-In March 2019, ADB and the Ministry for Foreign Affairs of <a href="https://www.adb.org/publications/finland-fact-sheet" target="_blank">Finland</a> signed an agreement to support two mid-career professionals under ADB’s Sponsor-funded Staffing Program. Two Finnish nationals have been selected for 2-year staff position assignments, one Private Sector Development Specialist in the Viet Nam Resident Mission (who started in August 2019) and one Social Sector Specialist for the Education Sector Group (who began in October 2019).  
+In March 2019, ADB and the Ministry for Foreign Affairs of [Finland](https://www.adb.org/publications/finland-fact-sheet) signed an agreement to support two mid-career professionals under ADB’s Sponsor-funded Staffing Program. Two Finnish nationals have been selected for 2-year staff position assignments, one Private Sector Development Specialist in the Viet Nam Resident Mission and one Social Sector Specialist for the Education Sector Group.  
 
 Finland has four specific priorities: (i) rights and status of women and girls; (ii) growth of developing countries’ economies to generate more jobs, livelihood opportunities and well-being; (iii) democratic and better-functioning societies; and (iv) food security, access to water and energy, and sustainable use of natural resources. 
 

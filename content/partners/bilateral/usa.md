@@ -7,6 +7,9 @@ trust_funds_contribution: "$154.6 million"
 partner_logo:
 draft: false
 ---
+#### Project-Specific Cofinancing 
+
+* $530,000 for 1 technical assistance
 
 #### Active Trust Funds 
 
@@ -20,7 +23,7 @@ draft: false
  
 Although trade issues has become a major part of its foreign policy agenda in recent years, the <a href="https://www.adb.org/publications/united-states-fact-sheet" target="_blank">United States of America (USA)</a> has continued to support development in Asia, especially in the sectors of agriculture, democracy and governance, economic growth; environment, education and training, global health, global partnerships, and humanitarian assistance. Its priority themes include broadly shared economic prosperity; democracy and good governance; global health, food security, environmental sustainability and education; prevention and recovery from conflicts; and humanitarian assistance in the wake of natural and man-made disasters. 
 
-The [United States Agency for International Development](https://www.usaid.gov/) (USAID) is the country’s lead development institution. It advances U.S. national security and economic prosperity and promotes a path to recipient self-reliance and resilience. In 2019, it merged the offices of US Foreign Disaster Assistance and Food for Peace to create the Bureau for Humanitarian Assistance. It also created three new bureaus: the Bureau for Conflict-Prevention and Stabilization, the Bureau for Resilience and Food Security, and the new Bureau for Asia.  
+The [United States Agency for International Development](https://www.usaid.gov/) (USAID) is the country’s lead development institution. It advances U.S. national security and economic prosperity and promotes a path to recipient self-reliance and resilience. In 2019, it merged the offices of US Foreign Disaster Assistance and Food for Peace to create the Bureau for Humanitarian Assistance. It also created three new bureaus: Bureau for Conflict-Prevention and Stabilization, Bureau for Resilience and Food Security, and Bureau for Asia.  
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Unites States of America
 

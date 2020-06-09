@@ -7,6 +7,11 @@ trust_funds_contribution:
 partner_logo: images/partners/world-bank.png
 draft: false
 ---
+#### 2019 Project-Specific Cofinancing
+
+* $64 million loan for 1 project
+* $13 million grant for 2 projects
+
 The <a href="https://www.worldbank.org/">World Bank Group (WBG)</a> is the premiere multilateral development bank working for sustainable solutions to reduce poverty and build shared prosperity in developing countries. 
 
 The World Bank Group has been working with ADB since 1972. It prioritizes development projects on health, education, infrastructure, agriculture, public administration, macroeconomic management, institutional development, governance, financial and private-sector development, environmental protection, and natural resource management. 

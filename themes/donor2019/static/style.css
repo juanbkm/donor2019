@@ -462,6 +462,12 @@ small {
   .dark #wrapper {
     background-color: #383838; }
 
+.dr-note {
+  background-color: #f2f2f2;
+  font-size: .8rem;
+  font-style: italic;
+  padding: 5px 10px; }
+
 /*-----------------------------------------------------------------------------------
 	helpers.scss
 -----------------------------------------------------------------------------------*/

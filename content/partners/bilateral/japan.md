@@ -8,12 +8,16 @@ partner_logo:
 draft: false
 ---
 
+#### 2019 Project-specific Cofinancing
+
+* $2.35 billion loan for 2 projects 
+
 #### 2019 Trust Funds Contribution 
 
 * $1.8 million replenishment for the Domestic Resource Mobilization Trust Fund 
 * $15.2 million replenishment for the High-Level Technology Fund 
-* $9.3 million replenishment for the Japan Fund for the Joint Crediting Mechanism 
-* $17.8 million replenishment for the Japan Fund for Poverty Reduction 
+* Y1.00 billion (equivalent to $9.3 million) replenishment for the Japan Fund for the Joint Crediting Mechanism 
+* Y1.94 billion (equivalent to $17.8 million) replenishment for the Japan Fund for Poverty Reduction 
 * $4.3 million replenishment for the Japan Scholarship Program 
 * $109 million replenishment for the Leading Asia’s Private Infrastructure Fund 
 
@@ -21,11 +25,11 @@ draft: false
 
 * Afghanistan Infrastructure Trust Fund 
 * Asia Pacific Project Preparation Facility 
-* Asian Clean Energy Fund 
+* Asian Clean Energy Fund under the Clean Energy Financing Partnership Facility
 * Cooperation Fund for Regional Trade and Financial Security Initiative 
 * Domestic Resource Mobilization Trust Fund 
 * High-Level Technology Fund 
-* Investment Climate Facilitation Fund 
+* Investment Climate Facilitation Fund under the Regional Cooperation and Integration Financing Partnership Facility
 * Japan Fund for Information and Communication Technology 
 * Japan Fund for Poverty Reduction 
 * Japan Fund for Public Policy Training 
@@ -38,13 +42,13 @@ draft: false
 * Ministry of Foreign Affairs 
 * Japan International Cooperation Agency (JICA)  
 
-<a href="https://www.adb.org/publications/japan-fact-sheet" target="_blank">Japan</a> provides extensive development support to its Asia-Pacific neighbors. Japan’s official development assistance is coordinated mainly through the Japan International Cooperation Agency (JICA), in the forms of loan aid, technical cooperation, and grant aid. JICA’s work is concentrated on (i) strengthening the human capacity of individuals who will be key players in their countries’ development; (ii) fortifying partnerships between actors in Japan who are involved in, and contributing to, development cooperation and regional vitalization; (iii) contributing to international commitments and serving as a leader in the international community; and (iv) strengthening security measures. 
+[Japan](https://www.adb.org/publications/japan-fact-sheet) provides extensive development support to its Asia-Pacific neighbors. Japan’s official development assistance is coordinated mainly through the Japan International Cooperation Agency (JICA), in the forms of loan aid, technical cooperation, and grant aid. JICA’s work is concentrated on (i) strengthening the human capacity of individuals who will be key players in their countries’ development; (ii) fortifying partnerships between actors in Japan who are involved in, and contributing to, development cooperation and regional vitalization; (iii) contributing to international commitments and serving as a leader in the international community; and (iv) strengthening security measures. 
 
-In December 2015, ADB and JICA signed a Memorandum of Understanding for Strategic Partnership for Sustainable and Inclusive Development through Promotion of Quality Infrastructure Investment in Asia and the Pacific. Under this partnership, ADB and JICA (i) established the Leading Asia's Private Sector Infrastructure Fund (LEAP Fund), and (ii) promoted quality public infrastructure development in the region through cofinancing.     
+In December 2015, ADB and JICA signed a Memorandum of Understanding for Strategic Partnership for Sustainable and Inclusive Development through Promotion of Quality Infrastructure Investment in Asia and the Pacific. Under this partnership, ADB and JICA (i) established the Leading Asia's Private Sector Infrastructure Fund (LEAP Fund), and (ii) promoted quality public infrastructure development in the region through a total of $10 billion in cofinancing.     
 
-Capitalized by US$1.5 billion in equity from JICA, LEAP stimulates investment in quality and sustainable private sector infrastructure in Asia and the Pacific, including through public–private partnerships. To date, 17 projects have been approved with LEAP cofinancing in the cumulative amount of US$661.23 million.    
+Capitalized by $1.5 billion in equity from JICA, LEAP stimulates investment in quality and sustainable private sector infrastructure in Asia and the Pacific, including through public–private partnerships. To date, 17 projects have been approved with LEAP cofinancing in the cumulative amount of $661.2 million.    
 
-ADB and JICA have a standing commitment to achieve US$10 billion in cofinancing for sovereign operations between 2016 and 2020. As of 31 December 2019 the combined cofinancing amount approved by ADB and JICA is roughly $7.3 billion, comprising $2.37 billion by ADB and $3.89 billion by JICA. 
+ADB and JICA have a standing commitment to achieve $10 billion in cofinancing for sovereign operations between 2016 and 2020. As of 31 December 2019 the combined cofinancing amount approved by ADB and JICA is roughly $7.3 billion, comprising $2.4 billion by ADB and $3.9 billion by JICA. 
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Japan
 
@@ -1603,4 +1607,4 @@ Transport Facilitation in the Pacific</a></td>
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing.</p> 
+<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing.</p>
