@@ -40,7 +40,6 @@ The monsoon season is always met with anxiety in Batua, a small multiethnic comm
 In an effort to alleviate the poor conditions, each household in the community would contribute $10 to build communal bamboo rafts and footpaths so they can navigate across the dirty floodwater. Adding to their plight, typhoons are becoming increasingly stronger and the duration of the monsoon season now fluctuates, all consequences of climate change.
 
 This seasonal flooding, coupled with the lack of access to basic water and sanitation services that lead to higher incidences of waterborne diseases, is a chronic burden of the community.
-
 Responding to these needs, ADB and Monash University partnered with the City Government of Makassar to improve the living and accessibility conditions in the marginalized community. ADB’s [Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach](https://www.adb.org/projects/51290-001/main) (Indonesia component), financed by the Urban Climate Change Resilience Trust Fund (UCCRTF) under the Urban Financing Partnership Facility, supported the piloting of a nature-based, water sensitive approach and technology. RISE is an action research program, supported by ADB and other development agencies, working at the intersections of health, environment, water, and sanitation.
 
 ### Interventions
@@ -55,7 +54,7 @@ The project then developed the community’s capacity for operation and maintena
 
 ### Results
 
-Bambang Susantono, ADB Vice President for Knowledge Management and Sustainable Development, along with with City Mayor Iqbal Suhaeb and Australia’s Consul General Richard Matthews, officially unveiled this pilot demonstration site, covering 11 households, on 19 October 2019. The now vibrant community will serve as inspiration for improving livability and access through nature-based solutions. This will be replicated in six additional informal settlements in Makassar, also through a grant from UCCRTF.
+Bambang Susantono, ADB Vice President for Knowledge Management and Sustainable Development, along with City Mayor Iqbal Suhaeb and Australia’s Consul General Richard Matthews, officially unveiled this pilot demonstration site, covering 11 households, on 19 October 2019. The now vibrant community will serve as inspiration for improving livability and access through nature-based solutions. This will be replicated in six additional informal settlements in Makassar, also through a grant from UCCRTF.
 
 The women of Batua have expressed their sincere appreciation for the project. They are no longer worried about their children falling from bamboo rafts and rickety footpaths. They also save time in collecting water and other supplies, and their relatives and sellers visit more often. The transformation of the neighborhood has definitely established a closer bond among the residents and created a sense of pride in something that they were all a part of.
 

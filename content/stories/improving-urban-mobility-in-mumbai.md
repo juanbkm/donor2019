@@ -28,11 +28,13 @@ weight: 3
 draft: false
 ---
 
-### Partnership Progress
+### Expected Partnership Results
 <ul class="dr-results">
-  <li><i class="icon-check-circle"></i>Gender Equality and Social Inclusion Action Plan completed</li>
-  <li><i class="icon-check-circle"></i>Social and Environmental Due Diligence Reports completed</li>
-  <li><i class="icon-check-circle"></i>Maha Mumbai Metro (M3) Operation Corporation Limited (MMMOCL) established to manage operation and maintenance</li>
+  <li><i class="icon-check-circle"></i>2 of 12 railway lines specified in Maharashta’s Masterplan, totaling 58 kilometers</li>
+  <li><i class="icon-check-circle"></i>63 six-car trains, with at least 1 car per train dedicated to women </li>
+  <li><i class="icon-check-circle"></i>Signalling, train control, and safety and telecommunications systems 
+</li>
+ <li><i class="icon-check-circle"></i>Establishment of a dedicated metro operations organization to manage the entire metro network in Mumbai. </li>
 </ul>
 
 ### Background
@@ -43,7 +45,7 @@ The railway is the primary means of transport for 12 million of Mumbai's inhabit
 
 Aiming to address the problem, the Government of Maharashtra came up with a masterplan in 2013. The plan includes developing a metro rail system that would supplement the highly congested suburban railway. Twelve lines are planned for metro rail development covering over 276 km.
 
-ADB is supporting the government's Metro expansion plans by financing two of the state's proposed lines. The [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main), which is the largest infrastructure loan in ADB history is cofinanced by the [New Development Bank]({{< ref "new-development-bank.md" >}}).
+ADB is supporting the government's Metro expansion plans by financing two of the state's proposed lines. The [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main), which is among the largest infrastructure loans in ADB history is cofinanced by the [New Development Bank]({{< ref "new-development-bank.md" >}}).
 
 ### Interventions
 
@@ -56,5 +58,11 @@ The loan, which NDB is cofinancing, will fund lines 2A (going from Dahisar to D.
 The project also has value-adding features that enhance the benefits of the new lines, including safety and gender inclusiveness. Mumbai's suburban rail system records many injuries and fatalities every year. To address this, part of ADB's funding ensures that passenger safety is paramount with the procurement of state-of-the-art carriages equipped with surveillance systems and real-time track monitoring to ensure safety. The new railway lines also have features that benefit women, including women-only carriages, mobile applications for women's security, separate ticket counters, and reporting desks to address incidents of harassment. There will also be station and carriage facilities for elderly or differently-abled passengers, including priority e-ticket counters.
 
 ### Expected Results
+
+To date, the following has been undertaken:
+
+* Gender Equality and Social Inclusion Action Plan completed
+* Social and Environmental Due Diligence Reports completed
+* Maha Mumbai Metro (M3) Operation Corporation Limited (MMMOCL) established to manage operation and maintenance
 
 Once operational by the end of 2022, an estimated 2 million passengers a day will use the two new lines, travelling in improved safety and comfort. It will also reduce emissions from vehicles, with carbon dioxide emissions expected to fall by about 166,000 tons a year.

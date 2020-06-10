@@ -2,7 +2,7 @@
 title: "Critical Thoroughfare Gets Much Needed Makeover"
 date: 2020-05-30T08:15:00+08:00
 image: images/stories/critical-thoroughfare-gets-much-eeded-makeover.jpg
-image_caption: "**Island Connection.** People from the western and eastern parts of Tarawa Atoll in Kiribati now have safer and more efficient mobility afer the South Tarawa Road is rehabilitated."
+image_caption: "**Island Connection.** People from the western and eastern parts of Tarawa Atoll in Kiribati now have safer and more efficient mobility after the South Tarawa Road is rehabilitated."
 image_thumb: images/stories/critical-thoroughfare-gets-much-eeded-makeover-th.jpg
 author: Admin
 description: "This is meta description"
@@ -20,7 +20,7 @@ fin_partners:
   - name: "World Bank"
     amount: "$27 million"
   - name: "Australia"
-    amount: "$18.9 million"
+    amount: "$19 million"
 approval: "December 2010"
 completion: "May 2017"
 categories: [ "Governance" ]
@@ -49,13 +49,13 @@ Being a Pacific island country, Kiribati is extremely susceptible to external sh
 
 ### Interventions
 
-To address this transport and mobility challenge that affects almost half of the country's population, the Government of Kiribati requested the ADB to help finance the [Kiribati Road Rehabilitation Project](https://www.adb.org/projects/44281-013/main#project-pds). The project was cofinanced by the [World Bank]({{< ref "world-bank-group.md" >}}), [Government of Australia]({{< ref "australia.md" >}}), and the Government of Kiribati.
+To address this transport and mobility challenge that affects almost half of the country's population, the Government of Kiribati requested the ADB to help finance the [Kiribati Road Rehabilitation Project](https://www.adb.org/projects/44281-013/main#project-pds). The project was cofinanced by the [World Bank]({{< ref "world-bank-group.md" >}}), [Government of Australia]({{< ref "australia.md" >}}).
 
 The project’s main outputs were i) a rehabilitated South Tarawa highway and provisions like feeder roads, footpaths for cyclists and walkers, and bus shelters, and ii) strengthened capacities of local communities in road maintenance for road safety and sustainability.  
 
 For the first output, the road design was a crucial element. The South Tarawa Road runs near the edge of a lagoon for most of its length. The rising sea levels and coastal erosion threaten the road’s sustainability, so the project design was coordinated with another World Bank-financed climate change adaptation project to help incorporate climate-resilience into the design, the [Kiribati Adaptation Program](https://projects.worldbank.org/en/projects-operations/project-detail/P112615). At the end of the project, 36 kilometers of highway had been rehabilitated and 9.2 kilometers of feeder roads were repaired. A 57-km footpath for cyclists and walkers, 36 bus shelters to keep commuters protected from rain or the heat of the sun, and 114 speed bumps to promote safe driving speed were also put in place.
 
-{{< dr-yt video="3MgqaJCkcto" title="Kiribati: Lone Highway Made Safer, Better" cover="cover-yt-lone-highway-made-safer-better.jpg" >}}
+{{< dr-yt video="_76iHGFzXBs" title="Kiribati: Lone Highway Made Safer, Better" cover="cover-yt-lone-highway-made-safer-better.jpg" >}}
 
 Wanting to sustain the roads’ optimal functionality, the second main output of the project addressed the need for maintenance, capacity building, and institutional reforms. These were crucial to ensure that the roads remain serviceable for at least 20 years.  
 
@@ -77,4 +77,4 @@ The project’s outputs not only improved the travel time and experience on the 
 
 The road linked communities in small, dense village settlements on either side of the road. Access to health and other services has improved, and increased economic activity is evident from the many new small stores and eateries now lining the roadside. This directly impacts each community by reducing poverty.
 
-The project brought a safer, more efficient transportation system that encouraged economic growth and improved the quality of life of those living in and around the South Tarawa atoll. 
+The project brought a safer, more efficient transportation system that encouraged economic growth and improved the quality of life of those living in and around the South Tarawa atoll.

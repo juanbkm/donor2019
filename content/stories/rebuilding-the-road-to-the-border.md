@@ -29,7 +29,7 @@ draft: false
 ### Partnership Results
 
 <ul class="dr-results">
-<li><i class="icon-check-circle"></i> 112.7 kilometers of road rehabilitated</li>
+<li><i class="icon-check-circle"></i> 113 kilometers of road rehabilitated</li>
 <li><i class="icon-check-circle"></i> 60 kilometers of village feeder roads constructed</li>
 <li><i class="icon-check-circle"></i> 31 bridges rehabilitated</li>
 <li><i class="icon-check-circle"></i> National Road Safety Strategy and Action Plan developed and implemented</li>

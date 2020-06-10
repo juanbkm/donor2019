@@ -28,7 +28,7 @@ draft: false
 <ul class="dr-results">
   <li><i class="icon-check-circle"></i> The MIST program 2018 received 107 applications</li>
   <li><i class="icon-check-circle"></i> Nine start-ups graduated from the MIST accelerator program, 5 in the start-up track, 4 in the market access track, 14 start-ups finished the MIST bootcamp</li>
-  <li><i class="icon-check-circle"></i> After the program, 23 commercial partnerships were signed, US$1.65 million potential investment raised</li>
+  <li><i class="icon-check-circle"></i> After the program, 23 commercial partnerships were signed, $1.65 million potential investment raised</li>
   <li><i class="icon-check-circle"></i> Raising the profile of the project 813 media stories made about project. 3.1 million social media shares</li>
 </ul>
 
@@ -38,7 +38,7 @@ The Greater Mekong Subregion is where Asia’s ancient and diverse cultural heri
 
 Within the Association of Southeast Asian Nations (ASEAN) members is a smaller group called the ASEAN-4, made up of Cambodia, Lao PDR, Myanmar, and Viet Nam. These are the ASEAN members whose natural and cultural tourism assets are bound by the Mekong River. Collectively, the ASEAN-4 received 29.3 million tourists in 2018. For the whole of the ASEAN region, the number of [tourist arrivals](https://seasia.co/2019/03/15/international-tourist-arrivals-in-southeast-asia-countries-2018) is expected to rise to 155.4 million in 2022.  
 
-These arrivals, however, mainly benefit fewer than ten getaway destinations. These destinations include heritage sites, the Mekong River, city capitals, beach resorts, and sites promoting their cultural identities. The promotion of secondary destinations is constrained by inadequate transport infrastructure, a weak business-enabling environment, slow deployment of digital marketing tools, and few market linkages between tourism and other sectors.
+These arrivals, however, mainly benefit fewer than 10 getaway destinations. These destinations include heritage sites, the Mekong River, city capitals, beach resorts, and sites promoting their cultural identities. The promotion of secondary destinations is constrained by inadequate transport infrastructure, a weak business-enabling environment, slow deployment of digital marketing tools, and few market linkages between tourism and other sectors.
 
 ### Interventions
 
@@ -56,4 +56,4 @@ After the MIST boot camp, reports on market expansion from the participants show
 
 Social media played a big role in spreading the word about the new tourism techenterprises. The project received extensive positive media exposure through the 813 media stories. It also gained 3.1 million social media shares, exceeding its target of 1 million. Both were well above the project’s targets.
 
-By diversifying consumer services and markets, the MIST project also helped these destinations become resilient in the face of external shocks like natural disasters or pandemics. A vibrant tourism industry is an essential contributor to global trade and economic growth. An ADB report says that it is “perhaps the world’s largest voluntary transfer of resources from rich people to poor people.” 
+By diversifying consumer services and markets, the MIST project also helped these destinations become resilient in the face of external shocks like natural disasters or pandemics. A vibrant tourism industry is an essential contributor to global trade and economic growth. An ADB report says that it is “perhaps the world’s largest voluntary transfer of resources from rich people to poor people.”

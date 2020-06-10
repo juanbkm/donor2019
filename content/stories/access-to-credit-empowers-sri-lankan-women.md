@@ -13,7 +13,7 @@ project_url: https://www.adb.org/projects/49273-001/main#project-pds
 cost: "$188.7 million"
 fund_source: 
   - name: "ADB"
-    amount: "$100 million (Loan)"
+    amount: "$175 million (Loan: $100 million | Grant for Technical Assistance: $75 million)"
   - name: "ADB"
     amount: "$75 million (Technical Assistance)"
 fin_partners:

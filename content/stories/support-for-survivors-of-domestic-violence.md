@@ -23,13 +23,12 @@ filter:
 weight: 7
 draft: false
 ---
-### Partnership Progress
+### Expected Partnership Results
 
 <ul class="dr-results">
-	<li><i class="icon-check-circle"></i> Gender action plan under implementation</li>
-	<li><i class="icon-check-circle"></i> Stakeholder communication strategy prepared</li>
-	<li><i class="icon-check-circle"></i> Design of the shelters in preparation</li>
-  <li><i class="icon-check-circle"></i> Grants program for community-based initiatives now underway</i>
+  <li><i class="icon-check-circle"></i> Model shelters for women and children survivors of domestic and sexual violence established in three provinces and two districts, at least two to be physically accessible to persons with disabilities</li>
+  <li><i class="icon-check-circle"></i> Capacity building of key officials and staff responsible for protection and rehabilitation services for domestic violence survivors</li>
+  <li><i class="icon-check-circle"></i> Expansion of existing helpline center, which receives distress calls, provides psychological and legal counseling, and refers calls to the police</li>
 </ul>
 
 ### Background
@@ -42,13 +41,13 @@ Women aged between 25 and 49 experienced the highest rates of domestic violence,
 
 The revised Law on Combating Domestic Violence has been in effect since 1 February 2017, but awareness and communication campaigns are sorely lacking. Many victims and survivors, their friends and families, do not know where and how to file complaints and request assistance.  
 
-The [Japan Fund for Poverty Reduction]({{< ref "japan.md" >}}) provided a $3 million grant to advance gender equality in Mongolia by improving the quality of, and access to, prevention and response to domestic violence. The project, approved in late 2018 but became effective in 2019, is ADB’s first stand-alone project addressing domestic violence. It will increase government capacity and strengthen institutions to address reported cases of gender-based violence, particularly domestic violence. It will also help enhance community knowledge and understanding of gender-based violence and their consequences toward changing individual and community behavior. 
+The [Japan Fund for Poverty Reduction]({{< ref "japan.md" >}}) provided a $3 million grant to advance gender equality in Mongolia by improving the quality of, and access to, prevention and response to domestic violence. The project, approved in late 2018 but became effective in 2019, is ADB’s first stand-alone project addressing domestic violence. It will increase government capacity and strengthen institutions to address reported cases of gender-based violence, particularly domestic violence. It will also help enhance community knowledge and understanding of gender-based violence and their consequences toward changing individual and community behavior.
 
 ### Interventions
 
-By addressing domestic violence, the project is expected to support Mongolia’s efforts in achieving gender equality and empowerment of women. The project has started working on the following: 
+By addressing domestic violence, the project is expected to support Mongolia’s efforts in achieving gender equality and empowerment of women. The project has started working on the following:
 
-**Multi-disciplinary response and livelihood assistance services to domestic violence survivors.** Model shelters for women and children survivors of domestic and sexual violence will be established in three provinces and two districts, each with the capacity to serve between 100 and 120 women and children per year, offering up to 30 days of protection and other multidisciplinary services to survivors. Two shelters will be physically accessible to PWDs. The project will also include a pilot women’s economic empowerment program for survivor women, which will include psychosocial counseling, training on financial and legal literacy, and livelihoods and income generation activities for disadvantaged groups.  
+**Multi-disciplinary response and livelihood assistance services to domestic violence survivors.** Model shelters for women and children survivors of domestic and sexual violence will be established in three provinces and two districts, each with the capacity to serve between 100 and 120 women and children per year, offering up to 30 days of protection and other multidisciplinary services to survivors. Two shelters will be physically accessible to persons with disabilities. The project will also include a pilot women’s economic empowerment program for survivor women, which will include psychosocial counseling, training on financial and legal literacy, and livelihoods and income generation activities for disadvantaged groups.  
 
 **Capacity building of key officials and staff responsible for protection and rehabilitation services for domestic violence survivors.** Training programs on prevention, coordinated response, protection and rehabilitation will be tailored and targeted at different stakeholders, including staff of helpline centers, police officers, and various legal and medical professionals handling domestic violence cases.  
 
@@ -56,10 +55,12 @@ By addressing domestic violence, the project is expected to support Mongolia’s
 
 ### Expected Results
 
-Mongolia stands to make a critical contribution to accelerating progress in gender equality through this project.  Once all interventions are in place the project is expected to ensure safety of women and improve the quality of life for women and children, resulting in indirect contribution to the improved socio-economic development of communities. 
+To date, the design of the shelters are under preparation. A Gender Action Plan to support the project has been completed, and a stakeholder communication strategy prepared. 
 
-About 2,132 persons, including 600 women survivor and 130 persons with disabilities (PWDs), will directly benefit from the shelters, economic empowerment program, capacity building and behavior change communication activities. Thousands will indirectly benefit from the project, including women who will have increased awareness and access to institutions and services for combatting domestic violence. 
+Mongolia stands to make a critical contribution to accelerating progress in gender equality through this project.  Once all interventions are in place the project is expected to ensure safety of women and improve the quality of life for women and children, resulting in indirect contribution to the improved socio-economic development of communities.
+
+About 2,132 persons, including 600 women survivor and 130 persons with disabilities, will directly benefit from the shelters, economic empowerment program, capacity building and behavior change communication activities. Thousands will indirectly benefit from the project, including women who will have increased awareness and access to institutions and services for combatting domestic violence.
 
 ### Related Story
 
-[Turning Mongolia Orange: Behavior Change Communication Against Domestic Violence](https://blogs.adb.org/blog/turning-mongolia-orange-behavior-change-communication-against-domestic-violence) By Pinky Serafica and Tsolmon Begzsuren (ADB Blog) 
+[Turning Mongolia Orange: Behavior Change Communication Against Domestic Violence](https://blogs.adb.org/blog/turning-mongolia-orange-behavior-change-communication-against-domestic-violence) By Pinky Serafica and Tsolmon Begzsuren (ADB Blog)

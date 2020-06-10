@@ -10,10 +10,10 @@ country: Viet Nam
 summary: "Viet Nam is progressing toward achieving universal access to electricity by 2020 after an ADB project with cofinancing from the Clean Energy Fund under Clean Energy Financing Partnership Facility helped provide hundreds of thousands of households with electricity and opened economic opportunities to the men and women of these communes."
 project_title: "Viet Nam: Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project"
 project_url: https://www.adb.org/projects/42182-013/main#project-overview
-cost: "$197.6 million"
+cost: "$201 million"
 fund_source: 
   - name: "Asian Development Fund"
-    amount: "$151 million (Loan)"
+    amount: "$156 million (Loan)"
   - name: "Technical Assistance Special Fund"
     amount: "$900,000.00 (Technical Assistance)"
   - name: "Climate Change Fund"
@@ -45,9 +45,9 @@ draft: false
 
 ### Background
 
-Electrification has been one of Viet Nam’s remarkable achievements in the recent decades. Access to electricity increase rapidly from 2.5 % in 1975 to over 91 % in 2007.  With this, more than 97% of the country’s communes connected to the national grid. However, some 278 communes in the mountainous north, central, and south Viet Nam remained unconnected or electrified but received power only to the commune center. These communes are home to some of Viet Nam's poor indigenous communities. To address this remaining service gap, Viet Nam invested in expansion of distribution networks and rehabilitation of poorly constructed and unreliable low voltage electrical systems to attain universal access.
+Electrification has been one of Viet Nam’s remarkable achievements in recent decades. Access to electricity increase rapidly from 2.5 % in 1975 to over 91 % in 2007.  With this, more than 97% of the country’s communes connected to the national grid. However, some 278 communes in the mountainous north, central, and south Viet Nam remained unconnected or electrified but received power only to the commune center. These communes are home to some of Viet Nam's poor indigenous communities. To address this remaining service gap, Viet Nam invested in expansion of distribution networks and rehabilitation of poorly constructed and unreliable low voltage electrical systems to attain universal access.
 
-The project, Viet Nam's [Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project](https://www.adb.org/projects/documents/vie-42182-013-pcr), received funding from ADB and the Clean Energy Fund under the [Clean Energy Financing Partnership Facility](./modalities/clean-energy-financing-partnership-facility/). The result-- 99% of all Vietnamese families have access to electricity by 2020.
+The project, Viet Nam's [Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project](https://www.adb.org/projects/documents/vie-42182-013-pcr), received funding from ADB and the Clean Energy Fund under the [Clean Energy Financing Partnership Facility](./modalities/clean-energy-financing-partnership-facility/). The result-- 99% of all Vietnamese families will have access to electricity by 2020.
 
 The project is consistent with Viet Nam’s Socio-Economic Development Plans and ADB’s country strategy and program for Viet Nam, which promote pro-poor, balanced economic through the sustainable use of electricity and renewable energy in an affordable manner. 
 
@@ -57,7 +57,7 @@ The project sought to expand and rehabilitate electricity networks in combinatio
 
 The MHPs provide electricity to local communes. Surplus renewable energy will be sold to the national grid. Revenues from electricity sales of these plants use for further expansion of the national grid to communities.  The MHPs also help reduce grid loss as they are located close to poor and remote parts of the country.
 
-In addition, the project had a strong gender and ethnic minority components.  The project integrated gender mainstreaming activities in the project’s ethnic minority development plan (EMDP), which were, among others, increase gender mainstreaming capacity of the power companies, increase participation of women in campaigns on raising awareness of safe electricity use, ensuring free electricity connections for poor, women-headed households, and increasing women’s representation in planning, implementing, and monitoring project activities.
+In addition, the project had a strong gender and ethnic minority components.  The project integrated gender mainstreaming activities in the project’s ethnic minority development plan, which were, among others, increase gender mainstreaming capacity of the power companies, increase participation of women in campaigns on raising awareness of safe electricity use, ensuring free electricity connections for poor, women-headed households, and increasing women’s representation in planning, implementing, and monitoring project activities.
 
 ### Results
 
