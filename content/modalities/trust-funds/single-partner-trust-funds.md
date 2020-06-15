@@ -1,7 +1,7 @@
 ---
 title: "Single Partner Trust Funds"
 date: 2020-05-24T18:04:10+08:00
-main_image: images/modalities/sptf.jpg
+main_image: 
 pageid: dr-sptf
 summary: |
   ADB is a trustee of 18 active single-partner trust funds, with contributions from Australia, Canada, People’s Republic of China, Denmark, France, Ireland, Japan, Republic of Korea, and Spain.

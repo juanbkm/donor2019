@@ -1,7 +1,7 @@
 ---
 title: "Multi-partner Trust Funds"
 date: 2020-05-24T23:47:52+08:00
-main_image: images/modalities/mptf.jpg
+main_image: 
 pageid: dr-mptf
 summary: |
   Bigger and more flexible multi-partner trust funds introduced in the 2000s have promoted collaboration among ADB’s financing partners and attracted new and nontraditional partners from the private sector, including philanthropic organizations.
