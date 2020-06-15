@@ -8,7 +8,7 @@ summary: |
 
   Global funds leverage public or private resources in support of international initiatives, enabling partners to provide direct and coordinated response to global priorities. ADB contributes to the Global Funds and assists developing member countries in gaining access to its financing.  
 
-  In 2019, loan cofinancing from global funds reached $152 million while grant cofinancing, for both investment grants and technical assistance, reached $54.5 million. The Green Climate Fund was a significant contributor, with a $95 million loan cofinancing for Mongolia’s Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project and a $29 million grant for Tonga’s Renewable Energy Project. 
+  In 2019, loan cofinancing from global funds reached $152 million while grant cofinancing, for both investment grants and technical assistance, reached $54.5 million. The Green Climate Fund was a significant contributor, with a $95 million loan cofinancing for Mongolia’s Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project and a $30 million grant for Tonga’s Renewable Energy Project. 
 chart: gf-chart.png
 gf:
   - name: Climate Investment Funds
@@ -16,10 +16,13 @@ gf:
     url: https://www.climateinvestmentfunds.org/
     image: cif.png
     ccpsc: $978.3 million
+    ccpscfn: In addition, CIF has $290 million* under non-sovereign project
     description: |
       The Climate Investment Funds (CIF), established in 2008, is a global finance mechanism that aims to help developing countries shift to low carbon technologies and promote climate resilient development. There are two funding windows under CIF: Clean Technology Fund (CTF) and Strategic Climate Fund (SCF). CTF finances to promote the use of low carbon technologies with a significant potential for long-term greenhouse gas emissions savings, while SCF finances new development approaches or scale-up activities geared toward specific climate change challenge or sectoral response. CIF works with multilateral organizations like the African Development Bank, Asian Development Bank, European Bank for Reconstruction and Development, Inter-American Development Bank, and the World Bank Group.
       
-      In 2019, the SCF cofinanced projects on the [development of a national solar park in Cambodia](https://www.adb.org/projects/51182-001/main), [scaling up energy efficiency in India](https://www.adb.org/projects/52196-001/main), and [establishment of an energy investment facility in the Pacific Region](https://www.adb.org/projects/49450-022/main). The CTF, on the other hand, cofinanced a project on the [promotion of low-carbon development in Central Asia](https://www.adb.org/projects/50287-001/main). The CTF also provided $83 million in replenishment funds in 2019.
+      In 2019, the SCF cofinanced projects on the [development of a national solar park in Cambodia](https://www.adb.org/projects/51182-001/main), [scaling up energy efficiency in India](https://www.adb.org/projects/52196-001/main), and [establishment of an energy investment facility in the Pacific Region](https://www.adb.org/projects/49450-022/main). The CTF, on the other hand, cofinanced a project on the [promotion of low-carbon development in Central Asia](https://www.adb.org/projects/50287-001/main). 
+      
+      *In addition, CIF has $290 million contribution to non-sovereign projects. 
   - name: Global Agriculture and Food Security Program
     id: gafsp
     url: https://www.gafspfund.org/
@@ -41,13 +44,14 @@ gf:
     image: gef.png
     ccpsc: $249.3 million
     description: |
-      The Global Environment Facility (GEF), established in 1991, is global partnership that helps tackle the planet’s most pressing environmental problems. GEF brings together 183 countries, international institutions, nongovernmental organizations, and the private sector, joined by the objective of helping developing countries address environmental problems. The GEF administers three funds: 
+      The Global Environment Facility (GEF), established in 1991, is global partnership that helps tackle the planet’s most pressing environmental problems. GEF brings together 183 countries, international institutions, nongovernmental organizations, and the private sector, joined by the objective of helping developing countries address environmental problems. The GEF administers six trust funds. ADB participates in three of these trust funds, specifically: 
       
       * GEF Trust Fund - supports activities within the GEF Focal Areas
-      * Least Developed Countries Fund (LDCF) - addresses the special needs of the 51 least developed countries that are especially vulnerable to the adverse impacts of climate change. In 2019, LDCF provided US$290,000 in replenishment funds.
+      * Least Developed Countries Fund (LDCF) - addresses the special needs of the 51 least developed countries that are especially vulnerable to the adverse impacts of climate change. In 2019, LDCF provided $290,000 in replenishment funds.
       * Special Climate Change Fund (SCCF) - supports adaptation and technology transfer in all developing countries party to the United Nations Framework Convention on Climate Change 
       
-      In 2019, the GEF cofinanced projects aiming to [mainstream climate resilience for green cities development in Viet Nam](https://www.adb.org/projects/47274-003/main), and another [supporting the preparation of urban services improvement project in Myanmar](https://www.adb.org/projects/50109-001/main). GEF also provided US$140,000 in replenishment funds in 2019.
+      In 2019, the GEF cofinanced projects aiming to [mainstream climate resilience for green cities development in Viet Nam](https://www.adb.org/projects/47274-003/main), and another [supporting the preparation of urban services improvement project in Myanmar](https://www.adb.org/projects/50109-001/main). 
+
   - name: Global Partnership for Education
     id: gpe
     url: http://www.globalpartnership.org/
@@ -79,7 +83,8 @@ gf:
 
       GCF aims to catalyze a flow of climate finance to invest in low-emission and climate-resilient development, driving a paradigm shift in the global response to climate change. The Fund’s investments can be in the form of grants, loans, equity, or guarantees. 
       
-      In 2019, GCF approved funding for a [project on renewable energy in Tonga](https://www.adb.org/projects/49450-012/main) and [green and affordable housing in Mongolia's Ulaanbaatar](https://www.adb.org/projects/49169-002/main). In 2019, GCF provided $74.9 million in replenishment funds.
+      In 2019, GCF approved funding for a [project on renewable energy in Tonga](https://www.adb.org/projects/49450-012/main) and [green and affordable housing in Mongolia's Ulaanbaatar](https://www.adb.org/projects/49169-002/main). 
+
   - name: Women Entrepreneurs Finance Initiative
     id: wefi
     url: https://we-fi.org/
@@ -90,7 +95,7 @@ gf:
 
       We-Fi works with six multilateral development banks as implementing partners: African Development Bank, Asian Development Bank, Inter-American Development Bank, European Bank for Reconstruction and Development, Islamic Development Bank and the World Bank Group.
 
-      In May 2019, ADB received funding from We-Fi to help provide [women-led small and medium-sized enterprises (WSMEs) with access to critical financing and training in Viet Nam and the Pacific](https://www.adb.org/projects/52214-001/main). We-fi also provided $20.2 million in replenishment funds for allocation to future projects.
+      In May 2019, ADB received funding from We-Fi to help provide [women-led small and medium-sized enterprises (WSMEs) with access to critical financing and training in Viet Nam and the Pacific](https://www.adb.org/projects/52214-001/main). We-fi also allocated $20.2 million in replenishment funds for allocation to future projects.
      
 weight: 
 draft: false
