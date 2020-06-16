@@ -4,6 +4,7 @@ date: 2020-04-18T00:24:25+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
+pdf: dr2019-resource-cofin-for-psc.pdf
 weight: 1
 draft: false
 ---
@@ -66,24 +67,21 @@ draft: false
     <td>Japan Fund for Poverty Reduction (JFPR)</td>
   </tr>
   <tr>
-    <td>Energy Sector Reforms and Financial Sustainability Program –
-        Subprogram 1</td>
+    <td>Energy Sector Reforms and Financial Sustainability Program – Subprogram 1</td>
     <td>300.00</td>
     <td></td>
     <td>80.00</td>
     <td>Export-Import Bank of Korea (KEXIM)</td>
   </tr>
   <tr>
-    <td>Khyber Pakhtunkhwa Cities Improvement Projects-Project Readiness
-        Financing</td>
+    <td>Khyber Pakhtunkhwa Cities Improvement Projects-Project Readiness Financing</td>
     <td>7.00</td>
     <td>2.00</td>
     <td></td>
     <td>Urban Climate Change Resilience Trust Fund (UFPF-UCCRTF)</td>
   </tr>
   <tr>
-    <td>National Disaster Risk Management Fund – Additional Financing
-        <sup>a</sup></td>
+    <td>National Disaster Risk Management Fund – Additional Financing <sup>a</sup></td>
     <td></td>
     <td>1.50</td>
     <td></td>
@@ -98,8 +96,7 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>Central Asia Regional Economic Cooperation Corridors 2, 3, and 5
-        (Obigarm-Nurobod) Road</td>
+    <td>Central Asia Regional Economic Cooperation Corridors 2, 3, and 5 (Obigarm-Nurobod) Road</td>
     <td>110.00</td>
     <td></td>
     <td>40.00</td>
@@ -136,8 +133,7 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>Improving Access to Health Services for Disadvantaged Groups
-        Investment Program–Tranche 1</td>
+    <td>Improving Access to Health Services for Disadvantaged Groups Investment Program–Tranche 1</td>
     <td>76.14</td>
     <td>3.48</td>
     <td></td>
@@ -158,8 +154,7 @@ draft: false
     <td>KEXIM</td>
   </tr>
   <tr>
-    <td>Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal
-        Sector</td>
+    <td>Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector</td>
     <td>80.00</td>
     <td></td>
     <td>95.00</td>
@@ -223,8 +218,7 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>Health Services Development Program, Subprogram 1– Additional
-        Financing <sup>a</sup></td>
+    <td>Health Services Development Program, Subprogram 1– Additional Financing <sup>a</sup></td>
     <td></td>
     <td>38.00</td>
     <td></td>
@@ -235,8 +229,7 @@ draft: false
     <td></td>
     <td>0.80</td>
     <td></td>
-    <td>People&#39;s Republic of China Poverty Reduction and Regional
-        Cooperation Fund (PRCF)</td>
+    <td>People&#39;s Republic of China Poverty Reduction and Regional Cooperation Fund (PRCF)</td>
   </tr>
   <tr class="country">
     <td>Solomon Islands</td>
@@ -281,8 +274,7 @@ draft: false
     <td>WB</td>
   </tr>
   <tr>
-    <td>Nuku&#39;alofa Urban Development Sector – Additional Financing
-        <span class="s6">a</span></td>
+    <td>Nuku&#39;alofa Urban Development Sector – Additional Financing <sup>a</span></td>
     <td></td>
     <td>0.29</td>
     <td></td>
@@ -374,8 +366,7 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>Green Energy Corridor and Grid Strengthening
-        <sup>a</sup></td>
+    <td>Green Energy Corridor and Grid Strengthening <sup>a</sup></td>
     <td></td>
     <td></td>
     <td>223.94</td>
@@ -404,16 +395,14 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>Green Power Development and Energy Efficiency Improvement Investment
-        Program –Tranche 2</td>
+    <td>Green Power Development and Energy Efficiency Improvement Investment Program –Tranche 2</td>
     <td>150.00</td>
     <td></td>
     <td>30.00</td>
     <td>AFD</td>
   </tr>
   <tr>
-    <td>South Asia Subregional Economic Cooperation Port Access Elevated
-        Highway</td>
+    <td>South Asia Subregional Economic Cooperation Port Access Elevated Highway</td>
     <td>300.00</td>
     <td></td>
     <td>342.73</td>
@@ -442,15 +431,14 @@ draft: false
     <td>HLTF</td>
   </tr>
   <tr>
-    <td>National Solar Park</td>
+    <td>National Solar Park <sup>b</span></td>
     <td>7.64</td>
     <td>3.00</td>
     <td>11.00</td>
     <td>Strategic Climate Fund (CIF-SCF) <span class="s6">b</span></td>
   </tr>
   <tr>
-    <td>Third Rural Water Supply and Sanitation Services Sector Development
-        Program</td>
+    <td>Third Rural Water Supply and Sanitation Services Sector Development Program</td>
     <td>49.00</td>
     <td>1.00</td>
     <td></td>

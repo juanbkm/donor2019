@@ -65,6 +65,30 @@ li {
     border-top: 1px solid lighten($adb-dr-gray, 40%);
     margin: $margin-big/4 auto $margin-big auto;
   }
+  h4 {
+    clear: both;
+    font-size: 1.2rem;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: .2rem;
+    color: $adb-dr-gray;
+    margin-top: $margin-big;
+    em {
+      display: block;
+      font-size: 1rem;
+      font-style: normal;
+      text-transform: lowercase;
+      letter-spacing: 1px;
+    }
+  }
+  h4:after {
+    content: '';
+    display: block;
+    width: 100px;
+    border-top: 1px solid lighten($adb-dr-gray, 40%);
+    margin: $margin-big/4 auto $margin-big auto;
+  }
   @include media-breakpoint-down(sm) {
     h3 {
       line-height: 1.5;

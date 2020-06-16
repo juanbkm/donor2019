@@ -5,7 +5,7 @@ pretitle: "Official Cofinancing from"
 date_range: "1967–2019"
 units: "$ million"
 pdf: dr2019-resource-cofin-from-bilateral.pdf
-weight: 3
+weight: 5
 draft: false
 ---
 
@@ -13,14 +13,14 @@ draft: false
   <thead>
   <tr>
     <th rowspan="2">Financing Partner</th>
-    <th rowspan="2">Contribution to Trust Funds <sup>a</sup></th>
-    <th colspan="3">Contributions to Project-Specific Cofinancing</th>
-    <th rowspan="2">Total</th>
+    <th rowspan="2" class="text-right">Contribution to Trust Funds <sup>a</sup></th>
+    <th colspan="3" class="text-center">Contributions to Project-Specific Cofinancing</th>
+    <th rowspan="2" class="text-right">Total</th>
   </tr>
   <tr>
-    <th>Loan and Gurantee <sup>b</sup></th>
-    <th>Grant</th>
-    <th>Technical Assistance</th>
+    <th class="text-right">Loan and Gurantee <sup>b</sup></th>
+    <th class="text-right">Grant</th>
+    <th class="text-right">Technical Assistance</th>
   </tr>
   </thead>
   <tbody>
@@ -182,7 +182,7 @@ draft: false
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td>15</td>
+    <td>15.00</td>
   </tr>
   <tr>
     <td>Saudi Arabia</td>

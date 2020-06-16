@@ -30,12 +30,15 @@
   }
 }
 
-.dr-data-nav {
- 
+.dr-lists-nav {
   li {
       color: $adb-dr-gray;
       margin-left: 20px;
       margin-bottom: 5px;
+      &:nth-child(2),
+      &:nth-child(4){
+        margin-bottom: 20px;
+      }
       a {
           //background-color: lighten($adb-dr-gray, 60%);;
           //color: $body-color;

@@ -1,23 +1,23 @@
 #dr-modalities {
   
-.dr-section-title {
-	p {
-    padding: 0;
-    margin: 0 0 40px 0;
-    line-height: 1.5;
-    letter-spacing: 1px;
-    font-size: 16px;
-    font-weight: 300;
+  .dr-section-title {
+    p {
+      padding: 0;
+      margin: 0 0 40px 0;
+      line-height: 1.5;
+      letter-spacing: 1px;
+      font-size: 16px;
+      font-weight: 300;
+    }
+    div > p:nth-child(1) {
+      padding: 0;
+      margin: 0 0 40px 0;
+      line-height: 1.5;
+      letter-spacing: 1px;
+      font-size: 18px !important;
+      font-weight: 300;
+    }
   }
-  div > p:nth-child(1) {
-    padding: 0;
-    margin: 0 0 40px 0;
-    line-height: 1.5;
-    letter-spacing: 1px;
-    font-size: 18px !important;
-    font-weight: 300;
-  }
-}
 
   .dr-modalities {
     a {
@@ -239,6 +239,12 @@
     float: right;
     padding: 20px;
     margin: 0 0 20px 20px;
+  }
+  .dr-mod-main-image {
+    float: left;
+    width: 50%;
+    height: auto;
+    margin: 0 40px 40px 0;
   }
 }
 

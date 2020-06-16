@@ -1,43 +1,45 @@
 {{ $gf := $.Page.Params.gf }}
 <section class="dr-gf">
-<div class="row justify-content-md-center">
-  <div class="col-md-4">
-    <div class="dr-mod-nav">
-      <h5>Single Partner Trust Funds</h5>
-      <ul>
-        {{ range $gf }}
-        <li><a href="./modalities/global-funds/#dr-{{ .id }}">{{ .name }}</a></li>
-        {{ end }}
-      </ul>
+  <div class="row justify-content-md-center pt-lg-5">
+    <div class="col">
+      <h3>Global Fundswith Active Projects In 2019</h3>
     </div>
   </div>
-  <div class="col-md-8">
-    <h3>Global Fundswith Active Projects In 2019</h3>
-    {{ range $gf }}
-      <div class="dr-mod-partner dr-gf" id="dr-{{ .id }}">
-        {{ with .image }} <img src="./images/modalities/{{ . }}" alt="">{{ end }}
+  <div class="row justify-content-md-center">
+    <div class="col-md-4 sticky-sidebar-wrap clearfix" data-offset-top="100">
+      <div class="sidebar-widgets-wrap">
+        <ul class="sticky-sidebar">  
+          {{ range $gf }}
+          <li><a href="#{{ .id }}" data-scrollto="#{{ .id }}">{{ .name }}</a> </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-7 offset-md-1">
+      {{ range $gf }}
+        <div class="dr-mod-partner dr-gf" id="{{ .id }}">
+          {{ with .image }} <img src="./images/modalities/{{ . }}" alt="">{{ end }}
 
-        <h5><a href="{{ .url }}" target="_blank">{{ .name }}</a></h5>
+          <h5><a href="{{ .url }}" target="_blank">{{ .name }}</a></h5>
 
-        {{ with .ccpsc }}
-        <div class="dr-stat">
-          <h6>Cumulative contribution to project-specific cofinancing</h6>
-          <p>{{ . }}</p>
+          <div class="dr-stat mb-2">
+            <h6>Cumulative contribution to project-specific cofinancing</h6>
+            <p>{{ .ccpsc }}</p>
+            {{ with .ccpscfn }}<p class="dr-fn">{{ . }}</p> {{ end }}
+          </div>
+
+          {{ $markdown := .description | markdownify }}
+          {{ if not ( strings.Contains $markdown "<p>" ) }}
+              <p>{{ $markdown }}</p>
+          {{ else }}
+              {{ $markdown }}
+          {{ end }}
+          
         </div>
         {{ end }}
 
-        {{ $markdown := .description | markdownify }}
-        {{ if not ( strings.Contains $markdown "<p>" ) }}
-            <p>{{ $markdown }}</p>
-        {{ else }}
-            {{ $markdown }}
-        {{ end }}
-        
-      </div>
-      {{ end }}
+      
 
-    
-
+    </div>
   </div>
-</div>
 </section>

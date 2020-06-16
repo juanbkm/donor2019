@@ -1630,7 +1630,8 @@ body:not(.no-transition) #wrapper,
 
 
 
-.dr-table-projects .region {
+.dr-table-projects .region,
+.table.dr-table .region {
   color: $adb-accent-orange;
   td {
     padding: 20px;
@@ -1639,6 +1640,18 @@ body:not(.no-transition) #wrapper,
   td:first-child {
     padding-left: 10px;
     font-weight: 700;
+  }
+}
+
+#dr-table-psc {
+  th {
+    text-align: right;
+  }
+  th:first-child {
+    text-align: left;
+  }
+  td:nth-child(4) {
+    text-align: right;
   }
 }
 

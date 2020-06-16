@@ -7,17 +7,13 @@
         </div>
     </div>
     <div class="row justify-content-md-center mb-5 dr-intro">
-        <div class="col-md-6">
+        <div class="col">
            {{ $markdown := .Params.summary | markdownify }}
-
             {{ if not ( strings.Contains $markdown "<p>" ) }}
                 <p>{{ $markdown }}</p>
             {{ else }}
                 {{ $markdown }}
             {{ end }}
-        </div>
-        <div class="col-md-6">
-            <img src="{{ .Params.main_image }}" alt="">
         </div>
     </div>
     {{ with .Params.chart }}
@@ -29,10 +25,10 @@
     {{ end }}
     <div class="row">
         <div class="col-md-10 mx-auto">
-           
+            {{ with .Params.main_image }}<img src="{{ . }}" class="dr-mod-main-image" alt="">{{ end }}
             {{ .Content }}
         </div>
     </div>
-</div>
+</>
 
 {{ end }}

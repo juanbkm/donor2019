@@ -7,44 +7,36 @@
         </div>
     </div>
     <div class="row justify-content-md-center mb-5 dr-intro">
-        <div class="col-md-6">
-           {{ $markdown := .Params.summary | markdownify }}
-
+        <div class="col">
+            {{ $markdown := .Params.summary | markdownify }}
             {{ if not ( strings.Contains $markdown "<p>" ) }}
                 <p>{{ $markdown }}</p>
             {{ else }}
                 {{ $markdown }}
             {{ end }}
         </div>
-        <div class="col-md-6">
-            <img src="{{ .Params.main_image }}" alt="">
-        </div>
     </div>
-    {{ with .Params.chart }}
     <div class="row py-5">
         <div class="col-md-8 mx-auto">
-           <img src="./images/modalities/{{ . }}" alt=""> 
+            {{ with .Params.chart }}<img src="./images/modalities/{{ . }}" alt="">{{ end }} 
         </div>
     </div>
-    {{ end }}
     <div class="row">
-        <div class="col-md-10 mx-auto">
-           
+        <div class="col mx-auto"> 
             {{ .Content }}
         </div>
     </div>
-
     <div class="row py-5">
-      {{ with .Site.GetPage "/modalities/clean-energy-financing-partnership-facility" }}
-          <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+      {{ with .Site.GetPage "/modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility" }}
+          <div id="{{ .Params.id }}" class="col-md-6 pr-5 dr-modalities">
             <a href="{{.Permalink}}">
             <img src="./images/modalities/{{ .Params.image }}" alt="" />
             <h4>{{.Title}}</h4>
             </a>
           </div>
           {{ end }}
-          {{ with .Site.GetPage "/modalities/health-financing-partnership-facility" }}
-          <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+          {{ with .Site.GetPage "/modalities/financing-partnership-facilities/health-financing-partnership-facility" }}
+          <div id="{{ .Params.id }}" class="col-md-6 pl-5 dr-modalities">
             <a href="{{.Permalink}}">
             <img src="./images/modalities/{{ .Params.image }}" alt="" />
             <h4>{{.Title}}</h4>
@@ -53,16 +45,16 @@
           {{ end }}      
     </div>
     <div class="row py-5">
-        {{ with .Site.GetPage "/modalities/regional-cooperation-financing-partnership-facility" }}
-        <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+        {{ with .Site.GetPage "/modalities/financing-partnership-facilities/regional-cooperation-financing-partnership-facility" }}
+        <div id="{{ .Params.id }}" class="col-md-6 pr-5 dr-modalities">
             <a href="{{.Permalink}}">
             <img src="./images/modalities/{{ .Params.image }}" alt="" />
             <h4>{{.Title}}</h4>
             </a>
         </div>
         {{ end }}
-        {{ with .Site.GetPage "/modalities/urban-financing-partnership-facility" }}
-        <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+        {{ with .Site.GetPage "/modalities/financing-partnership-facilities/urban-financing-partnership-facility" }}
+        <div id="{{ .Params.id }}" class="col-md-6 pl-5 dr-modalities">
             <a href="{{.Permalink}}">
             <img src="./images/modalities/{{ .Params.image }}" alt="" />
             <h4>{{.Title}}</h4>
@@ -71,8 +63,8 @@
         {{ end }}      
     </div>
     <div class="row py-5">
-        {{ with .Site.GetPage "/modalities/water-financing-partnership-facility" }}
-        <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
+        {{ with .Site.GetPage "/modalities/financing-partnership-facilities/water-financing-partnership-facility" }}
+        <div id="{{ .Params.id }}" class="col-md-6 pr-5 dr-modalities">
             <a href="{{.Permalink}}">
             <img src="./images/modalities/{{ .Params.image }}" alt="" />
             <h4>{{.Title}}</h4>

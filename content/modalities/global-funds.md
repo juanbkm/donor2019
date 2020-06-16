@@ -2,21 +2,16 @@
 title: "Global Funds"
 date: 2020-05-14T10:54:03+08:00
 main_image: images/modalities/gf.jpg
-lead: ADB participates in and accesses funds from Global Funds where the International Bank for Reconstruction and Development acts as Trustee. These funds are designed for particular development projects or technical assistance.
+lead: 
 summary: |
-  Global funds are funding initiatives managed by other multilateral banks. Through ADB, the developing member countries can access these global funds, for which the International Bank for Reconstruction and Development serves as trustee.  
-
-  Global funds leverage public or private resources in support of international initiatives, enabling partners to provide direct and coordinated response to global priorities. ADB contributes to the Global Funds and assists developing member countries in gaining access to its financing.  
-
-  In 2019, loan cofinancing from global funds reached $152 million while grant cofinancing, for both investment grants and technical assistance, reached $54.5 million. The Green Climate Fund was a significant contributor, with a $95 million loan cofinancing for Mongolia’s Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project and a $30 million grant for Tonga’s Renewable Energy Project. 
-chart: gf-chart.png
+  ADB participates in and accesses funds from Global Funds where the International Bank for Reconstruction and Development acts as Trustee. These funds are designed for particular development projects or technical assistance.
 gf:
   - name: Climate Investment Funds
     id: cif
     url: https://www.climateinvestmentfunds.org/
     image: cif.png
     ccpsc: $978.3 million
-    ccpscfn: In addition, CIF has $290 million* under non-sovereign project
+    ccpscfn: "*In addition, CIF has $290 million under non-sovereign project"
     description: |
       The Climate Investment Funds (CIF), established in 2008, is a global finance mechanism that aims to help developing countries shift to low carbon technologies and promote climate resilient development. There are two funding windows under CIF: Clean Technology Fund (CTF) and Strategic Climate Fund (SCF). CTF finances to promote the use of low carbon technologies with a significant potential for long-term greenhouse gas emissions savings, while SCF finances new development approaches or scale-up activities geared toward specific climate change challenge or sectoral response. CIF works with multilateral organizations like the African Development Bank, Asian Development Bank, European Bank for Reconstruction and Development, Inter-American Development Bank, and the World Bank Group.
       
@@ -100,6 +95,12 @@ gf:
 weight: 
 draft: false
 ---
+Global funds are funding initiatives managed by other multilateral banks. Through ADB, the developing member countries can access these global funds, for which the International Bank for Reconstruction and Development serves as trustee.  
 
+Global funds leverage public or private resources in support of international initiatives, enabling partners to provide direct and coordinated response to global priorities. ADB contributes to the Global Funds and assists developing member countries in gaining access to its financing.  
+
+In 2019, loan cofinancing from global funds reached $152 million while grant cofinancing, for both investment grants and technical assistance, reached $54.5 million. The Green Climate Fund was a significant contributor, with a $95 million loan cofinancing for Mongolia’s Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project and a $30 million grant for Tonga’s Renewable Energy Project. 
+
+{{< dr-artimage src="./images/modalities/gf-chart.png" width="100%" >}}
 
 {{< gf >}} 

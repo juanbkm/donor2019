@@ -2,21 +2,24 @@
 {{$first := index ($.Page.Params.fca) 0 }}
 
 <section id="dr-fca">
+  <div class="row justify-content-md-center pt-lg-5">
+    <div class="col">
+      <h3>ADB'S ACTIVE FCAs FOR 2019</h3>
+    </div>
+  </div>
 <div class="row justify-content-md-center py-5">
-  <div class="col-md-4">
-    <h5>Framework Cofinancing Arrangements</h5>
-    <div class="dr-side-nav">
-      <ul>
+  <div class="col-md-4 sticky-sidebar-wrap clearfix" data-offset-top="100">
+    <div class="sidebar-widgets-wrap">
+      <ul class="sticky-sidebar">
       {{ range $fca }}
-        <li>{{ .name }}</li>
+        <li><a href="#{{ .id }}" data-scrollto="#{{ .id }}">{{ .name }}</a> </li>
       {{ end }}
       </ul>
     </div>
   </div>
-  <div class="col-md-8">
-    <h3>ADB'S ACTIVE FCAs FOR 2019</h3>
+  <div class="col-md-7 offset-md-1">
     {{ range $fca }}
-      <div class="dr-mod-partner dr-fca" id="dr-{{ .id }}">
+      <div class="dr-mod-partner dr-fca" id="{{ .id }}">
         {{ with .image }} <img src="./images/modalities/{{ . }}" alt="">{{ end }}
 
         <h5>{{ .name }}</h5>

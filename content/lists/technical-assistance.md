@@ -3,7 +3,8 @@ title: "Technical Assistance"
 date: 2020-04-18T22:35:40+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
-units: "$ million"
+units: "$ '000"
+pdf: dr2019-resource-cofin-for-ta.pdf
 weight: 2
 draft: false
 ---
@@ -41,17 +42,12 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>
-      Capacity Building for Structural Transformation, Country Programming, and
-      Portfolio Management (Supplementary)
-    </td>
+    <td>Capacity Building for Structural Transformation, Country Programming, and Portfolio Management (Supplementary)</td>
     <td>750.00</td>
     <td>Clean Energy Fund (CEFPF-CEF)</td>
   </tr>
   <tr>
-    <td>
-      Enhancing Technology-Based Agriculture and Marketing in Rural Punjab
-    </td>
+    <td>Enhancing Technology-Based Agriculture and Marketing in Rural Punjab</td>
     <td>2,000.00</td>
     <td>Japan Fund for Poverty Reduction (JFPR)</td>
   </tr>
@@ -68,10 +64,7 @@ draft: false
   <tr>
     <td>Preparing the Punjab Agriculture Markets Development Project</td>
     <td>200.00</td>
-    <td>
-      Cooperation Fund for Project Preparation in the Greater Mekong Subregion
-      and in Other Specific Asian Countries (AFD GMS)
-    </td>
+    <td>Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries (AFD GMS)</td>
   </tr>
   <tr class="country">
     <td>Uzbekistan</td>
@@ -89,21 +82,14 @@ draft: false
     <td>JFPR</td>
   </tr>
   <tr>
-    <td>
-      Operationalization of the Uzbekistan Mortgage Refinancing Company (UMRC)
-    </td>
+    <td>Operationalization of the Uzbekistan Mortgage Refinancing Company (UMRC)</td>
     <td>500.00</td>
     <td>EAKPF</td>
   </tr>
   <tr>
-    <td>
-      Preparing Urban Development and Improvement Projects (Supplementary)
-    </td>
+    <td>Preparing Urban Development and Improvement Projects (Supplementary)</td>
     <td>1,000.00</td>
-    <td>
-      People&#39;s Republic of China Poverty Reduction and Regional Cooperation
-      Fund (PRCF)
-    </td>
+    <td>People&#39;s Republic of China Poverty Reduction and Regional Cooperation Fund (PRCF)</td>
   </tr>
   <tr class="country">
     <td>Regional</td>
@@ -111,15 +97,9 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>
-      Central Asia Regional Economic Cooperation: Knowledge Sharing and Services
-      in Transport and Transport Facilitation (Phase 2)
-    </td>
+    <td>Central Asia Regional Economic Cooperation: Knowledge Sharing and Services in Transport and Transport Facilitation (Phase 2)</td>
     <td>1,000.00</td>
-    <td>
-      United Kingdom Fund for Asia Regional Trade and Connectivity
-      (RCIFPF-ARTCF)
-    </td>
+    <td>United Kingdom Fund for Asia Regional Trade and Connectivity (RCIFPF-ARTCF)</td>
   </tr>
   <tr>
     <td>Preparing Sustainable Energy Projects in Central Asia</td>
@@ -127,11 +107,7 @@ draft: false
     <td>PRCF</td>
   </tr>
   <tr>
-    <td>
-      Regional Cooperation on Increasing Cross-Border Energy Trading within the
-      Central Asian Power System-Modernization of Coordinating Dispatch Center
-      Energiya (Subproject 1)
-    </td>
+    <td>Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System-Modernization of Coordinating Dispatch Center Energiya (Subproject 1)</td>
     <td>1,000.00</td>
     <td>Asian Clean Energy Fund (CEFPF-ACEF)</td>
   </tr>
@@ -141,10 +117,7 @@ draft: false
     <td>High-Level Technology Fund (HLTF)</td>
   </tr>
   <tr>
-    <td>
-      Sustainable Tourism Development in the Central Asia Regional Economic
-      Cooperation Region
-    </td>
+    <td>Sustainable Tourism Development in the Central Asia Regional Economic Cooperation Region</td>
     <td>1,500.00</td>
     <td>RCIFPF-ARTCF</td>
   </tr>
@@ -206,19 +179,14 @@ draft: false
     <td></td>
   </tr>
   <tr>
-    <td>
-      Air Quality Improvement in the Greater Beijing–Tianjin–Hebei
-      Region—Shandong Clean Heating and Cooling
-    </td>
+    <td>Air Quality Improvement in the Greater Beijing–Tianjin–Hebei Region—Shandong Clean Heating and Cooling</td>
     <td>750.00</td>
     <td>CEFPF-CEF</td>
   </tr>
   <tr>
     <td>Preparing Yangtze River Economic Belt Projects (Supplementary)</td>
     <td>300.00</td>
-    <td>
-      Water Financing Partnership Facility (Multi-Donor Trust Fund) (WFPF-MPTF)
-    </td>
+    <td>Water Financing Partnership Facility (Multi-Donor Trust Fund) (WFPF-MPTF)</td>
   </tr>
   <tr>
     <td>Preparing Urban and Social Development Projects (Supplementary)</td>
@@ -540,14 +508,13 @@ draft: false
   </tr>
   <tr>
     <td>
-      Supporting Innovation and Knowledge Exchange for Transport Projects in
-      South Asia (Supplementary)
+      Supporting Innovation and Knowledge Exchange for Transport Projects in South Asia (Supplementary)
     </td>
     <td>500.00</td>
     <td>HLTF</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Supporting the Implementation of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation Initiatives</td>
     <td>1,500.00</td>
     <td>RCIFPF-ARTCF</td>
   </tr>

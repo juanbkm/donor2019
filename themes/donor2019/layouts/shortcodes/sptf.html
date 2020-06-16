@@ -1,18 +1,24 @@
 {{ $tf := $.Page.Params.tf }}
-<section id="dr-sptf">
-<div class="row justify-content-md-center py-lg-5">
-  <div class="col-md-4">
-    <h5>Single Partner Trust Funds</h5>
-    <ul>
-    {{ range where $tf ".type" "single" }}
-      <li>{{ .name }} ({{ .year }})</li>
-    {{ end }}
-    </ul>
+<div class="clear"></div>
+<section id="dr-sptf" class="clearfix">
+  <div class="row justify-content-md-center pt-lg-5">
+    <div class="col">
+      <h3>Single Partner Trust Funds <em>with active projects in 2019</em></h3>
+    </div>
   </div>
-  <div class="col-md-8">
-    <h3>SINGLE PARTNER TRUST FUNDS <em>with active projects in 2019</em></h3>
+<div class="row justify-content-md-center">
+  <div class="col-md-4 sticky-sidebar-wrap clearfix" data-offset-top="100">
+    <div class="sidebar-widgets-wrap">
+      <ul class="sticky-sidebar">
+      {{ range where $tf ".type" "single" }}
+        <li><a href="#{{ .id }}" data-scrollto="#{{ .id }}">{{ .name }} ({{ .year }})</a> </li>
+      {{ end }}
+      </ul>
+    </div>
+  </div>
+  <div class="col-md-7 offset-md-1">
     {{ range where $tf ".type" "single" }}
-    <div class="dr-mod-partner dr-sptf">
+    <div id="{{ .id }}" class="dr-mod-partner dr-sptf">
     <h5>{{ .name }} ({{ .year }})</h5>
 
     {{ with .tcc }}
@@ -51,7 +57,6 @@
 
       
   </div>
-
-  </div>
 </div>
 </section>
+

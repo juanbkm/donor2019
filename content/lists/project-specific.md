@@ -4,11 +4,12 @@ date: 2020-04-17T22:58:58+08:00
 pretitle: "Sovereign Cofinancing Commitments"
 date_range: "2019"
 units: "$ million"
-weight: 7
+pdf: pr2019-project-specific.pdf
+weight: 3
 draft: false
 ---
-
-<table class="table table-hover dr-table">
+ 
+<table id="dr-table-psc" class="table table-hover dr-table dr-table-projects">
   <thead>
   <tr>
     <th>Financing Partner</th>

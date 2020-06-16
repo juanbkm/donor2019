@@ -1,14 +1,14 @@
 ---
-title: "Single Partner Trust Funds"
+title: "Single-Partner Trust Funds"
 date: 2020-05-24T18:04:10+08:00
-main_image: 
+main_image: images/modalities/sptf.jpg
 pageid: dr-sptf
 summary: |
   ADB is a trustee of 18 active single-partner trust funds, with contributions from Australia, Canada, People’s Republic of China, Denmark, France, Ireland, Japan, Republic of Korea, and Spain.
 
-  Of the $181 commitment by trust funds, $68 million (38%) were from single-partner trust funds. The trust funds with new projects in 2019 are:
+  Of the $181 million allocated by trust funds, $58 million (32%) were from single-partner trust funds. The trust funds with new projects in 2019 are:
  
-chart: sptf-chart.png
+chart: 
 tf:
   - item:
     type: single
@@ -18,7 +18,7 @@ tf:
     year: 1993
     image:
     tcc: $61.8 million  
-    cfp: $59.7 million for 59 projects  
+    cfp: $56.4 million* for 59 projects  
     contributor:
       - item:
         partner: Australia
@@ -32,7 +32,7 @@ tf:
     year: 2017
     image:
     tcc: $149.5 million  
-    cfp: $67.85 million for 8 projects    
+    cfp: $72.9 million* for 8 projects    
     contributor:
       - item:
         partner: Canada
@@ -46,8 +46,8 @@ tf:
     year: 2001
     image:
     tcc: $3.4 million 
-    cfp: $4.3 million for 10 projects 
-    cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.  
+    cfp: $3.7 million* for 10 projects 
+    cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.  
     contributor:
       - item:
         partner: Canada
@@ -60,8 +60,8 @@ tf:
     url: https://www.adb.org/site/funds/funds/cooperation-fund-project-preparation-ta-greater-mekong-subregion
     year: 2004
     image:
-    tcc: $7.39 million 
-    cfp: $5.7 million for 14 projects   
+    tcc: $7.4 million 
+    cfp: $5.4 million* for 14 projects   
     contributor:
       - item:
         partner: France 
@@ -78,8 +78,8 @@ tf:
     year: 2001
     image:
     tcc: $3.6 million
-    cfp: $4.6 million for 11 projects
-    cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions. 
+    cfp: $3.8 million* for 11 projects
+    cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions. 
     contributor:
       - item:
         partner: Denmark
@@ -93,7 +93,7 @@ tf:
     year: 2013
     image:
     tcc: $9.7 million
-    cfp: $8.7 million for 18 projects and direct charges   
+    cfp: $7.7 million* for 18 projects and direct charges   
     contributor:
       - item:
         partner: Canada  
@@ -107,7 +107,7 @@ tf:
     year: 2019
     image:
     tcc: $13.5 million
-    cfp: $.05 million for 2 direct charges   
+    cfp: $500,000* for 2 direct charges
     contributor:
       - item:
         partner: Ireland  
@@ -121,8 +121,8 @@ tf:
     year: 2001
     image:
     tcc: $10.7 million
-    cfp: $11.12 million for 14 projects 
-    cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
+    cfp: $9.6 million* for 14 projects
+    cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
       - item:
         partner: Japan  
@@ -136,15 +136,15 @@ tf:
     year: 2000
     image:
     tcc: $832.0 million
-    cfp: $896.6 million for 459 projects  
-    cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
+    cfp: $792.6 million* for 459 projects  
+    cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
       - item:
         partner: Japan  
     description: |
       The fund seeks to reduce poverty and promote social development by supporting projects and technical assistance that address the needs of the poorest and most vulnerable in Asia and the Pacific. It provides grants to initiatives that focus on the agriculture, natural resources and rural development sector, as wells as projects that focus on health, transport, and education.
 
-      In 2019, Japan replenished the funds by $17.75 million. In the same year, JFPR supported projects that provided the poor with greater access to water (Balochistan Water Resources Development in Pakistan), made communities resilient to climate change [Resilient Community Development in Myanmar](https://www.adb.org/projects/51242-002/main#project-pds), provided the marginalized access to health services ([Second Health Human Resources Development Project](https://www.adb.org/projects/40354-017/main#project-pds) in Viet Nam ), and improved skills development to match the labor [Skills and Knowledge for Inclusive Economic Growth in Viet Nam](https://www.adb.org/projects/49122-004/main#project-pds)). 
+      In 2019, Japan replenished the funds by $17.75 million. In the same year, JFPR supported projects that provided the poor with greater access to water ([Balochistan Water Resources Development in Pakistan](https://www.adb.org/projects/48098-002/main#project-pds)), made communities resilient to climate change ([Resilient Community Development in Myanmar](https://www.adb.org/projects/51242-002/main)), provided the marginalized access to health services ([Second Health Human Resources Development Project](https://www.adb.org/projects/40354-017/main) in Viet Nam), and improved skills development to match the labor ([Skills and Knowledge for Inclusive Economic Growth in Viet Nam](https://www.adb.org/projects/49122-004/main)). 
   - item:
     type: single
     name: Japan Fund for Public Policy Training
@@ -153,7 +153,7 @@ tf:
     year: 2004
     image:
     tcc: $22.0 million 
-    cfp: $18.8 million for 2 projects 
+    cfp: $13.7 million*  for 2 projects
     contributor:
       - item:
         partner: Japan  
@@ -167,12 +167,12 @@ tf:
     year: 2014
     image:
     tcc: $71.1 million  
-    cfp: $33.3 million for 10 projects and direct charges  
+    cfp: $32.6 million* for 10 projects and direct charges 
     contributor:
       - item:
         partner: Japan  
     description: |
-      This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and non-sovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by US$9.25 million. It also cofinanced a project with ADB that seeks to improve [Mongolia’s health system](https://www.adb.org/projects/49173-004/main#project-pds) to benefit its disadvantaged groups.
+      This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and non-sovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by $9.25 million. It also cofinanced a project with ADB that seeks to improve [Mongolia’s health system](https://www.adb.org/projects/49173-004/main#project-pds) to benefit its disadvantaged groups.
   - item:
     type: single
     name: Japan Scholarship Program
@@ -194,14 +194,14 @@ tf:
     url: 
     year: 2016
     image:
-    tcc: $419.7 million  
-    cfp: $478.4 million for 20 projects
-    cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions   
+    tcc: $419.7 million (total amount pledged is $1.5 billion) 
+    cfp: $630.8 million* for 28 projects**
+    cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions   
     contributor:
       - item:
         partner: Japan  
     description: |
-      This fund is an infrastructure co-financing fund. It leverages and complements ADB’s existing nonsovereign platform to fill financing gaps and increase access to finance for infrastructure projects in Asia and the Pacific. It provides both concessional and parallel cofinancing to nonsovereign infrastructure projects at different stages of development. In 2019, LEAP supported 10 nonsovereign infrastructure projects implemented across the region. Japan contributed an additional $109.03 million to replenish the fund in 2019. 
+      This fund is an infrastructure co-financing fund. It leverages and complements ADB’s existing nonsovereign platform to fill financing gaps and increase access to finance for infrastructure projects in Asia and the Pacific. It provides both concessional and parallel cofinancing to nonsovereign infrastructure projects at different stages of development. In 2019, LEAP supported 10 nonsovereign infrastructure projects implemented across the region.  
   - item:
     type: single
     name: People's Republic of China Poverty Reduction and Regional Cooperation Fund 
@@ -210,12 +210,12 @@ tf:
     year: 2005
     image:
     tcc: $90 million 
-    cfp: $53.5 million for 100 projects  
+    cfp: $50.4 million* for 100 projects  
     contributor:
       - item:
         partner: People’s Republic of China   
     description: |
-      The People's Republic of China Poverty Reduction and Regional Cooperation Fund support the process of poverty reduction, regional cooperation, and knowledge sharing for ADB developing member countries in Asia and the Pacific. In March 2019, the fund was replenished by $12.5 million, bringing to $90 million its total funds.  To date, the PRC Fund has funded three project investment grants for $2.55 million, and 96 TA projects for $50.94 million.
+      The People's Republic of China Poverty Reduction and Regional Cooperation Fund support the process of poverty reduction, regional cooperation, and knowledge sharing for ADB developing member countries in Asia and the Pacific. To date, the PRC Fund has funded three project investment grants for $2.55 million, and 97 TA projects for $50.94 million.
 
       The fund welcomes projects from all sectors, but it prioritizes initiatives from transport, energy, water and urban development, and agriculture and rural development sectors. All ADB developing member countries are eligible to access the fund, but for the regional cooperation component, priority is given to the Greater Mekong Subregion and Central Asia Regional Economic Cooperation. 
   - item:
@@ -225,8 +225,8 @@ tf:
     url: https://www.adb.org/site/funds/funds/e-asia-and-knowledge-partnership-fund
     year: 2006
     image:
-    tcc: $102.2 million    
-    cfp: $64.2 million for 126 projects
+    tcc: $118.8 million    
+    cfp: $58.6 million* for 126 projects
     contributor:
       - item:
         partner: Republic of Korea
@@ -240,8 +240,8 @@ tf:
     year: 2006
     image:
     tcc: $3.5 million   
-    cfp: $5.9 million for 7 projects
-    cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
+    cfp: $3.5 million* for 7 projects
+    cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
       - item:
         partner: Denmark  
@@ -255,7 +255,7 @@ tf:
     year: 2000
     image:
     tcc: $14.4 million   
-    cfp: $12.0 million for 24 projects 
+    cfp: $12.0 million* for 24 projects 
     contributor:
       - item:
         partner: Spain 
@@ -269,8 +269,8 @@ tf:
     year: 1989
     image:
     tcc: $25.8 million  
-    cfp: $29.2 million for 39 projects
-    cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
+    cfp: $27.8 million* for 39 projects
+    cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
       - item:
         partner: France
@@ -281,3 +281,8 @@ draft: false
 ---
 
 {{< sptf >}}
+
+<p class="dr-fn">* Net of savings for financially completed projects and direct charges
+</p>
+
+<p class="dr-fn">** Effective projects as of end-2019 amounted to $478.4 million for 20 projects.  Contributions are formally recognized and recorded in ADB’s system and financial statements once they are remitted by the financing partner to ADB.</p>

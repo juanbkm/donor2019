@@ -7,8 +7,15 @@
             <p>{{ .Params.lead }}</p>
         </div>
     </div>
+    <div class="row">
+      <div class="col-10 mx-auto">
+        {{ with .Params.chart }}
+        <img src="./images/modalities/{{ . }}" alt="" class="dr-mod-chart">
+        {{ end }}
+      </div>
+    </div>
     <div class="row justify-content-md-center mb-5">
-      <div class="col-md-4">
+      <div class="col-md-3">
         <div class="dr-contributions">
           {{ with .Params.total }}<h6>{{ . | markdownify }}</h6>{{ end }}
           {{ with .Params.totalcaption }}<p>{{ . | markdownify }}</p>{{ end }}
@@ -31,10 +38,7 @@
         
 
       </div>
-      <div class="col-md-8">
-          {{ with .Params.chart }}
-            <img src="./images/modalities/{{ . }}" alt="" class="dr-mod-chart">
-          {{ end }}
+      <div class="col-md-7">
 
           {{ .Content }}
 
@@ -66,6 +70,7 @@
             <ul class="dr-funding">
               {{ range .contributor }}<li>{{ .partner  | markdownify }}</li>{{ end }}
             </ul>
+            {{ with .contribution2019 }}<p class="dr-fn">{{ . }}</p>{{ end }} 
           </div>
       
           {{ $markdown := .description | markdownify }}

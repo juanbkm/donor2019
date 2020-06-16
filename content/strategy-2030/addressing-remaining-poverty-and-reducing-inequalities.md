@@ -24,6 +24,12 @@ Partnerships have strengthened ADB’s efforts to address not just the income as
 
 Several cofinanced projects explicitly address the non-income dimensions of poverty such as the nine projects that focused on improving access to education and the other nine on health for the marginalized. Another 17 cofinanced transport projects will contribute to the poor’s increased access to economic opportunities. Not only will they generate jobs during project implementation; the roads, once done, will make employment and markets accessible to the poor. Water and other infrastructure projects in 2019 will also contribute to poverty reduction in many countries in Asia as they help make water and sanitation accessible and affordable.
 
+### Achieving Better Health for All
+
+Many governments in Asia have been spending less than $10 per person per year on health care, pushing people to increasing amounts  of out-of-pocket [health care spending](https://www.adb.org/sectors/health/issues/strengthening-health-systems-services). Making health care accessible and affordable to all is imperative, but it is also critical that health systems and financing across Asia and the Pacific are optimized. In 2019, [the Republic of Korea e-Asia and Knowledge Partnership Fund]({{< ref "korea.md" >}}) (EAKPF) supplemented the ongoing [Regional: Universal Health Coverage for Inclusive Growth: Supporting the Implementation of the Operational Plan for Health, 2015–2020](https://www.adb.org/projects/49152-001/main#project-pds). This project, which began in 2015 and cofinanced with the [People's Republic of China Poverty Reduction and Regional Cooperation Fund]({{< ref "china.md" >}}), is increasing the number of ADB developing countries that pursue universal health coverage. It is making health systems across Asia stronger while making quality health care accessible and affordable to more people.
+
+{{< dr-artimage src="images/pov-2-reg-rmi.jpg" align="" alt="" caption="Achieving better health for all entails making quality health care accessible and affordable to all." >}}
+
 ### Improving Education and Training
 
 {{< dr-artimage src="images/pov-1-ino-generic.jpg" align="right" alt="" caption="Partnerships that improve education and training help raise the quality of formal and technical education. They ensure employablity of graduates." >}}
@@ -31,12 +37,6 @@ Several cofinanced projects explicitly address the non-income dimensions of pove
 Improving education and training ensures the employability and job readiness of graduates, who will be the pillars of sustainable economic growth in their respective countries. ADB in 2019 pursued projects that improve both formal and technical education in many countries across Asia. One example is the [Supporting the Advanced Knowledge and Skills for Sustainable Growth Project in Indonesia](https://www.adb.org/projects/50395-007/main#project-overview). Through the financing partnership of ADB, [Japan Fund for Poverty Reduction]({{< ref "japan.md" >}}), and [the High-level Technology Fund]({{< ref "japan.md" >}}), this project will upgrade four public universities in Indonesia to improve the country’s skilled human capital. When the project is completed, these universities will be providing high-quality and demand-based programs, providing Indonesia with a highly skilled human capital ready to meet labor market demands.
 
 Another initiative that focused on improving students’ technical capabilities is the [Skills for Competitiveness Project in Cambodia](https://www.adb.org/projects/50394-001/main#project-overview). This project supports the country’s thrust to modernize and transform its industrial structure from being labor-intensive to skills-driven by 2025. Cofinanced with the [Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries](https://www.adb.org/site/funds/funds/cooperation-fund-project-preparation-ta-greater-mekong-subregion#:~:text=The%20fund%20is%20a%20single,in%20the%20Greater%20Mekong%20Subregion%20), this project will lead to better technical training institutes, a competitive and inclusive workforce, and better job-matching in Cambodia.
-
-### Achieving Better Health for All
-
-Many governments in Asia have been spending less than $10 per person per year on health care, pushing people to increasing amounts  of out-of-pocket [health care spending](https://www.adb.org/sectors/health/issues/strengthening-health-systems-services). Making health care accessible and affordable to all is imperative, but it is also critical that health systems and financing across Asia and the Pacific are optimized. In 2019, [the Republic of Korea e-Asia and Knowledge Partnership Fund]({{< ref "korea.md" >}}) (EAKPF) supplemented the ongoing [Regional: Universal Health Coverage for Inclusive Growth: Supporting the Implementation of the Operational Plan for Health, 2015–2020](https://www.adb.org/projects/49152-001/main#project-pds). This project, which began in 2015 and cofinanced with the [People's Republic of China Poverty Reduction and Regional Cooperation Fund]({{< ref "china.md" >}}), is increasing the number of ADB developing countries that pursue universal health coverage. It is making health systems across Asia stronger while making quality health care accessible and affordable to more people.
-
-{{< dr-artimage src="images/pov-2-reg-rmi.jpg" align="" alt="" caption="Achieving better health for all entails making quality health care accessible and affordable to all." >}}
 
 ### Ensuring Social Protection for everyone
 
@@ -46,7 +46,7 @@ Social protection is integral to reducing inequalities. It decreases people’s 
 
 To generate quality jobs in developing member countries, ADB’s S2030 aims to enhance the business environment while strengthening the financial sector. This strategy ensures both worker and businesses, especially small and medium sized enterprises (SME), are empowered and made more productive.
 
-{{< dr-yt video="ofDO_jRtuF0" align="" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
+{{< dr-yt video="uxPWQRRCf4g" align="" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
 
 One project designed to strengthen SMEs is the [Supporting Internationalization of Small and Medium-Sized Enterprises: Linking India and the Greater Mekong Subregion (GMS) Project](https://www.adb.org/projects/53112-001/main#project-overview). Cofinanced with the United Kingdom Fund for Asia Regional Trade and Connectivity under the [Regional Cooperation and Integration Financing Partnership Facility](./modalities/regional-cooperation-financing-partnership-facility/), this project aims to encourage cross-border investments among small enterprises in GMS countries and India. This will lead to a more vibrant regional trade and stronger SMEs.
 
