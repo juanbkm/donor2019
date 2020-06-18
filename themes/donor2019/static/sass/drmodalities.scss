@@ -25,9 +25,26 @@
       //padding: 80px 20px;
       //display: block;
     }
-    h4 {
+    h3 {
+      clear: both;
       font-size: 1.8rem;
-      margin: 0;
+      text-align: left;
+      text-transform: none;
+      font-weight: 700;
+      letter-spacing: normal;
+      color: $body-color;
+      margin-top: 0;
+      margin-bottom: 0;
+      em {
+        display: block;
+        font-size: 1rem;
+        font-style: normal;
+        text-transform: lowercase;
+        letter-spacing: 1px;
+      }
+    }
+    h3:after {
+      display: none;
     }
     img {
       margin-bottom: 10px;

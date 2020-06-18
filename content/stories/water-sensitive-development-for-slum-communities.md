@@ -6,7 +6,7 @@ image_caption: "**Nature-based Design Footpaths.** Slum residents in Makassar Ci
 author: Admin
 description: "This is meta description"
 country: Indonesia
-summary: "Urban footpaths with nature-based designs and other water-sensitive improvements have transformed slums in Makassar City, Indonesia for the better, and the makeover is just beginning. The project, jointly financed by Switzerland, The Rockefeller Foundation, the United Kingdom, and United States, piloted green technology to improve the lives and health of the urban poor."
+summary: "Urban footpaths with nature-based designs and other water-sensitive improvements have transformed slums in Makassar City, Indonesia for the better, and the makeover is just beginning. The project, financed by the Urban Climate Change Resilience Trust Fund, piloted green technology to improve the lives and health of the urban poor."
 project_title: "Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach"
 project_url: https://www.adb.org/projects/51290-001/main
 cost: "$525,000"
@@ -53,8 +53,18 @@ The project then developed the community’s capacity for operation and maintena
 
 ### Results
 
-Bambang Susantono, ADB Vice President for Knowledge Management and Sustainable Development, along with City Mayor Iqbal Suhaeb and Australia’s Consul General Richard Matthews, officially unveiled this pilot demonstration site, covering 11 households, on 19 October 2019. The now vibrant community will serve as inspiration for improving livability and access through nature-based solutions. This will be replicated in six additional informal settlements in Makassar, also through a grant from UCCRTF.
+Bambang Susantono, ADB Vice President for Knowledge Management and Sustainable Development, along with City Mayor Iqbal Suhaeb and Australia’s Consul General Richard Matthews, officially unveiled this pilot demonstration site, covering 11 households, in October 2019. The now vibrant community will serve as inspiration for improving livability and access through nature-based solutions. 
 
-The women of Batua have expressed their sincere appreciation for the project. They are no longer worried about their children falling from bamboo rafts and rickety footpaths. They also save time in collecting water and other supplies, and their relatives and sellers visit more often. The transformation of the neighborhood has definitely established a closer bond among the residents and created a sense of pride in something that they were all a part of.
+In March 2020, new ADB President Masatsugu Asakawa met with residents of Batua to find out first-hand how the program is impacting their lives. The visit was Mr. Asakawa's first trip as ADB President to see and understand a range of ADB-supported projects in South East Asia. RISE was selected as one of a handful of ADB-supported projects in Makassar to show the President an innovative community decentralised approach to revitalisation. 
 
-The results from this project will be replicated in another pilot in Suva, Fiji, funded by Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility.
+In both visits, the women of Batua expressed their sincere appreciation for the project. They are no longer worried about their children falling from bamboo rafts and rickety footpaths. They also save time in collecting water and other supplies, and their relatives and sellers visit more often. The transformation of the neighborhood has definitely established a closer bond among the residents and created a sense of pride in something that they were all a part of.
+
+President Asakawa said, "This project demonstrates how collaboration with big donors like ADB and leading research institutions like Monash University can make people’s lives different. I hope we will enhance our collaboration not just here, but everywhere."
+
+The project will be replicated in six additional informal settlements in Makassar, through a grant from UCCRTF. Likewise, another pilot is being set up in Suva, Fiji, funded by the Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility.
+
+*Related Stories*
+
+[ADB Deploys Green Infrastructure for Informal Communities](https://www.facebook.com/AsianDevBank/videos/1467871300031727)
+
+[Slum-Upgrading Project Helps Reduce Poverty and Improve Livelihoods Across Indonesia](https://www.adb.org/results/slum-upgrading-project-reduce-poverty-improve-livelihoods-indonesia)

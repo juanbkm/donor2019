@@ -296,7 +296,15 @@ li {
   border-top: 1px solid #c2ccd2;
   margin: 20px auto 80px auto; }
 
-.dr-article-body h4 {
+@media (max-width: 767.98px) {
+  .dr-article-body h3 {
+    line-height: 1.5;
+    font-size: 24px;
+    margin-top: 20px; }
+  .dr-article-body h3:after {
+    margin: 20px auto 20px auto; } }
+
+#dr-modalities .dr-article-body h4 {
   clear: both;
   font-size: 1.2rem;
   text-align: center;
@@ -305,27 +313,19 @@ li {
   letter-spacing: .2rem;
   color: #556773;
   margin-top: 80px; }
-  .dr-article-body h4 em {
+  #dr-modalities .dr-article-body h4 em {
     display: block;
     font-size: 1rem;
     font-style: normal;
     text-transform: lowercase;
     letter-spacing: 1px; }
 
-.dr-article-body h4:after {
+#dr-modalities .dr-article-body h4:after {
   content: '';
   display: block;
   width: 100px;
   border-top: 1px solid #c2ccd2;
   margin: 20px auto 80px auto; }
-
-@media (max-width: 767.98px) {
-  .dr-article-body h3 {
-    line-height: 1.5;
-    font-size: 24px;
-    margin-top: 20px; }
-  .dr-article-body h3:after {
-    margin: 20px auto 20px auto; } }
 
 .clear {
   clear: both;
@@ -9442,9 +9442,25 @@ td.actions {
   font-size: 18px !important;
   font-weight: 300; }
 
-#dr-modalities .dr-modalities h4 {
+#dr-modalities .dr-modalities h3 {
+  clear: both;
   font-size: 1.8rem;
-  margin: 0; }
+  text-align: left;
+  text-transform: none;
+  font-weight: 700;
+  letter-spacing: normal;
+  color: #555;
+  margin-top: 0;
+  margin-bottom: 0; }
+  #dr-modalities .dr-modalities h3 em {
+    display: block;
+    font-size: 1rem;
+    font-style: normal;
+    text-transform: lowercase;
+    letter-spacing: 1px; }
+
+#dr-modalities .dr-modalities h3:after {
+  display: none; }
 
 #dr-modalities .dr-modalities img {
   margin-bottom: 10px; }
@@ -17464,6 +17480,9 @@ body:not(.no-transition) #wrapper,
   color: #fff;
   position: sticky;
   top: 100px; }
+
+.table.dr-table tr.subtotal {
+  background-color: #dddddd; }
 
 .table.dr-table td {
   text-align: right; }

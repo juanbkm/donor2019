@@ -1604,6 +1604,10 @@ body:not(.no-transition) #wrapper,
   top: 100px;
 }
 
+.table.dr-table tr.subtotal {
+  background-color: $adb-gray-three;
+}
+
 .table.dr-table td {
   text-align: right;
 }

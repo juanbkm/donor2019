@@ -79,12 +79,12 @@ draft: false
     <td>-</td>
     <td>1</td>
   </tr>
-  <tfoot><tr>
+  <tr class="subtotal">
     <td>Subtotal - Bilaterals</td>
     <td>3,500</td>
     <td>53</td>
     <td>40</td>
-  </tr></tfoot>
+  </tr>
     <tr class="region">
     <td>Multilateral</td>
     <td></td>
@@ -163,12 +163,12 @@ draft: false
     <td>13</td>
     <td>-</td>
   </tr>
-  <tfoot><tr>
+  <tr class="subtotal">
     <td>Subtotal - Multilaterals</td>
     <td>1,016</td>
     <td>74</td>
     <td>22</td>
-  </tr></tfoot>
+  </tr>
     <tr class="region">
     <td>Private Partners</td>
     <td></td>
@@ -180,13 +180,6 @@ draft: false
     <td>-</td>
     <td>1</td>
   </tr>
-  <tfoot><tr>
-    <td>Subtotal - Private Partners</td>
-    <td>-</td>
-    <td>-</td>
-    <td>1</td>
-  </tr></tfoot>
-  </tbody>
   <tfoot>
   <tr>
     <td>TOTAL</td>
@@ -199,5 +192,6 @@ draft: false
 
 ---
 0 = less than $1,000,000
+
 **Note:** Totals may not add up because of rounding.
 

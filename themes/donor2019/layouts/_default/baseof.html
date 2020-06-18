@@ -177,6 +177,16 @@
 					$(".region-"+num).addClass('show');
 					$(".regionc-"+num).addClass('show');
 			});
+			$('#dmc a').click(function() {
+				var href = $(this).attr('href');
+				var num = href.split("-")[1];
+					$('.dmc-chart .tab-pane').css('display', 'none');
+					$("[class^='dmc-'][class^='dmcc-']").removeClass('show');
+					$(".dmc-"+num).css('display', 'block');
+					$(".dmcc-"+num).css('display', 'block');
+					$(".dmc-"+num).addClass('show');
+					$(".dmcc-"+num).addClass('show');
+			});
 		});
 	</script>
 

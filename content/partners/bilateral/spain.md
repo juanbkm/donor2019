@@ -7,7 +7,7 @@ trust_funds_contribution: "$63.4 million"
 partner_logo:
 draft: false
 ---
-####2019 Trust Funds Contributions
+#### 2019 Trust Funds Contributions
 
 * €1.5 million ($1.7 million) additional commitment to the Spanish Cooperation Fund for Technical Assistance 
  
