@@ -26,6 +26,12 @@ tf:
     description: |
       RMTF was set up in December 2013 with the specific remit to support developing member countries to develop multi-country, cross-border, and multisector responses to urgent malaria and other communicable disease issues.       
 weight: 
+footnote: |
+  <sup>*</sup> Net of savings for financially completed projects and direct charges
+
+  <sup>**</sup> Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
+
+  <sup>***/sup> Australia and the United Kingdom were contributors to the RMTF until 2018. 
 draft: false
 ---
 
@@ -33,14 +39,8 @@ In 2019, the remaining resources of the Regional Malaria and Other Communicable 
 
 The HFPF has $29.4 million in total committed contributions, with $28.5 million committed for 5 projects, all under the RMTF. It has about $729,000 remaining balance due to income earned from investment.
 
+{{< dr-artimage src="images/modalities/hfpf-mi.jpg" align="" alt="" caption="" >}}
+
 Primarily to improve the health outcomes in DMCs, the Health Financing Partnership Facility (HFPF) was established in 2013, concurrently with the RMTF, which is the first and only trust fund under the facility. RMTF supported multi-country, cross-border, and multisector responses to eliminate malaria in the Greater Mekong Subregion. Through its projects, RMTF advocated for a collaborative approach to malaria elimination that goes beyond the health sector and national governments to draw in the private sector, nongovernment agencies, and the donor community across multiple domains, with a focus on health systems strengthening, rather than on a single disease. An important financing result of the RMTF was the issuance of ADB’s first health bond. The private placement of $100 million issued in March 2017 was purchased by the Dai-ichi Life Insurance Company, Limited, making it the world’s first institutional investor to buy a bond that supports ADB’s health program. In 2018, the [RMTF Final Report](https://www.adb.org/publications/malaria-trust-fund-report) was published.
 
 While contributions from Australia and the United Kingdom closed in 2018, a sustainability pathway was left in place to ensure that the results continue to resonate and that governments, donors, nongovernment organizations, and the private sector can continue to build on what has been achieved. The remaining contribution from Canada was agreed to remain in the fund.
-
-<p class="dr-fn">
-* Net of savings for financially completed projects and direct charges
-<br>
-** Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions
-<br>
-*** Australia and the United Kingdom were contributors to the RMTF until 2018. 
-</p>

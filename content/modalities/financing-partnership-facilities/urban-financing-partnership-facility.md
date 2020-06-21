@@ -5,7 +5,6 @@ layout: "fpf"
 pagetype: fpf
 image: ufpf-mi.jpg
 lead: Making cities move livable
-
 contributors:
   - name: Australia
   - name: Austria
@@ -68,7 +67,9 @@ tf:
     contributor:
       - partner: Sweden ($21.5 million)  
     description: |
-      UEIF supports ADB's response to the huge unmet needs of the region for both basic and economic infrastructure.  
+      UEIF supports ADB's response to the huge unmet needs of the region for both basic and economic infrastructure.
+footnote: |
+  <sup>*</sup> Net of savings for financially completed projects and direct charges
 weight: 
 draft: false
 ---
@@ -76,6 +77,8 @@ draft: false
 Now celebrating a decade of cofinancing, the Urban Financing Partnership Facility (UFPF) has completed 152 projects that help build green, competitive, resilient, and inclusive cities. 
 
 UFPF has $191.9 million total contributions, with $34.9 million committed to 17 projects in 2019. A total of $154.24 million has been committed to 117 projects.
+
+{{< dr-artimage src="images/modalities/ufpf-mi.jpg" align="" alt="" caption="" >}}
 
 In April 2019, ADB approved the establishment of a fourth trust fund under the UFPF umbrella, the ASEAN Australia Smart Cities Trust Fund (AASCTF). AASCTF aims to improve systems and governance in participating cities of the Association of Southeast Asian Nations (ASEAN) through the adaptation and adoption of digital solutions. 
 
@@ -87,6 +90,4 @@ In the next decade, the UFPF will be guided by ADB’s new Livable Cities Operat
 * strengthen urban planning and financial sustainability of cities 
 * improve the urban environment, climate resilience, and disaster management of cities, all of which are closely aligned with the targeted areas of support of UFPF 
 
-Read the [UPFP Annual Report 2019](https://www.adb.org/documents/urban-financing-partnership-facility-annual-report-2019). 
-
-<p class="dr-fn">* Net of savings for financially completed projects and direct charges</p>
+Read the [UPFP Annual Report 2019](https://www.adb.org/documents/urban-financing-partnership-facility-annual-report-2019).

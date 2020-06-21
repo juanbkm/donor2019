@@ -73,6 +73,10 @@ tf:
       * $5.9 million from the United Kingdom 
     description: |
       CEF provides support for grant component of investment and technical assistance that lead to increased investment in clean energy, through a combination of (i) efficient energy use that extracts greater service value from each primary energy unit consumed and (ii) increased use of indigenous forms of renewable energy. 
+footnote: |
+  <sup>*</sup> Net of savings for financially completed projects and direct charges
+
+  <sup>**</sup> Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
 weight: 
 draft: false
 ---
@@ -81,13 +85,12 @@ As of 2019, the Clean Energy Financing Partnership Facility (CEFPF) has supporte
 
 Total contributions received by the CEFPF reached $295.5 million, with $5.7 million allocated for projects in 2019. Total allocations for projects amount to $266.7 million.
 
+{{< dr-artimage src="images/modalities/cefpf-mi.jpg" align="" alt="" caption="" >}}
+
 ADB established the CEFPF in 2007 in view of the escalating energy demand in Asia and the Pacific and the increasingly felt effects of climate change. CEFPF helps DMCs improve their energy security and transition to low-carbon use through cost-effective investments.
 
 In line with the ADB Strategy 2030 operational priority: Tackling [Climate Change, Building Climate and Disaster Resilience, and Enhancing Environmental Sustainability](./strategy-2030/climate-change/), the CEFPF continues to support the energy sector in achieving its climate financing target, providing financial and technical support to DMCs to implement their Nationally Determined Contributions, and reducing GHG emissions through clean energy projects and programs.
 
 In the coming decade, CEFPF will also continue to support projects that focus on energy efficiency, access to energy, renewable energy, carbon capture, utilization and storage, sustainable transport, as well as projects that will engage the private sector to invest in clean energy. It will prioritize support for project preparatory assistance for clean energy and energy access related projects, and pilot projects which will deliver innovative designs and high-level technology adoption and deployment in the DMCs.
 
-Read the [CEFPF Annual Report 2019](https://www.adb.org/documents/clean-energy-financing-partnership-facility-annual-report-2019). 
-
-<p class="dr-fn">* Net of savings for financially completed projects and direct charges</p>
-<p class="dr-fn">**Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.</p>
+Read the [CEFPF Annual Report 2019](https://www.adb.org/documents/clean-energy-financing-partnership-facility-annual-report-2019).

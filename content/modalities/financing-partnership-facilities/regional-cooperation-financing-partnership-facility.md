@@ -21,7 +21,7 @@ tf:
       - partner: Japan
     description: |
       The ICFF focuses on regional financial sector development and improvement of environment for cross-border investment. 
-  - name: United Kingdom Fund for Asia Regional Trade and Connectivity Fund (ARTCF)
+  - name: United Kingdom Fund for Asia Regional Trade and Connectivity (ARTCF)
     type: single partner
     url: https://www.adb.org/site/funds/funds/united-kingdom-fund-asia-regional-trade-connectivity
     id: artcf
@@ -31,24 +31,25 @@ tf:
     contributor:
       - partner: United Kingdom
     description: |
-      ARTCF supports regional electricity connectivity and trade, transport connectivity, digital connectivity, regulatory reform and broad regional trade and investment facilitation, among other connectivity investments.
+      ARTCF supports regional electricity connectivity and trade, transport connectivity, digital connectivity, regulatory reform and broad regional trade and investment facilitation, among others.
+footnote: |
+  <sup>*</sup> Net of savings for financially completed projects and direct charges
 
+  <sup>*</sup> ADB Special Funds guarantee or offer loans of high developmental priority, with longer maturities, longer deferred commencement of repayment, and lower interest rates.
 weight: 
 draft: false
 ---
 
 Established in 2007, the Regional Cooperation and Integration Financing Partnership Facility (RCIFPF) provides continued and consistent technical assistance support for the implementation of the Regional Cooperation and Integration Strategy and the related operational plans. It includes  
 
+{{< dr-artimage src="images/modalities/rcfpf-mi.jpg" align="" alt="" caption="" >}}
+
 * Regional Cooperation and Integration Fund (RCIF), a special fund established by ADB*  
-* Investment Climate Facilitation Fund (ICFF), a trust funded financed by Japan 
+* Investment Climate Facilitation Fund (ICFF), a trust fund financed by Japan 
 * Asia Regional Trade and Connectivity Fund (ARTCF), a trust fund financed by the United Kingdom 
 
 As a special fund of ADB, the RCIF is open to all the developing member countries and all the subregional cooperation programs of ADB, including the Central Asia Regional Economic Cooperation Program, the Greater Mekong Subregion Program, and the South Asia Subregional Economic Cooperation Program. The RCIF has also supported multiple sectors. As the backbone of the RCIFPF, the RCIF has catalyzed a total of $58.0 million in cofinancing at the project level from development partners, equivalent to 80% of cumulative contributions to the RCIF. 
 
-The Investment Climate Facilitation Fund was established in 2008 to help address the challenges of promoting investment and tackling climate change through energy efficiency. Its objective is to finance technical assistance and grants to investment projects that promote investments in DMCs and facilitate regional cooperation and integration through construction of basic infrastructure, facilitation of investment climate, capacity building, and promotion of good governance. 
+The ICFF was established in 2008 to help address the challenges of promoting investments and facilitate regional cooperation and integration through the construction of basic infrastructure, improvements in investment climate, capacity building, and promotion of good governance, among others. ICFF is used to finance technical assistance and grant components of investment projects that contribute directly to poverty reduction. 
 
 The United Kingdom Fund for Asia Regional Trade and Connectivity was established in 2018. The objective of the fund is to support the implementation of ADB’s Operational Plan for Regional Cooperation and Integration, 2016–2020 by financing regional cooperation and integration activities in selected DMCs in Central and South Asia, leading to improved integration with other regions of the world.
-
-<p class="dr-fn">* Net of savings for financially completed projects and direct charges</p>
-
-<p class="dr-fn">* ADB Special Funds guarantee or offer loans of high developmental priority, with longer maturities, longer deferred commencement of repayment, and lower interest rates.</p>

@@ -2,18 +2,24 @@
 
 <div class="container dr-article-body">
     <div class="row">
-        <div class="col mx-auto dr-page-title">
-            <h2>{{ .Title }}</h2>
-            <p>{{ .Params.lead }}</p>
-        </div>
+      <div class="col mx-auto dr-page-title">
+          <h2>{{ .Title }}</h2>
+          <p>{{ .Params.lead }}</p>
+          {{- partial "pager2.html" . -}}
+      </div>
     </div>
+     
     <div class="row">
       <div class="col-10 mx-auto">
+        <!--//
         {{ with .Params.chart }}
         <img src="./images/modalities/{{ . }}" alt="" class="dr-mod-chart">
         {{ end }}
+        //-->
+        {{ .Content }}
       </div>
     </div>
+    
     <div class="row justify-content-md-center mb-5">
       <div class="col-md-3">
         <div class="dr-contributions">
@@ -39,9 +45,6 @@
 
       </div>
       <div class="col-md-7">
-
-          {{ .Content }}
-
           {{ range .Params.tf }}
           <div class="dr-mod-partner dr-sptf py-4">
             <h5>{{ .name }}</h5>
@@ -85,8 +88,15 @@
 
 
       </div>
-  </div>
-
+    </div>
+    
+    <div class="row">
+      <div class="col-10 mx-auto">
+        <div class="dr-fn">
+          {{ .Params.footnote | markdownify }}
+        </div>
+      </div>
+    </div>
 </div>
 
 {{ end }}

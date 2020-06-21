@@ -47,7 +47,7 @@ fca:
     id: edb
     url: https://eabr.org/en/ 
     image: edb.png
-    fca: (2016 to 2021) $1.00 billion
+    fca: (2016 to 2021) $1 billion
     ccp: $395 million for 4 Project
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
@@ -67,7 +67,7 @@ fca:
     id: idb
     url: https://www.isdb.org/
     image: isdb.png
-    fca: (2018 to 2022) $2.00 billion
+    fca: (2018 to 2022) $2 billion
     ccp: $1.76 billion for 11 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
@@ -91,7 +91,7 @@ fca:
     id: kfw
     url: https://www.kfw.de/KfW-Group/
     image: kfw.png
-    mou: (2020 TO 2023) $2.00 billion
+    mou: (2020 TO 2023) $2 billion
     ccp: $4.00 billion for 19 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
@@ -116,7 +116,7 @@ fca:
     id: ofid
     url: https://opecfund.org/
     image: ofid.png
-    fca: (2016 to 2021) $600.0 million
+    fca: (2016 to 2021) $600 million
     ccp: $236.0 million for 11 Projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |

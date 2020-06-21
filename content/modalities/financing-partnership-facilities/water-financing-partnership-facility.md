@@ -5,7 +5,6 @@ layout: "fpf"
 pagetype: fpf
 image: hfpf-mi.jpg
 lead: Improving water supply and sanitation, enhancing irrigation and drainage services, reducing risks to floods, and improving water resources management 
-
 contributors:
   - name: Australia
   - name: Austria 
@@ -56,11 +55,15 @@ tf:
     contribution2019: "* $3 million from the Bill & Melinda Gates Foundation"    
     description: |
        SFPTF initially focused on innovative sanitation solutions to increase support for fecal sludge management through non-networked (non-sewered) sanitation and septage management. The focus has now shifted to more holistic approach through the citywide inclusive sanitation framework to increase access to appropriate sanitation systems, whether sewered or non-sewered, centralized or decentralized, including the required support to increase knowledge and capacity and improve governance.
+footnote: |
+  <sup>*</sup> Net of savings for financially completed projects and direct charges
 weight: 
 draft: false
 ---
 
 As of December 2019, the [Water Financing Partnership Facility](https://www.adb.org/site/funds/funds/water-financing-partnership-facility) (WFPF) has helped realize a total of $7.88 billion in water investments that will benefit 116 million people in Asia and the Pacific. This surpasses the WFPF target to support 115 million people as part of the overall beneficiaries for committed ADB water projects from 2006 up to 2020. Of these 116 million people, about 71 million would have sustainable access to improved water supply and sanitation, about 30 million would be safer from flood risks, and about 15 million would have more efficient and productive irrigation and drainage services.
+
+{{< dr-artimage src="images/modalities/hfpf-mi.jpg" align="" alt="" caption="" >}}
 
 WFPF’s total committed contributions has reached $116.4 million. In 2019, allocations were approved for 21 applications amounting to $9.7 million. As of 31 December 2019, total approved allocations at the Facility level amounted to $105.2 million. 
 
@@ -69,5 +72,3 @@ The WFPF pools financial resources from donors to support ADB’s [Water Financi
 The WFPF was established in 2006 amid global calls for doubling of water investments and was the first FPF to be introduced to financing partners. Its aim was to catalyze water investments to support ADB’s water operations directly. Today, the WFPF has evolved to become the go-to fund for ADB projects and programs on water supply, sanitation, and wastewater management; irrigation and drainage; flood management; and water resources development and management, and other projects that contribute to achieving ADB Strategy 2030 operational priorities, especially those related to [food security](./strategy-2030/rural-development-and-food-security/), [climate change](./strategy-2030/climate-change/), and [livable cities](./strategy-2030/livable-cities/). 
 
 Read the [WFPF Annual Report 2019](https://www.adb.org/site/funds/funds/water-financing-partnership-facility).
-
-<p class="dr-fn">* Net of savings for financially completed projects and direct charges</p>

@@ -31,6 +31,7 @@ draft: false
 ---
 
 ### Partnership Results
+
 <ul class="dr-results">
   <li><i class="icon-check-circle"></i> 36 kilometers of highway rehabilitated</li>
   <li><i class="icon-check-circle"></i> 9.2 kilometers of feeder roads constructed</li>

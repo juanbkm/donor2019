@@ -1,9 +1,8 @@
 <div class="dr-pager">
-    <!--// 
+    
     {{ with .Parent }}
     <a href="{{ .Permalink }}" class="btn btn-outline-primary"><i class="icon-arrow-up2"></i> {{ .Title }}</a>
     {{ end }}
-    //-->
 
     {{ with .NextInSection }}
     <a href="{{ .Permalink }}" class="btn btn-outline-primary"><i class="icon-arrow-left2"></i> {{ .Title | truncate 10 }} </a>
