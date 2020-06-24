@@ -12,6 +12,8 @@ draft: false
 
 Chevron has committed to support the scaling-up of high-quality training programs in information technology, construction, and light engineering in connection with ADB’s Skills for Employment Investment Program.
 
+<split>
+
 ##### _1 January 2014–31 December 2019_ Cofinancing with Chevron Corporation
 
 <table class="table dr-partner-table">

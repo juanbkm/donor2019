@@ -12,15 +12,18 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-10 mx-auto dr-article-body">
-                <div class="dr-funds">
+            <div class="col-md-7 mx-auto dr-article-body pr-md-5">
+                {{ $content_parts := split .Content "<split>" }}
+
+                {{ index $content_parts 0 | markdownify }}
+            </div>
+            <div class="col-md-5 dr-sidebar dr-funds">
+                <div class="">
                     {{with .Params.partner_logo}}
                     <div class="mb-5">
                         <img src="{{- . -}}" alt=""> 
                     </div>
-                    {{end}}
-                    
-                    
+                    {{end}}              
                     <div class="">
                         {{with .Params.project_specific_cofinancing}}
                         <span class="dr-type">Cumulative project-specific cofinancing</span> <span class="dr-amount"> {{- . -}}</span>   
@@ -33,9 +36,46 @@
                         <span class="dr-type">Cumulative trust funds contribution</span> <span class="dr-amount">{{- . -}}</span>    
                     </div>
                     {{end}}
+
+                    {{with .Params.project_specific_cofinancing_2019}}
+                    <div class="">
+                        <span class="dr-type">2019 Project-specific Cofinancing</span> 
+                        <ul>
+                            {{ range . }}
+                            <li>{{ .item | markdownify }}</li>
+                            {{ end }}
+                        </ul>   
+                    </div>
+                    {{end}}
+
+                    {{with .Params.trust_funds_contribution_2019}}
+                    <div class="">
+                        <span class="dr-type">2019 Trust Funds Contribution</span> 
+                        <ul>
+                            {{ range . }}
+                            <li>{{ .item | markdownify }}</li>
+                            {{ end }}
+                        </ul>   
+                    </div>
+                    {{end}}
+
+                    {{with .Params.new_trust_funds_contribution}}
+                    <div class="">
+                        <span class="dr-type">New Trust Funds Contributions</span> 
+                        <ul>
+                            {{ range . }}
+                            <li>{{ .item | markdownify }}</li>
+                            {{ end }}
+                        </ul>   
+                    </div>
+                    {{end}}
                     
                 </div>
-                {{ .Content }}
+            </div>
+        </div>
+        <div class="row py-5">
+            <div class="col">
+                {{ index $content_parts 1 | markdownify }}
             </div>
         </div>
         <div class="row py-5">

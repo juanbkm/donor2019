@@ -1,7 +1,7 @@
 <div class="dr-storybox {{ with .Get `align` }}float-{{ . }}{{ end }}">
-  <a href="{{ .Site.BaseURL }}{{.Get `url` }}">
+  <a href="{{.Get `url` }}">
     <div class="dr-story-img"><img src="{{.Get `src` }}" alt=""></div>
-    <h4>{{.Get `title` }}</h4>
+    {{ with .Get `title` }}<h4>{{ . }}</h4>{{ end }}
     <p>{{.Get `caption` }}</p>
     <p>Read the story</p>
   </a>

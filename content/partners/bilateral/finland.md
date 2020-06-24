@@ -7,6 +7,11 @@ project_specific_cofinancing: "$79.3 million"
 trust_funds_contribution: "$58.1 million"
 draft: false
 ---
+In March 2019, ADB and the Ministry for Foreign Affairs of [Finland](https://www.adb.org/publications/finland-fact-sheet) signed an agreement to support two mid-career professionals under ADB’s Sponsor-funded Staffing Program. Two Finnish nationals have been selected for 2-year staff position assignments, one Private Sector Development Specialist in the Viet Nam Resident Mission and one Social Sector Specialist for the Education Sector Group.  
+
+Finland has four specific priorities: (i) rights and status of women and girls; (ii) growth of developing countries’ economies to generate more jobs, livelihood opportunities and well-being; (iii) democratic and better-functioning societies; and (iv) food security, access to water and energy, and sustainable use of natural resources. 
+
+Finland’s priority countries are Afghanistan, Nepal, and Myanmar. The country also supports the Central Asia region, particularly Kyrgyzstan and Tajikistan, to strengthen human rights, the rule of law, sustainable economic growth, water resource management, and climate change preparedness.
 
 #### Active Trust Fund 
 
@@ -17,11 +22,7 @@ draft: false
 * Ministry of Foreign Affairs 
 * Finnish Fund for Industrial Development Cooperation Ltd. (Finnfund) 
 
-In March 2019, ADB and the Ministry for Foreign Affairs of [Finland](https://www.adb.org/publications/finland-fact-sheet) signed an agreement to support two mid-career professionals under ADB’s Sponsor-funded Staffing Program. Two Finnish nationals have been selected for 2-year staff position assignments, one Private Sector Development Specialist in the Viet Nam Resident Mission and one Social Sector Specialist for the Education Sector Group.  
-
-Finland has four specific priorities: (i) rights and status of women and girls; (ii) growth of developing countries’ economies to generate more jobs, livelihood opportunities and well-being; (iii) democratic and better-functioning societies; and (iv) food security, access to water and energy, and sustainable use of natural resources. 
-
-Finland’s priority countries are Afghanistan, Nepal, and Myanmar. The country also supports the Central Asia region, particularly Kyrgyzstan and Tajikistan, to strengthen human rights, the rule of law, sustainable economic growth, water resource management, and climate change preparedness. 
+<split>
 
 ##### _1 January 2014–31 December 2019_ Cofinanced with Finland
 

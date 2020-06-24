@@ -3,21 +3,20 @@ title: "World Bank Group"
 date: 2020-04-11T19:07:06+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$13.17 billion"
+project_specific_cofinancing_2019:
+  - item: "**$64 million** loan for 1 project"
+  - item: "**$13 million** grant for 2 projects"
 trust_funds_contribution: 
 partner_logo: images/partners/world-bank.png
 draft: false
 ---
-#### 2019 Project-Specific Cofinancing
-
-* $64 million loan for 1 project
-* $13 million grant for 2 projects
-
 The <a href="https://www.worldbank.org/">World Bank Group (WBG)</a> is the premiere multilateral development bank working for sustainable solutions to reduce poverty and build shared prosperity in developing countries. 
 
 The World Bank Group has been working with ADB since 1972. It prioritizes development projects on health, education, infrastructure, agriculture, public administration, macroeconomic management, institutional development, governance, financial and private-sector development, environmental protection, and natural resource management. 
 
-In 2019, the World Bank cofinanced projects in the Pacific to support reforms on public sector management in Fiji, Tonga, and Tuvalu.   
+In 2019, the World Bank cofinanced projects in the Pacific to support reforms on public sector management in Fiji, Tonga, and Tuvalu.
 
+<split>
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with World Bank 
 

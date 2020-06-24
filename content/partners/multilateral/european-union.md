@@ -3,19 +3,17 @@ title: "European Union"
 date: 2020-04-11T19:06:41+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$912.3 million"
+project_specific_cofinancing_2019:
+  - item: "**$28.5 million** grant for 4 projects"
 trust_funds_contribution: 
 partner_logo: images/partners/eu.png
 draft: false
 ---
-#### 2019 Project-Specific Cofinancing
-
-* $28.5 million grant for 4 projects 
-
 The <a href="https://europa.eu/european-union/index_en">European Union (EU)</a> is a political and economic union of 27 sovereign states in Europe. It was established in 1958 (originally as European Economic Community, and later changed its name to European Union in 1993) and seeks to be a driver of sustainable development, peace, and economic integration. It works with ADB to promote human rights and good governance, health, education, sustainable agriculture, and food security; environment and clean energy, food and agriculture, and cross-border cooperation in human and animal health. 
 
 In 2019, the EU cofinanced projects on sustainable rural infrastructure in Lao PDR, urban water supply and sanitation in the Solomon Islands, macroeonomic resilience in Tonga, and fiscal infrastructure management in Tuvalu. ADB and the EU also started preparations for a technical assistance (TA) grant to support reforms to Myanmar’s education sector. 
 
-
+<split>
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with European Union
 

@@ -5,6 +5,9 @@ main_image: images/modalities/sptf.jpg
 pageid: dr-sptf
 summary: |
   ADB is a trustee of 18 active single-partner trust funds, with contributions from Australia, Canada, People’s Republic of China, Denmark, France, Ireland, Japan, Republic of Korea, and Spain.
+
+  Of the $181 million allocated by trust funds, $58 million (32%) were from single-partner trust funds. All ADB-approved projects is net of savings for financially completed projects and direct charges. The trust funds with new projects in 2019 are:
+ 
 chart: 
 tf:
   - item:
@@ -15,7 +18,7 @@ tf:
     year: 1993
     image:
     tcc: $61.8 million  
-    cfp: $56.4 million* for 59 projects  
+    cfp: $56.4 million for 59 projects  
     contributor:
       - item:
         partner: Australia
@@ -29,7 +32,7 @@ tf:
     year: 2017
     image:
     tcc: $149.5 million  
-    cfp: $72.9 million* for 8 projects    
+    cfp: $72.9 million for 8 projects    
     contributor:
       - item:
         partner: Canada
@@ -43,7 +46,7 @@ tf:
     year: 2001
     image:
     tcc: $3.4 million 
-    cfp: $3.7 million* for 10 projects 
+    cfp: $3.7 million for 10 projects 
     cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.  
     contributor:
       - item:
@@ -58,7 +61,7 @@ tf:
     year: 2004
     image:
     tcc: $7.4 million 
-    cfp: $5.4 million* for 14 projects   
+    cfp: $5.4 million for 14 projects   
     contributor:
       - item:
         partner: France 
@@ -75,7 +78,7 @@ tf:
     year: 2001
     image:
     tcc: $3.6 million
-    cfp: $3.8 million* for 11 projects
+    cfp: $3.8 million for 11 projects
     cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions. 
     contributor:
       - item:
@@ -90,7 +93,7 @@ tf:
     year: 2013
     image:
     tcc: $9.7 million
-    cfp: $7.7 million* for 18 projects and direct charges   
+    cfp: $7.7 million for 18 projects and direct charges   
     contributor:
       - item:
         partner: Canada  
@@ -104,7 +107,7 @@ tf:
     year: 2019
     image:
     tcc: $13.5 million
-    cfp: $500,000* for 2 direct charges
+    cfp: $500,000 for 2 direct charges
     contributor:
       - item:
         partner: Ireland  
@@ -118,7 +121,7 @@ tf:
     year: 2001
     image:
     tcc: $10.7 million
-    cfp: $9.6 million* for 14 projects
+    cfp: $9.6 million for 14 projects
     cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
       - item:
@@ -133,7 +136,7 @@ tf:
     year: 2000
     image:
     tcc: $832.0 million
-    cfp: $792.6 million* for 459 projects  
+    cfp: $792.6 million for 459 projects  
     cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
       - item:
@@ -150,7 +153,7 @@ tf:
     year: 2004
     image:
     tcc: $22.0 million 
-    cfp: $13.7 million*  for 2 projects
+    cfp: $13.7 million  for 2 projects
     contributor:
       - item:
         partner: Japan  
@@ -164,7 +167,7 @@ tf:
     year: 2014
     image:
     tcc: $71.1 million  
-    cfp: $32.6 million* for 10 projects and direct charges 
+    cfp: $32.6 million for 10 projects and direct charges 
     contributor:
       - item:
         partner: Japan  
@@ -192,7 +195,7 @@ tf:
     year: 2016
     image:
     tcc: $419.7 million (total amount pledged is $1.5 billion) 
-    cfp: $630.8 million* for 28 projects**
+    cfp: $630.8 million for 28 projects*
     cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions   
     contributor:
       - item:
@@ -207,7 +210,7 @@ tf:
     year: 2005
     image:
     tcc: $90 million 
-    cfp: $50.4 million* for 100 projects  
+    cfp: $50.4 million for 100 projects  
     contributor:
       - item:
         partner: People’s Republic of China   
@@ -223,7 +226,7 @@ tf:
     year: 2006
     image:
     tcc: $118.8 million    
-    cfp: $58.6 million* for 126 projects
+    cfp: $58.6 million for 126 projects
     contributor:
       - item:
         partner: Republic of Korea
@@ -237,7 +240,7 @@ tf:
     year: 2006
     image:
     tcc: $3.5 million   
-    cfp: $3.5 million* for 7 projects
+    cfp: $3.5 million for 7 projects
     cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
       - item:
@@ -252,7 +255,7 @@ tf:
     year: 2000
     image:
     tcc: $14.4 million   
-    cfp: $12.0 million* for 24 projects 
+    cfp: $12.0 million for 24 projects 
     contributor:
       - item:
         partner: Spain 
@@ -266,7 +269,7 @@ tf:
     year: 1989
     image:
     tcc: $25.8 million  
-    cfp: $27.8 million* for 39 projects
+    cfp: $27.8 million for 39 projects
     cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
       - item:
@@ -276,11 +279,7 @@ tf:
 weight: 
 draft: false
 ---
-Of the $181 million allocated by trust funds, $58 million (32%) were from single-partner trust funds. The trust funds with new projects in 2019 are:
- 
+
 {{< sptf >}}
 
-<p class="dr-fn">* Net of savings for financially completed projects and direct charges
-</p>
-
-<p class="dr-fn">** Effective projects as of end-2019 amounted to $478.4 million for 20 projects.  Contributions are formally recognized and recorded in ADB’s system and financial statements once they are remitted by the financing partner to ADB.</p>
+<p class="dr-fn">* Effective projects as of end-2019 amounted to $630.8 million for 28 projects.  Contributions are formally recognized and recorded in ADB’s system and financial statements once they are remitted by the financing partner to ADB.</p> 

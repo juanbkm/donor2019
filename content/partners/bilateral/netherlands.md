@@ -6,7 +6,11 @@ project_specific_cofinancing: "$390.3 million"
 trust_funds_contribution: "$78.2 million"
 partner_logo:
 draft: false
----
+--- 
+Currently, [The Netherlands](https://www.adb.org/publications/netherlands-fact-sheet) focuses its development support to Afghanistan, Bangladesh, Cambodia, Indonesia, India, Lao PDR, Myanmar, Nepal, Pakistan and Viet Nam. Its aid focuses on reproductive and sexual health and rights, water, food security, and security and the rule of law. It also provides support to gender equality, environment and climate change.
+
+Its support to the Netherlands Trust Funds extends until 2020, through its $9.5 million additional contribution to the Fund in 2017.  The country is the sole contributor to this fund. The fund prioritizes activities designed to result in significantly more people with access to safe drinking water and improved sanitation, higher productivity and efficiency of irrigation and drainage services,  more people with reduced risk of flooding; sustainable management of water resources; increased knowledge and capacity; improved sector governance; and increased focus on water-food security nexus. 
+
 #### Active Trust Funds 
 
 * Cooperation Fund in Support of Managing for Development Results 
@@ -15,11 +19,8 @@ draft: false
 #### Development Assistance Agency
 
 * Ministry of Foreign Affairs  
- 
-Currently, [The Netherlands](https://www.adb.org/publications/netherlands-fact-sheet) focuses its development support to Afghanistan, Bangladesh, Cambodia, Indonesia, India, Lao PDR, Myanmar, Nepal, Pakistan and Viet Nam. Its aid focuses on reproductive and sexual health and rights, water, food security, and security and the rule of law. It also provides support to gender equality, environment and climate change.
 
-Its support to the Netherlands Trust Funds extends until 2020, through its $9.5 million additional contribution to the Fund in 2017.  The country is the sole contributor to this fund. The fund prioritizes activities designed to result in significantly more people with access to safe drinking water and improved sanitation, higher productivity and efficiency of irrigation and drainage services,  more people with reduced risk of flooding; sustainable management of water resources; increased knowledge and capacity; improved sector governance; and increased focus on water-food security nexus. 
-
+<split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Netherlands, The
 
 <table class="table dr-partner-table">

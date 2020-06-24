@@ -9,7 +9,9 @@ draft: false
 ---
 The <a href="https://www.ifad.org/">International Fund for Agricultural Development (IFAD)</a> was established in 1977 and is a specialized agency of the United Nations system fully devoted to agriculture and rural development. It started working with ADB in 1977 and prioritizes support to these countries: Afghanistan, Armenia, Bangladesh, Bhutan, Cambodia, India, Indonesia, the Kyrgyz Republic, the Lao People’s Democratic Republic, Myanmar, Nepal, Pakistan, Papua New Guinea, the Philippines, Samoa, Sri Lanka, Timor-Leste, Uzbekistan, and Viet Nam.  
 
-With ADB, IFAD supports projects that advance agriculture, rural sector development, and gender parity/empowerment. ADB and IFAD’s first Cooperation Agreement in 1978 was superseded by an MOU in 2013. A Framework Cofinancing Agreement was signed by ADB and IFAD in Rome in December 2014 to strengthen collaboration toward increased agricultural development and food security in select countries in Asia and the Pacific.  
+With ADB, IFAD supports projects that advance agriculture, rural sector development, and gender parity/empowerment. ADB and IFAD’s first Cooperation Agreement in 1978 was superseded by an MOU in 2013. A Framework Cofinancing Agreement was signed by ADB and IFAD in Rome in December 2014 to strengthen collaboration toward increased agricultural development and food security in select countries in Asia and the Pacific.
+
+<split>
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with International Fund for Agricultural Development
 

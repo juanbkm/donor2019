@@ -53,6 +53,9 @@ The project then developed the community’s capacity for operation and maintena
 
 ### Results
 
+
+{{< dr-storybox src="images/stories/3-day-visit-to-indonesia.jpg" url="https://www.facebook.com/AsianDevBank/photos/a.10150253441115963/10157000476755963/" title="" align="right" alt="" caption="ADB President Masatsugu Asakawa poses for a selfie with Aulia Febriani, a young resident of Makassar, Indonesia. ADB is helping to improve the standard of living in poor areas around the city." >}}
+
 Bambang Susantono, ADB Vice President for Knowledge Management and Sustainable Development, along with City Mayor Iqbal Suhaeb and Australia’s Consul General Richard Matthews, officially unveiled this pilot demonstration site, covering 11 households, in October 2019. The now vibrant community will serve as inspiration for improving livability and access through nature-based solutions. 
 
 In March 2020, new ADB President Masatsugu Asakawa met with residents of Batua to find out first-hand how the program is impacting their lives. The visit was Mr. Asakawa's first trip as ADB President to see and understand a range of ADB-supported projects in South East Asia. RISE was selected as one of a handful of ADB-supported projects in Makassar to show the President an innovative community decentralised approach to revitalisation. 

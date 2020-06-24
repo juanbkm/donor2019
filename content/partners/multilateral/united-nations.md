@@ -3,15 +3,12 @@ title: "United Nations"
 date: 2020-04-11T19:07:04+08:00
 partner_type: Multilateral
 project_specific_cofinancing: "$120.6 million"
+project_specific_cofinancing_2019:
+  - item: "**$440,000** grant for 1 technical assistance"
 trust_funds_contribution: 
 partner_logo: images/partners/un.png
 draft: false
 ---
-
-#### 2019 Project-Specific Cofinancing
-
-* $440,000 grant for 1 technical assistance 
-
 The <a href="https://www.un.org/en/">United Nations (UN)</a> is an international organization founded in 1945, and currently made up of 193-member states. It was established to act on current issues on peace and security, climate change, sustainable development, human rights, disarmament, terrorism, humanitarian and health emergencies, gender equality, governance, and food production. 
 
 ADB have been collaborating with several UN agencies since 1972, among them the Joint UN Programme on HIV/AIDS; UNICEF, United Nations Development Programme; UN Environment Programme; UN Human Settlements Programme; UN Industrial Development Organization; United Nations Office on Drugs and Crime; UN Population Fund; World Health Organization; and the World Tourism Organization. 
@@ -25,6 +22,8 @@ Cumulative project-specific cofinancing: $4.3 million
 Cumulative project-specific cofinancing: $110,000.00
 * <a href="https://www.who.int/">**World Health Organization**</a><br> 
 Cumulative project-specific cofinancing: $480,000.00
+
+<split>
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with United Nations Children's Fund
 

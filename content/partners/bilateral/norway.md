@@ -3,18 +3,18 @@ title: "Norway"
 date: 2020-04-11T19:47:20+08:00
 partner_type: Bilateral
 project_specific_cofinancing: "$254.3 million"
+project_specific_cofinancing_2019:
+  - item: "**$390,000** grant for 1 technical assistance"
 trust_funds_contribution: "$76 million"
+trust_funds_contribution_2019:
+  - item: "**NOK30 million** ($3.3 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
 partner_logo:
 draft: false
 ---
-#### 2019 Project-Specific Cofinancing 
+[Norway](https://www.adb.org/publications/norway-fact-sheet)’s development aid prioritizes education, global health and vaccination, macroeconomics and public administration, private sector development, climate change adaptation and mitigation, environment, energy, democracy and good governance, marine pollution, and human rights. It has supported Afghanistan, Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, the People's Republic of China, Sri Lanka, and Viet Nam. 
 
-* $390,000 grant for 1 technical assistance 
+In November 2019, ADB and the Government of Norway signed the cofinancing agreement for an untied grant amounting to $40 million to support the proposed South Asia Subregional Economic Cooperation Power Transmission and Distribution Sector Strengthening Project. In December 2019, Norway made an additional US$3.25 million contribution to the Clean Energy Fund. 
 
-#### Trust Funds Contributions 
-
-* NOK30 million ($3.3 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility 
- 
 #### Active Trust Funds 
 
 * Clean Energy Fund under the Clean Energy Financing Partnership Facility 
@@ -28,10 +28,7 @@ draft: false
 * Ministry of Foreign Affairs  
 * Norwegian Agency for Development Cooperation
 
-[Norway](https://www.adb.org/publications/norway-fact-sheet)’s development aid prioritizes education, global health and vaccination, macroeconomics and public administration, private sector development, climate change adaptation and mitigation, environment, energy, democracy and good governance, marine pollution, and human rights. It has supported Afghanistan, Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, the People's Republic of China, Sri Lanka, and Viet Nam. 
-
-In November 2019, ADB and the Government of Norway signed the cofinancing agreement for an untied grant amounting to $40 million to support the proposed South Asia Subregional Economic Cooperation Power Transmission and Distribution Sector Strengthening Project. In December 2019, Norway made an additional US$3.25 million contribution to the Clean Energy Fund. 
-
+<split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Norway
 
 <table class="table dr-partner-table">

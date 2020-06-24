@@ -12,6 +12,8 @@ The <a href="https://www.adb.org/site/funds/funds/asean-infrastructure-fund">ASE
 
 In April 2019, AIF launched the ASEAN Catalytic Green Finance Facility (ACGF), a new initiative that mobilizes more than $1 billion in green infrastructure investments across Southeast Asia. It aims to catalyze private capital by mitigating risks through innovative finance structures. Along with ADB’s partners, AIF also contributed $75 million to the new financing facility. 
 
+<split>
+
 ##### _1 January 2014–31 December 2019_ Cofinancing with ASEAN Infrastructure Fund
 
 <table class="table dr-partner-table">

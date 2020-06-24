@@ -8810,21 +8810,22 @@ td.actions {
 /* ----------------------------------------------------------------
 	DR What
 -----------------------------------------------------------------*/
-#dr-what {
-  border-bottom: 1px solid #c2ccd2; }
-  #dr-what .dr-qt em {
-    color: #98cc52; }
-  #dr-what .chart li a:hover,
-  #dr-what .chart li a:focus,
-  #dr-what .chart li a.active,
-  #dr-what .openchart li a:hover,
-  #dr-what .openchart li a:focus,
-  #dr-what .openchart li a.active {
-    background-color: #98cc52; }
-  #dr-what .nav-link.active, #dr-what .show > .nav-link {
-    color: #98cc52; }
-  #dr-what .dr-cofin-type {
-    color: #98cc52; }
+#dr-what .dr-qt em {
+  color: #98cc52; }
+
+#dr-what .chart li a:hover,
+#dr-what .chart li a:focus,
+#dr-what .chart li a.active,
+#dr-what .openchart li a:hover,
+#dr-what .openchart li a:focus,
+#dr-what .openchart li a.active {
+  background-color: #98cc52; }
+
+#dr-what .nav-link.active, #dr-what .show > .nav-link {
+  color: #98cc52; }
+
+#dr-what .dr-cofin-type {
+  color: #98cc52; }
 
 /* ----------------------------------------------------------------
 	DR Where
@@ -8993,10 +8994,7 @@ td.actions {
 
 #dr-partners #content .dr-funds {
   border-left: 1px solid #c2ccd2;
-  float: right;
-  margin-left: 40px;
-  padding: 0 0 0 40px;
-  width: 40%; }
+  padding: 0 0 0 40px; }
 
 #dr-partners #content .dr-type {
   display: block;
@@ -9009,6 +9007,17 @@ td.actions {
   display: block;
   line-height: 1.2;
   font-size: 2.8rem; }
+
+#dr-partners #content .dr-sidebar li {
+  list-style-type: none;
+  margin-bottom: 20px; }
+  #dr-partners #content .dr-sidebar li strong {
+    display: block;
+    font-weight: 200;
+    color: #eb6440;
+    display: block;
+    line-height: 1.2;
+    font-size: 2.8rem; }
 
 #dr-partners #content h5 em {
   display: block;
@@ -9251,9 +9260,9 @@ td.actions {
     margin-bottom: 10px;
     padding: 0 10px; }
   #content .dr-storybox p {
-    font-size: 1rem;
-    line-height: 1.4;
-    margin: 0;
+    font-size: 1rem !important;
+    line-height: 1.4 !important;
+    margin: 0 !important;
     padding: 10px; }
   #content .dr-storybox.float-left {
     margin: 10px 40px 40px 0; }

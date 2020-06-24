@@ -8,6 +8,10 @@ trust_funds_contribution: "$14.8 million"
 draft: false
 ---
 
+[Denmark](https://www.adb.org/publications/denmark-fact-sheet)’s priority interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development.  
+
+Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the past, country policy papers also existed for the following Asian countries: Indonesia, Nepal, Pakistan, Viet Nam. 
+
 #### Active Trust Funds 
 
 * Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas I and II
@@ -19,10 +23,7 @@ draft: false
 * Ministry of Foreign Affairs 
 * Danish International Development Agency under the Ministry of Foreign Affairs 
 
-[Denmark](https://www.adb.org/publications/denmark-fact-sheet)’s priority interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development.  
-
-Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the past, country policy papers also existed for the following Asian countries: Indonesia, Nepal, Pakistan, Viet Nam. 
-
+<split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Denmark
 
 <table class="table dr-partner-table">

@@ -7,6 +7,10 @@ project_specific_cofinancing: "$234.8 million"
 trust_funds_contribution: "$264.6 million"
 draft: false
 ---
+[Canada](https://www.adb.org/publications/canada-fact-sheet)’s priority themes are: (i) gender equality; (ii) increasing food security: food aid and nutrition; sustainable agricultural development particularly for small-scale farmers and women; (iii) securing the future of children and youth: access to quality education; maternal and child health; (iv) stimulating sustainable and inclusive economic growth: building economic foundations; growing businesses; and (v) innovations in international assistance.  
+
+Canada’s priority sectors for development assistance are gender, governance, private sector development, and health, while special attention is given to fragile and conflict-affected and small island developing states. 
+
 
 #### Active Trust Funds
 
@@ -24,10 +28,7 @@ draft: false
 
 * Global Affairs Canada (formerly Department of Foreign Affairs, Trade, and Development 
 
-[Canada](https://www.adb.org/publications/canada-fact-sheet)’s priority themes are: (i) gender equality; (ii) increasing food security: food aid and nutrition; sustainable agricultural development particularly for small-scale farmers and women; (iii) securing the future of children and youth: access to quality education; maternal and child health; (iv) stimulating sustainable and inclusive economic growth: building economic foundations; growing businesses; and (v) innovations in international assistance.  
-
-Canada’s priority sectors for development assistance are gender, governance, private sector development, and health, while special attention is given to fragile and conflict-affected and small island developing states. 
-
+<split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Canada
 
 <table class="table dr-partner-table">

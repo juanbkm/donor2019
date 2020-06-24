@@ -3,17 +3,19 @@ title: "France"
 date: 2020-04-11T19:36:20+08:00
 partner_type: Bilateral
 project_specific_cofinancing: "$3.88 billion"
+project_specific_cofinancing_2019:
+  - item: "**US$114.5 million** loan for 2 projects" 
 trust_funds_contribution: "$33.2 million"
+trust_funds_contribution_2019:
+  - item: "**€1 million** ($1.1 million) replenishment for the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and Other Specific Asian countries" 
 partner_logo:
 draft: false
 ---
-#### 2019 Project-Specific Cofinancing
+ADB holds annual High-Level Consultations (HLC) with [Agence Française de Développement](https://www.afd.fr/en) (AFD) to discuss (i) broader strategic alignment, and (ii) strategic and operational directions for the partnership at senior level. At the 2019 HLC held on 7–8 February 2019 at ADB HQ, ADB and AFD discussed: (i) strategic directions for AFD and ADB; (ii) learnings from ADB on its Pacific operations and new products (iii) AFD-supported trust funds; (iv) updates on private sector operations; (v) gender mainstreaming and climate change in ADB operations; and (vi) regional cooperation platforms.  
 
-* US$114.5 million loan for 2 projects
+In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 2016–2022 with the aim of reaching $1.5 billion in cofinancing from each for the first 3 years of collaboration. By 2018, AFD cofinancing has reached and exceeded this target at $1.58 billion. In 2018 alone, AFD loan cofinancing reached $795.10 for 6 investment projects. For the remaining 3 years, ADB and AFD have decided to increase the amount to $2.5 billion each and signed the Amendment to the PFA in February 2019. ADB and AFD also agreed to partner on the Cities Development Initiative in Asia and the Mobilise Your City Asia Program. 
 
-#### 2019 Trust Funds Contributions
-
-* €1 million ($1.1 million) replenishment for the Cooperation Fund for Project Preparation in the Greater Mekong Subregion and Other Specific Asian countries  
+[France](https://www.adb.org/publications/france-fact-sheet)’s support to Asia focuses on sustainable cities, urban transport, climate change, social protection, railways, and air pollution. Priority countries are Afghanistan, Armenia, Azerbaijan, Bangladesh, Cambodia, Georgia, India, Indonesia, Kazakhstan, Lao PDR, Myanmar, Pakistan, Philippines, Sri Lanka, Thailand, Viet Nam, and Uzbekistan.  
 
 #### Active Trust Funds
 
@@ -28,12 +30,7 @@ draft: false
 * Ministry of the Interior, Overseas France, Local Authorities and Immigration 
 * Agence Française de Développement 
 
-ADB holds annual High-Level Consultations (HLC) with [Agence Française de Développement](https://www.afd.fr/en) (AFD) to discuss (i) broader strategic alignment, and (ii) strategic and operational directions for the partnership at senior level. At the 2019 HLC held on 7–8 February 2019 at ADB HQ, ADB and AFD discussed: (i) strategic directions for AFD and ADB; (ii) learnings from ADB on its Pacific operations and new products (iii) AFD-supported trust funds; (iv) updates on private sector operations; (v) gender mainstreaming and climate change in ADB operations; and (vi) regional cooperation platforms.  
-
-In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 2016–2022 with the aim of reaching $1.5 billion in cofinancing from each for the first 3 years of collaboration. By 2018, AFD cofinancing has reached and exceeded this target at $1.58 billion. In 2018 alone, AFD loan cofinancing reached $795.10 for 6 investment projects. For the remaining 3 years, ADB and AFD have decided to increase the amount to $2.5 billion each and signed the Amendment to the PFA in February 2019. ADB and AFD also agreed to partner on the Cities Development Initiative in Asia and the Mobilise Your City Asia Program. 
-
-[France](https://www.adb.org/publications/france-fact-sheet)’s support to Asia focuses on sustainable cities, urban transport, climate change, social protection, railways, and air pollution. Priority countries are Afghanistan, Armenia, Azerbaijan, Bangladesh, Cambodia, Georgia, India, Indonesia, Kazakhstan, Lao PDR, Myanmar, Pakistan, Philippines, Sri Lanka, Thailand, Viet Nam, and Uzbekistan.  
-
+<split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with France
 
 <table class="table dr-partner-table">

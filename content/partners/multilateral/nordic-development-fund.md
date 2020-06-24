@@ -14,6 +14,7 @@ For its collaborations with ADB, NDF prioritizes projects on climate change miti
 
 In April 2019, NDF partnered with ADB in designing the [ADB Ventures](https://ventures.adb.org/), a new venture capital and technical assistance fund to boost innovative early-stage growth companies with climate technology-driven business models and solutions for Asia Pacific. 
 
+<split>
 
 ##### _1 January 2014–31 December 2019_ Cofinancing with Nordic Development Fund
 

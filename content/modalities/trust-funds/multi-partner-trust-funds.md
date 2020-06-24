@@ -4,7 +4,11 @@ date: 2020-05-24T23:47:52+08:00
 main_image: images/modalities/mptf.jpg
 pageid: dr-mptf
 summary: |
-  Bigger and more flexible multi-partner trust funds introduced in the 2000s have promoted collaboration among ADB’s financing partners and attracted new and nontraditional partners from the private sector, including philanthropic organizations. 
+  Multi-partner trust funds introduced in the 2000s have promoted collaboration among ADB’s financing partners and attracted new and nontraditional partners from the private sector, including philanthropic organizations. 
+
+  Of the $181 million allocated by trust funds to sovereign projects, $57 million (32%) came from multi-partner trust funds.
+
+  In 2019, 14 projects were approved with funding from multi-partner trusts funds. The High-Level Technology Fund provided a total of $12.1 million for 12 projects, the Asia Pacific Project Preparation Facility for $45 million for one project, and the Cooperation Fund in Support of Managing for Development Results funded one project with $10,000. All ADB-approved projects is net of savings for financially completed projects and direct charges.
 tf:
   - item:
     type: multi
@@ -14,10 +18,10 @@ tf:
     year: 2010
     image:
     tcc: $743.5 million  
-    cfp: $451 million* for 17 projects
+    cfp: $451 million for 17 projects
     contributor:
       - partner: ANA Trust Fund ($293 million)
-      - partner: Germany ($86.9 million)
+      - partner: Germany ($83.9 million)
       - partner: Japan ($127.5 million)
       - partner: United Kingdom ($82.4 million)
       - partner: United States ($153.7 million) 
@@ -45,7 +49,7 @@ tf:
     year: 2014
     image:
     tcc: $63.3 million  
-    cfp: $63.3 million* for 19 projects and direct charges   
+    cfp: $63.3 million for 19 projects and direct charges   
     contributor:
       - partner: Australia ($7.1 million)
       - partner: Canada ($16 million)
@@ -61,12 +65,12 @@ tf:
     year: 2004
     image:
     tcc: $2.8 million   
-    cfp: $2.6 million* for 9 projects
+    cfp: $2.6 million for 9 projects
     cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.  
     contributor:
       - partner: Australia ($1 million)
       - partner: Japan ($1 million)
-      - partner: United States ($1 million)  
+      - partner: United States ($800,000)  
     description: |
       The Cooperation Fund for Regional Trade and Financial Security Initiative supports ADB technical assistance to developing member countries for strengthening anti– money laundering (AML) systems, combating the financing of terrorism (CFT), and enhancing port security (including airports, cargo ports, and container ports). Projects eligible for funding include those ensuring compliance to international AML/ CFT standards, modernizing customs and upgrading border security, and complementing the goals of the Secure Trade in the Asia-Pacific Economic Cooperation Region initiative. Activities supported by the Trust Fund have included capacity building and awareness raising for law enforcement agencies and regulatory agencies, preparation of AML national risk assessments as well as AML strategies, and high-level regional workshops and regional cooperation to implement measures in these areas. All developing member countries of the bank are eligible for funding with emphasis on most at-risk APEC economies.
 
@@ -78,11 +82,11 @@ tf:
     year: 2004
     image:
     tcc: $2.9 million  
-    cfp: $3.1 million* for 11 projects
+    cfp: $3.1 million for 11 projects
     cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.  
     contributor:
-      - partner: Canada ($0.7 million)
-      - partner: the Netherlands ($0.9 million)
+      - partner: Canada ($700,000)
+      - partner: the Netherlands ($900,000)
       - partner: Norway ($1.3 million) 
     description: |
       In 2019, the Cooperation Fund in Support of Managing for Development Results (CFMfDR) provided supplementary funding for a technical assistance on implementing global partnership principles to promote development.   
@@ -97,7 +101,7 @@ tf:
     year: 2017
     image:
     tcc: $5.7 million 
-    cfp: $2.3 million* for 15 direct charges  
+    cfp: $2.3 million for 15 direct charges  
     contributor:
       - partner: Japan
     description: |
@@ -111,7 +115,7 @@ tf:
     year: 2006
     image:
     tcc: $6.4 million 
-    cfp: $5.9 million* for 18 projects
+    cfp: $5.9 million for 18 projects
     cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.  
     contributor:
       - partner: Luxembourg
@@ -145,10 +149,10 @@ tf:
     year: 2003
     image:
     tcc: $11.9 million  
-    cfp: $11.8 million* for 14 projects
+    cfp: $11.8 million for 14 projects
     cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
-      - partner: Australia ($0.9 million)
+      - partner: Australia ($900,000)
       - partner: Canada ($2.4million)
       - partner: Denmark ($1.3 million)
       - partner: Ireland ($1 million)
@@ -164,7 +168,7 @@ tf:
     year: 2001
     image:
     tcc: $7.2 million   
-    cfp: $7.2 million* for 24 projects
+    cfp: $7.2 million for 24 projects
     cfpfn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions. 
     contributor:
       - partner: Canada ($1.6 million)
@@ -182,7 +186,7 @@ tf:
     year: 2017
     image:
     tcc: $54.5 million 
-    cfp: $24.5 million* for 41 projects and direct charges 
+    cfp: $24.5 million for 41 projects and direct charges 
     contributor:
       - partner: Japan ($54.5 million)
     description: |
@@ -198,7 +202,7 @@ tf:
     year: 2016 
     image:
     tcc: $7.8 million
-    cfp: $7.3 million* for 11 projects and direct charges  
+    cfp: $7.3 million for 11 projects and direct charges  
     contributor:
       - partner:  Nordic Development Fund ($7.8 million) 
     description: |
@@ -211,8 +215,5 @@ Of the $181 million allocated by trust funds to sovereign projects, $57 million 
 
 In 2019, 14 projects were approved with funding from multi-partner trusts funds. The High-Level Technology Fund provided a total of $12.1 million for 12 projects, the Asia Pacific Project Preparation Facility for $45 million for one project, and the Cooperation Fund in Support of Managing for Development  Results funded one project with $10,000.
 
-{{< dr-artimage src="./images/modalities/mptf-chart.png" width="100%" >}}
-
 {{< mptf >}}
 
-<p class="dr-fn">* Net of savings for financially completed projects and direct charges</p>

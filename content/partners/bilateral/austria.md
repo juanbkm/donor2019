@@ -7,20 +7,22 @@ project_specific_cofinancing: "$13.3 million"
 trust_funds_contribution: "$11 million"
 draft: false
 ---
-
-#### Active Trust Funds 
-* Cities Development Initiative for Asia Trust Fund 
-* Multi-Donor Trust Fund under the Water Financing Partnership Facility 
-
-#### Development Assistance Agencies
-* Federal Ministry of Finance 
-* Federal Ministry for Europe, Integration and Foreign Affairs    
-* Austrian Development Agency  
-
 [Austria](https://www.adb.org/publications/austria-fact-sheet)’s development assistance is felt through its support for the urban and water sectors and knowledge exchange via provision of experts as secondees with ADB.  
 
 Austria works with ADB on education, ensuring peace, human security, human rights, migration, water, energy, food security, private sector and development. Austria’s priority countries are Armenia (agriculture, good governance), Bhutan (energy, tourism, good governance), and Georgia (forestry agriculture, good governance). 
 
+#### Active Trust Funds 
+
+* Cities Development Initiative for Asia Trust Fund 
+* Multi-Donor Trust Fund under the Water Financing Partnership Facility 
+
+#### Development Assistance Agencies
+
+* Federal Ministry of Finance 
+* Federal Ministry for Europe, Integration and Foreign Affairs    
+* Austrian Development Agency  
+
+<split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Austria
 
 <table class="table dr-partner-table">
