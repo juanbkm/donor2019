@@ -1,26 +1,21 @@
 {{ define "main" }}
-
-
-        <div class="container clearfix">
-            {{- partial "sectiontitle.html" . -}}
-            <div class="row">
-                <div class="col dr-s2030-sectors">
-                    {{ range .Pages.ByWeight }}
-                    <div class="dr-s2030-sector">
-                        <a href="{{.Permalink}}">
-                            <div class="dr-sector-img"><img src="{{ .Params.main_image_thumb }}" /></div>
-                            <div class="dr-sector-text">
-                                <h3>{{.Title}}</h3>
-                                <p class="">{{ .Params.lead }}</p>
-                                <img src="{{ .Params.icon }}" class="dr-icon" />
-                            </div>
-                        </a>
-                    </div>
-                    {{ end }}
-                </div>
+    <div class="container clearfix">
+        {{- partial "sectiontitle.html" . -}}
+        {{ range .Pages.ByWeight }}
+        {{ "<!-- Sector Row -->" | safeHTML }}
+        <div class="row mb-5">
+            <div class="col-md-6 pr-md-5">
+                <div class="dr-sector-img"><img src="{{ .Params.main_image_thumb }}" /></div>
+            </div>
+            <div class="col-md-6 pl-md-5 dr-s2030-sector dr-sector-text">
+                <a href="{{.Permalink}}">    
+                    <h3>{{.Title}}</h3>
+                    <img src="{{ .Params.icon }}" class="dr-icon" />
+                    <p class="">{{ .Params.lead }}</p>
+                </a>
             </div>
         </div>
-
-    
-
+        {{ "<!-- /Sector Row -->" | safeHTML }}
+        {{ end }}
+    </div>
 {{ end }}

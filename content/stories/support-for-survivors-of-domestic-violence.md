@@ -41,7 +41,7 @@ Women aged between 25 and 49 experienced the highest rates of domestic violence,
 
 The revised Law on Combating Domestic Violence has been in effect since 1 February 2017, but awareness and communication campaigns are sorely lacking. Many victims and survivors, their friends and families, do not know where and how to file complaints and request assistance.  
 
-The [Japan Fund for Poverty Reduction]({{< ref "japan.md" >}}) provided a $3 million grant to advance gender equality in Mongolia by improving the quality of, and access to, prevention and response to domestic violence. The project, approved in late 2018 but became effective in 2019, is ADB’s first stand-alone project addressing domestic violence. It will increase government capacity and strengthen institutions to address reported cases of gender-based violence, particularly domestic violence. It will also help enhance community knowledge and understanding of gender-based violence and their consequences toward changing individual and community behavior.
+The [Japan Fund for Poverty Reduction](./modalities/trust-funds/single-partner-trust-funds/#jfpr) provided a $3 million grant to advance gender equality in Mongolia by improving the quality of, and access to, prevention and response to domestic violence. The project, approved in late 2018 but became effective in 2019, is ADB’s first stand-alone project addressing domestic violence. It will increase government capacity and strengthen institutions to address reported cases of gender-based violence, particularly domestic violence. It will also help enhance community knowledge and understanding of gender-based violence and their consequences toward changing individual and community behavior.
 
 ### Interventions
 

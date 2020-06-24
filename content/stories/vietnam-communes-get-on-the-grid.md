@@ -15,7 +15,7 @@ fund_source:
   - name: "Asian Development Fund"
     amount: "$156 million (Loan)"
   - name: "Technical Assistance Special Fund"
-    amount: "$900,000.00 (Technical Assistance)"
+    amount: "$900,000 (Technical Assistance)"
   - name: "Climate Change Fund"
     amount: "$1.6 million (Technical Assistance)"
 counterpart:
@@ -23,7 +23,7 @@ counterpart:
     amount: "$46.6 million"
 fin_partners: 
   - name: "Clean Energy Fund under the Clean Energy Financing Partnership Facility (Grant)"
-    amount: "US$3.0 million"
+    amount: "US$3 million"
 approval: "April 2014"
 completion: "May 2018"
 categories: [ "Climate change" ]
@@ -47,7 +47,7 @@ draft: false
 
 Electrification has been one of Viet Nam’s remarkable achievements in recent decades. Access to electricity increase rapidly from 2.5 % in 1975 to over 91 % in 2007.  With this, more than 97% of the country’s communes connected to the national grid. However, some 278 communes in the mountainous north, central, and south Viet Nam remained unconnected or electrified but received power only to the commune center. These communes are home to some of Viet Nam's poor indigenous communities. To address this remaining service gap, Viet Nam invested in expansion of distribution networks and rehabilitation of poorly constructed and unreliable low voltage electrical systems to attain universal access.
 
-The project, Viet Nam's [Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project](https://www.adb.org/projects/documents/vie-42182-013-pcr), received funding from ADB and the Clean Energy Fund under the [Clean Energy Financing Partnership Facility](./modalities/clean-energy-financing-partnership-facility/). The result-- 99% of all Vietnamese families will have access to electricity by 2020.
+The project, Viet Nam's [Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project](https://www.adb.org/projects/documents/vie-42182-013-pcr), received funding from ADB and the Clean Energy Fund under the [Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/). The result-- 99% of all Vietnamese families will have access to electricity by 2020.
 
 The project is consistent with Viet Nam’s Socio-Economic Development Plans and ADB’s country strategy and program for Viet Nam, which promote pro-poor, balanced economic through the sustainable use of electricity and renewable energy in an affordable manner. 
 

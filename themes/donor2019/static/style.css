@@ -9177,45 +9177,33 @@ td.actions {
     font-style: italic;
     padding: 10px; }
 
-#content .dr-s2030-sectors {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 5em;
-  padding: 0;
-  color: #556773;
-  list-style: none; }
-  @media (max-width: 991.98px) {
-    #content .dr-s2030-sectors {
-      display: block; } }
-  #content .dr-s2030-sectors a {
+#content .dr-sector-img {
+  margin-bottom: 20px; }
+
+#content .dr-sector-text {
+  margin-bottom: 10px;
+  padding: 10px;
+  position: relative; }
+  #content .dr-sector-text a {
     display: block;
     color: #555; }
-    #content .dr-s2030-sectors a:hover {
+    #content .dr-sector-text a:hover {
       opacity: 50%;
       transition: all 0.5s ease-in-out; }
-    #content .dr-s2030-sectors a:hover h3 {
+    #content .dr-sector-text a:hover h3 {
       transition: all 0.5s ease-in-out; }
-    #content .dr-s2030-sectors a h3 {
-      margin: 0 140px 0 0;
+    #content .dr-sector-text a h3 {
+      margin: 0 0 20px 0;
       display: block; }
-    #content .dr-s2030-sectors a p {
-      margin: 0 140px 0 0; }
-    #content .dr-s2030-sectors a .dr-icon {
+    #content .dr-sector-text a p {
+      margin: 0; }
+    #content .dr-sector-text a .dr-icon {
       display: block;
       width: 96px;
       height: auto;
-      position: absolute;
-      top: 10px;
-      right: 0;
+      float: right;
+      margin: 0 0 10px 10px;
       fill: #556773; }
-  #content .dr-s2030-sectors .dr-sector-img {
-    margin-bottom: 20px; }
-  #content .dr-s2030-sectors .dr-sector-text {
-    border-left: 1px solid #c2ccd2;
-    margin-bottom: 10px;
-    padding: 10px;
-    padding-left: 20px;
-    position: relative; }
 
 #content .dr-s2030-page-sector .dr-sector-img {
   float: left;

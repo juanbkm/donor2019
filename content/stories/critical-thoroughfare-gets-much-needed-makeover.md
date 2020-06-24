@@ -31,7 +31,6 @@ draft: false
 ---
 
 ### Partnership Results
-
 <ul class="dr-results">
   <li><i class="icon-check-circle"></i> 36 kilometers of highway rehabilitated</li>
   <li><i class="icon-check-circle"></i> 9.2 kilometers of feeder roads constructed</li>
@@ -44,7 +43,7 @@ draft: false
 
 ### Background
 
-Kiribati is one of the most remote and geographically dispersed nations on the planet. The challenges this isolation present are compounded by the fact that the country’s overall mobility rests on one main road—the South Tarawa road—connecting the east and the west of Tarawa atoll, capital of the country. This overworked, beaten road has borne the brunt of much of people's mobility in the past decades. Unfortunately, the South Tarawa, while crucial to the country's economy, has not been comprehensively maintained since the 1970s. The road's condition hampered economic opportunities and access to basic services for approximately 42% of the country' population.
+Kiribati is one of the most remote and geographically dispersed nations on the planet. The challenges this isolation present are compounded by the fact that the country’s overall mobility rests on one main road—the South Tarawa road—connecting the east and the west of Tarawa atoll, capital of the country. This overworked, beaten road has borne the brunt of much of people's mobility in the past decades. Unfortunately, the South Tarawa, while crucial to the country's economy, has not been comprehensively maintained since the 1970s. The road's condition hampered economic opportunities and access to basic services for approximately 42% of the country's population.
 
 Being a Pacific island country, Kiribati is extremely susceptible to external shocks, which arise from its vulnerability to climate change, dependence on imports, and reliance on income from overseas sources. Compounding this vulnerability was poor mobility due to inadequate transport infrastructure.
 

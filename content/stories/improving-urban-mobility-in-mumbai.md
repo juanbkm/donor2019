@@ -41,7 +41,7 @@ draft: false
 
 Mumbai, the financial capital of India, is crucial to India's economy. The city belongs to the state of Maharashtra, which accounts for 15% of the country's gross domestic product. Mumbai alone accounts for 40% of the state's GDP. Against the backdrop of this economic significance is the artery of the city, its rail system.
 
-The railway is the primary means of transport for 12 million of Mumbai's inhabitants. The rail system carries the burden of the daily mobility of its 7.5 million people in its suburban networks. Called in local parlance as 'local trains,' the suburban rail network is highly congested and unsafe. Often, some 5000 Mumbaikars pack themselves in a carriage meant for 1,750, to get to work and get back home.
+The railway is the primary means of transport for 12 million of Mumbai's inhabitants. The rail system carries the burden of the daily mobility of its 7.5 million people in its suburban networks. Called in local parlance as 'local trains,' the suburban rail network is highly congested and unsafe. Often, some 5,000 Mumbaikars pack themselves in a carriage meant for 1,750, to get to work and get back home.
 
 Aiming to address the problem, the Government of Maharashtra came up with a masterplan in 2013. The plan includes developing a metro rail system that would supplement the highly congested suburban railway. Twelve lines are planned for metro rail development covering over 276 km.
 

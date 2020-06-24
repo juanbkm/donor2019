@@ -7,7 +7,7 @@ image_thumb: images/stories/in-uncertain-times-ample-preparation-for-food-produc
 author: Admin
 description: "This is meta description"
 country: Bangladesh
-summary: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnerships Facility, through The Netherlands Trust Fund, is supporting the preparations."
+summary: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnership Facility, through The Netherlands Trust Fund, is supporting the preparations."
 project_title: "Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project"
 project_url: https://www.adb.org/projects/53237-002/main
 cost: "$1.25 million"
@@ -15,7 +15,7 @@ fund_source:
   - name: "ADB"
     amount: "$500,000"
 fin_partners:
-  - name: "The Netherlands Trust Fund under the Water Financing Partnerships Facility"
+  - name: "The Netherlands Trust Fund under the Water Financing Partnership Facility"
     amount: "$750,000"
 approval: "December 2019"
 completion: "June 2021"
@@ -38,9 +38,9 @@ draft: false
 
 Farmers in Bangladesh face escalating flood and drought risks. The country is one of the most vulnerable to climate change, and staving off the impacts, especially on livelihoods and food security, requires a concerted effort to know what needs to be done and how.
 
-ADB is proposing a $100 million investment, the [Bangladesh: Climate and Disaster Resilient Small-Scale Water Resources Management Project](https://www.adb.org/projects/53237-001/main), which will build on a series of successful projects since 1996 that have enabled better rural water management and crop production technologies to increase productivity, improve nutrition, and safeguard rural livelihoods. Small-scale water resources pertain to a net beneficiary area of less than 1,000 hectares. The continuous investments, in cooperation with the [Netherlands](./partners/bilateral/netherlands/) and the [International Fund for Agriculture Development](./modalities/partnership-framework-arrangements/#dr-ifad) (IFAD), have led to 845 subprojects throughout the country.
+ADB is proposing a $100 million investment, the [Bangladesh: Climate and Disaster Resilient Small-Scale Water Resources Management Project](https://www.adb.org/projects/53237-001/main), which will build on a series of successful projects since 1996 that have enabled better rural water management and crop production technologies to increase productivity, improve nutrition, and safeguard rural livelihoods. Small-scale water resources pertain to a net beneficiary area of less than 1,000 hectares. The continuous investments, in cooperation with the [Netherlands](./partners/bilateral/netherlands/) and the [International Fund for Agriculture Development](./partners/multilateral/international-fund-agricultural-development/) (IFAD), have led to 845 subprojects throughout the country.
 
-The [Water Financing Partnerships Facility](./modalities/water-financing-partnership-facility/) (WFPF), through [The Netherlands Trust Fund](./modalities/water-financing-partnership-facility/#dr-ntf), is supporting the [technical assistance](https://www.adb.org/projects/53237-002/main) that will prepare the proposed project. Introducing value-chain as a pilot, the project will add a crucial element for the changing times: enhancing resilience by incorporating climate proofing measures to water infrastructure and encouraging the use of climate- and disaster-tolerant crops and cropping practices. The $750,000 technical assistance grant from the Netherlands Trust Fund will enhance the development and integration of climate and disaster resilient measures and value chain aspects into the project design.
+The [Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/) (WFPF), through The Netherlands Trust Fund, is supporting the [technical assistance](https://www.adb.org/projects/53237-002/main) that will prepare the proposed project. Introducing value-chain as a pilot, the project will add a crucial element for the changing times: enhancing resilience by incorporating climate proofing measures to water infrastructure and encouraging the use of climate- and disaster-tolerant crops and cropping practices. The $750,000 technical assistance grant from the Netherlands Trust Fund will enhance the development and integration of climate and disaster resilient measures and value chain aspects into the project design.
 
 Bangladesh’s low-lying location, lack of control over the flows of transboundary rivers, and high-density population make it especially susceptible to the effects of climate change. More and prolonged extreme weather events affect water availability and quality, and damage farmers’ yield. Given that 80% of the population live in rural areas and depend on agriculture and related nonfarm activities, the concern is huge.
 

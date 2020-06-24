@@ -39,7 +39,7 @@ The monsoon season is always met with anxiety in Batua, a small multiethnic comm
 
 In an effort to alleviate the poor conditions, each household in the community would contribute $10 to build communal bamboo rafts and footpaths so they can navigate across the dirty floodwater. Adding to their plight, typhoons are becoming increasingly stronger and the duration of the monsoon season now fluctuates, all consequences of climate change. This seasonal flooding, coupled with the lack of access to basic water and sanitation services that lead to higher incidences of waterborne diseases, is a chronic burden of the community.
 
-Responding to these needs, ADB and the Sustainable Development Institute of Monash University partnered with the City Government of Makassar to improve the living and accessibility conditions in the marginalized community. ADB’s [Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach](https://www.adb.org/projects/51290-001/main) (Indonesia component), financed by the Urban Climate Change Resilience Trust Fund (UCCRTF) under the Urban Financing Partnership Facility, supported the piloting of a nature-based, water sensitive approach and technology. RISE is an action research program, supported by ADB and other development agencies, working at the intersections of health, environment, water, and sanitation.
+Responding to these needs, ADB and the Sustainable Development Institute of Monash University partnered with the City Government of Makassar to improve the living and accessibility conditions in the marginalized community. ADB’s [Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach](https://www.adb.org/projects/51290-001/main) (Indonesia component), financed by the Urban Climate Change Resilience Trust Fund (UCCRTF) under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/), supported the piloting of a nature-based, water sensitive approach and technology. RISE is an action research program, supported by ADB and other development agencies, working at the intersections of health, environment, water, and sanitation.
 
 ### Interventions
 
@@ -53,9 +53,6 @@ The project then developed the community’s capacity for operation and maintena
 
 ### Results
 
-
-{{< dr-storybox src="images/stories/3-day-visit-to-indonesia.jpg" url="https://www.facebook.com/AsianDevBank/photos/a.10150253441115963/10157000476755963/" title="" align="right" alt="" caption="ADB President Masatsugu Asakawa poses for a selfie with Aulia Febriani, a young resident of Makassar, Indonesia. ADB is helping to improve the standard of living in poor areas around the city." >}}
-
 Bambang Susantono, ADB Vice President for Knowledge Management and Sustainable Development, along with City Mayor Iqbal Suhaeb and Australia’s Consul General Richard Matthews, officially unveiled this pilot demonstration site, covering 11 households, in October 2019. The now vibrant community will serve as inspiration for improving livability and access through nature-based solutions. 
 
 In March 2020, new ADB President Masatsugu Asakawa met with residents of Batua to find out first-hand how the program is impacting their lives. The visit was Mr. Asakawa's first trip as ADB President to see and understand a range of ADB-supported projects in South East Asia. RISE was selected as one of a handful of ADB-supported projects in Makassar to show the President an innovative community decentralised approach to revitalisation. 
@@ -64,9 +61,9 @@ In both visits, the women of Batua expressed their sincere appreciation for the 
 
 President Asakawa said, "This project demonstrates how collaboration with big donors like ADB and leading research institutions like Monash University can make people’s lives different. I hope we will enhance our collaboration not just here, but everywhere."
 
-The project will be replicated in six additional informal settlements in Makassar, through a grant from UCCRTF. Likewise, another pilot is being set up in Suva, Fiji, funded by the Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility.
+The project will be replicated in six additional informal settlements in Makassar, through a grant from UCCRTF. Likewise, another pilot is being set up in Suva, Fiji, funded by the Urban Environmental Infrastructure Fund under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/).
 
-*Related Stories*
+#### Related Stories
 
 [ADB Deploys Green Infrastructure for Informal Communities](https://www.facebook.com/AsianDevBank/videos/1467871300031727)
 
