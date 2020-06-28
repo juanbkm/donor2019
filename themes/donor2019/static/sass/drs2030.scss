@@ -75,10 +75,10 @@
         }
     }
     .dr-storybox {
+        background-color: lighten($adb-dr-gray, 55%);
         a {
-            background-color: lighten($adb-dr-gray, 55%);
-            color: $body-color;
-            display: block;
+            //color: $body-color;
+            //display: block;
         }
         img {
             margin: 0;

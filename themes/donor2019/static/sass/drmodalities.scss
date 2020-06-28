@@ -265,6 +265,42 @@
   }
 }
 
+.dr-fpf-intro {
+  h3 {
+    clear: both;
+    font-size: 1.5rem;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 700;
+    letter-spacing: normal;
+    color: $body-color;
+    margin: 0 0 20px 0;
+    em {
+      display: block;
+      font-size: 1rem;
+      font-style: normal;
+      text-transform: lowercase;
+      letter-spacing: 1px;
+    }
+  }
+  h3:after {
+    display: none;
+  }
+  @include media-breakpoint-down(sm) {
+    h3 {
+      line-height: 1.5;
+      font-size: round($page-title-size / 1.17);
+      margin-top: $margin-big/4;
+    }
+    h3:after {
+      margin: $margin-big/4 auto $margin-big/4 auto;
+    }
+  }
+  a {
+    color: $body-color;
+  }
+}
+
 .dr-fn {
   font-size: .8rem !important;
   font-style: italic;

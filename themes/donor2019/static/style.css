@@ -9235,11 +9235,8 @@ td.actions {
     margin-bottom: 10px; }
 
 #content .dr-storybox {
+  background-color: #eef1f2;
   width: 40%; }
-  #content .dr-storybox a {
-    background-color: #eef1f2;
-    color: #555;
-    display: block; }
   #content .dr-storybox img {
     margin: 0;
     margin-bottom: 10px; }
@@ -9639,6 +9636,36 @@ td.actions {
   width: 50%;
   height: auto;
   margin: 0 40px 40px 0; }
+
+.dr-fpf-intro h3 {
+  clear: both;
+  font-size: 1.5rem;
+  text-align: left;
+  text-transform: capitalize;
+  font-weight: 700;
+  letter-spacing: normal;
+  color: #555;
+  margin: 0 0 20px 0; }
+  .dr-fpf-intro h3 em {
+    display: block;
+    font-size: 1rem;
+    font-style: normal;
+    text-transform: lowercase;
+    letter-spacing: 1px; }
+
+.dr-fpf-intro h3:after {
+  display: none; }
+
+@media (max-width: 767.98px) {
+  .dr-fpf-intro h3 {
+    line-height: 1.5;
+    font-size: 24px;
+    margin-top: 20px; }
+  .dr-fpf-intro h3:after {
+    margin: 20px auto 20px auto; } }
+
+.dr-fpf-intro a {
+  color: #555; }
 
 .dr-fn {
   font-size: .8rem !important;

@@ -1,8 +1,13 @@
 <div class="dr-storybox {{ with .Get `align` }}float-{{ . }}{{ end }}">
-  <a href="{{.Get `url` }}">
     <div class="dr-story-img"><img src="{{.Get `src` }}" alt=""></div>
     {{ with .Get `title` }}<h4>{{ . }}</h4>{{ end }}
-    <p>{{.Get `caption` }}</p>
-    <p>Read the story</p>
-  </a>
+
+    {{ $markdown := .Get `caption` | markdownify }}
+    {{ if not ( strings.Contains $markdown "<p>" ) }}
+        <p>{{ $markdown }}</p>
+    {{ else }}
+        {{ $markdown }}
+    {{ end }}
+
+    <p><a href="{{.Get `url` }}">Read the story</a></p>
 </div>

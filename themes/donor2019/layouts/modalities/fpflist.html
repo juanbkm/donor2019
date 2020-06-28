@@ -23,54 +23,30 @@
         </div>
     </div>
     {{ end }}
-    <div class="row">
+    <div class="row mb-5">
         <div class="col mx-auto"> 
             {{ .Content }}
         </div>
     </div>
-    <div class="row py-5">
-      {{ with .Site.GetPage "/modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility" }}
-          <div id="{{ .Params.id }}" class="col-md-6 pr-5 dr-modalities">
-            <img src="./images/modalities/{{ .Params.image }}" alt="" />
-            <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
-            <p>{{ .Params.lead }}</p>
-          </div>
-          {{ end }}
-          {{ with .Site.GetPage "/modalities/financing-partnership-facilities/health-financing-partnership-facility" }}
-          <div id="{{ .Params.id }}" class="col-md-6 pl-5 dr-modalities">
-            <img src="./images/modalities/{{ .Params.image }}" alt="" />
-            <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
-            <p>{{ .Params.lead }}</p>
-          </div>
-          {{ end }}      
-    </div>
-    <div class="row py-5">
-        {{ with .Site.GetPage "/modalities/financing-partnership-facilities/regional-cooperation-financing-partnership-facility" }}
-        <div id="{{ .Params.id }}" class="col-md-6 pr-5 dr-modalities">
-            <img src="./images/modalities/{{ .Params.image }}" alt="" />
-            <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
-            <p>{{ .Params.lead }}</p>
+
+
+    {{range where .Site.Pages ".Params.pagetype" "fpf" }}
+    {{ "<!-- FPF Row -->" | safeHTML }}
+        <div class="row mb-5">
+            <div class="col-md-6 pr-md-5">
+                <div class="dr-fpf-img"><img src="./images/modalities/{{ .Params.image }}" /></div>
+            </div>
+            <div class="col-md-6 pl-md-5 dr-fpf-intro">
+                <a href="{{.Permalink}}">    
+                    <h3>{{.Title}}</h3>
+                    <p class="">{{ .Params.lead }}</p>
+                </a>
+            </div>
         </div>
-        {{ end }}
-        {{ with .Site.GetPage "/modalities/financing-partnership-facilities/urban-financing-partnership-facility" }}
-        <div id="{{ .Params.id }}" class="col-md-6 pl-5 dr-modalities">
-            <img src="./images/modalities/{{ .Params.image }}" alt="" />
-            <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
-            <p>{{ .Params.lead }}</p>
-        </div>
-        {{ end }}      
-    </div>
-    <div class="row py-5">
-        {{ with .Site.GetPage "/modalities/financing-partnership-facilities/water-financing-partnership-facility" }}
-        <div id="{{ .Params.id }}" class="col-md-6 pr-5 dr-modalities">
-            <img src="./images/modalities/{{ .Params.image }}" alt="" />
-            <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
-            <p>{{ .Params.lead }}</p>
-        </div>
-        {{ end }}
-        <div id="{{ .Params.id }}" class="col-md-6 dr-modalities">
-        </div>    
-    </div>
+        {{ "<!-- /FPF Row -->" | safeHTML }}
+    {{ end }}
+
+
 </div>
 
 {{ end }}

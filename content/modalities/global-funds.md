@@ -101,6 +101,4 @@ Global funds leverage public or private resources in support of international in
 
 In 2019, loan cofinancing from global funds reached $152 million while grant cofinancing, for both investment grants and technical assistance, reached $54.5 million. The Green Climate Fund was a significant contributor, with a $95 million loan cofinancing for Mongolia’s Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project and a $30 million grant for Tonga’s Renewable Energy Project. 
 
-{{< dr-artimage src="./images/modalities/gf-chart.png" width="100%" >}}
-
 {{< gf >}} 
