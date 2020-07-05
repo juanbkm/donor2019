@@ -21,12 +21,12 @@ Australia channels funds toward development work in infrastructure; trade facili
 #### Active Trust Funds 
 
 * ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility 
-* Asia Pacific Project Preparation Facility 
-* Australian Technical Assistance Grant 
+* [Asia Pacific Project Preparation Facility](./modalities/trust-funds/multi-partner-trust-funds/#apppf) 
+* [Australian Technical Assistance Grant](./modalities/trust-funds/single-partner-trust-funds/#atag) 
 * Carbon Capture and Storage Fund under the Clean Energy Financing Partnership Facility 
 * Clean Energy Fund under the Clean Energy Financing Partnership Facility 
-* Cooperation Fund for Regional Trade and Financial Security Initiative 
-* Gender and Development Cooperation Fund 
+* [Cooperation Fund for Regional Trade and Financial Security Initiative](./modalities/trust-funds/multi-partner-trust-funds/#cfrtfsi) 
+* [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf) 
 * Multi-Donor Trust Fund under the Water Financing Partnership Facility 
 * Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
 

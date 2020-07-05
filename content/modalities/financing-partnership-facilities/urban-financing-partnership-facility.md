@@ -78,13 +78,11 @@ draft: false
 
 Now celebrating a decade of cofinancing, the [Urban Financing Partnership Facility](https://www.adb.org/site/funds/funds/urban-financing-partnership-facility) (UFPF) has completed 152 projects that help build green, competitive, resilient, and inclusive cities. 
 
-{{< dr-artimage src="images/modalities/ufpf-mi.jpg" align="" alt="" caption="" >}}
-
 UFPF has $191.9 million total contributions, with $34.9 million committed to 17 projects in 2019. A total of $154.24 million has been committed to 117 projects.
 
 In April 2019, ADB approved the establishment of a fourth trust fund under the UFPF umbrella, the ASEAN Australia Smart Cities Trust Fund (AASCTF). AASCTF aims to improve systems and governance in participating cities of the Association of Southeast Asian Nations (ASEAN) through the adaptation and adoption of digital solutions. 
 
-{{< dr-storybox src="images/modalities/adb-pak-city-water.jpg" url="https://www.adb.org/projects/46526-007/main" title="" align="right" alt="" caption="**Improving City Infrastructure.** The Cities Development Initiative for Asia Trust Fund (CDIATF) provided $900,000 for the project preparation study of ADB’s [Pakistan: Punjab Intermediate Cities Improvement Investment Program](https://www.adb.org/projects/46526-007/main). CDIATF’s support helped identify specific investment projects that would benefit urban populations in four cities, with improved water supply, sanitation, and solid waste management services, and the introduction of green spaces." >}}
+{{< dr-storybox src="images/modalities/adb-pak-city-water.jpg" url="" title="" align="right" alt="" caption="**Improving City Infrastructure.** The Cities Development Initiative for Asia Trust Fund (CDIATF) provided $900,000 for the project preparation study of ADB’s [Pakistan: Punjab Intermediate Cities Improvement Investment Program](https://www.adb.org/projects/46526-007/main). CDIATF’s support helped identify specific investment projects that would benefit urban populations in four cities, with improved water supply, sanitation, and solid waste management services, and the introduction of green spaces." >}}
 
 Established in 2009, the UFPF supports the development of Asia’s cities while addressing pervasive urban issues such as pollution, uneven growth, and urban poverty.  
 

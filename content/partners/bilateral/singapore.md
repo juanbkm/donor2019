@@ -11,5 +11,5 @@ draft: false
 
 #### Development Assistance Agency
 
-* Ministry of Finance  
-* International Enterprise Singapore
+* [Ministry of Finance](https://www.mof.gov.sg/)  
+* [International Enterprise Singapore](https://www.enterprisesg.gov.sg/)

@@ -15,7 +15,7 @@ ADB and UK sought ways to deepen their collaboration in Asia and the Pacific dur
 
 #### Active Trust Funds 
 
-* Afghanistan Infrastructure Trust Fund  
+* [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf)  
 * Carbon Capture and Storage Fund under the Clean Energy Financing Partnership Facility 
 * Clean Energy Fund under the Clean Energy Financing Partnership Facility 
 * Regional Malaria and other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
@@ -24,10 +24,10 @@ ADB and UK sought ways to deepen their collaboration in Asia and the Pacific dur
 
 #### Development Assistance Agencies 
 
-* Department for International Development 
-* Department for Business, Energy & Industrial Strategy 
-* Foreign Commonwealth Office 
-* Other key agencies, including the Conflict, Stability and Security Fund, the Department for Environment, Food and Rural Areas, the BBC World Service, HM Revenue and Customs, Prosperity Fund, and the Scottish Government 
+* [Department for International Development](https://www.gov.uk/government/organisations/department-for-international-development) 
+* [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) 
+* [Foreign Commonwealth Office](https://www.gov.uk/government/organisations/foreign-commonwealth-office) 
+* Other key agencies, including the [Conflict, Stability and Security Fund](https://www.gov.uk/government/organisations/conflict-stability-and-security-fund), [the Department for Environment, Food and Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs), [the BBC World Service](https://www.bbc.com/), [HM Revenue and Customs](https://www.gov.uk/government/organisations/hm-revenue-customs/about/our-governance), [Prosperity Fund](https://www.gov.uk/government/publications/cross-government-prosperity-fund-programme), and [the Scottish Government](https://www.gov.scot/) 
 
 <split>
 
@@ -305,4 +305,4 @@ Asia Economic Integration Partnership - Power Trading in Bangladesh and Nepal
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, TA = technical assistance cofinancing</p>

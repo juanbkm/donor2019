@@ -18,14 +18,14 @@ Several departments coordinated through the Ministry of Cooperation and External
 
 * Clean Energy Fund under the Clean Energy Financing Partnership Facility 
 * Multi-Donor Trust Fund unde the Water Financing Partnership Facility 
-* Spanish Cooperation Fund for Technical Assistance
+* [Spanish Cooperation Fund for Technical Assistance](./modalities/trust-funds/single-partner-trust-funds/#scfta)
  
 #### Development Assistance Agencies 
 
-* Ministry of Treasury and Public Function (Ministry of Finance) 
-* Ministry of Foreign Affairs, European Union and Cooperation  
-* Spanish Agency for International Development Cooperation   
-* Ministry of Economy and Competitiveness  
+* [Ministry of Treasury and Public Function (Ministry of Finance)](https://www.hacienda.gob.es/) 
+* [Ministry of Foreign Affairs, European Union and Cooperation](http://www.exteriores.gob.es/Portal/es/Paginas/inicio.aspx)  
+* [Spanish Agency for International Development Cooperation](https://www.aecid.es/es/)   
+* [Ministry of Economy and Competitiveness](https://www.mineco.gob.es/)  
 
 <split>
 

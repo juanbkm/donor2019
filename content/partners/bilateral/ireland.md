@@ -16,12 +16,12 @@ The Ireland Trust Fund for Building Climate Change and Disaster Resilience in Sm
 
 #### Active Trust Funds
 
-* Gender and Development Cooperation Fund
-* Governance Cooperation Fund
-* Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States
+* [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf)
+* [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf)
+* [Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States](./modalities/trust-funds/single-partner-trust-funds/#itfbccdrsids)
 
 #### Development Assistance Agencies
 
-* Department of Finance
-* Department of Foreign Affairs and Trade  
-* Irish Aid
+* [Department of Finance](https://www.gov.ie/en/organisation/department-of-finance/)
+* [Department of Foreign Affairs and Trade](https://www.dfa.ie/)  
+* [Irish Aid](https://www.irishaid.ie/) 

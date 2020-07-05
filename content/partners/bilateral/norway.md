@@ -18,15 +18,15 @@ In November 2019, ADB and the Government of Norway signed the cofinancing agreem
 #### Active Trust Funds 
 
 * Clean Energy Fund under the Clean Energy Financing Partnership Facility 
-* Cooperation Fund in Support of Managing for Development Results 
-* Gender and Development Cooperation Fund 
-* Governance Cooperation Fund 
+* [Cooperation Fund in Support of Managing for Development Results](./modalities/trust-funds/multi-partner-trust-funds/#cfsmdr) 
+* [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf) 
+* [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf) 
 * Multi-Donor Trust Fund under the Water Financing Partnership Facility  
  
 #### Development Assistance Agencies 
 
-* Ministry of Foreign Affairs  
-* Norwegian Agency for Development Cooperation
+* [Ministry of Foreign Affairs](https://www.regjeringen.no/en/dep/ud/id833/)  
+* [Norwegian Agency for Development Cooperation](https://norad.no/en/front/)
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Norway

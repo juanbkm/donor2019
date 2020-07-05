@@ -14,14 +14,14 @@ Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the 
 
 #### Active Trust Funds 
 
-* Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas I and II
-* Gender and Development Cooperation Fund 
-* Governance Cooperation Fund 
+* [Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas I and II](./modalities/trust-funds/single-partner-trust-funds/#dcfreeera)
+* [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf)
+* [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf) 
 
 #### Development Assistance Agencies 
 
-* Ministry of Foreign Affairs 
-* Danish International Development Agency under the Ministry of Foreign Affairs 
+* [Ministry of Foreign Affairs](https://um.dk/en/) 
+* [Danish International Development Agency](https://um.dk/en/danida-en/) under the Ministry of Foreign Affairs 
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Denmark

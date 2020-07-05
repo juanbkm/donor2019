@@ -18,13 +18,13 @@ In Asia, Sweden prioritizes Afghanistan, Bangladesh, Cambodia, and regional prog
 #### Active Trust Funds 
 
 * Clean Energy Fund under the Clean Energy Financing Partnership Facility  
-* Future Carbon Fund 
+* [Future Carbon Fund](./modalities/trust-funds/multi-partner-trust-funds/#fcf) 
 * Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility 
  
 #### Development Assistance Agencies 
 
-* Ministry for Foreign Affairs 
-* Swedish International Development Cooperation Agency  
+* [Ministry for Foreign Affairs](https://www.government.se/government-of-sweden/ministry-for-foreign-affairs/) 
+* [Swedish International Development Cooperation Agency](https://www.sida.se/English/)  
 
 <split>
 

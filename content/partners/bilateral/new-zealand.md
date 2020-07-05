@@ -16,8 +16,8 @@ In 2019, New Zealand expressed support to the Pacific Renewable Energy Program, 
 
 #### Development Assistance Agencies 
 
-* Ministry of Foreign Affairs and Trade  
-* New Zealand’s International Aid and Development Agency  
+* [Ministry of Foreign Affairs and Trade](https://www.mfat.govt.nz/)  
+* [New Zealand’s International Aid and Development Agency](https://www.mfat.govt.nz/en/aid-and-development/)  
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with New Zealand

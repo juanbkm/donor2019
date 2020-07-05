@@ -15,12 +15,12 @@ Finland’s priority countries are Afghanistan, Nepal, and Myanmar. The country 
 
 #### Active Trust Fund 
 
-* Future Carbon Fund 
+* [Future Carbon Fund](./modalities/trust-funds/multi-partner-trust-funds/#fcf) 
 
 #### Development Assistance Agencies 
 
-* Ministry of Foreign Affairs 
-* Finnish Fund for Industrial Development Cooperation Ltd. (Finnfund) 
+* [Ministry of Foreign Affairs](https://um.fi/frontpage) 
+* [Finnish Fund for Industrial Development Cooperation Ltd. (Finnfund)](https://www.finnfund.fi/en/finnfund/) 
 
 <split>
 

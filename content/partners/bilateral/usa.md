@@ -16,13 +16,13 @@ The [United States Agency for International Development](https://www.usaid.gov/)
 
 #### Active Trust Funds 
 
-* Cooperation Fund for Regional Trade and Financial Security Initiative 
-* Afghanistan Infrastructure Trust Fund  
+* [Cooperation Fund for Regional Trade and Financial Security Initiative](./modalities/trust-funds/multi-partner-trust-funds/#cfrtfsi) 
+* [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf)  
 * Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility  
 
 #### Development Assistance Agency 
 
-* United States Agency for International Development  
+* [United States Agency for International Development]((https://www.usaid.gov/))  
   
 <split>
 

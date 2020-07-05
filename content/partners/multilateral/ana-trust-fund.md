@@ -10,4 +10,4 @@ draft: false
 
 The <a href="https://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2019_02/20190215_1902-backgrounder-ana-trust-fund-en.pdf">Afghan National Army (ANA) Trust Fund</a> was created in 2007 to provide a mechanism to support the transportation and installation of equipment and services for ANA engineering projects, and to support in and out-of-country training. The NATO-run ANA Trust Fund is one of three funding streams used to channel its financial support to Afghanistan’s security forces and institutions.  
 
-ANA Trust Fund supports the Afghanistan Infrastructure Trust Fund, a platform for financing infrastructure investments for the Afghan people. In 2019, the ANA Trust Fund contributed $93 million to the AITF. 
+ANA Trust Fund supports the [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf), a platform for financing infrastructure investments for the Afghan people. In 2019, the ANA Trust Fund contributed $93 million to the AITF.

@@ -2,7 +2,8 @@
 title: "Accelerating Progress in Gender Equality"
 date: 2020-05-01T01:01:06+08:00
 weight: 2
-lead: "Of the 148 projects cofinanced by ADB and its partners, 67 are gender mainstreamed, meaning they are classified as either Gender Equity Theme (GEN) or Effective Gender Mainstreaming (EGM). Future partnerships will strongly support the gender equality agenda and not let gender equality gains slide."
+lead: "Of the 148 projects cofinanced by ADB and its partners in 2019, 86 (58%) promote gender equality and women’s empowerment.*  
+Future partnerships will strongly support the gender equality agenda and not let gender equality gains slide."
 main_image: images/strategy-2030/gender-equality.jpg
 main_image_thumb: images/strategy-2030/gender-equality-th.jpg
 icon: images/strategy-2030/icn-gender.svg
@@ -18,7 +19,7 @@ draft: false
 
 Despite Asia’s gains in gender equality and women’s empowerment in the past decades, inequalities still exist and progress has been uneven. [Maternal mortality rates and life expectancy of women](https://www.adb.org/documents/gender-equality-2030-future-directions-adb) have improved significantly over the past 50 years, and [education gender gaps](https://www.adb.org/documents/strategy-2030-prosperous-inclusive-resilient-sustainable-asia-pacific) have been reduced if not reversed even in certain countries. The Asia Pacific is the only global region with a declining labor force participation of women; however, according to a [report by the International Labour Organisation](https://www.ilo.org/global/publications/books/WCMS_633135/lang--en/index.htm) (ILO), women in Asia work the longest hours in the world when their paid and unpaid work is combined. Women remain concentrated in the informal economy (60%) and in vulnerable jobs; with digital transformation of the economy, [women’s jobs](https://www.ilo.org/global/publications/books/WCMS_626831/lang--en/index.htm) are at greater risk of being eliminated. [Women's wages](https://www.unwomen.org/en/news/in-focus/csw61/equal-pay) are equivalent to only 77% of men’s wages, with huge variations across countries and sectors. A key challenge for gender equality is the persistence of discriminatory social norms, which drives harmful practices such as early marriage. Rates of gender-based violence remain very high, with 60% of women in certain countries reporting some form of intimate partner violence.
 
-{{< dr-yt video="i1aupy1X3g4" align="" title="Sri Lanka: SMEs Mainstream Women into Sri Lanka’s Economy" cover="cover-yt-access-to-credit-empowers-sri-lankan-women.jpg" >}}
+{{< dr-yt video="FjedjbrikqQ" align="" title="Sri Lanka: SMEs Mainstream Women into Sri Lanka’s Economy" cover="cover-yt-access-to-credit-empowers-sri-lankan-women.jpg" >}}
 
 ADB is committed to closing gender equality gaps in the region and supporting women’s empowerment. Accelerating progress in gender equality is Operational Priority 2 of Strategy 2030. Under Strategy 2030, ADB committed to ensuring that at least 75% of ADB’s operations at entry promote gender equality by 2030.
 
@@ -66,4 +67,6 @@ To protect women in low-income and vulnerable households against economic, food,
 
 ### Moving Forward
 
-ADB’s financing partnerships have made substantial contributions to strengthening ADB’s ability to deliver transformative projects and knowledge projects that are addressing the drivers of gender inequality and ensuring better development outcomes for women and girls in the region. ADB is committed to increasing its attention to the transformative gender agenda and to working with partners to help women as well as DMCs overcome persistent gender inequalities, which not only infringe on women’s rights and opportunities, but also limit the region’s growth. This is particularly relevant in the post-COVID 19 context, where women are at greater risk of job losses and poverty. Putting women and girls at the heart of the response and recovery has the potential to be a gamechanger for regional economies.
+ADB’s financing partnerships have made substantial contributions to strengthening ADB’s ability to deliver transformative projects and knowledge projects that are addressing the drivers of gender inequality and ensuring better development outcomes for women and girls in the region. ADB is committed to increasing its attention to the transformative gender agenda and to working with partners to help women as well as DMCs overcome persistent gender inequalities, which not only infringe on women’s rights and opportunities, but also limit the region’s growth. This is particularly relevant in the post-COVID 19 context, where women are at greater risk of job losses and poverty. Putting women and girls at the heart of the response and recovery has the potential to be a gamechanger for regional economies. 
+
+<p class="dr-fn">* In ADB's classification, these projects are categorized as “effective gender mainstreaming,” having "gender equity as theme,” or having “some gender elements.” Transaction technical assistance, which directly benefits a project or is financed by ADB (e.g., project preparation, project implementation support, or policy advice), are excluded.</p>

@@ -21,8 +21,8 @@ draft: false
  
 #### Development Assistance Agencies 
 
-* Swiss Agency for Development and Cooperation (SDC)
-* State Secretariat for Economic Affairs (SECO) 
+* [Swiss Agency for Development and Cooperation (SDC)](https://www.eda.admin.ch/sdc)
+* [State Secretariat for Economic Affairs (SECO)](https://www.seco.admin.ch/seco/en/home.html) 
  
 <split>
 

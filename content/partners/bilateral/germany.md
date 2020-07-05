@@ -18,15 +18,15 @@ ADB and KfW signed a second amendment to the ADB–KfW Cofinancing Memorandum of
 
 #### Active Trust Funds 
 
-* Afghanistan Infrastructure Trust Fund 
-* Asia Pacific Climate Finance Fund 
+* [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf) 
+* [Asia Pacific Climate Finance Fund](./modalities/trust-funds/multi-partner-trust-funds/#apcff) 
 * Cities Development Initiative for Asia Trust Fund 
 
 #### Development Assistance Agencies 
 
-* Federal Ministry for Economic Cooperation and Development (BMZ) 
-* KfW 
-* Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
+* [Federal Ministry for Economic Cooperation and Development (BMZ)](https://www.bmz.de/en/)
+* [KfW](https://www.kfw.de/KfW-Group/) 
+* [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)](https://www.giz.de/en/html/index.html)
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Germany

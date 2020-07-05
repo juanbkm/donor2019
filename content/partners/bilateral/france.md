@@ -19,16 +19,16 @@ In October 2016, ADB and AFD signed a Partnership Framework Agreement (PFA) for 
 
 #### Active Trust Funds
 
-* Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries 
-* Technical Assistance Grant Fund (France) 
+* [Cooperation Fund for Project Preparation in the Greater Mekong Subregion and in Other Specific Asian Countries](./modalities/trust-funds/single-partner-trust-funds/#cfppgmsosac) 
+* [Technical Assistance Grant Fund (France)](./modalities/trust-funds/single-partner-trust-funds/#tagff) 
 
 #### Development Assistance Agencies
 
 * Inter-Ministerial Committee for International Cooperation and Development (CICID) 
-* Ministry of Foreign and European Affairs 
-* Ministry of the Economy and Finance 
-* Ministry of the Interior, Overseas France, Local Authorities and Immigration 
-* Agence Française de Développement 
+* [Ministry of Foreign and European Affairs](https://www.diplomatie.gouv.fr/en/) 
+* [Ministry of the Economy and Finance](https://www.economie.gouv.fr/) 
+* [Ministry of the Interior, Overseas France, Local Authorities and Immigration](https://www.interieur.gouv.fr/) 
+* [Agence Française de Développement](https://www.afd.fr/en) 
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with France

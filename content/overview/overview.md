@@ -29,5 +29,5 @@ ADB continues to develop, facilitate, and implement partnerships through trust f
 * [ASEAN Australia Smart Cities](https://www.adb.org/site/funds/funds/asean-australia-smart-cities-fund), established under the Urban Financing Partnerships. Facility and with A$21.7 million contribution from Australia, aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
 
 <p class="dr-note">
-NOTE: All figures in the Partnership Report 2019 are based on commitments. As defined by ADB, “commitment” is the financing approved by ADB’s Board of Directors or Management for which the investment agreement has been signed by the borrower, recipient, or the investee company and ADB. It is the amount indicated in the investment agreement that may or may not be equal to the approved amount, depending on the exchange rate at the time of signing.
+All figures in the Partnership Report 2019 are based on commitments. As defined by ADB, “commitment” is the financing approved by ADB’s Board of Directors or Management for which the investment agreement has been signed by the borrower, recipient, or the investee company and ADB. It is the amount indicated in the investment agreement that may or may not be equal to the approved amount, depending on the exchange rate at the time of signing.
 </p>

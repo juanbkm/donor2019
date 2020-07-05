@@ -11,10 +11,10 @@ draft: false
 
 #### Active Trust Fund 
 
-* Future Carbon Fund 
+* [Future Carbon Fund](./modalities/trust-funds/multi-partner-trust-funds/#fcf) 
 
 #### Development Assistance Agencies 
 
-* International and European Financial Affairs, Belgian Federal Treasury 
-* Directorate-General for Development Cooperation and Humanitarian Aid integrated into the Federal Public Service Foreign Affairs, Foreign Trade and Development Cooperation 
-* Belgian Technical Cooperation 
+* [International and European Financial Affairs, Belgian Federal Treasury](https://finance.belgium.be/en/IEFA) 
+* [Directorate-General for Development Cooperation and Humanitarian Aid integrated into the Federal Public Service Foreign Affairs, Foreign Trade and Development Cooperation](https://diplomatie.belgium.be/en/policy/development_cooperation/who_we_are/our_organisation/dgd) 
+* [Belgian Technical Cooperation](https://www.enabel.be/) 

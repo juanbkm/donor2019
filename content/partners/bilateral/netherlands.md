@@ -13,12 +13,12 @@ Its support to the Netherlands Trust Funds extends until 2020, through its $9.5 
 
 #### Active Trust Funds 
 
-* Cooperation Fund in Support of Managing for Development Results 
+* [Cooperation Fund in Support of Managing for Development Results](./modalities/trust-funds/multi-partner-trust-funds/#cfsmdr) 
 * Netherlands Trust Fund under the Water Financing Partnership Facility 
  
 #### Development Assistance Agency
 
-* Ministry of Foreign Affairs  
+* [Ministry of Foreign Affairs](https://www.government.nl/ministries/ministry-of-foreign-affairs)  
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Netherlands, The

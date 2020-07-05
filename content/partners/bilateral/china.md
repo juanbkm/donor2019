@@ -19,16 +19,16 @@ PRC prioritizes investments on projects that promote regional connectivity and c
 
 #### Active Trust Fund 
 
-* People's Republic of China Poverty Reduction and Regional Cooperation Fund 
+* [People's Republic of China Poverty Reduction and Regional Cooperation Fund](./modalities/trust-funds/single-partner-trust-funds/#prcprrcf) 
 
 #### Development Assistance Agencies 
 
-* Ministry of Finance 
-* Bank of Beijing 
-* China Construction Bank Corporation 
-* Export-Import Bank of China (China Eximbank) 
-* Huaxia Bank 
-* Shanghai Pudong Development Bank 
+* [Ministry of Finance](http://english.www.gov.cn/state_council/2014/09/09/content_281474986284115.htm) 
+* [Bank of Beijing](http://www.bankofbeijing.com.cn/en2011/) 
+* [China Construction Bank Corporation](http://www.ccb.com/en/home/index.html) 
+* [Export-Import Bank of China](http://english.eximbank.gov.cn/) (China Eximbank) 
+* [Huaxia Bank](https://www.hxb.com.cn/index.shtml) 
+* [Shanghai Pudong Development Bank](https://eng.spdb.com.cn/) 
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with the People's Republic of China

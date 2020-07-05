@@ -13,13 +13,13 @@ Its main partner countries in Asia include Lao PDR, where it supports initiative
 
 #### Active Trust Fund
 
-* Financial Sector Development Partnership Fund 
+* [Financial Sector Development Partnership Fund](./modalities/trust-funds/multi-partner-trust-funds/#fsdpf) 
  
 #### Development Assistance Agencies
  
-* Development Cooperation Directorate of the Ministry of Foreign and European Affairs 
-* Ministry of Finance  
-* Lux-Development  
+* [Development Cooperation Directorate of the Ministry of Foreign and European Affairs](https://cooperation.gouvernement.lu/en.html) 
+* [Ministry of Finance](https://mfin.gouvernement.lu/en.html)  
+* [Lux-Development](https://luxdev.lu/en/home)  
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Luxembourg
@@ -40,4 +40,4 @@ Its main partner countries in Asia include Lao PDR, where it supports initiative
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> TA = technical assistance cofinancing</p>

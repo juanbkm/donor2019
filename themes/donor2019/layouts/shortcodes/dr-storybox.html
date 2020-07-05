@@ -9,5 +9,5 @@
         {{ $markdown }}
     {{ end }}
 
-    <p><a href="{{.Get `url` }}">Read the story</a></p>
+    {{ with .Get `url` }}<p><a href="{{ . }}">Read the story</a></p>{{ end }}
 </div>

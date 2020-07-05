@@ -14,19 +14,19 @@ Canada’s priority sectors for development assistance are gender, governance, p
 
 #### Active Trust Funds
 
-* Asia Pacific Project Preparation Facility 
+* [Asia Pacific Project Preparation Facility](./modalities/trust-funds/multi-partner-trust-funds/#apppf) 
 * Canadian Climate Fund for the Private Sector in Asia under the Clean Energy Financing Partnership Facility 
-* Canadian Climate Fund for the Private Sector in Asia II 
-* Canadian Cooperation Fund on Climate Change 
-* Cooperation Fund in Support of Managing for Development Results 
-* Gender and Development Cooperation Fund  
-* Governance Cooperation Fund 
-* Integrated Disaster Risk Management Fund 
+* [Canadian Climate Fund for the Private Sector in Asia II](./modalities/trust-funds/single-partner-trust-funds/#ccfpsa) 
+* [Canadian Cooperation Fund on Climate Change](./modalities/trust-funds/single-partner-trust-funds/#ccfcc) 
+* [Cooperation Fund in Support of Managing for Development Results](./modalities/trust-funds/multi-partner-trust-funds/#cfsmdr) 
+* [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf)  
+* [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf) 
+* [Integrated Disaster Risk Management Fund](./modalities/trust-funds/single-partner-trust-funds/#idrmf) 
 * Regional Malaria and other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
 
 #### Development Assistance Agency
 
-* Global Affairs Canada (formerly Department of Foreign Affairs, Trade, and Development 
+* [Global Affairs Canada](https://www.international.gc.ca/gac-amc/index.aspx?lang=eng) (formerly Department of Foreign Affairs, Trade, and Development 
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Canada
