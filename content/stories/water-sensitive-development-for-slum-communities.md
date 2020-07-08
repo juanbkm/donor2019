@@ -8,7 +8,7 @@ description: "This is meta description"
 country: Indonesia
 summary: "Urban footpaths with nature-based designs and other water-sensitive improvements have transformed slums in Makassar City, Indonesia for the better, and the makeover is just beginning. The project, financed by the Urban Climate Change Resilience Trust Fund, piloted green technology to improve the lives and health of the urban poor."
 project_title: "Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach"
-project_url: https://www.adb.org/projects/51290-001/main
+project_url: https://www.adb.org/projects/51290-001/main#project-pds
 cost: "$525,000"
 fin_partners:
   - name: "Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility"
@@ -39,7 +39,7 @@ The monsoon season is always met with anxiety in Batua, a small multiethnic comm
 
 In an effort to alleviate the poor conditions, each household in the community would contribute $10 to build communal bamboo rafts and footpaths so they can navigate across the dirty floodwater. Adding to their plight, typhoons are becoming increasingly stronger and the duration of the monsoon season now fluctuates, all consequences of climate change. This seasonal flooding, coupled with the lack of access to basic water and sanitation services that lead to higher incidences of waterborne diseases, is a chronic burden of the community.
 
-Responding to these needs, ADB and the Sustainable Development Institute of Monash University partnered with the City Government of Makassar to improve the living and accessibility conditions in the marginalized community. ADB’s [Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach](https://www.adb.org/projects/51290-001/main) (Indonesia component), financed by the Urban Climate Change Resilience Trust Fund (UCCRTF) under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/), supported the piloting of a nature-based, water sensitive approach and technology. RISE is an action research program, supported by ADB and other development agencies, working at the intersections of health, environment, water, and sanitation.
+Responding to these needs, ADB and the Sustainable Development Institute of Monash University partnered with the City Government of Makassar to improve the living and accessibility conditions in the marginalized community. ADB’s [Regional: Revitalization of Informal Settlements and their Environments (RISE) using a Water-Sensitive Approach](https://www.adb.org/projects/51290-001/main#project-pds) (Indonesia component), financed by the Urban Climate Change Resilience Trust Fund (UCCRTF) under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/), supported the piloting of a nature-based, water sensitive approach and technology. RISE is an action research program, supported by ADB and other development agencies, working at the intersections of health, environment, water, and sanitation.
 
 ### Interventions
 

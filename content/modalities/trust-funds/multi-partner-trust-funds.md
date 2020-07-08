@@ -5,10 +5,6 @@ main_image: images/modalities/mptf.jpg
 pageid: dr-mptf
 summary: |
   Multi-partner trust funds introduced in the 2000s have promoted collaboration among ADB’s financing partners and attracted new and nontraditional partners from the private sector, including philanthropic organizations. 
-
-  Of the $181 million allocated by trust funds to sovereign projects, $57 million (32%) came from multi-partner trust funds.
-
-  In 2019, 14 projects were approved with funding from multi-partner trusts funds. The High-Level Technology Fund provided a total of $12.1 million for 12 projects, the Asia Pacific Project Preparation Facility for $45 million for one project, and the Cooperation Fund in Support of Managing for Development Results funded one project with $10,000. All ADB-approved projects is net of savings for financially completed projects and direct charges.
 tf:
   - item:
     type: multi
@@ -211,9 +207,13 @@ weight:
 draft: false
 ---
 
-Of the $181 million allocated by trust funds to sovereign projects, $57 million (32%) came from multi-partner trust funds. 
+{{< dr-artimage src="./images/modalities/psc.jpg" width="50%" align="left-ni" caption="" >}}
 
-In 2019, 14 projects were approved with funding from multi-partner trusts funds. The High-Level Technology Fund provided a total of $12.1 million for 12 projects, the Asia Pacific Project Preparation Facility for $45 million for one project, and the Cooperation Fund in Support of Managing for Development  Results funded one project with $10,000.
+Of the $181 million allocated by trust funds to sovereign projects, $57 million (32%) came from multi-partner trust funds.
+
+In 2019, 14 projects were approved with funding from multi-partner trusts funds. The [High-Level Technology Fund](./modalities/trust-funds/multi-partner-trust-funds/#hltf) provided a total of $12.1 million for 12 projects, the [Asia Pacific Project Preparation Facility](./modalities/trust-funds/multi-partner-trust-funds/#apppf) for $45 million for one project, and the Cooperation Fund in Support of Managing for Development Results funded one project with $10,000. All ADB-approved projects is net of savings for financially completed projects and direct charges.
+
+All ADB-approved projects is net of savings for financially completed projects and direct charges.
 
 {{< mptf >}}
 

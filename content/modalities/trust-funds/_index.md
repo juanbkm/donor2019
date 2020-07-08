@@ -11,16 +11,16 @@ tfnav:
     summary: |
       ADB is a trustee of 18 active single-partner trust funds, with contributions from Australia, Canada, People’s Republic of China, Denmark, France, Ireland, Japan, Republic of Korea, and Spain.
     link: ./modalities/trust-funds/single-partner-trust-funds/
-  - name: Multi-partner Trust Funds
+  - name: Multi-Partner Trust Funds
     image: images/modalities/mptf.jpg
     summary: |
-      Multi-partner trust funds promote collaboration among ADB’s financing partners and attract new partners from the private sector, including philanthropic organizations. ADB is a trustee of 12 multi-partner trust funds.
+      Multi-Partner trust funds promote collaboration among ADB’s financing partners and attract new partners from the private sector, including philanthropic organizations. ADB is a trustee of 12 multi-partner trust funds.
     link: ./modalities/trust-funds/multi-partner-trust-funds/
   - name: Financing Partnerships Facilities
     image: images/modalities/fpf.jpg
     summary: |
       Financing partnership facilities house trust funds that finance projects to support ADB’s corporate initiatives on clean energy, health, regional cooperation, urban development, and water.
-    link: ./modalities/trust-funds/financing-partnership-facilities/
+    link: ./modalities/financing-partnership-facilities/
 stories:
   - storytitle: Wind Power for More Renewable Power
     lead: "Sri Lanka is keen on developing wind power as an alternative to more costly thermal power. An ADB technical assistance supported by the Clean Energy Fund, built the capacity of Sri Lanka’s largest electric company to handle wind power projects with private sector involvement."
@@ -69,14 +69,14 @@ The largest commitments in support of the ADB’s sovereign operations were from
 
 The [Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States](./modalities/trust-funds/single-partner-trust-funds/#itfbccdrsids) (SIDS), established in 2019, has an initial €12 million contribution from [Ireland]({{< ref "ireland.md" >}}) to help SIDS manage disasters caused by natural hazards and the impacts of climate change.
 
+{{< tf-nav >}}
+
 Of the 45 ADB-managed trust funds, 15 are part of ADB’s [Financing Partnerships Facilities](./modalities/financing-partnership-facilities/) (FPFs), which offer partners an opportunity for long-term investments in key development priorities aligned with ADB’s corporate initiatives. Currently, there are five FPFs focused on clean energy, health, regional cooperation and integration, urban development, and water.
 
 FPFs are operational mechanisms for strategic, long-term, multi-partner cooperation. They have set targets and objectives, ensure a steady and coordinated flow of funds, and are intensively managed to ensure that these goals are achieved, from application processing to project development and results monitoring. In 2019, the ASEAN Australia Smart Cities was established under the [Urban Financing Partnerships Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) with an initial funding of $15.2 million. It aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
-
-### New Contributions and Replenishments
 
 In 2019, ADB’s trust funds received replenishments totaling $297.7 million and new contributions amounting to just under $28.7 million. The breakdown is as follows:
 
 {{< dr-artimage src="./images/modalities/tf-chart.png" width="100%" >}}
 
-{{< tf-nav >}}
+{{< tf-stories >}}

@@ -9,7 +9,7 @@ description: "This is meta description"
 country: Regional
 summary: "The Mekong region is introducing tourists to a wider array of attractions after several tourism start-ups are placed under an innovation accelerator program, supported by the Government of Australia. As the success of these start-ups gains and sustains momentum, the Mekong region is on its way to having a more inclusive and sustainable tourism industry."
 project_title: "REG: Mekong Tourism Innovation"
-project_url: "https://www.adb.org/projects/52108-001/main"
+project_url: "https://www.adb.org/projects/52108-001/main#project-pds"
 cost: "$150,000"
 fin_partners: 
   - name: "Government of Australia"

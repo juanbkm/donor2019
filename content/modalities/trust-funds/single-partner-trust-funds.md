@@ -107,7 +107,7 @@ tf:
     year: 2019
     image:
     tcc: $13.5 million
-    cfp: $500,000 for 2 direct charges
+    cfp: $50,000 for 2 direct charges
     contributor:
       - item:
         partner: Ireland  
@@ -263,7 +263,7 @@ tf:
       The Spanish Cooperation Fund for Technical Assistance provides grants to selected Developing member countries embarking on projects that focus on natural resources and rural development, water, sanitation, and other urban infrastructure and services, and renewable energy.  The grants cover technical assistance operations, including project preparation and advisory services. Spain provided $1.17 million to replenish the fund. It has cofinanced 25 projects to date, the majority of which addressed rural development, water and urban infrastructure, and energy. 
   - item:
     type: single
-    name: Technical Assistance Grant Fund  
+    name: Technical Assistance Grant Fund (France)
     id: tagff
     url: https://www.adb.org/site/funds/funds/cooperation-france-technical-assistance-grant-fund
     year: 1989

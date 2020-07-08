@@ -108,7 +108,7 @@ fca:
     ccp: $45.7 million for 18 projects
     cfpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
     description: |
-      ADB’s and the Nordic Development Fund’s (NDF) ongoing collaboration is under an MOU, signed in January 2011, for institutional cooperation and cofinancing of programs and projects. This arrangement specified the type of initiatives the fund supports, which includes projects on climate change mitigation and adaptation. To date, this partnership has cofinanced 19 projects, the most recent of which is the ongoing [Preparation of the ADB Ventures Facility](https://www.adb.org/projects/52295-001/main), a new impact investment platform launched in 2019. This technical assistance will prepare the Facility that will support and invest in technology-driven businesses that can help ADB DMCs achieve the Sustainable Development Goals. 
+      ADB’s and the Nordic Development Fund’s (NDF) ongoing collaboration is under an MOU, signed in January 2011, for institutional cooperation and cofinancing of programs and projects. This arrangement specified the type of initiatives the fund supports, which includes projects on climate change mitigation and adaptation. To date, this partnership has cofinanced 19 projects. 
 
       ADB and NDF work on projects in the fields of energy, infrastructure, and natural resources sectors. NDF projects are currently concentrated in Bangladesh, Cambodia, the Lao People's Democratic Republic, Nepal, Sri Lanka, and Viet Nam.
   - item:
@@ -142,21 +142,18 @@ weight: 2
 draft: false
 ---
 
-PFAs can come in different forms—from a memorandum of understanding to an aide memoire to a framework cofinancing agreement─ depending on the preferences and limitations of a financing partner. For instance, ADB and the Agence Française de Développement (AFD) have a Partnership Framework Arrangement, ADB and the Eurasian Development Bank have a Framework Cofinancing Arrangement, and ADB and KfW have a Memorandum of Agreement.
+PFAs can come in different forms—from a memorandum of understanding to an aide memoire to a framework cofinancing agreement─ depending on the preferences and limitations of a financing partner. For instance, ADB and the [Agence Française de Développement](./modalities/partnership-framework-arrangements/#afd) (AFD) have a Partnership Framework Arrangement, ADB and the [Eurasian Development Bank](./modalities/partnership-framework-arrangements/#edb) have a Framework Cofinancing Arrangement, and ADB and [KfW](./modalities/partnership-framework-arrangements/#kfw) have a Memorandum of Agreement.
 
 Generally, PFAs detail the guiding principles of the partnership, the institutions’ common objectives, the scope of their cooperation and activities, and processes for monitoring, reporting, information exchange, and evaluation. PFAs may be updated through exchanges of letters. Specifically, PFAs
 
 * formalize the country, sector, and drivers of change priorities of the financing partner
-
 * establish the terms and mode of cofinancing
-
 * identify the roles and responsibilities of each party (such as project administration and information sharing)
-
 * indicate the financing partner’s amount available for cofinancing over a period
 
-ADB’s [first](https://www.adb.org/documents/partnering-development-donor-report-2011) PFA was with the Government of Japan in 2007. This PFA, which they formalized as the “Framework Agreement for the Implementation of the Accelerated Cofinancing Scheme,” committed between $1 billion and $2 billion (equivalent) over 5 years for projects that enhance climate investments, strengthen regional cooperation, and support energy efficiency for countries in Central Asia, the Caucasus, and the Pacific. This was followed by agreements with the Republic of Korea and the Islamic Development Bank (IsDB) in 2008, the People’s Republic of China in 2009, and France's AFD in 2010.
+ADB’s [first](https://www.adb.org/documents/partnering-development-donor-report-2011) PFA was with the Government of [Japan]({{< ref "japan.md" >}}) in 2007. This PFA, which they formalized as the “Framework Agreement for the Implementation of the Accelerated Cofinancing Scheme,” committed between $1 billion and $2 billion (equivalent) over 5 years for projects that enhance climate investments, strengthen regional cooperation, and support energy efficiency for countries in Central Asia, the Caucasus, and the Pacific. This was followed by agreements with the [Republic of Korea]({{< ref "korea.md" >}}) and the [Islamic Development Bank](./partners/multilateral/islamic-development-bank/) (IsDB) in 2008, the [People’s Republic of China]({{< ref "china.md" >}}) in 2009, and France's [AFD](./modalities/partnership-framework-arrangements/#afd) in 2010.
 
-In 2019, ADB had active PFAs with 11 financing partners, with a total funding envelope of about $20.25 billion. Two were expanded in 2019—those for the Agence Française de Développement (AFD) and the KfW—and one was newly signed with the Asian Infrastructure Investment Bank (AIIB). Under all active FPAs, ten projects amounting to $3.74 billion were signed in 2019. This represents 77% of sovereign cofinancing operations for the year.
+In 2019, ADB had active PFAs with 11 financing partners, with a total funding envelope of about $20.25 billion. Two were expanded in 2019—those for the [Agence Française de Développement](./modalities/partnership-framework-arrangements/#afd) (AFD) and the [KfW](./modalities/partnership-framework-arrangements/#kfw)—and one was newly signed with the [Asian Infrastructure Investment Bank](./partners/multilateral/asian-infrastructure-investment-bank/) (AIIB). Under all active PFAs, ten projects amounting to $3.74 billion were signed in 2019. This represents 77% of sovereign cofinancing operations for the year.
 
-
-{{< fca >}}
+In the details below, figures for cumulative commitment include all PFAs from inception, not just the utilization for the latest active PFA.
+{{< fca >}} 

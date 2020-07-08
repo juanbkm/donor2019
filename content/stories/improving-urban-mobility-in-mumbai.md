@@ -45,7 +45,7 @@ The railway is the primary means of transport for 12 million of Mumbai's inhabit
 
 Aiming to address the problem, the Government of Maharashtra came up with a masterplan in 2013. The plan includes developing a metro rail system that would supplement the highly congested suburban railway. Twelve lines are planned for metro rail development covering over 276 km.
 
-ADB is supporting the government's Metro expansion plans by financing two of the state's proposed lines. The [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main), which is among the largest infrastructure loans in ADB history is cofinanced by the [New Development Bank]({{< ref "new-development-bank.md" >}}).
+ADB is supporting the government's Metro expansion plans by financing two of the state's proposed lines. The [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main#project-pds), which is among the largest infrastructure loans in ADB history is cofinanced by the [New Development Bank]({{< ref "new-development-bank.md" >}}).
 
 ### Interventions
 
@@ -65,4 +65,4 @@ To date, the following has been undertaken:
 * Social and Environmental Due Diligence Reports completed
 * Maha Mumbai Metro (M3) Operation Corporation Limited (MMMOCL) established to manage operation and maintenance
 
-Once operational by the end of 2022, an estimated 2 million passengers a day will use the two new lines, travelling in improved safety and comfort. It will also reduce emissions from vehicles, with carbon dioxide emissions expected to fall by about 166,000 tons a year.
+Once operational by the end of 2022, an estimated 2 million passengers a day will use the two new lines, travelling in improved safety and comfort. It will also reduce emissions from vehicles, with carbon dioxide emissions expected to fall by about 166,000 tons a year. 

@@ -8,7 +8,7 @@ description: "This is meta description"
 country: Mongolia
 summary: "Mongolia is keen on eradicating domestic violence against women and children. The Japan Fund for Poverty Reduction contributed $3 million to an ADB project that aims to help survivors break free from this vicious cycle."
 project_title: "Mongolia: Combating Domestic Violence Against Women and Children"
-project_url: "https://www.adb.org/projects/51217-001/main"
+project_url: "https://www.adb.org/projects/51217-001/main#project-pds"
 cost: "$3 million"
 fund_source: 
 fin_partners: 

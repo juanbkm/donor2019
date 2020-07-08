@@ -172,6 +172,11 @@
             margin-left: -10% !important;
         }
     }
+    &.float-left-ni {
+        float: left;
+        width: 50%;
+        margin: 10px 40px 40px 0;
+    }
     &.float-right {
         width: 50%;
         margin: 10px 0 40px 40px;

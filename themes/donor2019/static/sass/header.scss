@@ -236,9 +236,9 @@ body.stretched {
 	img {
 		display: block;
 		width: auto;
-		height: 80px !important;
-		margin-top: 10px;
-		margin-bottom: 10px;
+		height: 60px !important;
+		margin-top: 20px;
+		margin-bottom: 20px;
 		max-width: 100%;
 	}
 	
@@ -388,7 +388,8 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 		> a {
 			display: block;
 			line-height: 22px;
-			padding: $primary-menu-padding 15px;
+			//padding: $primary-menu-padding 15px;
+			padding: 50px 15px 28px 15px;
 			color: set-menu-color($header-bg);
 			font-weight: $primary-menu-font-weight;
 			font-size: $primary-menu-font-size;
@@ -1475,8 +1476,10 @@ body.top-search-open #top-account { opacity: 0; }
 #header.sticky-header:not(.static-sticky):not(.sticky-style-2):not(.sticky-style-3) #logo img { height: $sticky-header-height !important; margin-top: 0; }
 
 #header.sticky-header:not(.static-sticky) #primary-menu > ul > li > a {
-	padding-top: $sticky-menu-padding;
-	padding-bottom: $sticky-menu-padding;
+	//padding-top: $sticky-menu-padding;
+	//padding-bottom: $sticky-menu-padding;
+	padding-top: 32px;
+	padding-bottom: 6px;
 }
 
 #header.sticky-header:not(.static-sticky).sticky-style-2,

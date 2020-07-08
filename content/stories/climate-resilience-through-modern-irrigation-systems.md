@@ -9,7 +9,7 @@ description: "This is meta description"
 country: Viet Nam
 summary: "A pressurized piped irrigation system equipped with remote sensing technology promises to change the way farming is done in five provinces in Viet Nam. Supported by the Climate Change Fund and the Netherlands Trust Fund, the irrigation systems will climate-proof farmlands and directly benefit more than 39,000 households, including over 7,000 ethnic minority households."
 project_title: "Water Efficiency Improvement in Drought-Affected Provinces Project"
-project_url: https://www.adb.org/projects/49404-002/main
+project_url: https://www.adb.org/projects/49404-002/main#project-pds
 cost: "$124.3 million"
 fund_source: 
   - name: "ADB"
@@ -46,7 +46,7 @@ However, their choice of crops and existing irrigation system were mismatched. M
 
 ### Interventions
 
-This mismatch was addressed by the [Water Efficiency Improvement in Drought-Affected Provinces Project](https://www.adb.org/projects/49404-002/main). Initiated by ADB through the collaboration of the Climate Change Fund and [The Netherlands Trust Fund]({{< ref "netherlands.md" >}}), this project will introduce an innovative solution: pressurized piped irrigation with remote sensing technology.  
+This mismatch was addressed by the [Water Efficiency Improvement in Drought-Affected Provinces Project](https://www.adb.org/projects/49404-002/main#project-pds). Initiated by ADB through the collaboration of the Climate Change Fund and [The Netherlands Trust Fund]({{< ref "netherlands.md" >}}), this project will introduce an innovative solution: pressurized piped irrigation with remote sensing technology.  
 
 The pressurized piped irrigation system functions like domestic water supply systems. It provides water on demand through a system of hydrants and control valves. These give farmers greater flexibility to control the amount and duration of irrigation while simultaneously allowing operators to control and measure water use more effectively and to apply the correct water charges. Piped systems are also more resilient to extreme weather conditions and need less maintenance, thus making them more cost-effective.  
 

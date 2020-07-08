@@ -305,3 +305,19 @@
   font-size: .8rem !important;
   font-style: italic;
 }
+
+.dr-tf-nav {
+  background-color: $adb-gray-four;
+  height: 100%;
+  margin: 0 10px 0 0;
+  padding: 20px;
+  &:nth-of-type(3) {
+    margin-right: 0;
+  }
+  img {
+    margin-bottom: 10px;
+  }
+  h5 a {
+    color: $body-color;
+  }
+}

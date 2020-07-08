@@ -9,7 +9,7 @@ description: "This is meta description"
 country: Indonesia and the Philippines
 summary: "A grant from the Japan Fund for Poverty Reduction has empowered marginalized fisherfolks in Indonesia and the Philippines to run their own alternative businesses while protecting the Coral Reef Triangle."
 project_title: "Regional: Developing Sustainable Alternative Livelihoods in Coastal Fishing Communities in the Coral Triangle: Indonesia and Philippines"
-project_url: "https://www.adb.org/projects/44129-012/main"
+project_url: "https://www.adb.org/projects/44129-012/main#project-pds"
 cost: "$2 million"
 fin_partners: 
   - name: "Japan Fund for Poverty Reduction"
@@ -37,7 +37,7 @@ However, despite the reef’s endowments, fishing communities surrounding it are
 
 ### Interventions
 
-To provide marginalized fishers with sustainable income while protecting the coral triangle ecosystem, ADB and the [Japan Fund for Poverty Reduction](./modalities/trust-funds/single-partner-trust-funds/#jfpr) (JFPR) teamed up. They initiated the project [Regional: Developing Sustainable Alternative Livelihoods in Coastal Fishing Communities in the Coral Triangle: Indonesia and Philippines](https://www.adb.org/projects/44129-012/main). This project aimed to raise the income levels of poor coastal communities in Berau, East Kalimantan, Indonesia and Balabac, Palawan, Philippines by developing model alternative livelihoods.
+To provide marginalized fishers with sustainable income while protecting the coral triangle ecosystem, ADB and the [Japan Fund for Poverty Reduction](./modalities/trust-funds/single-partner-trust-funds/#jfpr) (JFPR) teamed up. They initiated the project [Regional: Developing Sustainable Alternative Livelihoods in Coastal Fishing Communities in the Coral Triangle: Indonesia and Philippines](https://www.adb.org/projects/44129-012/main#project-pds). This project aimed to raise the income levels of poor coastal communities in Berau, East Kalimantan, Indonesia and Balabac, Palawan, Philippines by developing model alternative livelihoods.
 
 It is not easy for people to accept that the destruction of their only source of income may be imminent partly because of their own activities. The project had to tread the delicate balance of ensuring people’s sustainable livelihood while fostering their effective stewardship of their marine resource. So, the first step was to enable fishers to establish alternative livelihoods through a grant from the [JFPR](./modalities/trust-funds/single-partner-trust-funds/#jfpr). 
 

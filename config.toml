@@ -61,9 +61,9 @@ title = "Partnership Report 2019"
   weight  = 8
 
 [[menu.main]]
-  identifier = "lists"
-  name = "Lists"
-  url = "/lists/"
+  identifier = "feature"
+  name = "Feature"
+  url = "/feature/"
   weight  = 9
 
 

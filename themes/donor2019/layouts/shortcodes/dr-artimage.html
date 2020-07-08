@@ -2,6 +2,6 @@
 <div class="dr-art-image {{ with .Get `align` }}float-{{ . }}{{ end }}" style="{{ with .Get `width` }}width: {{ . }}{{ end }};">
     <img src="{{.Get `src` }}" alt="{{.Get `alt` }}" data-animate="fadeIn" data-delay="400">
     {{ with .Get `caption` }}
-    <p class="dr-caption">{{ . }}</p>
+    <p class="dr-caption">{{ . | markdownify }}</p>
     {{ end }}
 </div>

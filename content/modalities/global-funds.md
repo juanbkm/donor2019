@@ -11,13 +11,12 @@ gf:
     url: https://www.climateinvestmentfunds.org/
     image: cif.png
     ccpsc: $978.3 million
-    ccpscfn: "*In addition, CIF has $290 million under non-sovereign project"
+    ccpscfn: "*In addition, CIF has $290 million under non-sovereign projects"
     description: |
       The Climate Investment Funds (CIF), established in 2008, is a global finance mechanism that aims to help developing countries shift to low carbon technologies and promote climate resilient development. There are two funding windows under CIF: Clean Technology Fund (CTF) and Strategic Climate Fund (SCF). CTF finances to promote the use of low carbon technologies with a significant potential for long-term greenhouse gas emissions savings, while SCF finances new development approaches or scale-up activities geared toward specific climate change challenge or sectoral response. CIF works with multilateral organizations like the African Development Bank, Asian Development Bank, European Bank for Reconstruction and Development, Inter-American Development Bank, and the World Bank Group.
       
       In 2019, the SCF cofinanced projects on the [development of a national solar park in Cambodia](https://www.adb.org/projects/51182-001/main), [scaling up energy efficiency in India](https://www.adb.org/projects/52196-001/main), and [establishment of an energy investment facility in the Pacific Region](https://www.adb.org/projects/49450-022/main). The CTF, on the other hand, cofinanced a project on the [promotion of low-carbon development in Central Asia](https://www.adb.org/projects/50287-001/main). 
       
-      *In addition, CIF has $290 million contribution to non-sovereign projects. 
   - name: Global Agriculture and Food Security Program
     id: gafsp
     url: https://www.gafspfund.org/

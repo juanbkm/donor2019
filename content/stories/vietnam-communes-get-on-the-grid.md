@@ -9,7 +9,7 @@ description: "This is meta description"
 country: Viet Nam
 summary: "Viet Nam is progressing toward achieving universal access to electricity by 2020 after an ADB project with cofinancing from the Clean Energy Fund under Clean Energy Financing Partnership Facility helped provide hundreds of thousands of households with electricity and opened economic opportunities to the men and women of these communes."
 project_title: "Viet Nam: Renewable Energy Development and Network Expansion and Rehabilitation for Remote Communes Sector Project"
-project_url: https://www.adb.org/projects/42182-013/main#project-overview
+project_url: https://www.adb.org/projects/42182-013/main#project-pds
 cost: "$201 million"
 fund_source: 
   - name: "Asian Development Fund"

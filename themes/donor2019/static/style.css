@@ -1449,9 +1449,9 @@ body.stretched #header.full-header .container {
   #logo img {
     display: block;
     width: auto;
-    height: 80px !important;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    height: 60px !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
     max-width: 100%; }
 
 #header.transparent-header.full-header #logo {
@@ -1583,7 +1583,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
     #primary-menu ul li > a {
       display: block;
       line-height: 22px;
-      padding: 39px 15px;
+      padding: 50px 15px 28px 15px;
       color: #444444;
       font-weight: 300;
       font-size: 13px;
@@ -2611,8 +2611,8 @@ body.top-search-open #top-account {
   margin-top: 0; }
 
 #header.sticky-header:not(.static-sticky) #primary-menu > ul > li > a {
-  padding-top: 19px;
-  padding-bottom: 19px; }
+  padding-top: 32px;
+  padding-bottom: 6px; }
 
 #header.sticky-header.sticky-style-2:not(.static-sticky),
 #header.sticky-header.sticky-style-3:not(.static-sticky) {
@@ -9166,6 +9166,10 @@ td.actions {
     @media (min-width: 992px) {
       .dr-art-image.float-left {
         margin-left: -10% !important; } }
+  .dr-art-image.float-left-ni {
+    float: left;
+    width: 50%;
+    margin: 10px 40px 40px 0; }
   .dr-art-image.float-right {
     width: 50%;
     margin: 10px 0 40px 40px; }
@@ -9669,6 +9673,18 @@ td.actions {
 .dr-fn {
   font-size: .8rem !important;
   font-style: italic; }
+
+.dr-tf-nav {
+  background-color: #f2f2f2;
+  height: 100%;
+  margin: 0 10px 0 0;
+  padding: 20px; }
+  .dr-tf-nav:nth-of-type(3) {
+    margin-right: 0; }
+  .dr-tf-nav img {
+    margin-bottom: 10px; }
+  .dr-tf-nav h5 a {
+    color: #555; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes
