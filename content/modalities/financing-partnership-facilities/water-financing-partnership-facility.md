@@ -8,12 +8,19 @@ lead: First among the financing partnership facilities to be established, the Wa
 
 contributors:
   - name: Australia
+    id: mdtf
   - name: Austria 
+    id: mdtf
   - name: Bill & Melinda Gates Foundation
+    id: sfptf
   - name: The Netherlands
+    id: ntf
   - name: Norway*
+    id: mdtf
   - name: Spain
+    id: mdtf
   - name: Switzerland
+    id: mdtf
 contributorsfn: <sup>*</sup>Norway was a contributor to the Multi-Donor Trust Fund from 2007 to 2017.
 chart: wfpf-chart.png
 tf:
@@ -28,7 +35,7 @@ tf:
       - partner: Australia ($24.4 million) 
       - partner: Austria ($8.7 million) 
       - partner: Norway* ($4.6 million)
-      - partner: Spain ($9.5 million; net of $0.5 million for water expert)
+      - partner: Spain ($9.5 million; net of $500,000 for water expert)
       - partner: Switzerland ($5.1 million)
   
     description: |

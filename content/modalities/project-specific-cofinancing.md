@@ -3,7 +3,7 @@ title: "Project-Specific Cofinancing"
 date: 2020-05-14T09:31:01+08:00
 main_image: images/modalities/psc.jpg
 id: dr-psc
-summary: Project-Specific cofinancing, whether for a loan or a grant, is undertaken by ADB and a financing partner through a signed cofinancing agreement, if the cofinancing is to be administered by ADB, or a memorandum of understanding, if the cofinancing will not be ADB-administered. ADB also accesses the resources of [Global Funds](./modalities/global-funds) for project-specific cofinancing. In 2019, ADB mobilized $4.71 billion in loans and grants from partners.
+summary: Project-specific cofinancing, whether for a loan or a grant, is undertaken by ADB and a financing partner through a signed cofinancing agreement, if the cofinancing is to be administered by ADB, or a memorandum of understanding, if the cofinancing will not be ADB-administered. ADB also accesses the resources of [Global Funds](./modalities/global-funds) for project-specific cofinancing. In 2019, ADB mobilized $4.71 billion in loans and grants from partners.
 projects:
   - item:
     title: "Philippines: Malolos-Clark Railway Project"
@@ -49,25 +49,25 @@ projects:
     title: "Regional: Pacific Private Sector Development Initiative, Phase IV"
     url: https://www.adb.org/projects/53072-001/main
     image: regional.jpg
-    cost: $16.02 million
+    cost: $16 million
     partners: 
-      - name: "Australia - **$14.02 million**"
+      - name: "Australia - **$14 million**"
     approval: November 2019
     completion: October 2024
 weight: 1
 draft: false
 ---
-{{< dr-artimage src="./images/modalities/psc.jpg" width="80%" caption="[Global Funds](./modalities/global-funds). ADB participates in and accesses funds from Global Funds where the International Bank for Reconstruction and Development acts as Trustee. These funds are designed for particular development projects or technical assistance." >}}
+{{< dr-global-funds src="./images/modalities/psc.jpg" caption="[Global Funds](./modalities/global-funds). ADB participates in and accesses funds from Global Funds where the International Bank for Reconstruction and Development acts as Trustee. These funds are designed for particular development projects or technical assistance." >}}
 
-Project-Specific cofinancing (PSC) is using the financing partners' funds for individual development projects, programs, or technical assistance. In 2019, ADB mobilized $4.71 billion in loans and grants from partners, comprising 96% of total sovereign cofinancing commitments. This was divided among 54 individual projects.
+Project-specific cofinancing (PSC) is using the financing partners' funds for individual development projects, programs, or technical assistance. In 2019, ADB mobilized $4.71 billion in loans and grants from partners, comprising 96% of total sovereign cofinancing commitments. This was divided among 54 individual projects.
 
 About $4.64 billion of PSCs funded investment projects, while $63.3 million went to various technical assistance. Bilateral partners provided the bulk of PSCs at $3.59 billion, while $1.12 billion came from multilateral partners, including $206.5 million from global funds. The [JP Morgan Chase Foundation](./partners/others/jp-morgan-chase-foundation/) provided the lone cofinancing from the private sector, with a grant of $1.3 million for the [Regional: Promoting Transformative Gender Equality Agenda in Asia and the Pacific](https://www.adb.org/projects/52214-001/main), a technical assistance to that aims to help accelerate gender equality progress in the region.
 
-Among the bilateral financing partners, [Japan]({{< ref "japan.md" >}}) led in terms of volume with a $2.35 billion commitment. The bulk of this, specifically $2.01 billion, is dedicated to the Malolos-Clark Railway Project, which aims to build a 53.1-kilometer railway that will connect Malolos, a suburb north of Manila, to Clark economic zone and Clark International Airport. [Australia]({{< ref "australia.md" >}}), on the other hand, topped the cofinanciers for grants, with 18 projects cofinanced totaling $83 million. Among such projects were the Renewable Energy Project in Tonga and the Northern Mountain Provinces Transport Connectivity in Viet Nam. The [European Union]({{< ref "european-union.md" >}}), among multilaterals, cofinanced the most with 4 projects, including the Solomon Islands Urban Water Supply and Sanitation Sector Project and the Lao PDR Sustainable Rural Infrastructure and Watershed Management Sector Project. 
+Among the bilateral financing partners, [Japan]({{< ref "japan.md" >}}) led in terms of volume with a $2.35 billion commitment. The bulk of this, specifically $2.01 billion, is dedicated to the [Malolos-Clark Railway Project](https://www.adb.org/projects/52083-001/main#project-pds), which aims to build a 53.1-kilometer railway that will connect Malolos, a suburb north of Manila, to Clark economic zone and Clark International Airport. [Australia]({{< ref "australia.md" >}}), on the other hand, topped the cofinanciers for grants, with 18 projects cofinanced totaling $83 million. Among such projects were the Renewable Energy Project in Tonga and the Northern Mountain Provinces Transport Connectivity in Viet Nam. The [European Union]({{< ref "european-union.md" >}}), among multilaterals, cofinanced the most with 4 projects, including the Solomon Islands Urban Water Supply and Sanitation Sector Project and the Lao PDR Sustainable Rural Infrastructure and Watershed Management Sector Project. 
 
 By product type and source, the PSCs are distributed as follows:
 
-{{< dr-artimage src="./images/modalities/psc-chart.png" width="100%" >}}
+{{< dr-artimage src="./images/modalities/psc-chart.svg" width="100%" >}}
 
 Following the course set by Strategy 2030, ADB will explore innovative funding solutions to increase the availability of resources for project and strengthen its collaboration with new multilateral partners such as the [Asian Infrastructure Investment Bank]({{< ref "asian-infrastructure-investment-bank.md" >}}) and the [New Development Bank]({{< ref "new-development-bank.md" >}}).
 
@@ -75,7 +75,7 @@ These are some of the more notable PSCs in 2019.
 
 ### Malolos-Clark Railway Project
 
-ADB’s biggest cofinanced project in 2019 is the [Philippines: Malolos-Clark Railway Project](https://www.adb.org/projects/52083-001/main), with $2.01 billion coming from [Japan]({{< ref "japan.md" >}}).
+ADB’s biggest cofinanced project in 2019 is the [Philippines: Malolos-Clark Railway Project]( ), with $2.01 billion coming from [Japan]({{< ref "japan.md" >}}).
 
 An important flagship project of ADB’s host country, the Malolos-Clark Railway is also ADB’s second largest cofinanced infrastructure project ever. The [Japan International Cooperation Agency](./modalities/partnership-framework-arrangements/#jica) (JICA) is cofinancing the project, which is expected to improve local, national, and international connectivity with the direct link to the international airport at Clark, making it a gateway for Asian destinations. With this single loan, the Philippines received 41% of ADB sovereign cofinancing this year.
 
@@ -93,7 +93,7 @@ Four partners—[Australia]({{< ref "australia.md" >}}), the [European Union]({{
 
 ADB and new partner [New Development Bank]({{< ref "new-development-bank.md" >}}) (NDB) embarked on the [India: Mumbai Metro Rail Systems Project](https://www.adb.org/projects/49469-007/main) their first cofinanced project. The metro rail project will ease travel for millions of commuters across Mumbai, help decongest heavily crowded suburban rail systems, and contribute to providing a modern, clean, and livable urban environment [(See related story)](./stories/improving-urban-mobility-in-mumbai/).
 
-The Shanghai-based NDB is a new multilateral development bank set up in 2015 by five BRICS countries to mobilize resources for development projects in BRICS, emerging economies, and developing countries. ADB and NDB signed a memorandum of understanding in July 2016.
+The Shanghai-based NDB is a new multilateral development bank set up in 2015 by five BRICS (Brazil, Russia, India, China and South Africa) countries to mobilize resources for development projects in BRICS, emerging economies, and developing countries. ADB and NDB signed a memorandum of understanding in July 2016.
 
 {{< mod-proj i="2" >}}
 

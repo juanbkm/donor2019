@@ -176,7 +176,7 @@ tf:
       - item:
         partner: Japan  
     description: |
-      This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and non-sovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by US$9.25 million. It also cofinanced a project with ADB that seeks to improve <a href="https://www.adb.org/projects/49173-004/main#project-pds" target="_blank">Mongolia’s health system</a> to benefit its disadvantaged groups.
+      This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and nonsovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by US$9.25 million. It also cofinanced a project with ADB that seeks to improve <a href="https://www.adb.org/projects/49173-004/main#project-pds" target="_blank">Mongolia’s health system</a> to benefit its disadvantaged groups.
   - item:
     type: single
     name: Japan Scholarship Program
@@ -304,7 +304,7 @@ tf:
       - item:
         partner: Germany
     description: |
-      The Asia Pacific Climate Finance Fund supports the development and implementation of financial risk management products, focused on climate change mitigation, adaptation, and disaster risk management. It provides grants and technical assistance to ADB projects utilizing the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. The fund’s work puts emphasis on financial risk management products that have been proven elsewhere but are not yet widely commercially available in ADB's developing member countries. These financial risk management products will help developing member countries to invest in new climate technologies as well as expand the dissemination of climate risk insurance. All developing member countries of the bank are eligible for funding and non-sovereign projects.
+      The Asia Pacific Climate Finance Fund supports the development and implementation of financial risk management products, focused on climate change mitigation, adaptation, and disaster risk management. It provides grants and technical assistance to ADB projects utilizing the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. The fund’s work puts emphasis on financial risk management products that have been proven elsewhere but are not yet widely commercially available in ADB's developing member countries. These financial risk management products will help developing member countries to invest in new climate technologies as well as expand the dissemination of climate risk insurance. All developing member countries of the bank are eligible for funding and nonsovereign projects.
   - item:
     type: multi
     name: Asia Pacific Project Preparation Facility 
@@ -434,7 +434,7 @@ tf:
     description: |
       As of 2019, the High-Level Technology Fund (HLTF) provided funding to four projects on water resources development, irrigation improvement, road development, and water supply and sanitation; as well as to eight technical assistances covering the areas of trade, energy, agriculture, social development, and knowledge exchange. In 2019, HLTF also provided US$15.20 million in replenishment funds. 
 
-      This fund provides grant financing to promote the integration of high-level technology (HLT) and innovative solutions into ADB-financed and administered sovereign and non-sovereign projects. The fund seeks to encourage widespread adoption of HLT and enable technological development and/or the scaling up of the technology deployment in developing member countries. Projects from all ADB developing member countries are eligible for financing from this fund. 
+      This fund provides grant financing to promote the integration of high-level technology (HLT) and innovative solutions into ADB-financed and administered sovereign and nonsovereign projects. The fund seeks to encourage widespread adoption of HLT and enable technological development and/or the scaling up of the technology deployment in developing member countries. Projects from all ADB developing member countries are eligible for financing from this fund. 
   - item:
     type: multi
     name: Pacific Business Investment Trust Fund 

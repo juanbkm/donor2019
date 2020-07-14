@@ -22,7 +22,7 @@ tf:
       - partner: United Kingdom ($82.4 million)
       - partner: United States ($153.7 million) 
     description: |
-      In 2019, through the Afghanistan Infrastructure Trust Fund (AITF), the ANA Trust Fund provided $ 93 million in replenishment funds. AITF is a platform that facilitates financing for infrastructure development in Afghanistan. It provides technical assistance and grants for the construction of roads, railways, airports, energy infrastructure, and water management and irrigation facilities. AITF’s investments are closely aligned with Afghanistan’s development priorities, including the National Peace and Development Framework, the self-reliance agendas, the National Infrastructure Plan, and other national priority programs. Both ADB and Afghanistan are working together to attract more donors and partners to finance and cofinance projects for Afghanistan by contributing to the AITF. 
+      In 2019, through the Afghanistan Infrastructure Trust Fund (AITF), the ANA Trust Fund provided $93 million in replenishment funds. AITF is a platform that facilitates financing for infrastructure development in Afghanistan. It provides technical assistance and grants for the construction of roads, railways, airports, energy infrastructure, and water management and irrigation facilities. AITF’s investments are closely aligned with Afghanistan’s development priorities, including the National Peace and Development Framework, the self-reliance agendas, the National Infrastructure Plan, and other national priority programs. Both ADB and Afghanistan are working together to attract more donors and partners to finance and cofinance projects for Afghanistan by contributing to the AITF. 
   - item:
     type: multi
     name: Asia Pacific Climate Finance Fund 
@@ -35,7 +35,7 @@ tf:
     contributor:
       - partner: Germany
     description: |
-      The Asia Pacific Climate Finance Fund supports the development and implementation of financial risk management products, focused on climate change mitigation, adaptation, and disaster risk management. It provides grants and technical assistance to ADB projects utilizing the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. The fund’s work puts emphasis on financial risk management products that have been proven elsewhere but are not yet widely commercially available in ADB's developing member countries. These financial risk management products will help developing member countries to invest in new climate technologies as well as expand the dissemination of climate risk insurance. All developing member countries of the bank are eligible for funding and non-sovereign projects.
+      The Asia Pacific Climate Finance Fund supports the development and implementation of financial risk management products, focused on climate change mitigation, adaptation, and disaster risk management. It provides grants and technical assistance to ADB projects utilizing the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. The fund’s work puts emphasis on financial risk management products that have been proven elsewhere but are not yet widely commercially available in ADB's developing member countries. These financial risk management products will help developing member countries to invest in new climate technologies as well as expand the dissemination of climate risk insurance. All developing member countries of the bank are eligible for funding and nonsovereign projects.
 
   - item:
     type: multi
@@ -188,7 +188,7 @@ tf:
     description: |
       As of 2019, the High-Level Technology Fund (HLTF) provided funding to four projects on water resources development, irrigation improvement, road development, and water supply and sanitation; as well as to eight technical assistances covering the areas of trade, energy, agriculture, social development, and knowledge exchange. In 2019, HLTF also provided $15.20 million in replenishment funds. 
 
-      This fund provides grant financing to promote the integration of high-level technology (HLT) and innovative solutions into ADB-financed and administered sovereign and non-sovereign projects. The fund seeks to encourage widespread adoption of HLT and enable technological development and/or the scaling up of the technology deployment in developing member countries. Projects from all ADB developing member countries are eligible for financing from this fund. 
+      This fund provides grant financing to promote the integration of high-level technology (HLT) and innovative solutions into ADB-financed and administered sovereign and nonsovereign projects. The fund seeks to encourage widespread adoption of HLT and enable technological development and/or the scaling up of the technology deployment in developing member countries. Projects from all ADB developing member countries are eligible for financing from this fund. 
 
   - item:
     type: multi
@@ -207,7 +207,7 @@ weight:
 draft: false
 ---
 
-{{< dr-artimage src="./images/modalities/psc.jpg" width="50%" align="left-ni" caption="" >}}
+{{< dr-artimage src="./images/modalities/mongolia_road.jpg" width="80%" caption="**Opening up borders.** Mongolia expands support to local products with international niche markets by upgrading its border crossing points. [The Regional Road Development and Maintenance Project](https://www.adb.org/projects/48186-007/main#project-pds), with support from the High-Level Technology Fund, will enhance the road condition and safety of the major national highway sections connecting the capital city of Ulaanbaatar with the northern and western aimags, or provincial administrative units in Mongolia." >}}
 
 Of the $181 million allocated by trust funds to sovereign projects, $57 million (32%) came from multi-partner trust funds.
 

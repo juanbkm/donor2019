@@ -9644,7 +9644,7 @@ td.actions {
   clear: both;
   font-size: 1.5rem;
   text-align: left;
-  text-transform: capitalize;
+  text-transform: none;
   font-weight: 700;
   letter-spacing: normal;
   color: #555;
@@ -9676,15 +9676,21 @@ td.actions {
 
 .dr-tf-nav {
   background-color: #f2f2f2;
-  height: 100%;
-  margin: 0 10px 0 0;
-  padding: 20px; }
+  margin: 0;
+  padding: 20px 10px; }
   .dr-tf-nav:nth-of-type(3) {
     margin-right: 0; }
   .dr-tf-nav img {
     margin-bottom: 10px; }
   .dr-tf-nav h5 a {
     color: #555; }
+
+.dr-box-nav {
+  background-color: #f2f2f2;
+  margin: 0 0 40px 0;
+  padding: 20px; }
+  .dr-box-nav p {
+    font-size: 1.2rem; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes

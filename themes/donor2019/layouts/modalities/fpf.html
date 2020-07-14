@@ -21,30 +21,22 @@
     </div>
     
     <div class="row justify-content-md-center py-5 mb-5">
-      <div class="col-md-3">
-        <div class="dr-contributions">
-          {{ with .Params.total }}<h6>{{ . | markdownify }}</h6>{{ end }}
-          {{ with .Params.totalcaption }}<p>{{ . | markdownify }}</p>{{ end }}
-          
-          {{ with .Params.contributions }}
-          <h5>2019 Contributions</h5>
-          <p>{{ . | markdownify }}</p>
-          {{ end }}
-
+      <div class="col-md-3 sticky-sidebar-wrap clearfix" data-offset-top="100">
+        <div class="sidebar-widgets-wrap">
           <h5>Contributors</h5>
-          <ul>
-          {{ range .Params.contributors }}
-            <li>{{ .name | markdownify }}</li>  
-          {{ end }}
+          <ul class="sticky-sidebar">
+            {{ range .Params.contributors }}
+            <li><a href="#{{ .id }}" data-scrollto="#{{ .id }}">{{ .name | markdownify }}</a></li>  
+            {{ end }}
+            {{ with .Params.contributorsfn }}
+            <p class="dr-fn">{{ . | markdownify }}</p>
+            {{ end }}
           </ul>
-          {{ with .Params.contributorsfn }}
-          <p class="dr-fn">{{ . | markdownify }}</p>
-          {{ end }}
         </div>
       </div>
       <div class="col-md-7">
           {{ range .Params.tf }}
-          <div class="dr-mod-partner dr-sptf pb-5">
+          <div id="{{ .id }}" class="dr-mod-partner dr-sptf pb-5">
             <h5>{{ .name }}</h5>
             {{ if eq .type "single" }} 
             <p class="dr-type">Single Partner</p>
@@ -84,17 +76,12 @@
         </div>
         {{ end }}
 
-
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="col-10 mx-auto">
         <div class="dr-fn">
           {{ .Params.footnote | markdownify }}
         </div>
       </div>
     </div>
+    
 </div>
 
 {{ end }}

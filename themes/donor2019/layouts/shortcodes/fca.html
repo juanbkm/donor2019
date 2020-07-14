@@ -4,7 +4,7 @@
 <section id="dr-fca">
   <div class="row justify-content-md-center pt-lg-5">
     <div class="col">
-      <h3>ADB'S ACTIVE PFAs FOR 2019</h3>
+      <h3>ACTIVE PARTNERSHIP FRAMEWORK AGREEMENTS IN 2019</h3>
     </div>
   </div>
 <div class="row justify-content-md-center py-5">
@@ -45,12 +45,13 @@
         </div>
         {{ end }}
 
-        {{ with .ccp }}
+        
         <div class="dr-stat">
-          <h6>Cumulative Commitment for Projects</h6>
-          <p>{{ . }}</p>
+          {{ with .ccp }}<h6>Cumulative Commitment for Projects</h6>
+          <p>{{ . }}</p>{{ end }}
+          <p class="dr-fn">{{ .ccpfn }}</p>
         </div>
-        {{ end }}
+        
 
         {{ $markdown := .description | markdownify }}
         {{ if not ( strings.Contains $markdown "<p>" ) }}

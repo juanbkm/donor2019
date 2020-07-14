@@ -1,0 +1,11 @@
+
+<div class="row dr-box-nav">
+    <div class="col-md-6">
+        <img src="{{.Get `src` }}" alt="{{.Get `alt` }}" data-animate="fadeIn" data-delay="200">
+    </div>
+    <div class="col-md-6 d-flex align-items-center">
+        {{ with .Get `caption` }}
+        <p class="">{{ . | markdownify }}</p>
+        {{ end }}
+    </div>
+</div>

@@ -2,7 +2,7 @@
 title: "Eurasian Development Bank"
 date: 2020-04-11T19:06:38+08:00
 partner_type: Multilateral
-project_specific_cofinancing: "$395 million*"
+project_specific_cofinancing: "$395 million"
 trust_funds_contribution: 
 partner_logo: images/partners/edb.png
 draft: false

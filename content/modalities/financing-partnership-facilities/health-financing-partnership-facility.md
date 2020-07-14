@@ -7,8 +7,11 @@ image: hfpf-mi.jpg
 lead: The remaining funds of the Regional Malaria and Other Communicable Disease Threats Trust Fund, the lone trust fund under the Health Financing Partnership Facility, was used to ensure that ADB’s ongoing support for regional health security is properly aligned with ADB Strategy 2030. The facility has $29.4 million in total committed contributions in 2019. 
 contributors:
   - name: Australia*
+    id: rmocdttf
   - name: Canada
+    id: rmocdttf
   - name: United Kingdom*
+    id: rmocdttf
 contributorsfn: <sup>*</sup> Australia and the United Kingdom were contributors to the RMTF until 2018.
 chart: hfpf-chart.png
 tf:

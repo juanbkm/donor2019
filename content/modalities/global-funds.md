@@ -11,7 +11,7 @@ gf:
     url: https://www.climateinvestmentfunds.org/
     image: cif.png
     ccpsc: $978.3 million
-    ccpscfn: "*In addition, CIF has $290 million under non-sovereign projects"
+    ccpscfn: "*In addition, CIF has $290 million under nonsovereign projects"
     description: |
       The Climate Investment Funds (CIF), established in 2008, is a global finance mechanism that aims to help developing countries shift to low carbon technologies and promote climate resilient development. There are two funding windows under CIF: Clean Technology Fund (CTF) and Strategic Climate Fund (SCF). CTF finances to promote the use of low carbon technologies with a significant potential for long-term greenhouse gas emissions savings, while SCF finances new development approaches or scale-up activities geared toward specific climate change challenge or sectoral response. CIF works with multilateral organizations like the African Development Bank, Asian Development Bank, European Bank for Reconstruction and Development, Inter-American Development Bank, and the World Bank Group.
       
@@ -33,7 +33,7 @@ gf:
 
       In 2019, the GAFSP cofinanced a project on [evaluating climate-friendly agribusiness value chains interventions in Myanmar](https://www.adb.org/projects/48409-005/main).
   - name: Global Environment Facility
-    id: 
+    id: gef
     url: https://www.thegef.org/
     image: gef.png
     ccpsc: $249.3 million
@@ -41,7 +41,7 @@ gf:
       The Global Environment Facility (GEF), established in 1991, is global partnership that helps tackle the planet’s most pressing environmental problems. GEF brings together 183 countries, international institutions, nongovernmental organizations, and the private sector, joined by the objective of helping developing countries address environmental problems. The GEF administers six trust funds. ADB participates in three of these trust funds, specifically: 
       
       * GEF Trust Fund - supports activities within the GEF Focal Areas
-      * Least Developed Countries Fund (LDCF) - addresses the special needs of the 51 least developed countries that are especially vulnerable to the adverse impacts of climate change. In 2019, LDCF provided $290,000 in replenishment funds.
+      * Least Developed Countries Fund (LDCF) - addresses the special needs of the 51 least developed countries that are especially vulnerable to the adverse impacts of climate change.
       * Special Climate Change Fund (SCCF) - supports adaptation and technology transfer in all developing countries party to the United Nations Framework Convention on Climate Change 
       
       In 2019, the GEF cofinanced projects aiming to [mainstream climate resilience for green cities development in Viet Nam](https://www.adb.org/projects/47274-003/main), and another [supporting the preparation of urban services improvement project in Myanmar](https://www.adb.org/projects/50109-001/main). 
@@ -96,8 +96,10 @@ draft: false
 ---
 Global funds are funding initiatives managed by other multilateral banks. Through ADB, the developing member countries can access these global funds, for which the International Bank for Reconstruction and Development serves as trustee.  
 
+{{< dr-artimage src="./images/modalities/tonga_energy.jpg" width="80%" caption="**Transitioning to a renewable energy future.** Tonga's aims to transform energy use and electricity production to low carbon, climate resilient pathways. [The Renewable Energy Project](https://www.adb.org/projects/49450-012/main#project-pds), with cofinancing support from Green Climate Fund, will expanded access to clean, resilient, and affordable energy for the population in Tonga at a lower cost." >}}
+
 Global funds leverage public or private resources in support of international initiatives, enabling partners to provide direct and coordinated response to global priorities. ADB contributes to the Global Funds and assists developing member countries in gaining access to its financing.  
 
-In 2019, loan cofinancing from global funds reached $152 million while grant cofinancing, for both investment grants and technical assistance, reached $54.5 million. The Green Climate Fund was a significant contributor, with a $95 million loan cofinancing for Mongolia’s Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project and a $30 million grant for Tonga’s Renewable Energy Project. 
+In 2019, loan cofinancing from global funds reached $152 million while grant cofinancing, for both investment grants and technical assistance, reached $54.5 million. The [Green Climate Fund](./modalities/global-funds/#gcf) was a significant contributor, with a $95 million loan cofinancing for Mongolia’s Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project and a $30 million grant for Tonga’s Renewable Energy Project. 
 
 {{< gf >}} 

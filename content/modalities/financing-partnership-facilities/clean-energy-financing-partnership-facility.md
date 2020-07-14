@@ -3,17 +3,25 @@ title: "Clean Energy Financing Partnership Facility"
 date: 2020-05-27T14:06:15+08:00
 layout: "fpf"
 pagetype: fpf
-image: cefpf-mi.jpg
+image: floating-solar.jpg
 lead: The Clean Energy Financing Partnership Facility continues to support projects that focus on energy efficiency; access to energy; renewable energy; carbon capture, utilization, and storage; sustainable transport; and projects that engage the private sector to invest in clean energy. In 2019, total contributions received by the facility reached $295.5 million.
 contributors:
   - name: Australia
+    id: cef
   - name: Canada
+    id: cfps
   - name: Global Carbon Capture and Storage Institute*
+    id: ccsf
   - name: Japan
+    id: acef
   - name: Norway
+    id: cef
   - name: Spain
+    id: cef
   - name: Sweden 
+    id: cef
   - name: United Kingdom
+    id: cef
 
 contributorsfn: <sup>*</sup>The Global Carbon Capture and Storage Institute was a contributor to the multi-partner Carbon Capture and Storage Fund from 2009 to 2018.
 chart: cefpf.png
@@ -39,7 +47,7 @@ tf:
     contributor:
       - partner: Canada
     description: |
-      CFPS aims to catalyze greater private sector investment in climate change mitigation and adaptation by helping the private sector overcome technology risks and cost hurdles to initiate and scale-up projects that reduce greenhouse gas (GHG) emissions and increase climate resilience.
+      CFPS aims to catalyze greater private sector investment in climate change mitigation and adaptation by helping the private sector overcome technology risks and cost hurdles to initiate and scale-up projects that reduce GHG emissions and increase climate resilience.
   - name: Carbon Capture and Storage Fund (CCSF)
     type: multi
     url: https://www.adb.org/site/funds/funds/carbon-capture-storage-fund
@@ -63,12 +71,12 @@ tf:
     contributor:
       - partner: Australia ($12.6 million)  
       - partner: Norway ($50 million)
-      - partner: Spain ($9.5 million; net of $0.5 million for clean energy expert)
+      - partner: Spain ($9.5 million; net of $500,000 for clean energy expert)
       - partner: Sweden ($32.1 million)
       - partner: United Kingdom ($26.8 million)
      
     description: |
-      In 2019, CEF received new contributions  fromcontributions from Norway ($3.3 million), Sweden ($5.8 million), and the United Kingdom ($5.9 million).
+      In 2019, CEF received new contributions from Norway ($3.3 million), Sweden ($5.8 million), and the United Kingdom ($5.9 million).
       
       CEF provides support for grant component of investment and technical assistance that lead to increased investment in clean energy, through a combination of (i) efficient energy use that extracts greater service value from each primary energy unit consumed and (ii) increased use of indigenous forms of renewable energy. 
 footnote: |
@@ -77,15 +85,15 @@ weight:
 draft: false
 ---
 
-As of 2019, the [Clean Energy Financing Partnership Facility](https://www.adb.org/site/funds/funds/clean-energy-financing-partnership-facility) (CEFPF) has supported projects that are expected to reduce emissions in ADB’s developing member countries (DMCs) by 24.8 million tons of CO<sub>2</sub> equivalent (tCO<sub>2</sub>e) per year, surpassing its 2020 target of 20 million tCO<sub>2</sub>e/year. Meanwhile, the CEFPF’s other targets—improved energy savings, installed renewable energy capacity, and renewable energy generation—are well within reach. To date, CEFPF has provided 392,887 households with access to clean energy. It has also helped increase clean energy investments in DMCs, leveraging from the ADB, the private sector and the non-private sector about $8.3 billion of clean energy investment.
+As of 2019, the [Clean Energy Financing Partnership Facility](https://www.adb.org/site/funds/funds/clean-energy-financing-partnership-facility) (CEFPF) has supported projects that are expected to reduce emissions in ADB’s developing member countries (DMCs) by 24.8 million tons of CO<sub>2</sub> equivalent (tCO<sub>2</sub>e) per year, surpassing its 2020 target of 20 million tCO<sub>2</sub>e/year. Meanwhile, the CEFPF’s other targets—improved energy savings, installed renewable energy capacity, and renewable energy generation—are well within reach. To date, CEFPF has provided 392,887 households with access to clean energy. It has also helped increase clean energy investments in DMCs, leveraging from ADB, the private sector and the non-private sector about $8.3 billion of clean energy investment.
 
 Total contributions received by the CEFPF reached $295.5 million, with $5.7 million allocated* for projects in 2019. Total allocations for projects amount to $266.7 million.
 
-{{< dr-artimage src="./images/modalities/floating-solar.jpg" width="80%" caption="**Floating Solar Power.** These floating solar photovoltaic power generation panels at the Da Mi hydro power plant in Binh Thuan, Viet Nam is part of [ADB’s Viet Nam: Floating Solar Energy Project](https://www.adb.org/projects/51327-001/main). The Canadian Climate Fund for the Private Sector in Asia under the Clean Energy Financing Partnership Facility approved $11 million concessional financing to the project to offset the higher installation costs of a floating solar project compared to land-mounted solar project and the need to import most of the equipment." >}}
+{{< dr-artimage src="./images/modalities/floating-solar.jpg" width="80%" caption="**Floating Solar Power.** These floating solar photovoltaic power generation panels at the Da Mi Hydropower Plant in Binh Thuan, Viet Nam is part of [ADB’s Viet Nam: Floating Solar Energy Project](https://www.adb.org/projects/51327-001/main). The Canadian Climate Fund for the Private Sector in Asia under the Clean Energy Financing Partnership Facility approved $11 million concessional financing to the project to offset the higher installation costs of a floating solar project compared to land-mounted solar project and the need to import most of the equipment." >}}
 
 ADB established the CEFPF in 2007 in view of the escalating energy demand in Asia and the Pacific and the increasingly felt effects of climate change. CEFPF helps DMCs improve their energy security and transition to low-carbon use through cost-effective investments.
 
-In line with the ADB Strategy 2030 operational priority: Tackling [Climate Change, Building Climate and Disaster Resilience, and Enhancing Environmental Sustainability](./strategy-2030/climate-change/), the CEFPF continues to support the energy sector in achieving its climate financing target, providing financial and technical support to DMCs to implement their Nationally Determined Contributions, and reducing GHG emissions through clean energy projects and programs.
+In line with the ADB Strategy 2030 operational priority: Tackling [Climate Change, Building Climate and Disaster Resilience, and Enhancing Environmental Sustainability](./strategy-2030/climate-change/), the CEFPF continues to support the energy sector in achieving its climate financing target, providing financial and technical support to DMCs to implement their Nationally Determined Contributions, and reducing greenhouse gas (GHG) emissions through clean energy projects and programs.
 
 In the coming decade, CEFPF will also continue to support projects that focus on energy efficiency, access to energy, renewable energy, carbon capture, utilization and storage, sustainable transport, as well as projects that will engage the private sector to invest in clean energy. It will prioritize support for project preparatory assistance for clean energy and energy access related projects, and pilot projects which will deliver innovative designs and high-level technology adoption and deployment in the DMCs.
 

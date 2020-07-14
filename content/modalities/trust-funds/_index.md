@@ -4,7 +4,7 @@ date: 2020-05-24T17:18:39+08:00
 layout: "trust-funds"
 main_image: images/modalities/tf.jpg
 id: dr-tf
-summary: Trust funds are [single](./modalities/trust-funds/single-partner-trust-funds) or [multi-partner](./modalities/trust-funds/multi-partner-trust-funds) channels of cofinancing resources to fund various projects, programs, technical assistance, and other activities. ADB administers contributions of financing partners as a trustee or administrator of about 45 trust funds, 14 of which fall under umbrella [Financing Partnership Facilities](./modalities/financing-partnership-facilities/). In 2019, trust funds contributed around $181 million in ADB’s sovereign operations.
+summary: Trust funds are [single–](./modalities/trust-funds/single-partner-trust-funds) or [multi-partner](./modalities/trust-funds/multi-partner-trust-funds) channels of cofinancing resources to fund various projects, programs, technical assistance, and other activities. ADB administers contributions of financing partners as a trustee or administrator of about 45 trust funds, 14 of which fall under umbrella [Financing Partnership Facilities](./modalities/financing-partnership-facilities/). In 2019, trust funds contributed around $181 million in ADB’s sovereign operations.
 tfnav:
   - name: Single-Partner Trust Fund
     image: images/modalities/sptf.jpg
@@ -14,9 +14,9 @@ tfnav:
   - name: Multi-Partner Trust Funds
     image: images/modalities/mptf.jpg
     summary: |
-      Multi-Partner trust funds promote collaboration among ADB’s financing partners and attract new partners from the private sector, including philanthropic organizations. ADB is a trustee of 12 multi-partner trust funds.
+      Multi-partner trust funds promote collaboration among ADB’s financing partners and attract new partners from the private sector, including philanthropic organizations. ADB is a trustee of 12 multi-partner trust funds.
     link: ./modalities/trust-funds/multi-partner-trust-funds/
-  - name: Financing Partnerships Facilities
+  - name: Financing Partnership Facilities
     image: images/modalities/fpf.jpg
     summary: |
       Financing partnership facilities house trust funds that finance projects to support ADB’s corporate initiatives on clean energy, health, regional cooperation, urban development, and water.
@@ -35,12 +35,12 @@ stories:
     completion: "February 2019"
   - storytitle: "In Uncertain Times, Ample Preparation for Food Production"
     image: images/stories/in-uncertain-times-ample-preparation-for-food-production.jpg
-    lead: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnerships Facility, through The Netherlands Trust Fund, is supporting the preparations."
+    lead: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnership Facility, through The Netherlands Trust Fund, is supporting the preparations."
     project_title: "Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project"
     project_url: https://www.adb.org/projects/53237-002/main
     cost: "$1.25 million"
     fin_partners:
-     - name: "The Netherlands Trust Fund under the Water Financing Partnerships Facility"
+     - name: "The Netherlands Trust Fund under the Water Financing Partnership Facility"
        amount: "$750,000"
     approval: "December 2019"
     completion: "November 2020"
@@ -71,12 +71,12 @@ The [Ireland Trust Fund for Building Climate Change and Disaster Resilience in S
 
 {{< tf-nav >}}
 
-Of the 45 ADB-managed trust funds, 15 are part of ADB’s [Financing Partnerships Facilities](./modalities/financing-partnership-facilities/) (FPFs), which offer partners an opportunity for long-term investments in key development priorities aligned with ADB’s corporate initiatives. Currently, there are five FPFs focused on clean energy, health, regional cooperation and integration, urban development, and water.
+Of the 45 ADB-managed trust funds, 15 are part of ADB’s [Financing Partnership Facilities](./modalities/financing-partnership-facilities/) (FPFs), which offer partners an opportunity for long-term investments in key development priorities aligned with ADB’s corporate initiatives. Currently, there are five FPFs focused on clean energy, health, regional cooperation and integration, urban development, and water.
 
-FPFs are operational mechanisms for strategic, long-term, multi-partner cooperation. They have set targets and objectives, ensure a steady and coordinated flow of funds, and are intensively managed to ensure that these goals are achieved, from application processing to project development and results monitoring. In 2019, the ASEAN Australia Smart Cities was established under the [Urban Financing Partnerships Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) with an initial funding of $15.2 million. It aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
+FPFs are operational mechanisms for strategic, long-term, multi-partner cooperation. They have set targets and objectives, ensure a steady and coordinated flow of funds, and are intensively managed to ensure that these goals are achieved, from application processing to project development and results monitoring. In 2019, the ASEAN Australia Smart Cities was established under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) with an initial funding of $15.2 million. It aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
 
-In 2019, ADB’s trust funds received replenishments totaling $297.7 million and new contributions amounting to just under $28.7 million. The breakdown is as follows:
+In 2019, ADB’s trust funds received replenishments (green boxes) totaling $297.7 million and new contributions (yellow boxes) amounting to $28.7 million. The breakdown is as follows:
 
-{{< dr-artimage src="./images/modalities/tf-chart.png" width="100%" >}}
+{{< dr-artimage src="./images/modalities/tf-chart.svg" width="100%" >}}
 
 {{< tf-stories >}}

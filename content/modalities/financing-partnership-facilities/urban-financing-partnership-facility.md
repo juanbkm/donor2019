@@ -7,12 +7,19 @@ image: ufpf-mi.jpg
 lead: The Urban Financing Partnership Facility funds projects and programs that help Asia’s cities become more livable. It supports initiatives in public transport, water supply and sanitation, solid waste management, and environmentally sustainable, inclusive, urban renewal projects that benefit the poor. In 2019, the facility has reached $191.9 million in total contributions.
 contributors:
   - name: Australia
+    id: aasctf
   - name: Austria
+    id: cdiatf
   - name: The Rockefeller Foundation
+    id: uccrtf
   - name: Sweden
+    id: ueif
   - name: Switzerland
+    id: cdiatf
   - name: United Kingdom
+    id: uccrtf
   - name: United States*
+    id: uccrtf
 contributorsfn: <sup>*</sup> The United States was a contributor to the UCCRTF from 2014 to 2016.
 
 chart: ufpf-chart.png
@@ -44,7 +51,7 @@ tf:
       - partner: Switzerland ($4.6 million)
    
     description: |
-      In 2019, CDIATF received contributions of $2.2 million (€2.0 million) from Germany and $565,686.00 from Switzerland (savings transferred from the closed technical assistance, [Regional: Managing Cities in Asia](https://www.adb.org/projects/39185-012/main)). 
+      In 2019, CDIATF received contributions of $2.2 million (€2.0 million) from Germany and $565,686 from Switzerland (savings transferred from the closed technical assistance, [Regional: Managing Cities in Asia](https://www.adb.org/projects/39185-012/main)). 
       
       CDIATF assists secondary cities in preparing sustainable and bankable infrastructure projects; linking them with funding sources; and strengthening their capacities to develop and implement high priority investments.
   - name: Urban Climate Change Resilience Trust Fund (UCCRTF)
@@ -54,11 +61,11 @@ tf:
     tcc: $140.5 million
     rap: $107.7 million for 64 projects and direct charges
     fn:   
-    contributors:
+    contributor:
       - partner: Switzerland ($10 million)  
       - partner: The Rockefeller Foundation ($5 million) 
       - partner: United Kingdom ($125.4 million)  
-      - partner: United States ($100,000.00) 
+      - partner: United States ($100,000) 
     description: |
       UCCRTF supports fast-growing cities in Asia to reduce the risks poor and vulnerable people face from floods, storms or droughts, by helping to better plan and design infrastructure to invest against these impacts. The United States, through the USAID, was a contributor to the UCCRTF from 2014 to 2016.
   - name: Urban Environmental Infrastructure Fund (UEIF) 
@@ -76,13 +83,13 @@ weight:
 draft: false
 ---
 
-Now celebrating a decade of cofinancing, the [Urban Financing Partnership Facility](https://www.adb.org/site/funds/funds/urban-financing-partnership-facility) (UFPF) has completed 152 projects that help build green, competitive, resilient, and inclusive cities. 
+Now celebrating a decade of cofinancing, the [Urban Financing Partnership Facility](https://www.adb.org/site/funds/funds/urban-financing-partnership-facility) (UFPF) has completed 152 projects that helped build green, competitive, resilient, and inclusive cities.
 
 UFPF has $191.9 million total contributions, with $34.9 million committed to 17 projects in 2019. A total of $154.24 million has been committed to 117 projects.
 
 In April 2019, ADB approved the establishment of a fourth trust fund under the UFPF umbrella, the ASEAN Australia Smart Cities Trust Fund (AASCTF). AASCTF aims to improve systems and governance in participating cities of the Association of Southeast Asian Nations (ASEAN) through the adaptation and adoption of digital solutions. 
 
-{{< dr-artimage src="./images/modalities/adb-pak-city-water.jpg" width="80%" caption="**Improving City Infrastructure.** The Cities Development Initiative for Asia Trust Fund (CDIATF) provided $900,000 for the project preparation study of ADB’s [Pakistan: Punjab Intermediate Cities Improvement Investment Program](https://www.adb.org/projects/46526-007/main). CDIATF’s support helped identify specific investment projects that would benefit urban populations in four cities, with improved water supply, sanitation, and solid waste management services, and the introduction of green spaces." >}}
+{{< dr-artimage src="./images/modalities/ufpf-mi.jpg" width="80%" caption="**Improving City Infrastructure.** The Cities Development Initiative for Asia Trust Fund (CDIATF) provided $900,000 for the project preparation study of ADB’s [Pakistan: Punjab Intermediate Cities Improvement Investment Program](https://www.adb.org/projects/46526-007/main). CDIATF’s support helped identify specific investment projects that would benefit urban populations in four cities, with improved water supply, sanitation, and solid waste management services, and the introduction of green spaces." >}}
 
 Established in 2009, the UFPF supports the development of Asia’s cities while addressing pervasive urban issues such as pollution, uneven growth, and urban poverty.  
 

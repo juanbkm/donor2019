@@ -270,7 +270,7 @@
     clear: both;
     font-size: 1.5rem;
     text-align: left;
-    text-transform: capitalize;
+    text-transform: none;
     font-weight: 700;
     letter-spacing: normal;
     color: $body-color;
@@ -308,9 +308,9 @@
 
 .dr-tf-nav {
   background-color: $adb-gray-four;
-  height: 100%;
-  margin: 0 10px 0 0;
-  padding: 20px;
+  //height: 100%;
+  margin: 0;
+  padding: 20px 10px;
   &:nth-of-type(3) {
     margin-right: 0;
   }
@@ -319,5 +319,14 @@
   }
   h5 a {
     color: $body-color;
+  }
+}
+
+.dr-box-nav {
+  background-color: $adb-gray-four;
+  margin: 0 0 40px 0;
+  padding: 20px;
+  p {
+    font-size: 1.2rem;
   }
 }

@@ -7,7 +7,9 @@ image: rcfpf-mi.jpg
 lead: The Regional Cooperation and Integration Financing Partnership Facility channels financing and knowledge resources from partners in support of ADB’s regional cooperation and integration program. Total committed contributions to the Investment Climate Facilitation Fund is $31.5 million, while total committed contributions to the United Kingdom Fund for Asia Regional Trade and Connectivity has reached $27.9 million. 
 contributors:
   - name: Japan
+    id: icff
   - name: United Kingdom
+    id: artcf
 chart: rcfpf-chart.png
 tf:
   - name: Investment Climate Facilitation Fund (ICFF)
@@ -32,18 +34,20 @@ tf:
       - partner: United Kingdom
     description: |
       ARTCF supports regional electricity connectivity and trade, transport connectivity, digital connectivity, regulatory reform and broad regional trade and investment facilitation, among others.
-
+footnote: "* ADB Special Funds guarantee or offer loans of high developmental priority, with longer maturities, longer deferred commencement of repayment, and lower interest rates. Special Funds are not counted as cofinancing."
 weight: 
 draft: false
 ---
 
 Established in 2007, the [Regional Cooperation and Integration Financing Partnership Facility](https://www.adb.org/site/funds/funds/regional-cooperation-integration-fpf) (RCIFPF) provides continued and consistent technical assistance support for the implementation of the Regional Cooperation and Integration Strategy and related operational plans.
 
-The RCIFPF includes the following trust funds:   
+The RCIFPF includes two trust funds and one special fund. These are:
+
 * Regional Cooperation and Integration Fund (RCIF), a special fund established by ADB*  
 * Investment Climate Facilitation Fund (ICFF), a trust fund financed by Japan 
 * Asia Regional Trade and Connectivity Fund (ARTCF), a trust fund financed by the United Kingdom
 
+ADB Special Funds guarantee or offer loans of high developmental priority, with longer maturities, longer deferred commencement of repayment, and lower interest rates. Special Funds are not counted as cofinancing.
 
 {{< dr-artimage src="./images/modalities/adb-reg-ocean-pollution.jpg" width="80%" caption="**Ocean Cleanup.** The Regional Cooperation and Integration Fund is providing $700,000 to the technical assistance [Regional: Promoting Action on Plastic Pollution from Source to Sea in Asia and the Pacific](https://www.adb.org/projects/53068-001/main), covering Indonesia, Myanmar, People's Republic of China, Thailand, and Viet Nam. The project will support the development of action plans and policies to address marine plastic pollution and investments in reducing plastic pollution. It will also improve knowledge, regional cooperation, and financing for marine plastic pollution solutions." >}}
 

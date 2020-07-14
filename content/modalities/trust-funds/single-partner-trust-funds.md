@@ -5,9 +5,6 @@ main_image: images/modalities/sptf.jpg
 pageid: dr-sptf
 summary: |
   ADB is a trustee of 18 active single-partner trust funds, with contributions from Australia, Canada, People’s Republic of China, Denmark, France, Ireland, Japan, Republic of Korea, and Spain.
-
-  Of the $181 million allocated by trust funds, $58 million (32%) were from single-partner trust funds. All ADB-approved projects is net of savings for financially completed projects and direct charges. The trust funds with new projects in 2019 are:
- 
 chart: 
 tf:
   - item:
@@ -135,7 +132,7 @@ tf:
     url: https://www.adb.org/site/funds/funds/japan-fund-for-poverty-reduction
     year: 2000
     image:
-    tcc: $832.0 million
+    tcc: $832 million
     cfp: $792.6 million for 459 projects  
     cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.
     contributor:
@@ -172,7 +169,7 @@ tf:
       - item:
         partner: Japan  
     description: |
-      This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and non-sovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by $9.25 million. It also cofinanced a project with ADB that seeks to improve [Mongolia’s health system](https://www.adb.org/projects/49173-004/main#project-pds) to benefit its disadvantaged groups.
+      This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and nonsovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by $9.25 million. It also cofinanced a project with ADB that seeks to improve [Mongolia’s health system](https://www.adb.org/projects/49173-004/main#project-pds) to benefit its disadvantaged groups.
   - item:
     type: single
     name: Japan Scholarship Program
@@ -194,9 +191,10 @@ tf:
     url: 
     year: 2016
     image:
-    tcc: $419.7 million (total amount pledged is $1.5 billion) 
+    tcc: $419.7 million
+    tccfn: (total amount pledged is $1.5 billion)  
     cfp: $630.8 million for 28 projects*
-    cfpfn: Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions   
+    cfpfn: "*Investment income, gains on foreign exchange transactions, and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions"
     contributor:
       - item:
         partner: Japan  
@@ -255,7 +253,7 @@ tf:
     year: 2000
     image:
     tcc: $14.4 million   
-    cfp: $12.0 million for 24 projects 
+    cfp: $12 million for 24 projects 
     contributor:
       - item:
         partner: Spain 
@@ -276,10 +274,15 @@ tf:
         partner: France
     description: |
       Established in partnership with the French Ministry of Economy and Finance and Industry, this fund supports projects in telecommunications, civil aeronautics, transport, energy, water treatment, mining studies, and health. It promotes project preparation, advisory services, project implementation or other technical assistance services, and other activities which may be agreed upon between France and ADB. Its priority sectors include health, nutrition and social protection, transport and communications, civil aeronautics, energy, telecommunications, water treatment, and mining.
+footnote: "<sup>*</sup> Effective projects as of end-2019 amounted to $630.8 million for 28 projects.  Contributions are formally recognized and recorded in ADB’s system and financial statements once they are remitted by the financing partner to ADB."
 weight: 
 draft: false
 ---
 
-{{< sptf >}}
+{{< dr-artimage src="./images/modalities/livelihood.jpg" width="80%" caption="**Eco-friendly livelihood**. Despite the abundance of natural resources in the Southeast Asia Coral Reef Triangle, many fishing communities surrounding it are impoverished, such as the communities along the coastal areas of Kalimantan, Indonesia, and Palawan, Philippines. A [project](./stories/securing-sustainable-incomes-while-protecting-the-environment) cofinanced by the Japan Fund for Poverty Reduction sought to change this. The project, [Developing Sustainable Alternative Livelihoods in Coastal Fishing Communities in the Coral Triangle: Indonesia and Philippines](https://www.adb.org/projects/44129-012/main#project-pds), empowered fishers, both male and female, to run viable businesses that did not only raise their incomes, but also helped protect the coral reef triangle and reduced its vulnerability to climate change." >}}
 
-<p class="dr-fn">* Effective projects as of end-2019 amounted to $630.8 million for 28 projects.  Contributions are formally recognized and recorded in ADB’s system and financial statements once they are remitted by the financing partner to ADB.</p> 
+Of the $181 million allocated by trust funds, $58 million (32%) were from single-partner trust funds. All ADB-approved projects is net of savings for financially completed projects and direct charges. The trust funds with new projects in 2019 are:
+
+{{< dr-artimage src="./images/modalities/sptf-chart.svg" width="100%" >}}
+
+{{< sptf >}}

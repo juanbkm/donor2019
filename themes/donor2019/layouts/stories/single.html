@@ -28,6 +28,11 @@
                     <h4>Project</h4>
                     <p class="dr-project_title"><a href="{{ .Params.project_url }}" target="_blank">{{ .Params.project_title }}</a></p>
 
+                    {{ with .Params.client }}
+                    <h4>Client</h4>
+                    <p>{{ . }}</p>
+                    {{ end }}
+
                     <h4>Project Cost</h4>
                     <p>{{ .Params.cost }}</p>
                     <ul class="dr-funding">
@@ -43,9 +48,10 @@
                     <h4>Approval Date</h4>
                     <p>{{ .Params.approval }}</p>
 
+                    {{ with .Params.completion }}
                     <h4>Completion</h4>
-                    <p>{{ .Params.completion }}</p>
-
+                    <p>{{ . }}</p>
+                    {{ end }}
                     
                 </div>
             </div>    

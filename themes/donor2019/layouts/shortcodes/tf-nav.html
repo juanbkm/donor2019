@@ -1,8 +1,8 @@
 {{ $tfnav := $.Page.Params.tfnav }}
-<div class="row mb-5">
+<div class="row mb-5 dr-tf-nav">
   {{ range $tfnav }}
   <div class="col-md-4">
-    <div class="dr-tf-nav">
+    <div class="">
       <img src="{{ .image }}" alt="">
       <h5><a href="{{ .link | absURL }}">{{ .name }}</a></h5>
       {{ $markdown := .summary | markdownify }}
