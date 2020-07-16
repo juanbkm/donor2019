@@ -11,12 +11,13 @@
      
     <div class="row">
       <div class="col-10 mx-auto">
-        <!--//
-        {{ with .Params.chart }}
-        <img src="./images/modalities/{{ . }}" alt="" class="dr-mod-chart">
-        {{ end }}
-        //-->
         {{ .Content }}
+
+        {{ with .Params.footnote }}
+        <div class="dr-fn" style="border-top: 1px solid #c2ccd2; padding: 20px 0;">
+          {{ . | markdownify }}
+        </div>
+        {{ end }}
       </div>
     </div>
     
@@ -26,7 +27,7 @@
           <h5>Contributors</h5>
           <ul class="sticky-sidebar">
             {{ range .Params.contributors }}
-            <li><a href="#{{ .id }}" data-scrollto="#{{ .id }}">{{ .name | markdownify }}</a></li>  
+            <li>{{ with .link }}<a href="./{{ . }}">{{ end }}{{ .name | markdownify }}{{ with .link }}</a>{{ end }}</li>  
             {{ end }}
             {{ with .Params.contributorsfn }}
             <p class="dr-fn">{{ . | markdownify }}</p>
@@ -37,7 +38,7 @@
       <div class="col-md-7">
           {{ range .Params.tf }}
           <div id="{{ .id }}" class="dr-mod-partner dr-sptf pb-5">
-            <h5>{{ .name }}</h5>
+            <h5><a href="{{ .url }}">{{ .name }}</a></h5>
             {{ if eq .type "single" }} 
             <p class="dr-type">Single Partner</p>
             {{ else if eq .type "multi" }}
@@ -76,9 +77,7 @@
         </div>
         {{ end }}
 
-        <div class="dr-fn">
-          {{ .Params.footnote | markdownify }}
-        </div>
+        
       </div>
     </div>
     

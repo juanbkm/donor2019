@@ -22,7 +22,7 @@
       <div class="dr-mod-partner dr-fca" id="{{ .id }}">
         {{ with .image }} <img src="./images/modalities/{{ . }}" alt="">{{ end }}
 
-        <h5>{{ .name }}</h5>
+        {{ with .url }}<a href="{{ . }}">{{ end }}<h5>{{ .name }}</h5>{{ with .url }}</a>{{ end }}
 
         {{ with .mou }}
         <div class="dr-stat">

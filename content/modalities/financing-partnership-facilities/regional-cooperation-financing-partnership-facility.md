@@ -7,9 +7,9 @@ image: rcfpf-mi.jpg
 lead: The Regional Cooperation and Integration Financing Partnership Facility channels financing and knowledge resources from partners in support of ADB’s regional cooperation and integration program. Total committed contributions to the Investment Climate Facilitation Fund is $31.5 million, while total committed contributions to the United Kingdom Fund for Asia Regional Trade and Connectivity has reached $27.9 million. 
 contributors:
   - name: Japan
-    id: icff
+    link: partners/bilateral/japan/
   - name: United Kingdom
-    id: artcf
+    link: partners/bilateral/uk/
 chart: rcfpf-chart.png
 tf:
   - name: Investment Climate Facilitation Fund (ICFF)
@@ -34,7 +34,7 @@ tf:
       - partner: United Kingdom
     description: |
       ARTCF supports regional electricity connectivity and trade, transport connectivity, digital connectivity, regulatory reform and broad regional trade and investment facilitation, among others.
-footnote: "* ADB Special Funds guarantee or offer loans of high developmental priority, with longer maturities, longer deferred commencement of repayment, and lower interest rates. Special Funds are not counted as cofinancing."
+footnote: 
 weight: 
 draft: false
 ---

@@ -9018,6 +9018,10 @@ td.actions {
     line-height: 1.2;
     font-size: 2.8rem; }
 
+#dr-partners #content .dr-p-logo img {
+  max-width: 300px;
+  height: auto; }
+
 #dr-partners #content h5 em {
   display: block;
   font-size: 1rem;
@@ -9169,16 +9173,17 @@ td.actions {
   .dr-art-image.float-left-ni {
     float: left;
     width: 50%;
-    margin: 10px 40px 40px 0; }
+    margin: 10px 40px 10px 0; }
   .dr-art-image.float-right {
     width: 50%;
-    margin: 10px 0 40px 40px; }
+    margin: 10px 0 10px 40px; }
     @media (min-width: 992px) {
       .dr-art-image.float-right {
         margin-right: -10% !important; } }
   .dr-art-image .dr-caption {
     font-style: italic;
-    padding: 10px; }
+    padding: 10px;
+    margin-bottom: 0; }
 
 #content .dr-sector-img {
   margin-bottom: 20px; }
@@ -9489,6 +9494,9 @@ td.actions {
     letter-spacing: 1px; }
   #dr-modalities .dr-mod-proj p {
     margin-bottom: 10px; }
+
+#dr-modalities .dr-article-body .dr-art-image {
+  margin: 40px auto; }
 
 #dr-modalities #dr-psc {
   padding: 80px 20px; }

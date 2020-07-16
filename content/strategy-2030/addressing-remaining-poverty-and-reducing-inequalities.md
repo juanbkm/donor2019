@@ -6,7 +6,7 @@ lead: "All of ADB’s 148 cofinanced project in 2019 aimed to address some form 
 main_image: images/strategy-2030/poverty-and-reducing-inequalities.jpg
 main_image_thumb: images/strategy-2030/poverty-and-reducing-inequalities-th.jpg
 icon: images/strategy-2030/icn-poverty.svg
-op_intro: "ADB’s strategy 2030 will pursue the following under this operational priority:"
+op_intro: "ADB’s strategy 2030 will pursue the following under this [operational priority](https://www.adb.org/documents/strategy-2030-op1-poverty-inequalities):"
 op: 
   - item: Achieve better health for all
   - item: Improve education and training
@@ -26,9 +26,9 @@ Several cofinanced projects explicitly address the non-income dimensions of pove
 
 ### Achieving Better Health for All
 
-Many governments in Asia have been spending less than $10 per person per year on health care, pushing people to increasing amounts  of out-of-pocket [health care spending](https://www.adb.org/sectors/health/issues/strengthening-health-systems-services). Making health care accessible and affordable to all is imperative, but it is also critical that health systems and financing across Asia and the Pacific are optimized. In 2019, the [Republic of Korea e-Asia and Knowledge Partnership Fund](./modalities/trust-funds/single-partner-trust-funds/#rkakpf) (EAKPF) supplemented the ongoing [Regional: Universal Health Coverage for Inclusive Growth: Supporting the Implementation of the Operational Plan for Health, 2015–2020](https://www.adb.org/projects/49152-001/main#project-pds). This project, which began in 2015 and cofinanced with the [People's Republic of China Poverty Reduction and Regional Cooperation Fund](./modalities/trust-funds/single-partner-trust-funds/#prcprrcf), is increasing the number of ADB developing countries that pursue universal health coverage. It is making health systems across Asia stronger while making quality health care accessible and affordable to more people.
+Many governments in Asia have been spending less than $10 per person per year on healthcare, pushing people to increasing amounts of out-of-pocket [health care spending](https://www.adb.org/sectors/health/issues/strengthening-health-systems-services). Making healthcare accessible and affordable to all is imperative, but it is also critical that health systems and financing across Asia and the Pacific are optimized. In 2019, the [Republic of Korea e-Asia and Knowledge Partnership Fund](./modalities/trust-funds/single-partner-trust-funds/#rkakpf) (EAKPF) supplemented the ongoing [Regional: Universal Health Coverage for Inclusive Growth: Supporting the Implementation of the Operational Plan for Health, 2015–2020](https://www.adb.org/projects/49152-001/main#project-pds). This project, which began in 2015 and cofinanced with the [People's Republic of China Poverty Reduction and Regional Cooperation Fund](./modalities/trust-funds/single-partner-trust-funds/#prcprrcf), is increasing the number of ADB developing countries that pursue universal health coverage. It is making health systems across Asia stronger while making quality healthcare accessible and affordable to more people.
 
-{{< dr-artimage src="images/pov-2-reg-rmi.jpg" align="" alt="" caption="Achieving better health for all entails making quality health care accessible and affordable to all." >}}
+{{< dr-artimage src="images/pov-2-reg-rmi.jpg" align="" alt="" caption="Achieving better health for all entails making quality healthcare accessible and affordable to all." >}}
 
 ### Improving Education and Training
 
@@ -44,7 +44,7 @@ Social protection is integral to reducing inequalities. It decreases people’s 
 
 ### Generating Quality Jobs
 
-To generate quality jobs in developing member countries, ADB’s S2030 aims to enhance the business environment while strengthening the financial sector. This strategy ensures both worker and businesses, especially small and medium sized enterprises (SME), are empowered and made more productive.
+To generate quality jobs in developing member countries, ADB’s S2030 aims to enhance the business environment while strengthening the financial sector. This strategy ensures both worker and businesses, especially small- and medium-sized enterprises (SME), are empowered and made more productive.
 
 {{< dr-yt video="uxPWQRRCf4g" align="" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
 
@@ -54,4 +54,4 @@ One project designed to strengthen SMEs is the [Supporting Internationalization 
 
 {{< dr-artimage src="images/pov-3-fij-generic.jpg" align="left" alt="" caption="Partnerships that reduce poverty are investments for the people and their future." >}}
 
-Providing Asia with quality jobs, education, health care, and social protection is a tall task. This will be made harder with the impending global economic slow-down. In Asia and the Pacific, growth will fall to 2.2% this year, according to the [Asian Development Outlook 2020](https://www.adb.org/publications/asian-development-outlook-2020-innovation-asia). Partnerships can cushion this impact, helping the region to bounce back next year. Stronger partnerships can help ADB effectively respond to the region’s immediate needs while safeguarding the shared progress achieved through the years. They can scale up and widen the reach of poverty alleviation measures. They can help make access to quality education, health, jobs, and social protection, equitable. Partnerships can genuinely show that investing in poverty reduction initiatives is, ultimately, investing in people. 
+Providing Asia with quality jobs, education, healthcare, and social protection is a tall task. This will be made harder with the impending global economic slow-down. In Asia and the Pacific, growth will fall to 2.2% this year, according to the [Asian Development Outlook 2020](https://www.adb.org/publications/asian-development-outlook-2020-innovation-asia). Partnerships can cushion this impact, helping the region to bounce back next year. Stronger partnerships can help ADB effectively respond to the region’s immediate needs while safeguarding the shared progress achieved through the years. They can scale up and widen the reach of poverty alleviation measures. They can help make access to quality education, health, jobs, and social protection, equitable. Partnerships can genuinely show that investing in poverty reduction initiatives is, ultimately, investing in people.

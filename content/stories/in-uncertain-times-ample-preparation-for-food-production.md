@@ -7,7 +7,7 @@ image_thumb: images/stories/in-uncertain-times-ample-preparation-for-food-produc
 author: Admin
 description: "This is meta description"
 country: Bangladesh
-summary: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnership Facility, through The Netherlands Trust Fund, is supporting the preparations."
+summary: "Bangladesh is preparing for a $100 million investment in climate and disaster resilient small-scale water resources management. The Water Financing Partnership Facility, through the Netherlands Trust Fund, is supporting the preparations."
 project_title: "Bangladesh: Preparing the Climate and Disaster Resilient Small-Scale Water Resources Management Project"
 project_url: https://www.adb.org/projects/53237-002/main#project-pds
 cost: "$1.25 million"
@@ -15,7 +15,7 @@ fund_source:
   - name: "ADB"
     amount: "$500,000"
 fin_partners:
-  - name: "The Netherlands Trust Fund under the Water Financing Partnership Facility"
+  - name: "Netherlands Trust Fund under the Water Financing Partnership Facility"
     amount: "$750,000"
 approval: "December 2019"
 completion: "June 2021"

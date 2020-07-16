@@ -13,8 +13,8 @@ Austria works with ADB on education, ensuring peace, human security, human right
 
 #### Active Trust Funds 
 
-* Cities Development Initiative for Asia Trust Fund 
-* Multi-Donor Trust Fund under the Water Financing Partnership Facility 
+* [Cities Development Initiative for Asia Trust Fund](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#cdiatf) 
+* [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf) 
 
 #### Development Assistance Agencies
 

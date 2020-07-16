@@ -7,19 +7,19 @@ project_specific_cofinancing_2019:
   - item: "**$2 million** grant for 1 project and 1 technical assistance"
 trust_funds_contribution: "$113.6 million"
 trust_funds_contribution_2019:
-  - item: "**SEK55 million** ($5.7 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
+  - item: "**SKr55 million** $5.7 million Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
 partner_logo:
 draft: false
 ---
 Under its "Regional Development Cooperation in Asia and the Pacific" strategy for 2016-2021, [Sweden](https://www.adb.org/publications/sweden-fact-sheet)’s development assistance covers the entire region and focuses on two areas: environmental improvement, reduced impacts of climate change, and disaster risk management and strengthening of democracy and gender equality, and respect for human rights.  
 
-In Asia, Sweden prioritizes Afghanistan, Bangladesh, Cambodia, and regional programs in South Asia, Southeast Asia and small islands states in the Pacific. It focuses on initiatives that address democracy and human rights, conflict prevention and support to migration, gender equality, regional cooperation and integration, climate and environment and inclusive growth. In cofinancing projects with ADB, Sweden provides grants for investment and TA projects through trust funds or on a project-specific basis and guarantees for the public and private sector. It also has a Guarantee Agreement with ADb relating to a risk transfer arrangement on a portfolio of ADB sovereign loans.
+In Asia, Sweden prioritizes Afghanistan, Bangladesh, Cambodia, and regional programs in South Asia, Southeast Asia, and small islands states in the Pacific. It focuses on initiatives that address democracy and human rights, conflict prevention and support to migration, gender equality, regional cooperation and integration, climate and environment and inclusive growth. In cofinancing projects with ADB, Sweden provides grants for investment and technical assistance projects through trust funds or on a project-specific basis and guarantees for the public and private sector. It also has a Guarantee Agreement with ADB relating to a risk transfer arrangement on a portfolio of ADB sovereign loans.
 
 #### Active Trust Funds 
 
-* Clean Energy Fund under the Clean Energy Financing Partnership Facility  
+* [Clean Energy Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cef)  
 * [Future Carbon Fund](./modalities/trust-funds/multi-partner-trust-funds/#fcf) 
-* Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility 
+* [Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility//#ueif)
  
 #### Development Assistance Agencies 
 

@@ -7,12 +7,12 @@ project_specific_cofinancing_2019:
   - item: "**$891.3 million** loan for 3 projects"
   - item: "**$380,000** grant for 1 technical assistance" 
 trust_funds_contribution_2019:
-  - item: "**€2 million** (equivalent to $2.22 million) for the Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnership Facility" 
+  - item: "**€2 million** $2.22 million for the Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnership Facility" 
 trust_funds_contribution: "$122.5 million"
 partner_logo:
 draft: false
 ---
-ADB and KfW signed a second amendment to the ADB–KfW Cofinancing Memorandum of Understanding (MOU) in November 2019, extending the MoU to 2023, increasing cofinancing amount by another $2 billion and expanding priority countries and themes. The original MOU, totaling $2 billion, was first signed in July 2017 and later amended in September 2017 to extend its validity to 2020 with an additional $2 billion.  
+ADB and KfW signed a second amendment to the [ADB–KfW Cofinancing Memorandum of Understanding (MOU)](https://www.adb.org/news/adb-kfw-expand-cofinancing-partnership-additional-2-billion) in November 2019, extending the MoU to 2023, increasing cofinancing amount by another $2 billion and expanding priority countries and themes. The original MOU, totaling $2 billion, was first signed in July 2017 and later amended in September 2017 to extend its validity to 2020 with an additional $2 billion.  
 
 [Germany](https://www.adb.org/publications/germany-fact-sheet)’s priority sectors and themes are: (i) extending global partnerships and regional cooperation; (ii) supporting vocational training, sustainable and social economic development, and employment promotion; (iii) protecting the climate and biodiversity; (iv) combating the causes of conflict and displacement – assisting refugees; (v) strengthening human rights, participation and the capacity of state institutions; (vi) improving structures and living conditions in cities; and (vii) improving health and social protection systems. Priority countries include Afghanistan, Bangladesh, Cambodia, People’s Republic of China (PRC), India, Indonesia, Kyrgyzstan, Lao PDR, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Tajikistan, Timor-Leste, Uzbekistan, and Viet Nam. GIZ also prioritizes Kazakhstan, Maldives, Thailand, and the Pacific region.
 
@@ -20,7 +20,7 @@ ADB and KfW signed a second amendment to the ADB–KfW Cofinancing Memorandum of
 
 * [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf) 
 * [Asia Pacific Climate Finance Fund](./modalities/trust-funds/multi-partner-trust-funds/#apcff) 
-* Cities Development Initiative for Asia Trust Fund 
+* [Cities Development Initiative for Asia Trust Fund](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#cdiatf)
 
 #### Development Assistance Agencies 
 
@@ -166,4 +166,4 @@ Disaster Resilience in Selected Urban Areas of Southeast Asia</a></td>
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> L = official loan cofinancing. TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> L = official loan cofinancing. TA = technical assistance cofinancing</p> 

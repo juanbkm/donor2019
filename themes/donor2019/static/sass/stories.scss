@@ -175,11 +175,11 @@
     &.float-left-ni {
         float: left;
         width: 50%;
-        margin: 10px 40px 40px 0;
+        margin: 10px 40px 10px 0;
     }
     &.float-right {
         width: 50%;
-        margin: 10px 0 40px 40px;
+        margin: 10px 0 10px 40px;
         @include media-breakpoint-up(lg) {
             margin-right: -10% !important;
         }
@@ -187,5 +187,6 @@
     .dr-caption {
         font-style: italic;
         padding: 10px;
+        margin-bottom: 0;
     }
 }

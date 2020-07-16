@@ -18,3 +18,5 @@ draft: false
 * [International and European Financial Affairs, Belgian Federal Treasury](https://finance.belgium.be/en/IEFA) 
 * [Directorate-General for Development Cooperation and Humanitarian Aid integrated into the Federal Public Service Foreign Affairs, Foreign Trade and Development Cooperation](https://diplomatie.belgium.be/en/policy/development_cooperation/who_we_are/our_organisation/dgd) 
 * [Belgian Technical Cooperation](https://www.enabel.be/) 
+
+<p class="dr-fn">Last approved cofinanced project in 2012</p>

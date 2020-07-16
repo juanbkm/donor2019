@@ -106,7 +106,7 @@ fca:
     image: ndf.png
     mou: 2011 onwards
     ccp: $45.7 million for 18 projects
-    ccpfn: Cumulative commitment includes all FCAs from inception and not the utilization for the latest active FCA.
+    ccpfn: "*Cumulative commitment includes one non-sovereign technical assistance"
     description: |
       ADB’s and the Nordic Development Fund’s (NDF) ongoing collaboration is under an MOU, signed in January 2011, for institutional cooperation and cofinancing of programs and projects. This arrangement specified the type of initiatives the fund supports, which includes projects on climate change mitigation and adaptation. To date, this partnership has cofinanced 19 projects. 
 
@@ -143,6 +143,8 @@ draft: false
 ---
 
 PFAs can come in different forms—from a memorandum of understanding to an aide memoire to a framework cofinancing agreement─ depending on the preferences and limitations of a financing partner. For instance, ADB and the [Agence Française de Développement](./modalities/partnership-framework-arrangements/#afd) (AFD) have a Partnership Framework Arrangement, ADB and the [Eurasian Development Bank](./modalities/partnership-framework-arrangements/#edb) have a Framework Cofinancing Arrangement, and ADB and [KfW](./modalities/partnership-framework-arrangements/#kfw) have a Memorandum of Agreement.
+
+{{< dr-artimage src="./images/modalities/energy-expansion.jpg" width="80%" caption="**Energy Expansion.**  The need to upgrade and expand Bangladesh’s transmission network is critical. Economic growth and increased power demand have congested its power grid in recent years. [The Bangladesh: Dhaka and Western Zone Transmission Grid Expansion Project](https://www.adb.org/projects/51137-003/main#project-pds)  is helping address this concern, by enhancing power transfer capacity  to the country’s load centers in the southern and western zones. The [Asian Infrastructure Investment Bank](./partners/multilateral/asian-infrastructure-investment-bank/) is cofinancing this project, helping ensure financing for transmission lines, substations, and in improving institutional capacity." >}}
 
 Generally, PFAs detail the guiding principles of the partnership, the institutions’ common objectives, the scope of their cooperation and activities, and processes for monitoring, reporting, information exchange, and evaluation. PFAs may be updated through exchanges of letters. Specifically, PFAs
 

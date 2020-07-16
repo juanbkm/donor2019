@@ -9,9 +9,9 @@ trust_funds_contribution:
 partner_logo: images/partners/ebrd.png
 draft: false
 ---
-The <a href="https://www.ebrd.com/">European Bank for Reconstruction and Development (EBRD)</a>, is a development bank that provides project financing for banks, industries and businesses, both new ventures and existing companies. It prioritizes support for countries in Central and West Asia, and North Africa. It focuses on advancing developmental goals in finance and policy reform.  
+The <a href="https://www.ebrd.com/">European Bank for Reconstruction and Development (EBRD)</a> is a development bank that provides project financing for banks, industries and businesses, both new ventures and existing companies. It prioritizes support for countries in Central and West Asia, and North Africa. It focuses on advancing developmental goals in finance and policy reform.  
 
-In 2019, the ADB and EBRD signed an agreement that allows cofinanced projects to follow a single procurement framework. It also cofinanced 2019-approved projects on transport in Georgia and energy in Uzbekistan.  
+In 2019, the ADB and EBRD signed an [agreement](https://www.adb.org/news/adb-signs-second-alternative-procurement-arrangement-cofinanced-projects) that allows cofinanced projects to follow a single procurement framework. It also cofinanced 2019-approved projects on transport in Georgia and energy in Uzbekistan.  
 
 <split>
 

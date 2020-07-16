@@ -10,7 +10,7 @@ draft: false
 
 The <a href="https://www.adb.org/site/funds/funds/asean-infrastructure-fund">ASEAN Infrastructure Fund (AIF)</a> is a dedicated fund established by the ASEAN member nations and ADB to address the region's infrastructure development needs by mobilizing regional savings, including foreign exchange reserves. The fund prioritizes ASEAN member countries and provides loans to finance infrastructure investment projects in the transport, energy, water and sanitation, environment and rural development, and social infrastructure sectors. 
 
-In April 2019, AIF launched the ASEAN Catalytic Green Finance Facility (ACGF), a new initiative that mobilizes more than $1 billion in green infrastructure investments across Southeast Asia. It aims to catalyze private capital by mitigating risks through innovative finance structures. Along with ADB’s partners, AIF also contributed $75 million to the new financing facility. 
+In April 2019, AIF launched the [ASEAN Catalytic Green Finance Facility (ACGF)](https://www.adb.org/news/new-facility-mobilize-1-billion-asean-green-infrastructure), a new initiative that mobilizes more than $1 billion in green infrastructure investments across Southeast Asia. It aims to catalyze private capital by mitigating risks through innovative finance structures. Along with ADB’s partners, AIF also contributed $75 million to the new finance facility. 
 
 <split>
 

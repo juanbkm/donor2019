@@ -20,7 +20,7 @@
             <div class="col-md-5 dr-sidebar dr-funds">
                 <div class="">
                     {{with .Params.partner_logo}}
-                    <div class="mb-5">
+                    <div class="dr-p-logo mb-5">
                         <img src="{{- . -}}" alt=""> 
                     </div>
                     {{end}}              
@@ -37,31 +37,30 @@
                     </div>
                     {{end}}
 
-                    {{with .Params.project_specific_cofinancing_2019}}
+                    {{- with .Params.project_specific_cofinancing_2019 -}}
                     <div class="">
                         <span class="dr-type">2019 Project-specific Cofinancing</span> 
                         <ul>
                             {{ range . }}
                             <li>{{ .item | markdownify }}</li>
                             {{ end }}
-                        </ul>   
-                    </div>
-                    {{end}}
+                        </ul></div>
+                    {{- end -}}
 
-                    {{with .Params.trust_funds_contribution_2019}}
+                    {{- with .Params.trust_funds_contribution_2019 -}}
                     <div class="">
-                        <span class="dr-type">2019 Trust Funds Contribution</span> 
+                        <span class="dr-type">2019 Trust Funds Contributions</span> 
                         <ul>
                             {{ range . }}
                             <li>{{ .item | markdownify }}</li>
                             {{ end }}
-                        </ul>   
+                        </ul>
                     </div>
-                    {{end}}
+                    {{- end -}}
 
                     {{with .Params.new_trust_funds_contribution}}
                     <div class="">
-                        <span class="dr-type">New Trust Funds Contributions</span> 
+                        <span class="dr-type">2019 Trust Funds Contribution</span> 
                         <ul>
                             {{ range . }}
                             <li>{{ .item | markdownify }}</li>

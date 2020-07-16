@@ -7,7 +7,7 @@ project_specific_cofinancing_2019:
   - item: "**$390,000** grant for 1 technical assistance"
 trust_funds_contribution: "$76 million"
 trust_funds_contribution_2019:
-  - item: "**NOK30 million** ($3.3 million) additional contribution to the Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
+  - item: "**NKr30 million** $3.3 million to the Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
 partner_logo:
 draft: false
 ---
@@ -17,11 +17,11 @@ In November 2019, ADB and the Government of Norway signed the cofinancing agreem
 
 #### Active Trust Funds 
 
-* Clean Energy Fund under the Clean Energy Financing Partnership Facility 
+* [Clean Energy Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cef)
 * [Cooperation Fund in Support of Managing for Development Results](./modalities/trust-funds/multi-partner-trust-funds/#cfsmdr) 
 * [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf) 
 * [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf) 
-* Multi-Donor Trust Fund under the Water Financing Partnership Facility  
+* [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf)  
  
 #### Development Assistance Agencies 
 
@@ -74,4 +74,4 @@ School Sector Development Plan</a></td>
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>

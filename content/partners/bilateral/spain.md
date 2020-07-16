@@ -5,7 +5,7 @@ partner_type: Bilateral
 project_specific_cofinancing:
 trust_funds_contribution: "$63.4 million"
 trust_funds_contribution_2019:
-  - item: "**€1.5 million** ($1.7 million) additional commitment to the Spanish Cooperation Fund for Technical Assistance" 
+  - item: "**€1.5 million** $1.7 million Spanish Cooperation Fund for Technical Assistance" 
 partner_logo:
 draft: false
 --- 
@@ -16,8 +16,8 @@ Several departments coordinated through the Ministry of Cooperation and External
 
 #### Active Trust Funds 
 
-* Clean Energy Fund under the Clean Energy Financing Partnership Facility 
-* Multi-Donor Trust Fund unde the Water Financing Partnership Facility 
+* [Clean Energy Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cef)
+* [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf)
 * [Spanish Cooperation Fund for Technical Assistance](./modalities/trust-funds/single-partner-trust-funds/#scfta)
  
 #### Development Assistance Agencies 
@@ -55,4 +55,4 @@ href="https://www.adb.org/projects/46173-001/main" target="_blank">Supporting th
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> TA = technical assistance cofinancing</p> 

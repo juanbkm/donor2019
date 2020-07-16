@@ -15,14 +15,14 @@ Canada’s priority sectors for development assistance are gender, governance, p
 #### Active Trust Funds
 
 * [Asia Pacific Project Preparation Facility](./modalities/trust-funds/multi-partner-trust-funds/#apppf) 
-* Canadian Climate Fund for the Private Sector in Asia under the Clean Energy Financing Partnership Facility 
+* [Canadian Climate Fund for the Private Sector in Asia under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cfps)
 * [Canadian Climate Fund for the Private Sector in Asia II](./modalities/trust-funds/single-partner-trust-funds/#ccfpsa) 
 * [Canadian Cooperation Fund on Climate Change](./modalities/trust-funds/single-partner-trust-funds/#ccfcc) 
 * [Cooperation Fund in Support of Managing for Development Results](./modalities/trust-funds/multi-partner-trust-funds/#cfsmdr) 
 * [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf)  
 * [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf) 
-* [Integrated Disaster Risk Management Fund](./modalities/trust-funds/single-partner-trust-funds/#idrmf) 
-* Regional Malaria and other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
+* [Integrated Disaster Risk Management Fund](./modalities/trust-funds/single-partner-trust-funds/#idrmf)
+* [Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility](./modalities/financing-partnership-facilities/health-financing-partnership-facility/#rmocdttf)
 
 #### Development Assistance Agency
 

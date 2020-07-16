@@ -8,19 +8,19 @@ lead: First among the financing partnership facilities to be established, the Wa
 
 contributors:
   - name: Australia
-    id: mdtf
+    link: partners/bilateral/australia/
   - name: Austria 
-    id: mdtf
+    link: partners/bilateral/austria/
   - name: Bill & Melinda Gates Foundation
-    id: sfptf
+    link: partners/others/bill-melinda-gates-foundation/
   - name: The Netherlands
-    id: ntf
+    link: partners/bilateral/netherlands/
   - name: Norway*
-    id: mdtf
+    link: partners/bilateral/norway/
   - name: Spain
-    id: mdtf
+    link: partners/bilateral/spain/
   - name: Switzerland
-    id: mdtf
+    link: partners/bilateral/switzerland/
 contributorsfn: <sup>*</sup>Norway was a contributor to the Multi-Donor Trust Fund from 2007 to 2017.
 chart: wfpf-chart.png
 tf:

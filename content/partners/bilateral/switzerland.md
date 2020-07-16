@@ -7,7 +7,7 @@ project_specific_cofinancing_2019:
   - item: "**$2 million** grant for 1 project and 1 technical assistance"
 trust_funds_contribution: "$41.6 million"
 new_trust_funds_contribution: 
-  - item: "**$570,000** additional contribution to Cities Development Initiative for Asia Trust Fund"
+  - item: "**$570,000** Cities Development Initiative for Asia Trust Fund"
 partner_logo:
 draft: false
 ---
@@ -15,10 +15,10 @@ draft: false
 
 #### Active Trust Funds 
 
-* Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnership Facility
-* Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility
-* Multi-Donor Trust Fund under the Water Financing Partnership Facility 
- 
+* [Cities Development Initiative for Asia Trust Fund](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#cdiatf) 
+* [Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#uccrtf)
+* [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf)
+
 #### Development Assistance Agencies 
 
 * [Swiss Agency for Development and Cooperation (SDC)](https://www.eda.admin.ch/sdc)
@@ -77,4 +77,4 @@ href="https://www.adb.org/projects/46173-001/main" target="_blank">Supporting th
 <td>TA</td>
 </tr>
 </table>
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p> 

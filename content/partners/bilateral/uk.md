@@ -5,7 +5,7 @@ partner_type: Bilateral
 project_specific_cofinancing: "$1.14 billion"
 trust_funds_contribution: "$443.3 million"
 trust_funds_contribution_2019:
-  - item: "**GBP9 million** ($11.79 million) replenishment Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
+  - item: "**£9 million** $11.79 million Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
 partner_logo:
 draft: false
 ---
@@ -16,11 +16,11 @@ ADB and UK sought ways to deepen their collaboration in Asia and the Pacific dur
 #### Active Trust Funds 
 
 * [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf)  
-* Carbon Capture and Storage Fund under the Clean Energy Financing Partnership Facility 
-* Clean Energy Fund under the Clean Energy Financing Partnership Facility 
-* Regional Malaria and other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
+* [Carbon Capture and Storage Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#ccsf)
+* [Clean Energy Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cef)
+* [Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility](./modalities/financing-partnership-facilities/health-financing-partnership-facility/#rmocdttf)
 * United Kingdom Fund for Asia Regional Trade and Connectivity under the Regional Cooperation and Integration Financing Partnership Facility
-* Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility 
+* [Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#uccrtf)
 
 #### Development Assistance Agencies 
 

@@ -7,19 +7,19 @@ image: ufpf-mi.jpg
 lead: The Urban Financing Partnership Facility funds projects and programs that help Asia’s cities become more livable. It supports initiatives in public transport, water supply and sanitation, solid waste management, and environmentally sustainable, inclusive, urban renewal projects that benefit the poor. In 2019, the facility has reached $191.9 million in total contributions.
 contributors:
   - name: Australia
-    id: aasctf
+    link: partners/bilateral/australia/
   - name: Austria
-    id: cdiatf
+    link: partners/bilateral/austria/
   - name: The Rockefeller Foundation
-    id: uccrtf
+    link: partners/others/rockefeller-foundation/
   - name: Sweden
-    id: ueif
+    link: partners/bilateral/sweden/
   - name: Switzerland
-    id: cdiatf
+    link: partners/bilateral/switzerland/
   - name: United Kingdom
-    id: uccrtf
+    link: partners/bilateral/uk/
   - name: United States*
-    id: uccrtf
+    link: partners/bilateral/usa/
 contributorsfn: <sup>*</sup> The United States was a contributor to the UCCRTF from 2014 to 2016.
 
 chart: ufpf-chart.png
@@ -51,7 +51,7 @@ tf:
       - partner: Switzerland ($4.6 million)
    
     description: |
-      In 2019, CDIATF received contributions of $2.2 million (€2.0 million) from Germany and $565,686 from Switzerland (savings transferred from the closed technical assistance, [Regional: Managing Cities in Asia](https://www.adb.org/projects/39185-012/main)). 
+      In 2019, CDIATF received contributions of $2.2 million (€2 million) from Germany and $565,686 from Switzerland (savings transferred from the closed technical assistance, [Regional: Managing Cities in Asia](https://www.adb.org/projects/39185-012/main)). 
       
       CDIATF assists secondary cities in preparing sustainable and bankable infrastructure projects; linking them with funding sources; and strengthening their capacities to develop and implement high priority investments.
   - name: Urban Climate Change Resilience Trust Fund (UCCRTF)

@@ -20,15 +20,15 @@ Australia channels funds toward development work in infrastructure; trade facili
 
 #### Active Trust Funds 
 
-* ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility 
+* [ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#aasctf)
 * [Asia Pacific Project Preparation Facility](./modalities/trust-funds/multi-partner-trust-funds/#apppf) 
 * [Australian Technical Assistance Grant](./modalities/trust-funds/single-partner-trust-funds/#atag) 
-* Carbon Capture and Storage Fund under the Clean Energy Financing Partnership Facility 
-* Clean Energy Fund under the Clean Energy Financing Partnership Facility 
+* [Carbon Capture and Storage Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#ccsf)
+* [Clean Energy Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cef)
 * [Cooperation Fund for Regional Trade and Financial Security Initiative](./modalities/trust-funds/multi-partner-trust-funds/#cfrtfsi) 
 * [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf) 
-* Multi-Donor Trust Fund under the Water Financing Partnership Facility 
-* Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility 
+* [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf)
+* [Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility](./modalities/financing-partnership-facilities/health-financing-partnership-facility/#rmocdttf)
 
 #### Development Assistance Agency
 

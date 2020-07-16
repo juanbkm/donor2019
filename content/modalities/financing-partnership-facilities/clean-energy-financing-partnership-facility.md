@@ -7,21 +7,21 @@ image: floating-solar.jpg
 lead: The Clean Energy Financing Partnership Facility continues to support projects that focus on energy efficiency; access to energy; renewable energy; carbon capture, utilization, and storage; sustainable transport; and projects that engage the private sector to invest in clean energy. In 2019, total contributions received by the facility reached $295.5 million.
 contributors:
   - name: Australia
-    id: cef
+    link: partners/bilateral/australia/
   - name: Canada
-    id: cfps
+    link: partners/bilateral/canada/
   - name: Global Carbon Capture and Storage Institute*
-    id: ccsf
+    link: 
   - name: Japan
-    id: acef
+    link: partners/bilateral/japan/
   - name: Norway
-    id: cef
+    link: partners/bilateral/norway/
   - name: Spain
-    id: cef
+    link: partners/bilateral/spain/
   - name: Sweden 
-    id: cef
+    link: partners/bilateral/sweden/
   - name: United Kingdom
-    id: cef
+    link: partners/bilateral/uk/
 
 contributorsfn: <sup>*</sup>The Global Carbon Capture and Storage Institute was a contributor to the multi-partner Carbon Capture and Storage Fund from 2009 to 2018.
 chart: cefpf.png

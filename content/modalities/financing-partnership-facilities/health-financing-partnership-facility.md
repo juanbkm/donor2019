@@ -7,11 +7,11 @@ image: hfpf-mi.jpg
 lead: The remaining funds of the Regional Malaria and Other Communicable Disease Threats Trust Fund, the lone trust fund under the Health Financing Partnership Facility, was used to ensure that ADB’s ongoing support for regional health security is properly aligned with ADB Strategy 2030. The facility has $29.4 million in total committed contributions in 2019. 
 contributors:
   - name: Australia*
-    id: rmocdttf
+    link: partners/bilateral/australia/
   - name: Canada
-    id: rmocdttf
+    link: partners/bilateral/canada/
   - name: United Kingdom*
-    id: rmocdttf
+    link: partners/bilateral/uk/
 contributorsfn: <sup>*</sup> Australia and the United Kingdom were contributors to the RMTF until 2018.
 chart: hfpf-chart.png
 tf:
@@ -24,7 +24,7 @@ tf:
     fn: Investment income, gains on foreign exchange transactions and savings on closed projects are used for project commitments. Hence, project commitments may exceed contributions.  
     contributor:
       - partner: Australia ($16.2 million) 
-      - partner: Canada ($531,916.00) 
+      - partner: Canada ($531,916) 
       - partner: United Kingdom ($12.8 million)
     description: |
       RMTF was set up in December 2013 with the specific remit to support developing member countries to develop multi-country, cross-border, and multisector responses to urgent malaria and other communicable disease issues. Australia and the United Kingdom were contributors to the RMTF and the HFPF until 2018.   

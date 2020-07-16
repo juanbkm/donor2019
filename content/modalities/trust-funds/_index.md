@@ -71,11 +71,11 @@ The [Ireland Trust Fund for Building Climate Change and Disaster Resilience in S
 
 {{< tf-nav >}}
 
-Of the 45 ADB-managed trust funds, 15 are part of ADB’s [Financing Partnership Facilities](./modalities/financing-partnership-facilities/) (FPFs), which offer partners an opportunity for long-term investments in key development priorities aligned with ADB’s corporate initiatives. Currently, there are five FPFs focused on clean energy, health, regional cooperation and integration, urban development, and water.
+Of the 45 ADB-managed trust funds, 14 are part of ADB’s [Financing Partnership Facilities](./modalities/financing-partnership-facilities/) (FPFs), which offer partners an opportunity for long-term investments in key development priorities aligned with ADB’s corporate initiatives. Currently, there are five FPFs focused on clean energy, health, regional cooperation and integration, urban development, and water.
 
 FPFs are operational mechanisms for strategic, long-term, multi-partner cooperation. They have set targets and objectives, ensure a steady and coordinated flow of funds, and are intensively managed to ensure that these goals are achieved, from application processing to project development and results monitoring. In 2019, the ASEAN Australia Smart Cities was established under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) with an initial funding of $15.2 million. It aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
 
-In 2019, ADB’s trust funds received replenishments (green boxes) totaling $297.7 million and new contributions (yellow boxes) amounting to $28.7 million. The breakdown is as follows:
+In 2019, ADB’s trust funds received replenishments (green boxes) totaling $297.7 million and contributions for new trust funds (yellow boxes) amounting to $28.7 million. The breakdown is as follows:
 
 {{< dr-artimage src="./images/modalities/tf-chart.svg" width="100%" >}}
 

@@ -149,7 +149,7 @@ tf:
     url: https://www.adb.org/site/funds/funds/japan-fund-public-policy-training
     year: 2004
     image:
-    tcc: $22.0 million 
+    tcc: $22 million 
     cfp: $13.7 million  for 2 projects
     contributor:
       - item:
