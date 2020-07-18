@@ -25,11 +25,12 @@ draft: false
 ---
 ### Expected Partnership Results
 
-<ul class="dr-results">
-  <li><i class="icon-check-circle"></i> Model shelters for women and children survivors of domestic and sexual violence established in three provinces and two districts, at least two to be physically accessible to persons with disabilities</li>
-  <li><i class="icon-check-circle"></i> Capacity building of key officials and staff responsible for protection and rehabilitation services for domestic violence survivors</li>
-  <li><i class="icon-check-circle"></i> Expansion of existing helpline center, which receives distress calls, provides psychological and legal counseling, and refers calls to the police</li>
-</ul>
+<div class="dr-results row">
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Model shelters for women and children survivors of domestic and sexual violence established in three provinces and two districts, at least two to be physically accessible to persons with disabilities</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Capacity building of key officials and staff responsible for protection and rehabilitation services for domestic violence survivors</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Expansion of existing helpline center, which receives distress calls, provides psychological and legal counseling, and refers calls to the police</span></div>
+</div>
+
 
 ### Background
 

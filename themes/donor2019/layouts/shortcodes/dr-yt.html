@@ -4,5 +4,8 @@
         <img src="./images/stories/{{ .Get `cover` }}" alt="Video">
         <span class="i-overlay nobg"><img src="./images/video-play.png" alt="Play"></span>
       </a>
+      {{ with .Get `caption` }}
+      <p class="dr-caption">{{ . | markdownify }}</p>
+      {{ end }}
     </div>
 </div>

@@ -6,7 +6,7 @@ image_caption: "**Windmills of Your Mind.** Sri Lanka is planning to build a win
 author: Admin
 description: "This is meta description"
 country: Sri Lanka
-summary: "Sri Lanka is keen on developing wind power as an alternative to more costly thermal power. An ADB technical assistance supported by the Clean Energy Fund, built the capacity of Sri Lanka’s largest electric company to handle wind power projects with private sector involvement."
+summary: "Sri Lanka is keen on developing wind power as an alternative to more costly thermal power. An ADB technical assistance, supported by the Clean Energy Fund under the Clean Energy Financing Partnership Facility, built the capacity of one of Sri Lanka's largest electric companies to handle wind power projects with private sector involvement."
 project_title: "Sri Lanka: Wind Power Generation Project"
 project_url: https://www.adb.org/projects/49345-001/main#project-pds
 cost: "$2 million"
@@ -23,23 +23,23 @@ draft: false
 ---
 ### Partnership Results
 
-<ul class="dr-results">
-<li><i class="icon-check-circle"></i> Improved capacity of Ceylon Electricity Board in developing future wind power projects with private sector participation</li>
-<li><i class="icon-check-circle"></i> Completed preliminary engineering design and due diligence</li>
-<li><i class="icon-check-circle"></i> Ready procurement packages and bidding documents for the private sector</li>
-<li><i class="icon-check-circle"></i> Prepared road map, with options for private sector participation in developing renewable energy sources</li>
-<li><i class="icon-check-circle"></i> Approval of $200 million investment project to develop a 100-megawatt wind park</li>
-</ul>
+<div class="dr-results row">
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Improved capacity of Ceylon Electricity Board in developing future wind power projects with private sector participation</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Completed preliminary engineering design and due diligence</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Ready procurement packages and bidding documents for the private sector</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Prepared road map, with options for private sector participation in developing renewable energy sources</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Approval of $200 million investment project to develop a 100-megawatt wind park</span></div>
+</div>
 
 ### Background
 
 Sri Lanka will be throwing wind power into its clean energy mix.  
 
-Sri Lanka has reached 99.3% national electrification in 2016, up from a mere 29% in 1990. However, high priced fuels make electricity costly and pose a serious threat to Sri Lanka’s energy security and the environment. The share of thermal energy sources in power generation has increased in recent years and is expected to rise. The country’s energy sector still struggles with a growing demand for low-cost and reliable electricity.  
+Sri Lanka has reached 99.3% national electrification in 2016, up from a mere 29% in 1990. However, high-priced fuels make electricity costly and pose a serious threat to Sri Lanka’s energy security and the environment. The share of thermal energy sources in power generation has increased in recent years and is expected to rise. The country’s energy sector still struggles with a growing demand for low-cost and reliable electricity.  
 
 Sri Lanka needs to develop other renewable energy sources such as wind power, solar power, hydropower, biomass, and other indigenous sources to increase the clean energy mix in power generation. The National Energy Policy and Strategies of Sri Lanka provide a sector road map, policy reform measures, and a basis for a national sector investment program that aims to ensure the sustainable development of energy resources. 
 
-In 2016, ADB approved the technical assistance [Sri Lanka: Wind Power Generation Project](https://www.adb.org/projects/49345-001/main#project-pds) to support the country’s preparations for a large clean energy investment project. It was financed by the Clean Energy Fund (CEF), with contributions from Australia, Norway, Spain, Sweden, and the United Kingdom, under ADB’s [Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/) (CEFPF). The $2 million project preparatory technical assistance strengthened the capacity of the Ceylon Electricity Board (CEB) to handle the development of future wind power projects with private sector participation. CEB is a state-owned corporation engaged in power generation, transmission, distribution, and supply of electricity. It shares the electricity distribution function with the Lanka Electricity Company (Private) Ltd. 
+In 2016, ADB approved the technical assistance [Sri Lanka: Wind Power Generation Project](https://www.adb.org/projects/49345-001/main#project-pds) to support the country’s preparations for a large clean energy investment project. It was financed by the [Clean Energy Fund (CEF)](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cef), under ADB’s [Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/) (CEFPF). The $2 million project preparatory technical assistance strengthened the capacity of the Ceylon Electricity Board (CEB) to handle the development of future wind power projects with private sector participation. CEB is a state-owned corporation engaged in power generation, transmission, distribution, and supply of electricity. It shares the electricity distribution function with the Lanka Electricity Company (Private) Ltd. 
 
 ### Interventions
 
@@ -51,8 +51,8 @@ The technical assistance supported a capacity building program for CEB staff to 
 
 To help prepare the CEB in facilitating public-private partnerships, the technical assistance supported the CEB in:
 
-* Preparing procurement packages and relevant bidding documents for the proposed CEB wind power generation, and competitive bidding documents for private sector participation; and
-* Preparing a road map and options for private sector involvement in further developing renewable energy sources in the country.
+* Preparing procurement packages and relevant bidding documents for the proposed CEB wind power generation, and competitive bidding documents for private sector participation
+* Preparing a road map and options for private sector involvement in further developing renewable energy sources in the country
 
 ### Results
 
@@ -60,4 +60,4 @@ In 2017, ADB approved a [$200 million investment project](https://www.adb.org/pr
 
 CEB is providing $56.7 million toward the total project cost of $256.7 million. This investment on the proposed wind park is the first step taken by CEB in establishing benchmarks for large scale wind power development and streamlining the procurement of private investments.  
 
-Through the technical assistance, CEB is now ready to facilitate public-private partnership. To catalyze private sector investments, CEB is expected to initiate build-own-operate and transfer models for the development of future wind parks.
+Through the technical assistance, CEB is now ready to facilitate public-private partnership. To catalyze private sector investments, CEB is expected to initiate build-own-operate and transfer models for the development of future wind parks. 

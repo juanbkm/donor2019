@@ -2,7 +2,7 @@
 title: "Rebuilding the Road to the Border"
 date: 2020-05-30T08:08:00+08:00
 image: images/stories/rebuilding-the-road-to-the-border.jpg
-image_caption: "**Mirror, mirror, on the road.** Spherical convex mirrors on Tajikistan’s Ayni–Panjakent road that connects to the Uzbekistan border provide increased road safety for pedestrians and vehicles alike at dangerous curves and junctions."
+image_caption: "**Mirror, Mirror, on the Road.** Spherical convex mirrors on Tajikistan’s Ayni–Panjakent road that connects to the Uzbekistan border provide increased road safety for pedestrians and vehicles alike at dangerous curves and junctions."
 author: Admin
 description: "This is meta description"
 country: Tajikistan
@@ -28,14 +28,14 @@ draft: false
 ---
 ### Partnership Results
 
-<ul class="dr-results">
-<li><i class="icon-check-circle"></i> 113 kilometers of road rehabilitated</li>
-<li><i class="icon-check-circle"></i> 60 kilometers of village feeder roads constructed</li>
-<li><i class="icon-check-circle"></i> 31 bridges rehabilitated</li>
-<li><i class="icon-check-circle"></i> National Road Safety Strategy and Action Plan developed and implemented</li>
-<li><i class="icon-check-circle"></i> Sarazm border-crossing point constructed</li>
-<li><i class="icon-check-circle"></i> Reduced travel time from Ayni to Sarazm from 3.5 to 1.4 hours for cars/taxis and 1.8 hours for buses/trucks</li>
-</ul>
+<div class="dr-results row">
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>113 kilometers of road rehabilitated</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>60 kilometers of village feeder roads constructed</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>31 bridges rehabilitated</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>National Road Safety Strategy and Action Plan developed and implemented</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Sarazm border-crossing point constructed</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Reduced travel time from Ayni to Sarazm from 3.5 to 1.4 hours for cars/taxis and 1.8 hours for buses/trucks</span></div>
+</div>
 
 ### Background
 
@@ -55,9 +55,9 @@ The rehabilitation and upgrading of 112.7 kilometers of the Ayni–Uzbekistan bo
 
 An important part of the project is the development of a National Road Safety Strategy and Action Plan and the conduct of road safety audits, which allayed concerns about increased frequency of road accidents. Road maintenance vehicles and equipment were also procured, and public information campaigns and trainings were conducted.
 
-{{< dr-yt video="Haa4wJwWSpc" title="Rebuilding the Road to the Border" cover="cover-yt-rebuilding-the-road-to-the-border.jpg" >}}
+At the Sarazm border post, new facilities provide comfort and ease to tourists&mdash;a new administrative building, a new customs control building, two new checkpoints, gender-friendly toilet facilities, parking lots, street lighting, and landscaping.
 
-At the Sarazm border post, new facilities provide comfort and ease to tourists─a new administrative building, a new customs control building, two new checkpoints, gender-friendly toilet facilities, parking lots, street lighting, and landscaping.
+{{< dr-yt video="Haa4wJwWSpc" align="" title="Rebuilding the Road to the Border" cover="cover-yt-rebuilding-the-road-to-the-border.jpg" caption="Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the OPEC Fund for International Development, the new road links to a cross-country highway that serves as conduit for trade goods." >}}
 
 ### Results
 
@@ -67,13 +67,13 @@ Travel time from Ayni to the Uzbekistan border has been reduced from 3.5 hours t
 
 Shops, street vendors, and a small hotel have sprouted along the rehabilitated road. The roadside has been bustling with activity as more tourists visit. Taxi drivers and small businesses have more customers. The new road has made land travel faster, safer, and cheaper.
 
-“I used to spend 7-8 hours on the road between Dushanbe and Panjakent,” recalled Hikmat Sanginov, 36, a taxi driver of 10 years. “Now, I can make the trip in 4 hours thanks to the improved road.”
+“I used to spend 7 to 8 hours on the road between Dushanbe and Panjakent,” recalled Hikmat Sanginov, 36, a taxi driver of 10 years. “Now, I can make the trip in 4 hours thanks to the improved road.”
 
 In 2018, the border was reopened.
 
 In the past, Hikmat never traveled to the Uzbek border, as the border was closed. With the improved road, he now drives passengers from the Sarazm border post to Panjakent and Dushanbe and back. “It’s a win-win situation for taxi drivers and passengers,” Hikmat said.
 
-{{< dr-storyimage src="images/stories/rebuilding-the-road-to-the-border-2.jpg" align="" alt="" caption="" >}}
+{{< dr-storyimage src="images/stories/rebuilding-the-road-to-the-border-2.jpg" align="right" alt="" caption="Opening in 2015, the Hotel Umariyon at the heart of Panjakent was built in anticipation of increased tourist activity because of the rehabilitated cross-border road. It has since expanded and now serves local and foreign guests alike." >}}
 
 The Hotel Umariyon at the center of Panjakent, owned by a local entrepreneur, opened in 2015 in anticipation of increased tourist activity.
 

@@ -24,7 +24,7 @@
             </div>
             <div class="col-md-5">
                 <div class="dr-op-box">
-                    <p>{{ .Params.op_intro }}</p>
+                    <p>{{ .Params.op_intro | markdownify }}</p>
                     <ul class="iconlist">
                         {{ range .Params.op }}<li><i class="icon-ok"></i> {{ .item }}</li>{{ end }}
                     </ul>

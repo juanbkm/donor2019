@@ -3,6 +3,11 @@
 <section class="dr-stories-single">
     <div class="container clearfix">
         <div class="row">
+            <div class="col">
+                {{- partial "pager2.html" . -}}
+            </div>
+        </div>
+        <div class="row">
             <div class="col-md-12 mx-auto">
                 <div class="dr-story-title">
                     <h3>{{ .Params.country }} | {{ delimit .Params.categories ", " }}</h3>

@@ -2,22 +2,22 @@
 title: "Access to Credit Empowers Sri Lankan Women"
 date: 2020-05-30T08:11:00+08:00
 image: images/stories/smes-mainstream-women-into-sri-lankas-economy.jpg
-image_caption: "**Women Mean Business.** These women entrepreneurs in Sri Lanka and many others like them can now obtain loans faster and easier from local banks to jumpstart their own small business enterprises."
+image_caption: "**Women Mean Business.** These women entrepreneurs in Sri Lanka and many others like them can now obtain loans faster and easier from local banks to jumpstart their own small and medium enterprises (SMEs)."
 image_thumb: images/stories/smes-mainstream-women-into-sri-lankas-economy-th.jpg
 author: Admin
 description: "This is meta description"
 country: Sri Lanka
-summary: "Women in Sri Lanka now find it easier to borrow capital from banks under ADB’s Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project that is supported by Women Entrepreneurs Finance Initiative (We-Fi) grant and the Japan Fund for Poverty Reduction (JFPR). The project opened opportunities for women to plan, expand, and jumpstart their businesses through access to finance, training, and mentorship opportunities."
+summary: "Women in Sri Lanka now find it easier to borrow capital from banks under ADB’s Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project that is supported by Women Entrepreneurs Finance Initiative grant and the Japan Fund for Poverty Reduction. The project opened opportunities for women to plan, expand, and jumpstart their businesses through access to finance, training, and mentorship opportunities."
 project_title: "Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project"
 project_url: https://www.adb.org/projects/49273-001/main#project-pds
 cost: "$188.7 million"
 fund_source: 
   - name: "ADB"
-    amount: "$175 million (Loan)"
+    amount: "$175 million"
 fin_partners:
-  - name: "Japan Fund for Poverty Reduction"
+  - name: "Japan Fund for Poverty Reduction (JFPR)"
     amount: "$2 million"
-  - name: "Women Entrepreneurs Finance Initiative"
+  - name: "Women Entrepreneurs Finance Initiative (We-Fi)"
     amount: "$12.6 million"
 approval: "15 Feb 2016"
 completion: "30 Sep 2020"
@@ -30,27 +30,27 @@ draft: false
 
 ### Partnership Results
 
-<ul class="dr-results">
-<li><i class="icon-check-circle"></i>$100 million successfully disbursed in 2016-2018 through ten local banks to 1,755 SMEs, out of which 484 (27%) are owned or led by women</li>
-<li><i class="icon-check-circle"></i>$75 million additional loan and $12.6 million additional grant from We-FI, after the success of the original $100 million credit line</li>
-<li><i class="icon-check-circle"></i>$71.9 million additional loan and $6.2 million We-Fi grant disbursed as of February 2019 to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs</li> 
-<li><i class="icon-check-circle"></i>637 women-led SMEs benefited from the blended finance of ADB credit line and We-Fi grant, so far</li>
-<li><i class="icon-check-circle"></i>744 women trained on business development under the technical assistance funded by JFPR and We-Fi</li>
-</ul>
+<div class="dr-results row">
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>$100 million successfully disbursed in 2016-2018 through ten local banks to 1,755 SMEs, out of which 484 (27%) are owned or led by women</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>$75 million additional loan and $12.6 million additional grant from We-FI, after the success of the original $100 million credit line</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>$71.9 million additional loan and $6.2 million We-Fi grant disbursed as of February 2019 to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>637 women-led SMEs benefited from the blended finance of ADB credit line and We-Fi grant, so far</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>744 women trained on business development under the technical assistance funded by JFPR and We-Fi</span></div>
+</div>
 
 ### Background
 
 In Sri Lanka, women economic participation is well below potential despite its gender parity in access to education. They contribute only a little over 33% to the labor force. Even less are those who own or lead small to medium enterprises (SMEs). Disenfranchised, the women remain an untapped national resource. What a missed opportunity it is for the country that is transitioning to upper-middle-income status.  
 
-The International Finance Corporation estimates that 40%─ or 65 million– of SMEs in the developing world have US$5.2 trillion unmet financing needs. This shortfall is due to banks being more inclined to provide loans to bigger firms and businesses. SMEs, even though they make up 90% of businesses in the Asia-Pacific region, remain an unattractive prospect for capital lending. 
+The International Finance Corporation estimates that 40%&mdash; or 65 million&mdash; of SMEs in the developing world have $5.2 trillion unmet financing needs. This shortfall is due to banks being more inclined to provide loans to bigger firms and businesses. SMEs, even though they make up 90% of businesses in the Asia-Pacific region, remain an unattractive prospect for capital lending. 
 
-The Sri Lankan government decided to address this gap by enlisting the ADB's assistance in promoting women's entrepreneurship, a central pillar of ADB's Strategy 2030 in promoting gender equality. 
+The Sri Lankan government decided to address this gap by enlisting the ADB's assistance in promoting women's entrepreneurship, a central pillar of [ADB's Strategy 2030 in promoting gender equality](https://www.adb.org/documents/strategy-2030-op2-gender-equality). 
 
 ### Interventions
 
 The [Sri Lanka: Small and Medium-Sized Enterprises Line of Credit Project](https://www.adb.org/projects/49273-001/main#project-pds) provides long-term financing through 10 local participating banks to targeted SMEs, with attention to women-led SMEs. It also supported the capacity enhancement of women entrepreneurs. A $100 million credit line and a $2 million technical assistance (TA) financed by [Japan Fund for Poverty Reduction](./modalities/trust-funds/single-partner-trust-funds/#jfpr) (JFPR) supported women-led SMEs gain better access to finance from banks. The technical assistance from [JFPR](./modalities/trust-funds/single-partner-trust-funds/#jfpr) supported business development training for women in export-oriented and agri-businesses sectors, along with awareness raising campaign for entrepreneurship in the information and communications technology sector.  
 
-{{< dr-yt video="FjedjbrikqQ" title="SMEs Mainstream Women into Sri Lanka’s Economy" cover="cover-yt-access-to-credit-empowers-sri-lankan-women.jpg" >}}
+{{< dr-yt video="FjedjbrikqQ" align="" title="Sri Lanka: SMEs Mainstream Women into Sri Lanka’s Economy" cover="cover-yt-access-to-credit-empowers-sri-lankan-women.jpg" caption="Women in Sri Lanka now find it easier to borrow from banks after an ADB SME credit line opened opportunities for women to plan and jumpstart their businesses. The project, supported by Women Entrepreneurs Finance Initiative (We-Fi) and the Japan Fund for Poverty Reduction (JFPR), paves the way for the Sri Lanka’s women to better participate in the economy." >}}
 
 With the successful disbursement and development impacts (see Results section), the government requested ADB for an additional $75 million credit line and a $12.6 million grant from the [Women Entrepreneurs Finance Initiative](./modalities/global-funds/#wefi) (We-Fi) to expand the project’s gender elements. The [We-Fi](./modalities/global-funds/#wefi) grant provides (i) blended finance facility with the ADB’s credit line to women-led SMEs that are constrained by limited capital, and (ii) capacity development support for a broader range of stakeholders including women entrepreneurs, banks, government organizations civil society organizations and other key stakeholders so that all of them change behaviors to more effectively address issues that women entrepreneurs face.
 
@@ -76,4 +76,4 @@ One of these women is Ruchirani Munasinghe. Ruchi learned about finance, marketi
 
 #### Related Story
 
-[Promoting Women’s Entrepreneurship in Sri Lanka](https://www.youtube.com/watch?v=LsVnnF1kmWU) (ADB Youtube) 
+[Promoting Women’s Entrepreneurship in Sri Lanka](https://www.youtube.com/watch?v=LsVnnF1kmWU) (ADB Youtube)

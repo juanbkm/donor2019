@@ -28,27 +28,29 @@ draft: false
 ---
 
 ### Expected Partnership Results
-<ul class="dr-results">
-  <li><i class="icon-check-circle"></i> A modernized CDC Energiya using high-level technology data management by the end of 2021 </li>
-  </ul>
+
+<div class="dr-results row">
+  <div class="col-md-10 mx-auto mb-5"><i class="icon-check-circle"></i> <span>A modernized CDC Energiya using high-level technology data management by the end of 2021</span></div>
+</div>
+
 
 ### Background
 
-Power trade among Central Asian countries radically declined after the collapse of the Soviet Union in 1991. Before that, 25,413 million kilowatt-hours (kWh) were traded among the Central Asian Power Systems (CAPS)-Kazakhstan, the Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan.
+Power trade among Central Asian countries radically declined after the collapse of the Soviet Union in 1991. Before that, 25.41 billion kilowatt-hours (kWh) were traded among the Central Asian Power Systems (CAPS)&mdash;Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan.
 
-The drop in energy trade has caused widespread power outages in Tajikistan in winters and increased fossil fuel use by Kazakhstan, Turkmenistan, and Uzbekistan in summers. After Tajikistan left the CAPS in 2009, the energy trade had decreased to 2,256 million kWh, and this declined further in 2016 at 2,080 million kWh. 
+The drop in energy trade has caused widespread power outages in Tajikistan in winters and increased fossil fuel use by Kazakhstan, Turkmenistan, and Uzbekistan in summers. After Tajikistan left the CAPS in 2009, the energy trade had decreased to 2.26 billion kWh, and this declined further in 2016 to 2.08 billion kWh. 
 
 Power flow between the national electricity grids of the CAPS is regulated by the coordinating dispatch center (CDC), Energiya, which was formerly based in Moscow. It is now located in Tashkent, Uzbekistan. Since its establishment in the 1960s, no significant technological modernizations were made at CDC, and it operates on outdated, Soviet-era technologies to perform its functions.
 
 Examples of how the regional power trade is constrained due to technological limitations of the CDC can be seen in the forecasting of power flows and adjustment to real-time figures, delay in locating grid faults, and mismatched actual metered flows with the CDC's telemetry. All these contribute to the CDC not having a full and accurate picture of the energy flow among the CAPs.
 
-In late 2018, countries under the [Central Asia Regional Economic Cooperation](https://www.adb.org/countries/subregional-programs/carec) (CAREC) program requested ADB’s help to increase regional power trade among Afghanistan, Kazakhstan, the Kyrgyz Republic, Tajikistan, Uzbekistan, and Turkmenistan. The cluster technical assistance (TA) on [Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System](https://www.adb.org/projects/52112-001/main#project-pds) was approved with three subprojects that are strategically linked to the overall project objective.  
+In late 2018, countries under the [Central Asia Regional Economic Cooperation](https://www.adb.org/countries/subregional-programs/carec) (CAREC) program requested ADB’s help to increase regional power trade among Afghanistan, Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan. The cluster technical assistance (TA) on [Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System](https://www.adb.org/projects/52112-001/main#project-pds) was approved with three subprojects that are strategically linked to the overall project objective.  
 
 ### Interventions
 
-The participating countries target coming out of the project with increased cross-border energy trade of at least 11,000 million kilowatt-hours annually. The interventions are split into three subprojects and are designed independently of one another yet contributes to the umbrella cluster TA.
+The participating countries target coming out of the project with increased cross-border energy trade of at least 11 billion kilowatt-hours annually. The interventions are split into three subprojects and are designed independently of one another yet contributes to the umbrella cluster TA.
 
-The first subproject, [Modernization of Coordinating Dispatch Center Energiya](https://www.adb.org/sites/default/files/project-documents/52112/52112-002-tasp-en.pdf), is cofinanced by the Asian Clean Energy Fund, under [Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/) (CEFPF), and [the High-Level Technology Fund](./modalities/trust-funds/multi-partner-trust-funds/#hltf) (HLTF). It seeks to modernize the energy coordination dispatch center, Energiya, by introducing an energy data management (EDM) system to replace all Soviet-era equipment at Energiya. 
+The first subproject, [Modernization of Coordinating Dispatch Center Energiya](https://www.adb.org/sites/default/files/project-documents/52112/52112-002-tasp-en.pdf), is cofinanced by the [Asian Clean Energy Fund](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#acef), under [Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/) (CEFPF), and [the High-Level Technology Fund](./modalities/trust-funds/multi-partner-trust-funds/#hltf) (HLTF). It seeks to modernize the energy coordination dispatch center, Energiya, by introducing an energy data management (EDM) system to replace all Soviet-era equipment at Energiya. 
 
 The EDM, a high-level technology (HLT), is expected to enable operation of the regional grid in real-time and significantly increase volumes of telemetry information collected by Energiya. This will also allow centralization of the CAPS’ emergency automation.  
 
@@ -64,4 +66,4 @@ An assessment of the needs of Energiya has been conducted and the design of the 
 
 As of writing, the modular procurement plan to acquire the EDM is being finalized, including preparations of bid documents. The modular approach is used to adapt to budget availability and urgency of need in procurement. Since the modular procurement plan indicates that the allocated amount may be slightly short, the project may seek additional financing once the bidding for procurement of the EDM is complete in the autumn of 2020. 
 
-A regional workshop with [JICA](./modalities/partnership-framework-arrangements/#jica) and consultants based in Europe is postponed due to the COVID-19 pandemic. The workshop will be the venue for JICA to share experiences of Japan for managing interregional power flows as well as disaster resilience of the grid. The consultants will present European experience on power trade. 
+A regional workshop with [Japan International Cooperation Agency](./modalities/partnership-framework-arrangements/#jica) (JICA) and consultants based in Europe is postponed due to the COVID-19 pandemic. The workshop will be the venue for JICA to share experiences of Japan for managing interregional power flows as well as disaster resilience of the grid. The consultants will present European experience on power trade.

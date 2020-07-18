@@ -1,12 +1,12 @@
 ---
-title: "Achieving Climate Friendly Energy Security"
+title: "Achieving Climate-Friendly Energy Security"
 date: 2020-07-07T00:45:25+08:00
 image: images/stories/achieving-climate-friendly-energy-security.jpg
 image_caption: "Nepal's rich water resources have great potential to help the country achieve energy security."
 author: Admin
 description: "This is meta description"
 country: Nepal
-summary: "Through an ADB-supported private investment project, cofinanced with the Canadian Climate Fund for the Private Sector in Asia II, Nepal moves closer to achieving energy security.  After project completion, Nepal will see a new hydro power plant generate electricity for its national grid, helping lessen the country’s dependence on energy imports and lifting the quality of the lives of the surrounding communities."
+summary: "Through an ADB-supported private investment project, cofinanced with the Canadian Climate Fund for the Private Sector in Asia II, Nepal moves closer to achieving energy security.  After project completion, Nepal will see a new hydropower plant generate electricity for its national grid, helping lessen the country’s dependence on energy imports and lifting the quality of the lives of the surrounding communities."
 project_title: "Upper Trishuli-1 Hydropower Project"
 project_url: https://www.adb.org/projects/49086-001/main#project-pds
 client: Nepal Water and Energy Development Company Private Limited 

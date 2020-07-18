@@ -1,5 +1,5 @@
 ---
-title: "Powering Up Thailands Economic Corridor"
+title: "Powering Up Thailand's Economic Corridor"
 date: 2020-07-07T22:32:35+08:00
 image: images/stories/powering-up-thailands-economic-corridor.jpg
 image_caption: "Sustainable energy sources power Thailand's economy and its cities, similar to one in the photo. With an independent power plant, the country's Easter Economic Corridor is on course to become a hub of trade and investment. (ADB photo)"

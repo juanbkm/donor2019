@@ -2,11 +2,11 @@
 title: "Making Cities More Livable"
 date: 2020-05-01T01:01:04+08:00
 weight: 4
-lead: "ADB and its financing partners have made crosscutting investments to transform Asia’s cities into more livable urban centers—including environment-friendly transport, energy-saving water supply infrastructure, and green housing development. Further investments were focused on climate change and improving disaster resilience."
+lead: "ADB and its financing partners have made crosscutting investments to transform Asia’s cities into more livable urban centers─ including environment-friendly transport, energy-saving water supply infrastructure, and green housing development. Further investments were focused on climate change and improving disaster resilience."
 main_image: images/strategy-2030/livable-cities.jpg
 main_image_thumb: images/strategy-2030/livable-cities-th.jpg
 icon: images/strategy-2030/icn-cities.svg
-op_intro: "ADB sets out to implement its livable cities agenda by ensuring that the transformations reflect the global agenda on urban development. Specifically, ADB and its DMCs adopt a holistic approach to achieve liveable cities with the following strategic areas:"
+op_intro: "ADB sets out to implement its [livable cities agenda](https://www.adb.org/documents/strategy-2030-op4-livable-cities) by ensuring that the transformations reflect the global agenda on urban development. Specifically, ADB and its DMCs adopt a holistic approach to achieve liveable cities with the following strategic areas:"
 op: 
   - item: improve services in urban areas to make them inclusive and sustainable
   - item: strengthen urban planning and financial sustainability
@@ -20,7 +20,7 @@ This transformation is set to intensify as it was projected in 2019 that the reg
   
 Strategy 2030’s goal is to help its developing member countries (DMCs) transform their congested, polluted, and inequitable cities into livable ones—competitive, equitable, environment-friendly, disaster-resilient, and efficient in its services.
 
-{{< dr-yt video="ivJqZ-2cKRA" align="" title="India: Improving Urban Mobility in Congested Mumbai" cover="cover-yt-improving-urban-mobility-in-mumbai.jpg" >}}
+{{< dr-yt video="ivJqZ-2cKRA" align="" title="India: Improving Urban Mobility in Congested Mumbai" cover="cover-yt-improving-urban-mobility-in-mumbai.jpg" caption="Mumbai, India will soon have a modern public transport system that will help decongest existing public transportation in the city. The ADB project, cofinanced by the New Development Bank, will enhance urban mobility in a city of 12 million and provide some 7.5 million daily suburban commuters with a modern, safer, and more comfortable transportation." >}}
   
 The livable cities agenda cuts across several themes and sectors, including water and urban sanitation, transport for urban services, climate change and disaster resilience, and urban and financial planning. In 2019, 25 cofinanced projects were approved for water and urban sanitation amounting to $171.5 million. Another 17 cofinanced projects on transport were approved, totaling $2.74 billion. Climate financing reached $6.37 billion in 2019, $705 million coming from financing partners.
 
@@ -64,4 +64,4 @@ The [WFPF](./modalities/financing-partnership-facilities/water-financing-partner
 
 ### Moving Forward
 
-At the rate Asia and the Pacific is urbanizing, cities are clearly at the forefront in shaping the quality of life of its populace. Interventions to strengthen the financial sustainability of cities, to improve their resilience against natural and man-made disasters and crises, to better plan their towns and their linkage with surrounding urban and rural areas, and more will be needed. In the next years, ADB’s partners have pledged more support for the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) (UFPF). For the UFPF, additional support is expected toward making cities more livable from the latest trust fund to join UFPF, the ASEAN Australia Smart Cities Trust Fund.  In November 2019, during the ADB’s annual consultation with donors, UFPF had preliminary discussions with the [Government of the UK]({{< ref "uk.md" >}}) for the latter to provide possible additional financing for Phase 2 of the UCCRTF. The indicative funding replenishment initially discussed was about $100 million (£75 million) over seven years from April 2021 to March 2028. 
+At the rate Asia and the Pacific is urbanizing, cities are clearly at the forefront in shaping the quality of life of its populace. Interventions to strengthen the financial sustainability of cities, to improve their resilience against natural and man-made disasters and crises, to better plan their towns and their linkage with surrounding urban and rural areas, and more will be needed. In the next years, ADB’s partners have pledged more support for the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) (UFPF). For the UFPF, additional support is expected toward making cities more livable from the latest trust fund to join UFPF, the ASEAN Australia Smart Cities Trust Fund.  In November 2019, during the ADB’s annual consultation with donors, UFPF had preliminary discussions with the [Government of the UK]({{< ref "uk.md" >}}) for the latter to provide possible additional financing for Phase 2 of the UCCRTF. The indicative funding replenishment initially discussed was about $100 million (£75 million) over seven years from April 2021 to March 2028.

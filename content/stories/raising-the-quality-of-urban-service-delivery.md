@@ -29,14 +29,14 @@ draft: false
 ---
 ### Partnership Results
 
-<ul class="dr-results">
-<li><i class="icon-check-circle"></i>Establishment of Rajasthan Urban Drinking Water, Sewerage, and Infrastructure Corporation</li>
-<li><i class="icon-check-circle"></i>Establishment of Jaipur Water Supply and Sewerage Board</li>
-</ul>
+<div class="dr-results row">
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>Establishment of Rajasthan Urban Drinking Water, Sewerage, and Infrastructure Corporation</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>Establishment of Jaipur Water Supply and Sewerage Board</span></div>
+</div>
 
 ### Background
 
-In Rajasthan, India, coverage of piped water supply has increased over the years, but service provision level has been [uneven](https://washmatters.wateraid.org/publications/water-for-all-review-of-asian-development-banks-water-policy-implementation-in-india-a). Only 76% of the population have access to piped water and 60% have access to [sanitation services](https://www.adb.org/sites/default/files/project-document/81054/42267-026-ipsa.pdf). Those lacking access to or with poor water supply and sanitation are either the poorest or residents of hard to reach [areas](https://washmatters.wateraid.org/publications/water-for-all-review-of-asian-development-banks-water-policy-implementation-in-india-a). These aggravate urban poverty in Rajasthan, which hovers around 11% of the population. Although this is lower than the national average, poverty is always a threat in the state. Many live in slums that not only lack water infrastructure, but are crowded, filthy, and prone to disease outbreaks.
+In Rajasthan, India, coverage of piped water supply has increased over the years, but service provision level has been [uneven](https://washmatters.wateraid.org/publications/water-for-all-review-of-asian-development-banks-water-policy-implementation-in-india-a). Only 76% of the population have access to piped water and 60% have access to [sanitation services](https://www.adb.org/sites/default/files/project-document/81054/42267-026-ipsa.pdf). Those lacking access to or with poor water supply and sanitation are either the poorest or residents of hard-to-reach [areas](https://washmatters.wateraid.org/publications/water-for-all-review-of-asian-development-banks-water-policy-implementation-in-india-a). These aggravate urban poverty in Rajasthan, which hovers around 11% of the population. Although this is lower than the national average, poverty is always a threat in the state. Many live in slums that not only lack water infrastructure, but are crowded, filthy, and prone to disease outbreaks.
 
 ### Interventions
 
@@ -44,7 +44,7 @@ Many interventions have been done to improve urban infrastructure in Rajasthan. 
 
 Approved in October 2014, the program is ADB’s first project that combines a policy loan to support urban sector reforms with a project loan to improve urban services. The policy-based loan led to the creation of a state corporation─the [Rajasthan Urban Drinking Water, Sewerage, and Infrastructure Corporation](https://urban.rajasthan.gov.in/content/raj/udh/rudsico/en/home.html#) (RUDSICO). As a corporate agency, it is responsible for planning, resource mobilization, and construction of assets financed by multilateral banks or governments. After completion of construction activities, RUDSICO turns over the assets to their corresponding municipal bodies or relevant line departments. This ensures an integrated approach to urban development and reduces overlaps in responsibilities among municipalities and other development [authorities](https://www.adb.org/sites/default/files/project-document/149163/42267-026-rrp.pdf).
 
-{{< dr-yt video="uxPWQRRCf4g" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" >}}
+{{< dr-yt video="uxPWQRRCf4g" align="" title="The Importance of Policy in Alleviating Urban Poverty" cover="cover-yt-importance-of-policy-alleviating-urban-poverty.jpg" caption="The Rajasthan Urban Sector Development Program, a partnership among ADB, Bill and Melinda Gates Foundation and the Government of India,  showed that physical investments that uplift the lives of the urban poor are better planned if they are combined with policy actions that strengthen institutions that oversee infrastructure and planning." >}}
 
 The policy-based loan also helped Rajasthan establish a new corporatized entity─the Jaipur Water Supply and Sewerage Board (JWSSB). The JWSSB is an independent utility that manages water supply and sewerage services in Jaipur, the capital of Rajasthan. Before its establishment, water supply and sewage management services were handled by multiple agencies, such as the Jaipur Municipal Corporation, Jaipur Development Authority, the Public Health and Engineering Board, and the Rajasthan Housing Board.
 

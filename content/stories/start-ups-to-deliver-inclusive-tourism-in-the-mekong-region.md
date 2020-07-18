@@ -25,12 +25,12 @@ draft: false
 
 ### Partnership Results
 
-<ul class="dr-results">
-  <li><i class="icon-check-circle"></i> The MIST program 2018 received 107 applications</li>
-  <li><i class="icon-check-circle"></i> Nine start-ups graduated from the MIST accelerator program, 5 in the start-up track, 4 in the market access track, 14 start-ups finished the MIST bootcamp</li>
-  <li><i class="icon-check-circle"></i> After the program, 23 commercial partnerships were signed, $1.65 million potential investment raised</li>
-  <li><i class="icon-check-circle"></i> Raising the profile of the project 813 media stories made about project. 3.1 million social media shares</li>
-</ul>
+<div class="dr-results row">
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>The MIST program 2018 received 107 applications</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>Nine start-ups graduated from the MIST accelerator program, 5 in the start-up track, 4 in the market access track, 14 start-ups finished the MIST bootcamp</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>After the program, 23 commercial partnerships were signed, $1.65 million potential investment raised</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>Raising the profile of the project through 813 media stories and 3.1 million social media shares</span></div>
+</div>
 
 ### Background
 
@@ -42,11 +42,11 @@ These arrivals, however, mainly benefit fewer than 10 getaway destinations. Thes
 
 ### Interventions
 
-Seeing huge potential for inclusive and sustainable tourism growth in diversifying tourism destinations, ADB together with the Greater Mekong Subregion (GMS) Tourism Working Group (TWG) and the [Government of Australia]({{< ref "australia.md" >}}) created the Mekong Innovative Start-ups in Tourism (MIST) accelerator program, under the Mekong Business Initiative in 2017. The pilot MIST in 2017 successfully incubated ASEAN-4 tourism start-ups and facilitated market access and technology transfer for another 12 mature tourism technology. Building on this success, ADB and the [Government of Australia]({{< ref "australia.md" >}}) got together and formulated the regional [Mekong Tourism Innovation Project](https://www.adb.org/sites/default/files/project-documents/52108/52108-001-tcr-en.pdf) to continue supporting MIST in 2018.
+Seeing huge potential for inclusive and sustainable tourism growth in diversifying tourism destinations, ADB, together with the Greater Mekong Subregion (GMS) Tourism Working Group (TWG) and the [Government of Australia]({{< ref "australia.md" >}}), created the Mekong Innovative Start-ups in Tourism (MIST) accelerator program, under the Mekong Business Initiative in 2017. The pilot MIST in 2017 successfully incubated ASEAN-4 tourism start-ups and facilitated market access and technology transfer for another 12 mature tourism technology. Building on this success, ADB and the [Government of Australia]({{< ref "australia.md" >}}) got together and formulated the regional [Mekong Tourism Innovation Project](https://www.adb.org/sites/default/files/project-documents/52108/52108-001-tcr-en.pdf) to continue supporting MIST in 2018.
 
 The start-up track teaches business fundamentals to early-stage travel and hospitality startups, while connecting them with industry and investors. The market access track helps clear market entry obstacles, form local partnerships, and secure financing for proof-of-concept pilots.
 
-These enterprises must be owned or co-founded by a citizen from the ASEAN-4, have an innovative solution for travel and hospitality, is at the stage of having a product at "minimum viable product" (MVP) development, and is scalable based on a submitted business plan. One hundred seven firms applied for the 2018 MIST accelerator program.
+These enterprises must be owned or co-founded by a citizen from the ASEAN-4, have an innovative solution for travel and hospitality, is at the stage of having a product at "minimum viable product" development, and is scalable based on a submitted business plan. One hundred seven firms applied for the 2018 MIST accelerator program.
 
 ### Results
 

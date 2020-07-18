@@ -110,17 +110,22 @@
             margin-left: 20px;
         }
         .dr-results {
-            display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
-            grid-gap: 3em;
-            li {
+            //display: grid;
+            //grid-template-columns: 1fr 1fr 1fr;
+            //grid-gap: 3em;
+            span {
+                display: inline-block;
                 font-size: 1.2rem;
                 list-style: none;
-                margin-right: 10px;
+                width: 90%;
+                margin-left: 2%;
             }
             i {
+                vertical-align: top;
+                display: inline-block;
                 color: $adb-accent-orange;
-                margin-left: -25px;
+                font-size: 18px;
+                margin-left: -20px;
             }
         }
     }
@@ -167,7 +172,7 @@
     }
     &.float-left {
         width: 50%;
-        margin: 10px 40px 40px 0;
+        margin: 10px 40px 10px 0;
         @include media-breakpoint-up(lg) {
             margin-left: -10% !important;
         }
