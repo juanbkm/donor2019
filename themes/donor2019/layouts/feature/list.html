@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="container clearfix">
+  <div id="dr-section-overview" class="row dr-section-title">
+    <div class="col-md-7">
+      <h2>{{ range .Pages }}{{ .Title }}{{ end }}</h2>
+      <p class="lead">{{ range .Pages }}{{.Params.lead | markdownify}}{{ end }}</p>
+    </div>
+    <div class="col-md-5">
+      {{ with .Params.section_image }}
+        <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
+      {{ end }}
+    </div>
+  </div>
+    <div class="row">
+        <div class="col-md-10 mx-auto dr-article-body">
+            {{ range .Pages }}
+                {{ .Content }}
+            {{ end }}
+        </div>
+    </div>
+    {{- partial "nso.html" . -}} 
+</div>
+{{ end }}

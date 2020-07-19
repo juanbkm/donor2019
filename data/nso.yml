@@ -1,0 +1,60 @@
+projects:
+  - headline: Floating Solar Power for Women’s Empowerment
+    lead: |
+      In 2018, ADB partnered with the Da Nhim-Ham Thuan-Da Mi Hydro Power Joint Stock Company on the Viet Nam: Floating Solar Energy Project to install a 47.5 MW peak floating solar power facility on the Da Mi reservoir. The project is one of the first renewable energy projects that ADB has financed on a nonsovereign basis without the Government of Viet Nam’s guarantee.
+    title: "Viet Nam: Floating Solar Energy Project"
+    url: https://www.adb.org/projects/51327-001/main
+    image: "images/stories/solar-power-meets-hydropower.jpg"
+    cost: 33
+    fund_source: 
+      - name: "Asian Development Fund"
+        amount: "$17.6 million"
+    fin_partners: 
+      - name: "Canadian Climate Fund for the Private Sector in Asia"
+        amount: "$11 million"
+      - name: "Canadian Climate Fund for the Private Sector in Asia II"
+        amount: "$4 million"
+      - name: "Leading Asia's Private Infrastructure Fund"
+        amount: "$4.4 million"
+      - name: "Da Nhim - Ham Thuan"
+        amount: "Da Mi Hydro Power Joint Stock Company"
+    approval: October 2018
+    completion: 
+  - headline: Powering Up Thailand's Economic Corridor
+    lead: |
+      An ADB-supported private investment project─ cofinanced with the Leading Asia's Private Infrastructure Fund (LEAP), Japan Bank for International Cooperation (JBIC), commercial lenders, and others─ will help Thailand advance to its desired high-income status by 2032 by establishing an independent power plant in its Easter Economic Corridor (EEC). With this power plant, the EEC will become a hub of trade and investment and the modern gateway to the region.
+    title: "Eastern Economic Corridor Independent Power Project "
+    url: https://www.adb.org/projects/53239-001/main#project-pds
+    image: "images/stories/powering-up-thailands-economic-corridor.jpg"
+    cost: "confidential"
+    fund_source: 
+      - name: "ADB A loan"
+        amount: "$50 million"
+    fin_partners:
+      - name: "ADB B loan (funded by commercial lenders)"
+        amount: "$85 million"
+      - name: "Japan Bank for International Cooperation"
+        amount: "confidential"
+      - name: "Leading Asia's Private Infrastructure Fund (LEAP)"
+        amount: "$45 million"
+      - name: "Other commercial lenders"
+        amount: "confidential"
+    approval: "24 October 2019"
+    completion: ""
+  - headline: Achieving Climate-Friendly Energy Security
+    lead: |
+      Through an ADB-supported private investment project, cofinanced with the Canadian Climate Fund for the Private Sector in Asia II, Nepal moves closer to achieving energy security. After project completion, Nepal will see a new hydro power plant generate electricity for its national grid, helping lessen the country’s dependence on energy imports and lifting the quality of the lives of the surrounding communities.
+    title: "Upper Trishuli-1 Hydropower Project"
+    url: https://www.adb.org/projects/49086-001/main#project-pds
+    image: images/stories/achieving-climate-friendly-energy-security.jpg
+    cost: "$644 million"
+    fund_source: 
+      - name: "ADB"
+        amount: "$30 million"
+    fin_partners:
+      - name: "Canadian Climate Fund for the Private Sector in Asia II"
+        amount: "$30 million"
+      - name: "Others"
+        amount: "$584 million"
+    approval: "12 April 2019"
+    completion: ""

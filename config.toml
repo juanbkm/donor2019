@@ -62,7 +62,7 @@ title = "Partnership Report 2019"
 
 [[menu.main]]
   identifier = "feature"
-  name = "Feature"
+  name = "Special Feature"
   url = "/feature/"
   weight  = 9
 

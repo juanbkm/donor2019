@@ -1,0 +1,12 @@
+
+{{ $projects := $.Page.Params.projects }}
+
+{{ range $projects }}
+<section class="dr-mod-proj">
+  <div class="row justify-content-md-center">
+    <div class="col">
+      {{ with $projects.headline }}<h3>{{ . }}</h3>{{ end }}
+    </div>
+  </div>
+  </section>
+{{ end }}

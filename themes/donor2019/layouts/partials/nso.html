@@ -1,0 +1,30 @@
+{{ range .Site.Data.nso.projects }}
+<section class="dr-mod-proj">
+  <div class="row justify-content-md-center dr-article-body">
+    <div class="col-10">
+      <h3>{{ .headline }}</h3>
+      <p>{{ .lead }}</p>
+    </div>
+  </div>
+  <div class="row justify-content-md-center">
+    <div class="col-md-6">
+      {{ with .image }} <img src="./{{ . }}" alt=""> {{ end }}
+    </div>
+    <div class="col-md-6">
+      <h6>Project</h6>
+      <p><a href="{{ .url }}">{{ .title }}</a></p>
+  
+      <h6>Project Cost</h6>
+      {{ with .cost }}<p class="dr-cost">{{ . }}</p>{{ end }}
+      {{ $finpart := .fin_partners }}              
+      <h6>Financing {{ cond (eq (len $finpart) 1) "Partner" "Partners" }}</h6>
+      <p class="dr-partner"></p>
+      <ul class="dr-funding">
+        {{ range .fin_partners }}<li>{{ .name  | markdownify }} {{ .amount | markdownify }}</li>{{ end }}
+      </ul>
+      <h6>Approval Date:</h6>
+      <p>{{ .approval }}</p>
+    </div>
+  </div>
+  </section>
+{{ end }}
