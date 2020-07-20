@@ -49,6 +49,27 @@ title = "Partnership Report 2019"
   weight  = 6
 
 [[menu.main]]
+    identifier = "bilateral"
+    name = "Bilateral"
+    url = "/partners/bilateral/"
+    parent = "partners"
+    weight = 61
+
+[[menu.main]]
+    identifier = "multilateral"
+    name = "Multilateral"
+    url = "/partners/multilateral/"
+    parent = "partners"
+    weight = 62
+
+[[menu.main]]
+    identifier = "others"
+    name = "Others"
+    url = "/partners/others/"
+    parent = "partners"
+    weight = 63
+
+[[menu.main]]
   identifier = "projects"
   name = "Projects"
   url = "/projects/"
@@ -59,6 +80,48 @@ title = "Partnership Report 2019"
   name = "Modalities"
   url = "/modalities/"
   weight  = 8
+
+[[menu.main]]
+    identifier = "project-specific-cofinancing"
+    name = "Project-Specific Cofinancing"
+    url = "/modalities/project-specific-cofinancing/"
+    parent = "modalities"
+    weight = 81
+
+[[menu.main]]
+    identifier = "global-funds"
+    name = "Global Funds"
+    url = "/modalities/global-funds/"
+    parent = "modalities"
+    weight = 82
+
+[[menu.main]]
+    identifier = "single-partner-trust-funds"
+    name = "Single-Partner Trust Funds"
+    url = "/modalities/trust-funds/single-partner-trust-funds/"
+    parent = "modalities"
+    weight = 83
+
+[[menu.main]]
+    identifier = "multi-partner-trust-funds"
+    name = "Multi-Partner Trust Funds"
+    url = "/modalities/trust-funds/multi-partner-trust-funds/"
+    parent = "modalities"
+    weight = 84
+
+[[menu.main]]
+    identifier = "financing-partnership-facilities"
+    name = "Financing Partnership Facilities"
+    url = "/modalities/financing-partnership-facilities/"
+    parent = "modalities"
+    weight = 85
+
+[[menu.main]]
+    identifier = "partnership-framework-arrangements"
+    name = "Partnership Framework Arrangements"
+    url = "/modalities/partnership-framework-arrangements/"
+    parent = "modalities"
+    weight = 86
 
 [[menu.main]]
   identifier = "feature"

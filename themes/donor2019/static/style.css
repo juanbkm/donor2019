@@ -490,6 +490,11 @@ small {
   font-size: .8rem;
   padding: 5px 10px; }
 
+#dr-building .dr-note {
+  background-color: #dddddd;
+  font-size: .8rem;
+  padding: 5px 10px; }
+
 /*-----------------------------------------------------------------------------------
 	helpers.scss
 -----------------------------------------------------------------------------------*/
@@ -4751,7 +4756,7 @@ html[xmlns] .slider-wrap {
     position: relative;
     height: 195px;
     width: 16.66666666666667%;
-    background: url(./images/section3-section3-01.jpg) no-repeat center top; }
+    background: url(./images/section3-section3-02.jpg) no-repeat center top; }
   #dr-explore .flex-container-3 .fb3 .content-text {
     position: absolute;
     width: 100%;
@@ -4793,7 +4798,7 @@ html[xmlns] .slider-wrap {
     position: relative;
     height: 195px;
     width: 16.66666666666667%;
-    background: url(./images/section3-section3-02.jpg) no-repeat center top; }
+    background: url(./images/section3-section3-01.jpg) no-repeat center top; }
   #dr-explore .flex-container-3 .fb4 .content-text {
     position: absolute;
     width: 100%;
@@ -5078,7 +5083,7 @@ html[xmlns] .slider-wrap {
     padding-right: 5%;
     color: #fff;
     left: 0;
-    bottom: 30%;
+    bottom: 15%;
     z-index: 9;
     text-align: center; }
   #dr-explore .flex-container-3 .fb13 .content-text h6 {
@@ -9416,9 +9421,9 @@ td.actions {
   .dr-milestone:last-child {
     border-bottom: none; }
   .dr-milestone h6 {
-    font-size: 1.2rem;
-    font-weight: 200;
-    margin: 0; }
+    font-size: 1rem;
+    font-weight: 700;
+    margin: 0 0 10px 0; }
   .dr-milestone p {
     font-size: .8rem;
     margin: 0 0 10px 0; }

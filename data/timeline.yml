@@ -4,11 +4,10 @@ month   :
     item :
       - milestone: ADB X France
         financing: AFD - $1 billion
+        title: ADB, AFD Increase Cofinancing Commitment
         link: https://www.adb.org/news/adb-afd-commit-providing-5-billion-cofinancing-next-3-years
         img: 32891-adb-afd-vppc-final.jpg
         text: |
-          <span class="dr-fin">ADB, AFD increase cofinancing commitment</span>
-
           ADB and Agence Francaise de Developpement amended their Partnership Framework Agreement to increase their cofinancing commitment for 2016-2022 from $3 billion to $5 billion, adding $1 billion each to raise their individual commitment to $2.5 billion.
 
           They also signed an MOU to extend their collaboration on the Mobilise Your City Asia Program  
@@ -16,25 +15,26 @@ month   :
   - name: March
     item :
       - milestone: ADB X AIIB 
+        title: ADB, Asian Infrastructure Investment Bank (AIIB) sign Cofinancing Framework Agreement for Sovereign Operations
         link: https://www.adb.org/news/adb-and-aiib-presidents-discuss-strategic-and-operational-issues
         img: 33686-adb-and-aiib-presidents-handshake-final.jpg
         text: |
-          <span class="dr-fin">ADB, Asian Infrastructure Investment Bank (AIIB) sign Cofinancing Framework Agreement for Sovereign Operations</span>
-
           Said agreement, signed by then ADB President Takehiko Nakao and AIIB President Jin Liqun, will guide overall cofinancing arrangements between the two institutions going forward. ADB and AIIB have cofinanced 5 projects so far: 4 sovereign loans in Bangladesh, Georgia, India, and Pakistan, and one collaborative transaction in Myanmar.
       - milestone: ADB X Australia 
+        title: 
         financing: Australia - $0.71 million 
         text: |
-          Australia gave an additional contribution to the Multi-Donor Trust Fund under the Water Financing Partnership Facility.
+          Australia gave an additional $0.71 million contribution to the Multi-Donor Trust Fund under the Water Financing Partnership Facility.
   - name: April
     item :
       - milestone: ADB X Australia
         financing: Australia - $15+ million
         link: https://www.adb.org/site/funds/funds/asean-australia-smart-cities-fund
         text: |
-          New ASEAN Australia Smart Cities Trust Fund was established under the Urban Financing Partnership Facility.
+          Australia contributes A$21.7 million to establish the Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility.
       - milestone: ADB X Ireland
         financing: Ireland - €12 million
+        title: Ireland contributes E12 million to establish the Ireland Trust Fund
         link: https://www.adb.org/site/funds/funds/ireland-trust-fund-climate-change-disaster-resilience-sids
         text: |
           New Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States was established.
@@ -42,27 +42,31 @@ month   :
     item :
       - milestone: ADB X Japan
         financing: JICA - $2 billion
-      - milestone: ADB, JICA to cofinance world class railway
+      - milestone: 
         financing: 
+        title: ADB, JICA to Cofinance World Class Railway
         link: https://www.adb.org/news/philippines-adb-sign-loan-milestone-malolos-clark-railway-project 
         img: 45886-malolos-clark-signing-final.jpg
         text: |
-          ADB approves the Philippines: Malolos–Clark Railway Project, one of ADB’s largest infrastructure project financing to date. ADB and JICA will combine finance and expertise to build a 53.1 kilometer railway that will connect Malolos, a suburb north of Manila, to Clark economic zone and Clark International Airport.
+          ADB approves the [Philippines: Malolos–Clark Railway Project](https://www.adb.org/projects/52083-001/main), one of ADB’s largest infrastructure project financing to date. ADB and JICA will combine finance and expertise to build a 53.1 kilometer railway that will connect Malolos, a suburb north of Manila, to Clark economic zone and Clark International Airport.
       - milestone: ADB, Partners to finance Healthy Oceans Action Plan
         financing: $5 billion
+        title: ADB, Partners to Finance Healthy Oceans Action Plan
         link: https://www.adb.org/news/adb-launches-5-billion-healthy-oceans-action-plan
         img: 37321-ocean-action-plan-final.jpg
         text: |
           ADB launches an action plan to expand financing and technical assistance for ocean health and marine economy projects to $5 billion from 2019 to 2024, including cofinancing from partners.
       - milestone: ADB X ASEAN X Korea
         financing: Korea - $355 million
+        title: Republic of Korea Pledges to Support ASEAN Green Infrastructure and Ocean Health
         link: https://www.adb.org/news/republic-korea-pledges-355-million-support-asean-green-infrastructure-and-ocean-health
         text: |
-          Korea contributes to the newly established ASEAN Catalytic Green Finance Facility, with a focus on projects that boost ocean health.  
+          Korea contributes $355 million to the newly established ASEAN Catalytic Green Finance Facility, with a focus on projects that boost ocean health.  
   - name: June
     item :
       - milestone: ADB, USAID to expand Asia and the Pacific's sustainable energy market
         financing: $7 billion
+        title: ADB, USAID to expand Asia and the Pacific's sustainable energy market
         link: https://www.adb.org/news/usaid-adb-partner-expand-asia-and-pacifics-sustainable-energy-market
         text: |
           ADB and USAID will work to mobilize $7 billion of investment for energy projects, boost the capacity of clean energy systems by 6 gigawatts, and increase regional energy trade by 10% over the next five years.
@@ -70,20 +74,23 @@ month   :
     item :
       - milestone: Multitranche Financing Facility attracts cofinancing, ADB study says
         financing: 
+        title: Multitranche Financing Facility attracts cofinancing, ADB study says
         link: https://www.adb.org/news/adbs-long-term-financing-facility-critical-meeting-financing-gaps
+        img: 96031-adb-long-term-financing-facility-critical-meeting-financing-gaps.jpg
         text: |
           Findings from an ADB study said that projects financed through ADB’s multitranche financing facility performed better than stand-alone projects in raising cofinancing from other sources.
       - milestone: ADB X Germany
         financing: $2 billion
-        milestone: ADB, KfW Expand Cofinancing Partnership with Additional $2 Billion
+        title: ADB, KfW Expand Cofinancing Partnership with Additional $2 Billion
         link: https://www.adb.org/news/adb-kfw-expand-cofinancing-partnership-additional-2-billion
         img: 51931-adb-kfw-signing.jpg
         text: |
-          The additional funds, to be spent in the next 4 years, will build on the successful $2 billion cofinancing partnership that ADB and KfW launched in 2014 and renewed in 2017 for an additional $2 billion. The partnership (2014–2019) yielded 14 cofinanced projects focused on education, energy, health, industry and trade, and public sector management. ADB complemented with $5.8 billion the $4 billion provided by KfW for these projects. ADB and KfW’s partnership focuses on energy, climate, and urban infrastructure.
+          The additional funds, to be spent in the next 4 years, will build on the successful $2 billion cofinancing partnership that ADB and KfW launched in 2014 and renewed in 2017 for an additional $2 billion. ADB and KfW’s partnership focuses on energy, climate, and urban infrastructure.
   - name: December
     item :
       - milestone: ADB, EBRD sign 2nd alternative procurement arrangement for enhanced procurement efficiency 
         financing: 
+        title: ADB, EBRD sign 2nd alternative procurement arrangement for enhanced procurement efficiency 
         link: https://www.adb.org/news/adb-signs-second-alternative-procurement-arrangement-cofinanced-projects
         text: |
           The arrangement allows cofinanced projects to be implemented more efficiently by applying a single framework to the whole project, thereby easing the burden for executing and implementing agencies that have traditionally used multiple procurement frameworks for a single project.

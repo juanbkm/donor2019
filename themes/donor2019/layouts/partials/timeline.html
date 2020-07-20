@@ -21,12 +21,9 @@
         <div class="tt-body">
           {{ range .item }}
           <div class="dr-milestone">
-            {{ with .milestone }}<h6>
-              {{ . }}
-            </h6>{{ end }}
-            {{ with .financing }}<p class="dr-fin">{{ . }}</p>{{ end }}
-            {{ with .img }} <img src="./images/timeline/{{ . }}" alt="" srcset="">{{ end }}
             
+            {{ with .img }} <img src="./images/timeline/{{ . }}" alt="" srcset="">{{ end }}
+            <h6><a href="{{ .link }}" target="_blank">{{ .title }}</a></h6>
             {{ $markdown := .text | markdownify }}
 
             {{ if not ( strings.Contains $markdown "<p>" ) }}
@@ -34,7 +31,6 @@
             {{ else }}
                 {{ $markdown }}
             {{ end }}
-            {{ with .link }}<p><a href="{{ . }}" target="_blank">Read</a></p>{{ end }}
           </div>
           {{ end }}
         </div>
