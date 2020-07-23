@@ -19,5 +19,20 @@
         </div>
     </div>
     {{- partial "nso.html" . -}} 
+    <div class="row">
+      <div class="col-md-10 mx-auto dr-article-body pt-5 mt-5" style="border-top: 1px solid #c2ccd2">
+            <ul class="dr-fn">
+              {{ range .Pages }}
+                {{ $footnote := .Params.footnote }}
+
+                {{ range $footnote }}
+                  <li>
+                    {{.item | markdownify }}
+                  </li>
+                  {{ end }}
+              {{ end }}
+            </ul>
+      </div>
+  </div>
 </div>
 {{ end }}

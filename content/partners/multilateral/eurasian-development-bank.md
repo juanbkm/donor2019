@@ -8,7 +8,7 @@ partner_logo: images/partners/edb.png
 draft: false
 ---
 
-The <a href="https://eabr.org/en/"> Eurasian Development Bank (EDB)</a>,established in 2006 by Russia and Kazakhstan, is a financial organization that seeks to promote economic growth and integration in Eurasia. Other members of the bank are Armenia, Belarus, the Kyrgyz Republic, and Tajikistan, which also are its priority countries to support. 
+The <a href="https://eabr.org/en/"> Eurasian Development Bank (EDB)</a>, established in 2006 by Russia and Kazakhstan, is a financial organization that seeks to promote economic growth and integration in Eurasia. Other members of the bank are Armenia, Belarus, the Kyrgyz Republic, and Tajikistan, which also are its priority countries to support. 
 
 EDB started working with ADB in 2013 in the areas of agriculture, transport, energy, and public services. In 2016, ADB and EDB renewed their partnership.  In 2019, 6 projects totaling $480 million were approved. Of these, four were committed, one was cancelled, and another will only be committed when the cofinancing agreement has been signed.  
 

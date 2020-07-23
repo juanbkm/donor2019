@@ -2,27 +2,29 @@
 title: "Powering Up Thailand's Economic Corridor"
 date: 2020-07-07T22:32:35+08:00
 image: images/stories/powering-up-thailands-economic-corridor.jpg
-image_caption: "Sustainable energy sources power Thailand's economy and its cities, similar to one in the photo. With an independent power plant, the country's Easter Economic Corridor is on course to become a hub of trade and investment. (ADB photo)"
+image_caption: "**Energizing Thailand's Economy.** Sustainable energy sources power Thailand's economy and its cities, similar to one in the photo. With an independent power plant, the country's Easter Economic Corridor is on course to become a hub of trade and investment."
 image_thumb: images/stories/
 author: Admin
 description: "This is meta description"
 country: Thailand
-summary: "An ADB-supported private investment project─ cofinanced with the Leading Asia's Private Infrastructure Fund (LEAP), Japan Bank for International Cooperation (JBIC), commercial lenders, and others─ will help Thailand advance to its desired high-income status by 2032 by establishing an independent power plant in its Easter Economic Corridor (EEC). With this power plant, the EEC will become a hub of trade and investment and the modern gateway to the region."
+summary: "An ADB-supported private investment project─ cofinanced with the Leading Asia's Private Infrastructure Fund, Japan Bank for International Cooperation, commercial lenders, and others&mdash;will help Thailand advance to its desired high-income status by 2032 by establishing an independent power plant in its Easter Economic Corridor. With this power plant, the economic corridor will become a hub of trade and investment and the modern gateway to the region."
 project_title: "Eastern Economic Corridor Independent Power Project "
 project_url: https://www.adb.org/projects/53239-001/main#project-pds
-cost: "confidential"
+cost: "Confidential"
 fund_source: 
-  - name: "ADB A loan"
+  - name: "ADB"
     amount: "$50 million"
+  - name: "Gulf PD Company Limited"
+    amount: ""
 fin_partners:
   - name: "ADB B loan (funded by commercial lenders)"
     amount: "$85 million"
   - name: "Japan Bank for International Cooperation"
-    amount: "confidential"
-  - name: "Leading Asia's Private Infrastructure Fund (LEAP)"
+    amount: ""
+  - name: "Leading Asia's Private Infrastructure Fund"
     amount: "$45 million"
   - name: "Other commercial lenders"
-    amount: "confidential"
+    amount: ""
 approval: "24 October 2019"
 completion: ""
 cost: "confidential"
@@ -34,13 +36,10 @@ draft: false
 ---
 
 ### Partnership Results
-{{< rawhtml >}}
-    <ul class="dr-results">
-      <li><i class="icon-check-circle"></i> construction and commissioning of a combined cycle natural gas power plant</li>
-      <li><i class="icon-check-circle"></i> construction and commissioning of a combined cycle natural gas power plant</li>
-      <li><i class="icon-check-circle"></i> construction and commissioning of a combined cycle natural gas power plant</li>
-    </ul>
-{{< /rawhtml >}}
+
+<div class="dr-results row">
+  <div class="col-md-10 mx-auto mb-5 center"><i class="icon-check-circle"></i> <span>Construction and commissioning of a combined cycle natural gas power plant</span></div>
+</div>
 
 ### Background
 
@@ -52,12 +51,12 @@ EEC now advances the government's aim to promote the next generation of industri
 
 ### Interventions
 
-ADB is working with the Gulf PD Company Limited on the Thailand: [Eastern Economic Corridor Independent Power Project](https://www.adb.org/projects/53239-001/main#project-pds), with cofinancing from LEAP for $45 million, JBIC, and other commercial lenders, including an ADB B loan of $85 million. The project involves the construction and operation of a 2,500 MW combined cycle gas turbine (CCGT) power plant in the Rojana Rayong 2 Industrial Park of Rayong Province, about 150 km southeast of Bangkok. 
+ADB is working with the Gulf PD Company Limited on the Thailand: [Eastern Economic Corridor Independent Power Project](https://www.adb.org/projects/53239-001/main#project-pds), with cofinancing from [Leading Asia's Private Infrastructure Fund](./modalities/trust-funds/single-partner-trust-funds/#lapsif) for $45 million, [Japan Bank for International Cooperation](https://www.jbic.go.jp/en/), and other commercial lenders, including an ADB B loan of $85 million. The project involves the construction and operation of a 2,500 MW combined cycle gas turbine (CCGT) power plant in the Rojana Rayong 2 Industrial Park of Rayong Province, about 150 km southeast of Bangkok. 
 
 The EEC power plant will be the fourth-largest power plant and one of the largest CCGT power plants in the country. It will become fully operational by 2024, which coincides with the EEC development plan’s expected increase in energy demand, and Thailand’s largest decommissioning of aging power plants. 
 
-The project aligns with ADB’s Strategy 2030, tackling climate change, building climate and disaster resilience, and enhancing environmental sustainability, as well as supports private sector participation in infrastructure to fill the infrastructure gap and catalyze and mobilize financial resources for development. The project is also consistent with ADB’s country partnership strategy on promoting the support for private sector development and energy infrastructure.
+The project aligns with ADB’s [Strategy 2030](https://www.adb.org/documents/strategy-2030-op3-climate-change-resilience-sustainability), tackling climate change, building climate and disaster resilience, and enhancing environmental sustainability, as well as supports private sector participation in infrastructure to fill the infrastructure gap and catalyze and mobilize financial resources for development. The project is also consistent with ADB’s country partnership strategy on promoting the support for private sector development and energy infrastructure.
 
 ### Expected Results
 
-The project, once completed, will help improve Thailand’s power system stability and reliability. The output, including the construction and commissioning of a combined cycle natural gas power plant, will deliver a stable and reliable power to the EEC area by annually delivering at least 16,000 gigawatt-hours of electricity. Furthermore, the plant will avoid at least 1 million tons of carbon dioxide equivalent emissions yearly. 
+The project, once completed, will help improve Thailand’s power system stability and reliability. The output, including the construction and commissioning of a combined cycle natural gas power plant, will deliver a stable and reliable power to the EEC area by annually delivering at least 16,000 gigawatt-hours of electricity. Furthermore, the plant will avoid at least one million tons of carbon dioxide equivalent emissions yearly. 

@@ -1,0 +1,23 @@
+<section id="dr-additional" class="py-5">
+  <div class="row">
+    <div class="col-sm-3">
+    </div>
+    <div class="col-sm-9 px-lg-5">
+      <h3 class="dr-qt">Additional Data</h3>
+    </div>
+  </div>
+  <div class="row py-lg-5">
+    <div class="col-sm-3 dr-hl-side">
+
+    </div>
+    <div class="col-sm-9">
+      
+      <ul class="dr-lists-nav">
+      {{ range where .Site.Pages "Section" "lists" }}
+          <li><a href="{{.Permalink}}"><em>{{ .Params.pretitle }}</em> {{ .Title }}, {{ .Params.date_range }}
+          </a></li>
+      {{ end }}
+      </ul>
+    </div>
+</div>
+</section>

@@ -2,7 +2,7 @@
 title: "Solar Power Meets Hydropower"
 date: 2020-07-19T00:26:40+08:00
 image: images/stories/solar-power-meets-hydropower.jpg
-image_caption: "**Solar and Hydro Power Merger.** The Da Nhim-Ham Thuan-Da Mi Hydro Power Joint Stock Company built a floating solar power plant over a hydropower plant in Binh Thuan, Viet Nam to generate more electricity for the country."
+image_caption: "**Hydro and Solar Power Merger.** The Da Nhim-Ham Thuan-Da Mi Hydro Power Joint Stock Company built a floating solar power plant over a hydropower plant in Binh Thuan, Viet Nam to generate more electricity for the country."
 author: Admin
 description: "This is meta description"
 country: Viet Nam
@@ -11,8 +11,10 @@ project_title: "Viet Nam: Floating Solar Energy Project"
 project_url: "https://www.adb.org/projects/51327-001/main"
 cost: ""
 fund_source: 
-  - name: "Asian Development Fund"
+  - name: "ADB"
     amount: "$17.6 million"
+  - name: "Da Nhim - Ham Thuan - Da Mi Hydro Power Joint Stock Company"
+    amount: ""
 fin_partners: 
   - name: "Canadian Climate Fund for the Private Sector in Asia"
     amount: "$11 million"
@@ -20,8 +22,6 @@ fin_partners:
     amount: "$4 million"
   - name: "Leading Asia's Private Infrastructure Fund"
     amount: "$4.4 million"
-  - name: "Da Nhim - Ham Thuan"
-    amount: "Da Mi Hydro Power Joint Stock Company"
 approval: "October 2018"
 completion: ""
 categories: [ "Climate Change​" ]
@@ -33,9 +33,9 @@ draft: false
 ### Partnership Results
 
 <div class="dr-results row">
-  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Community designed water-sensitive infrastructure, including local sanitation systems, wetlands and biofiltration gardens, stormwater harvesting, community-designed paved footpaths</span></div>
-  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Improved community capacity for operation and maintenance of water-sensitive infrastructure</span></div>
-  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Replication of the project in other informal settlements in Indonesia and in Suva, Fiji</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>47.5 MW peak floating photovoltaic solar power facility on the Da Mi hydropower plant</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>3.5 km 110 kV transmission line to connect to the national grid</span></div>
+  <div class="col-md-4 mb-5"><i class="icon-check-circle"></i> <span>Ancillary facilities including a floating central inverter, a second ground mounted inverter and grounded substation</span></div>
 </div>
 
 ### Background
@@ -46,15 +46,17 @@ The push for private sector participation in Viet Nam’s transition to clean en
 
 In 2017, in a bid to attract more investors and accelerate investments, the government offered a generous 20-year feed-in tariff (FIT) of $0.0935 per kilowatt-hour (kWh) for solar photovoltaic projects. But there was a deadline. Developers wishing to avail of FIT needed to reach commercial operation by 30 June 2019. The imposed deadline led to a surge in private sector activity.
 
-The Da Nhim-Ham Thuan-Da Mi Hydro Power Joint Stock Company (DHD) was one of those developers. Immediately, DHD sought financing partners to build a 47.5 megawatt (MW) peak floating solar power facility, the first in Viet Nam. In 2018, ADB approved a $17.6 million loan for the [Viet Nam: Floating Solar Energy Project](https://www.adb.org/projects/51327-001/main), supported by an attractive financing package that included $15 million of blended concessional cofinancing provided by the Canadian Climate Fund for the Private Sector in Asia (CFPS) and its follow-on fund, the Canadian Climate Fund for the Private Sector in Asia II (CFPS II). The package also included a $4.4 million parallel loan from the Leading Asia’s Private Infrastructure Fund (LEAP), supported by Japan International Cooperation Agency.
+The Da Nhim-Ham Thuan-Da Mi Hydro Power Joint Stock Company (DHD) was one of those developers. Immediately, DHD sought financing partners to build a 47.5 megawatt (MW) peak floating solar power facility, the first in Viet Nam. In 2018, ADB approved a $17.6 million loan for the [Viet Nam: Floating Solar Energy Project](https://www.adb.org/projects/51327-001/main), supported by an attractive financing package that included $15 million of blended concessional cofinancing provided by the Canadian Climate Fund for the Private Sector in Asia (CFPS) and its follow-on fund, the Canadian Climate Fund for the Private Sector in Asia II. The package also included a $4.4 million parallel loan from the Leading Asia’s Private Infrastructure Fund (LEAP), supported by Japan International Cooperation Agency.
 
 The Floating Solar Energy Project represents a unique financing partnership among ADB, its traditional donors, and a private sector partner. It is one of the first renewable energy projects that ADB has financed on a nonsovereign basis without the Government of Viet Nam’s guarantee.
 
 ### Interventions
 
-Viet Nam has been actively pushing its private sector to explore solar power technology to support the country’s urgent need to increase generation capacity and promote low emissions energy sources. The private sector is faced with the challenge of providing customers with reliable electricity and to meet future demand. DHD stepped up to meet this challenge.
+Viet Nam has been actively pushing its private sector to explore solar power technology to support the country’s urgent need to increase generation capacity and promote low emissions energy sources. The private sector is faced with the challenge of providing customers with reliable electricity and to meet future demand. DHD stepped up meeting this challenge.
 
 DHD beat the government’s deadline and completed the installation of the 47.5 MW peak floating solar photovoltaic power generation panels on the man-made reservoir of its existing 175 MW Da Mi hydropower plant. This is supported by a new floating central inverter, a grounded substation, and a 3.5 kilometer 110 kilovolt transmission line to connect with the national grid. The floating solar panels were operational by June 2019, and the facility became the largest installation in Southeast Asia
+
+{{< dr-storyimage src="images/stories/solar-power-meets-hydropower-2.jpg" align="right" alt="" caption="This floating solar power facility over the Da Mi reservoir can generate 63 GWh of renewable energy per year and is capable of lowering Viet Nam’s carbon emissions annually." >}}
 
 Concessional financing from the CFPS under ADB’s Clean Energy Financing Partnership Facility was to offset the higher installation costs of a floating solar project compared to land-mounted solar projects and the need to import most of the equipment. The parallel loan from the LEAP ensured the delivery of high quality and sustainable private sector infrastructure that reduces carbon emissions and improve energy efficiency.
 

@@ -5,7 +5,7 @@ partner_type: Bilateral
 project_specific_cofinancing: "$1.14 billion"
 trust_funds_contribution: "$443.3 million"
 trust_funds_contribution_2019:
-  - item: "**£9 million** $11.79 million Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
+  - item: "**£9 million** $11.79 million for Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
 partner_logo:
 draft: false
 ---

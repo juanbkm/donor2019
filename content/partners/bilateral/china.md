@@ -10,7 +10,7 @@ draft: false
 
 The [People’s Republic of China](https://www.adb.org/publications/peoples-republic-china-fact-sheet) (PRC) is a major contributor to ADB development finance and knowledge sharing initiatives and is the singular donor to the [PRC Poverty Reduction and Regional Cooperation Fund (PRCF)](./modalities/trust-funds/single-partner-trust-funds/#prcprrcf). Established in 2005, PRCF has supported development in Central Asia and the Greater Mekong Subregion. PRCF prioritizes technical assistance that directly benefits a project, particularly project preparation, in its future funding consideration. 
 
-PRC prioritizes investments on projects that promote regional connectivity and cooperation, poverty reduction, and knowledge sharing. ADB works with the PRC’s Ministry of Finance and domestic commercial entities on directing development finance to investment projects. Among the commercial entities are the following: 
+PRC prioritizes investments on projects that promote regional connectivity and cooperation, poverty reduction, and knowledge sharing. ADB works with the PRC’s Ministry of Finance and domestic commercial entities on directing development finance to investment projects. Among the commercial entities are the following: 
 
 * **Bank of Beijing** <br> Cumulative Project-specific Cofinancing: $510 million 
 * **China Construction Bank Corporation** <br> Cumulative Project-specific Cofinancing: $147.1 million 

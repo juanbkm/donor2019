@@ -5,7 +5,7 @@ partner_type: Bilateral
 project_specific_cofinancing:
 trust_funds_contribution: "$63.4 million"
 trust_funds_contribution_2019:
-  - item: "**€1.5 million** $1.7 million Spanish Cooperation Fund for Technical Assistance" 
+  - item: "**€1.5 million** $1.7 million to the Spanish Cooperation Fund for Technical Assistance" 
 partner_logo:
 draft: false
 --- 

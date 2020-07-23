@@ -33,7 +33,6 @@ draft: false
   <div class="col-md-10 mx-auto mb-5"><i class="icon-check-circle"></i> <span>A modernized CDC Energiya using high-level technology data management by the end of 2021</span></div>
 </div>
 
-
 ### Background
 
 Power trade among Central Asian countries radically declined after the collapse of the Soviet Union in 1991. Before that, 25.41 billion kilowatt-hours (kWh) were traded among the Central Asian Power Systems (CAPS)&mdash;Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, and Uzbekistan.

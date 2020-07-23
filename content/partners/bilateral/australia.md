@@ -8,8 +8,8 @@ project_specific_cofinancing_2019:
   - item: "**$83 million grant** for 6 projects and 12 technical assistances" 
 trust_funds_contribution: "$172.5 million"
 trust_funds_contribution_2019:
-  - item: "**A$21.5 million** ($15.2 million) to ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility" 
-  - item: "**A$1 million** ($700,000) to the Multi-Donor Trust Fund under the Water Financing Partnership Facility"
+  - item: "**A$21.5 million** $15.2 million to ASEAN Australia Smart Cities Trust Fund under the Urban Financing Partnership Facility" 
+  - item: "**A$1 million** $700,000 to the Multi-Donor Trust Fund under the Water Financing Partnership Facility"
 draft: false
 ---
 

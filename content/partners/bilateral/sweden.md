@@ -7,7 +7,7 @@ project_specific_cofinancing_2019:
   - item: "**$2 million** grant for 1 project and 1 technical assistance"
 trust_funds_contribution: "$113.6 million"
 trust_funds_contribution_2019:
-  - item: "**SKr55 million** $5.7 million Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
+  - item: "**SKr55 million** $5.7 million to the Clean Energy Fund under the Clean Energy Financing Partnership Facility" 
 partner_logo:
 draft: false
 ---

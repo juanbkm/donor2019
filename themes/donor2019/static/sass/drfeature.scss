@@ -1,0 +1,98 @@
+#dr-feature {
+  .dr-article-body {
+    
+    h4 {
+      clear: both;
+      font-size: 1.4rem;
+      text-align: center;
+      text-transform: uppercase;
+      font-weight: 300;
+      letter-spacing: .2rem;
+      color: $adb-accent-orange;
+      margin-top: $margin-big;
+      em {
+        display: block;
+        font-size: 1rem;
+        font-style: normal;
+        text-transform: lowercase;
+        letter-spacing: 1px;
+      }
+    }
+    h4:after {
+      content: '';
+      display: block;
+      width: 100px;
+      border-top: 1px solid lighten($adb-dr-gray, 40%);
+      margin: $margin-big/4 auto $margin-big auto;
+    }
+    
+    @include media-breakpoint-down(sm) {
+      h3 {
+        line-height: 1.5;
+        font-size: round($page-title-size / 1.17);
+        margin-top: $margin-big/4;
+      }
+      h3:after {
+        margin: $margin-big/4 auto $margin-big/4 auto;
+      }
+    }
+  }
+}
+
+.dr-indent {
+  margin-left: 40px;
+  strong {
+    color: $adb-accent-orange;
+  }
+}
+
+
+.dr-sf-chart .chart {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: 60px;
+  background: $adb-gray-three;
+  li {
+    margin: 0;
+    padding: 0; 
+    float: left;
+    height: 60px;
+    list-style-type: none;
+    border-right: 0.5vw solid #fff; 
+    &:last-child {
+      border-right: none; 
+      background: white;
+    }
+  }
+  a {
+    display: block;
+    height: 60px;
+    background: none;
+    color: transparent;
+  }
+  .total a {
+    color: $body-color;
+    font-weight: 700;
+  }
+}
+
+.dr-chart-side {
+  h6 {
+    font-size: 1.6em;
+    font-weight: 400;
+    line-height: 1;
+  }
+  em {
+    font-size: 1.4em;
+    font-weight: 200;
+    line-height: .8;
+  }
+}
+
+ul.dr-fn {
+  li {
+    list-style: none; 
+  }
+}

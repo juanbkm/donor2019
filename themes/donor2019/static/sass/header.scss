@@ -433,8 +433,8 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 #primary-menu ul li:hover > a,
 #primary-menu ul li.current > a { color: $primary-menu-active-color; }
 
-#primary-menu ul li > a > div,
-#primary-menu ul li > a > div { 
+#primary-menu > ul > li > a > div,
+#primary-menu > ul > li > a > div { 
 	position: relative;
 	&:before {
 		border-top: 3px solid $primary-menu-active-color; 
