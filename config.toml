@@ -124,9 +124,9 @@ title = "Partnership Report 2019"
     weight = 86
 
 [[menu.main]]
-  identifier = "feature"
-  name = "Special Feature"
-  url = "/feature/"
+  identifier = "nonsovereign-cofinancing"
+  name = "Nonsovereign"
+  url = "/nonsovereign-cofinancing/"
   weight  = 9
 
 
