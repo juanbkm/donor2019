@@ -71,10 +71,188 @@
     height: 60px;
     background: none;
     color: transparent;
+    .bar {
+      background-color: $body-color;
+      border: 0;
+      height: 60px;
+      display: inline-block;
+      text-indent: -9999px; 
+      margin: 0;
+      padding: 0;
+      margin-right: -3px;
+    }
   }
   .total a {
     color: $body-color;
     font-weight: 700;
+  }
+}
+
+.dr-sf-chart {
+  .chart-content .item {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    float: left;
+    strong {
+      color: #4db4c6;
+      display: block;
+    }
+    &:before {
+      border-left: 1px solid $adb-dr-gray;
+      content: '';
+      display: block;
+      padding-left: 5px;
+    }
+  }
+  .chart-content .active {
+    transition: ease;
+  }
+  #st .item {
+    &:first-of-type {
+      position: relative;
+      &:before {
+        height: 360px;
+      }
+    }
+    &:nth-of-type(2) {
+      left: 3%;
+      &:before {
+        height: 300px;
+      }
+    }
+    &:nth-of-type(3) {
+      left: 8%;
+      &:before {
+        height: 230px;
+      }
+    }
+    &:nth-of-type(4) {
+      left: 20%;
+      &:before {
+        height: 170px;
+      }
+    }
+    &:nth-of-type(5) {
+      left: 33%;
+      &:before {
+        height: 120px;
+      }
+    }
+    &:nth-of-type(6) {
+      left: 38%;
+      &:before {
+        height: 60px;
+      }
+    }
+  }
+  #lt {
+    p {
+      margin-left: 46%;
+    }
+    .item {
+      strong {
+        color: #db5c3a;
+      }
+      &:first-of-type {
+        position: relative;
+        margin-left: 46%;
+        &:before {
+          height: 30px;
+        }
+      }
+      &:nth-of-type(2) {
+        left: 63%;
+        &:before {
+          height: 30px;
+        }
+      }
+      
+    }
+  }
+  #nso-non .item {
+    font-size: .8rem;
+    color: #4db4c6;
+    strong {
+      display: inline;
+      font-weight: normal;
+    }
+    p {
+      font-weight: bold;
+    }
+    &:first-of-type {
+      position: relative;
+      &:before {
+        height: 240px;
+      }
+    }
+    &:nth-of-type(2) {
+      left: 16%;
+      &:before {
+        height: 200px;
+      }
+    }
+    &:nth-of-type(3) {
+      left: 30%;
+      &:before {
+        height: 160px;
+      }
+    }
+    &:nth-of-type(4) {
+      left: 40%;
+      &:before {
+        height: 120px;
+      }
+    }
+    &:nth-of-type(5) {
+      left: 45%;
+      &:before {
+        height: 90px;
+      }
+    }
+    &:nth-of-type(6) {
+      left: 47%;
+      &:before {
+        height: 60px;
+      }
+    }
+    &:nth-of-type(7) {
+      left: 49%;
+      &:before {
+        height: 30px;
+      }
+    }
+  }
+  #nso-adb {
+    margin-left: 50%;
+    position: relative;
+  }
+  #nso-adb .item {
+    font-size: .8rem;
+    color: #db5c3a;
+    strong {
+      display: inline;
+      font-weight: normal;
+      color: #db5c3a;
+    }
+    &:first-of-type {
+      position: relative;
+      &:before {
+        height: 140px;
+      }
+    }
+    &:nth-of-type(2) {
+      left: 22%;
+      &:before {
+        height: 90px;
+      }
+    }
+    &:nth-of-type(3) {
+      left: 53%;
+      &:before {
+        height: 40px;
+      }
+    }
   }
 }
 
@@ -89,10 +267,81 @@
     font-weight: 200;
     line-height: .8;
   }
+  .dr-side-nav {
+    .nav-link {
+      border-radius: 0;
+      font-weight: 200;
+      font-size: 1.2rem;
+      padding-left: 0;
+      color: #555;
+    }
+  }
 }
 
 ul.dr-fn {
   li {
     list-style: none; 
+  }
+}
+
+.nso-chart {
+  border-left: 1px solid $body-color;
+  padding: 10px 0;
+  margin-left: 40px;
+  li {
+    list-style-type: none;
+    margin: 80px 0;
+    margin-left: -52px;
+    display: flex;
+    align-items: center;
+    &:first-of-type {
+      width: 83%;
+    }
+    &:nth-of-type(3) {
+      width: 97%;
+    }
+    .nso-year {
+      font-weight: 200;
+      padding: 0 10px;
+    }
+    .nso-amount {
+      font-weight: 700;
+      padding: 0 10px;
+    }
+    .nso-breakdown {
+      background-color: $adb-gray-three;
+      flex-grow: 4;
+      height: 60px;
+      display: flex;
+      .nso-progress {
+        background-color: $adb-gray-three;
+        border-right: 1px solid #fff;
+        flex: auto;
+        position: relative;
+        height: 60px;
+        .item {
+          font-size: .8rem;
+          line-height: 1 !important;
+          position: absolute;
+          top: 70px;
+          width: 300px;
+          strong {
+            display: block;
+          }
+        }
+      }
+      .nso-commercial .item {
+        strong {
+          color: #4db4c6;
+        }
+      }
+      .nso-official .item {
+        text-align: left;
+        strong {
+          color: #db5c3a;
+        }
+      }
+    }
+    
   }
 }

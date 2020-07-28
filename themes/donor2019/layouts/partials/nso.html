@@ -3,7 +3,7 @@
   <div class="row justify-content-md-center dr-article-body">
     <div class="col-10">
       <h3> <a href=".{{ .storylink }}">{{ .headline }}</a></h3>
-      <p>{{ .lead }}</p>
+      <p>{{ .lead | markdownify }}</p>
     </div>
   </div>
   <div class="row justify-content-md-center">

@@ -8033,9 +8033,143 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     height: 60px;
     background: none;
     color: transparent; }
+    .dr-sf-chart .chart a .bar {
+      background-color: #555;
+      border: 0;
+      height: 60px;
+      display: inline-block;
+      text-indent: -9999px;
+      margin: 0;
+      padding: 0;
+      margin-right: -3px; }
   .dr-sf-chart .chart .total a {
     color: #555;
     font-weight: 700; }
+
+.dr-sf-chart .chart-content .item {
+  width: 100%;
+  position: absolute;
+  left: 0;
+  float: left; }
+  .dr-sf-chart .chart-content .item strong {
+    color: #4db4c6;
+    display: block; }
+  .dr-sf-chart .chart-content .item:before {
+    border-left: 1px solid #556773;
+    content: '';
+    display: block;
+    padding-left: 5px; }
+
+.dr-sf-chart .chart-content .active {
+  transition: ease; }
+
+.dr-sf-chart #st .item:first-of-type {
+  position: relative; }
+  .dr-sf-chart #st .item:first-of-type:before {
+    height: 360px; }
+
+.dr-sf-chart #st .item:nth-of-type(2) {
+  left: 3%; }
+  .dr-sf-chart #st .item:nth-of-type(2):before {
+    height: 300px; }
+
+.dr-sf-chart #st .item:nth-of-type(3) {
+  left: 8%; }
+  .dr-sf-chart #st .item:nth-of-type(3):before {
+    height: 230px; }
+
+.dr-sf-chart #st .item:nth-of-type(4) {
+  left: 20%; }
+  .dr-sf-chart #st .item:nth-of-type(4):before {
+    height: 170px; }
+
+.dr-sf-chart #st .item:nth-of-type(5) {
+  left: 33%; }
+  .dr-sf-chart #st .item:nth-of-type(5):before {
+    height: 120px; }
+
+.dr-sf-chart #st .item:nth-of-type(6) {
+  left: 38%; }
+  .dr-sf-chart #st .item:nth-of-type(6):before {
+    height: 60px; }
+
+.dr-sf-chart #lt p {
+  margin-left: 46%; }
+
+.dr-sf-chart #lt .item strong {
+  color: #db5c3a; }
+
+.dr-sf-chart #lt .item:first-of-type {
+  position: relative;
+  margin-left: 46%; }
+  .dr-sf-chart #lt .item:first-of-type:before {
+    height: 30px; }
+
+.dr-sf-chart #lt .item:nth-of-type(2) {
+  left: 63%; }
+  .dr-sf-chart #lt .item:nth-of-type(2):before {
+    height: 30px; }
+
+.dr-sf-chart #nso-non .item {
+  font-size: .8rem;
+  color: #4db4c6; }
+  .dr-sf-chart #nso-non .item strong {
+    display: inline;
+    font-weight: normal; }
+  .dr-sf-chart #nso-non .item p {
+    font-weight: bold; }
+  .dr-sf-chart #nso-non .item:first-of-type {
+    position: relative; }
+    .dr-sf-chart #nso-non .item:first-of-type:before {
+      height: 240px; }
+  .dr-sf-chart #nso-non .item:nth-of-type(2) {
+    left: 16%; }
+    .dr-sf-chart #nso-non .item:nth-of-type(2):before {
+      height: 200px; }
+  .dr-sf-chart #nso-non .item:nth-of-type(3) {
+    left: 30%; }
+    .dr-sf-chart #nso-non .item:nth-of-type(3):before {
+      height: 160px; }
+  .dr-sf-chart #nso-non .item:nth-of-type(4) {
+    left: 40%; }
+    .dr-sf-chart #nso-non .item:nth-of-type(4):before {
+      height: 120px; }
+  .dr-sf-chart #nso-non .item:nth-of-type(5) {
+    left: 45%; }
+    .dr-sf-chart #nso-non .item:nth-of-type(5):before {
+      height: 90px; }
+  .dr-sf-chart #nso-non .item:nth-of-type(6) {
+    left: 47%; }
+    .dr-sf-chart #nso-non .item:nth-of-type(6):before {
+      height: 60px; }
+  .dr-sf-chart #nso-non .item:nth-of-type(7) {
+    left: 49%; }
+    .dr-sf-chart #nso-non .item:nth-of-type(7):before {
+      height: 30px; }
+
+.dr-sf-chart #nso-adb {
+  margin-left: 50%;
+  position: relative; }
+
+.dr-sf-chart #nso-adb .item {
+  font-size: .8rem;
+  color: #db5c3a; }
+  .dr-sf-chart #nso-adb .item strong {
+    display: inline;
+    font-weight: normal;
+    color: #db5c3a; }
+  .dr-sf-chart #nso-adb .item:first-of-type {
+    position: relative; }
+    .dr-sf-chart #nso-adb .item:first-of-type:before {
+      height: 140px; }
+  .dr-sf-chart #nso-adb .item:nth-of-type(2) {
+    left: 22%; }
+    .dr-sf-chart #nso-adb .item:nth-of-type(2):before {
+      height: 90px; }
+  .dr-sf-chart #nso-adb .item:nth-of-type(3) {
+    left: 53%; }
+    .dr-sf-chart #nso-adb .item:nth-of-type(3):before {
+      height: 40px; }
 
 .dr-chart-side h6 {
   font-size: 1.6em;
@@ -8047,8 +8181,61 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   font-weight: 200;
   line-height: .8; }
 
+.dr-chart-side .dr-side-nav .nav-link {
+  border-radius: 0;
+  font-weight: 200;
+  font-size: 1.2rem;
+  padding-left: 0;
+  color: #555; }
+
 ul.dr-fn li {
   list-style: none; }
+
+.nso-chart {
+  border-left: 1px solid #555;
+  padding: 10px 0;
+  margin-left: 40px; }
+  .nso-chart li {
+    list-style-type: none;
+    margin: 80px 0;
+    margin-left: -52px;
+    display: flex;
+    align-items: center; }
+    .nso-chart li:first-of-type {
+      width: 83%; }
+    .nso-chart li:nth-of-type(3) {
+      width: 97%; }
+    .nso-chart li .nso-year {
+      font-weight: 200;
+      padding: 0 10px; }
+    .nso-chart li .nso-amount {
+      font-weight: 700;
+      padding: 0 10px; }
+    .nso-chart li .nso-breakdown {
+      background-color: #dddddd;
+      flex-grow: 4;
+      height: 60px;
+      display: flex; }
+      .nso-chart li .nso-breakdown .nso-progress {
+        background-color: #dddddd;
+        border-right: 1px solid #fff;
+        flex: auto;
+        position: relative;
+        height: 60px; }
+        .nso-chart li .nso-breakdown .nso-progress .item {
+          font-size: .8rem;
+          line-height: 1 !important;
+          position: absolute;
+          top: 70px;
+          width: 300px; }
+          .nso-chart li .nso-breakdown .nso-progress .item strong {
+            display: block; }
+      .nso-chart li .nso-breakdown .nso-commercial .item strong {
+        color: #4db4c6; }
+      .nso-chart li .nso-breakdown .nso-official .item {
+        text-align: left; }
+        .nso-chart li .nso-breakdown .nso-official .item strong {
+          color: #db5c3a; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes
