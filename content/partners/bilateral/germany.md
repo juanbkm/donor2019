@@ -24,9 +24,9 @@ ADB and KfW signed a second amendment to the [ADB–KfW Cofinancing Memorandum o
 
 #### Development Assistance Agencies 
 
-* [Federal Ministry for Economic Cooperation and Development (BMZ)](https://www.bmz.de/en/)
+* [Federal Ministry for Economic Cooperation and Development](https://www.bmz.de/en/)
 * [KfW](https://www.kfw.de/KfW-Group/) 
-* [Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)](https://www.giz.de/en/html/index.html)
+* [Deutsche Gesellschaft für Internationale Zusammenarbeit](https://www.giz.de/en/html/index.html)
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Germany
@@ -62,7 +62,7 @@ href="https://www.adb.org/projects/49232-001/main" target="_blank">Beijing-Tianj
 <tr>
 <td>India</td>
 <td><a href="https://www.adb.org/projects/44426-016/main" target="_blank">Green Energy Corridor and Grid Strengthening</a></td>
-<td>625.00 </td>
+<td>848.94 </td>
 <td>L</td>
 
 </tr>
@@ -132,6 +132,15 @@ href="https://www.adb.org/projects/50168-003/main" target="_blank">Fiscal and Pu
 <td>L</td>
 
 </tr>
+
+<tr>
+<td>Tajikistan</td>
+<td><a href="https://www.adb.org/projects/44426-016/main" target="_blank">Maternal and Child Health Integrated Care</a></td>
+<td>10.42 </td>
+<td>G</td>
+
+</tr>
+
 <tr>
 <td>Viet Nam</td>
 <td><a
@@ -163,7 +172,16 @@ href="https://www.adb.org/projects/48426-001/main" target="_blank">Strengthening
 Disaster Resilience in Selected Urban Areas of Southeast Asia</a></td>
 <td>0.20 </td>
 <td>TA</td>
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/47285-001/main" target="_blank">Supporting the Cities Development Initiative for Asia (Supplementary)</a></td>
+<td>0.38 </td>
+<td>TA</td>
+</tr>
+
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> L = official loan cofinancing. TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> L = official loan cofinancing. TA = technical assistance cofinancing</p>

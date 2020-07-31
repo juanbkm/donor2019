@@ -41,6 +41,15 @@ A cofinancing arrangement with the Ministry of Agriculture, Food and Rural Affai
 <th>Cofinancing Amount <em>($ million)</em></th>
 <th>Type of Cofinancing<sup>a</sup></th>
 </tr>
+
+<tr>
+<td rowspan="12">Azerbaijan</td>
+<td><a
+href="https://www.adb.org/projects/53105-001/main" target="_blank">Strengthening Tax Policy and Administration Capacity</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
 <tr>
 <td rowspan="12">Bangladesh</td>
 <td><a
@@ -149,8 +158,17 @@ a Revenue Administration Management Information System</a></td>
 <td>TA</td>
 
 </tr>
+
+
 <tr>
-<td rowspan="3">Cambodia</td>
+<td rowspan="12">Cambodia</td>
+<td><a
+href="https://www.adb.org/projects/51182-001/main" target="_blank">Capacity Development in the Electric Utility Industry</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+<tr>
 <td><a
 href="https://www.adb.org/projects/50099-002/main" target="_blank">Fourth
 Greater Mekong Subregion Corridor Towns Development</a></td>
@@ -158,6 +176,8 @@ Greater Mekong Subregion Corridor Towns Development</a></td>
 <td>G</td>
 
 </tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/42334-014/main" target="_blank">Rural
@@ -196,7 +216,7 @@ and Capacity Building for Elderly Care</a></td>
 <td><a
 href="https://www.adb.org/projects/51044-001/main" target="_blank">Supporting
 Project Preparation (Supplementary)</a></td>
-<td>0.50 </td>
+<td>1.00 </td>
 <td>TA</td>
 
 </tr>
@@ -252,6 +272,14 @@ for Northeast Asia Power System Interconnection</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52285-001/main" target="_blank">Strengthening the Supreme Audit Function</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/50017-001/main" target="_blank">Supporting
@@ -292,6 +320,14 @@ href="https://www.adb.org/projects/53165-001/main" target="_blank">Energy Sector
 <td>L</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53129-001/main" target="_blank">Preparing Urban Development Projects</a></td>
+<td>0.45 </td>
+<td>TA</td>
+</tr>
+
 <tr>
 <td>Philippines</td>
 <td><a
@@ -328,6 +364,15 @@ for Effective Public Management (Supplementary)</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/51348-003/main" target="_blank">Operationalization of the Uzbekistan Mortgage Refinancing Company (UMRC)</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td>Viet Nam</td>
 <td><a
@@ -380,6 +425,31 @@ Partnerships with Youth Organizations (Supplementary)</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53134-001/main" target="_blank">Developing Insurance Sector for Sustainable and Resilient Society in Asia and the Pacific</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53116-001/main" target="_blank">Digital Development Facility for Asia and the Pacific</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/49054-001/main" target="_blank">Digital Solutions to Improve Agricultural Value Chains</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/47363-001/main" target="_blank">Economic
@@ -447,6 +517,15 @@ Pacific (Supplementary)</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53212-001/main" target="_blank">Integrated and Innovative Solutions for More Livable Cities</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/47197-001/main" target="_blank">Malaria
@@ -485,7 +564,7 @@ Smart Drinking Water Management in South Asian Cities</a></td>
 href="https://www.adb.org/projects/48435-004/main" target="_blank">Promoting
 Sustainable Energy for All in Asia and the Pacific - Sustainable Energy for
 All Regional Hub for Asia and the Pacific (Subproject C) (Supplementary)</a></td>
-<td>0.14 </td>
+<td>0.24 </td>
 <td>TA</td>
 
 </tr>
@@ -497,6 +576,16 @@ Development Knowledge Solutions in Asia and the Pacific</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52096-001/main" target="_blank">Southeast Asia Energy Sector Development, Investment Planning and Capacity Building Facility (Supplementary)</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/51118-001/main" target="_blank">Strengthening
@@ -513,6 +602,36 @@ Developing Member Countries' Capacity in Elderly Care</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/51065-001/main" target="_blank">Strengthening Domestic Transport Connectivity in the Pacific (Supplementary)</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52183-001/main" target="_blank">Strengthening Education in the Pacific Region (Supplementary)</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50374-001/main" target="_blank">Strengthening Financial Sector Operations in Asia and the Pacific (Supplementary)</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53183-001/main" target="_blank">Strengthening Knowledge Partnership to Support Project Development</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/52061-001/main" target="_blank">Supporting
@@ -530,6 +649,15 @@ the Use of Carbon Financing to Promote Green Growth in Asia and the Pacific
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/49152-001/main" target="_blank">Universal Health Coverage for Inclusive Growth: Supporting the Implementation of the Operational Plan for Health, 2015–2020 (Supplementary)</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/52299-001/main" target="_blank">Demonstrating Future Thinking and Foresight in Developing Member Countries (Supplementary)</a></td>
@@ -546,4 +674,4 @@ href="https://www.adb.org/projects/52109-001/main" target="_blank">Strengthening
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing</p>

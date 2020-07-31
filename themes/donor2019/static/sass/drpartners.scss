@@ -16,12 +16,15 @@
     }
 }
 .dr-partner-list {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+  column-count:2;
+  -moz-column-count:2;
+  -webkit-column-count:2;
+  column-gap: 1rem;
     li {
         font-size: 1rem;
-        margin-right: 10px;
-        margin-left: 25px;
+        margin: 0 0 10px 20px;
+      
+        
     } 
 }
 .dr-partner-nav {

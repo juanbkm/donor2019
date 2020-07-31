@@ -5,6 +5,7 @@ pretitle: "Active"
 date_range: "2019"
 units: "$ million"
 pdf: dr2019-resource-cofin-from-multilateral.pdf
+pagetype: list
 weight: 4
 draft: false
 ---

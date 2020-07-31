@@ -125,11 +125,28 @@ Efficiency Improvement in Drought-Affected Provinces</a></td>
 <tr>
 <td>Regional</td>
 <td><a
+href="https://www.adb.org/projects/53263-001/main" target="_blank">Achieving Water Sector Priorities in Asia and the Pacific under Strategy 2030</a></td>
+<td>1.00 </td>
+<td>TA</td>
+
+<tr>
+<td><a
 href="https://www.adb.org/projects/42384-012/main" target="_blank">Knowledge
 and Innovation Support for ADB's Water Financing Program</a></td>
 <td>11.00 </td>
 <td>TA</td>
+
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50266-001/main" target="_blank">Southeast Asia Agriculture, Natural Resources and Rural Development Facility (Supplementary)</a></td>
+<td>0.80 </td>
+<td>TA</td>
+
+</tr>
+
 </tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>

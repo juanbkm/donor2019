@@ -13,7 +13,7 @@
     <div class="col-sm-9">
       
       <ul class="dr-lists-nav">
-      {{ range where .Site.Pages "Section" "lists" }}
+      {{ range where .Site.Pages.ByTitle "Params.pagetype" "list" }}
           <li><a href="{{.Permalink}}"><em>{{ .Params.pretitle }}</em> {{ .Title }}, {{ .Params.date_range }}
           </a></li>
       {{ end }}

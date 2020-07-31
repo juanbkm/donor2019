@@ -12,7 +12,7 @@ The 2019 ADB Partnership Report highlights many exciting and impactful partnersh
 
 Overall, sovereign cofinancing commitments reached $4.89 billion, adding to ADB sovereign operations worth $18.86 billion, including technical assistance.  That means that every dollar of ADB sovereign financing was accompanied by about 26 cents of cofinancing from partners. In 2019, ADB successfully collaborated with 33 different partners on 148 individual cofinancing operations that supported sovereign operations in 45 DMCs.
 
-As the COVID-19 global pandemic unfolds, and new priorities emerge on top of the existing needs of the region─ from bolstering  health systems of DMCs to setting up economic and social safeguards for the vulnerable sectors to stimulating economies that stalled or slowed down in the pandemic&mdash;ADB’s partnerships need to be all the stronger to continue working for a prosperous, inclusive, resilient, and sustainable Asia and the Pacific.
+As the COVID-19 global pandemic unfolds, and new priorities emerge on top of the existing needs of the region&mdash;from bolstering  health systems of DMCs to setting up economic and social safeguards for the vulnerable sectors to stimulating economies that stalled or slowed down in the pandemic&mdash;ADB’s partnerships need to be all the stronger to continue working for a prosperous, inclusive, resilient, and sustainable Asia and the Pacific.
 
 ### Project-specific Cofinancing
 
@@ -26,7 +26,7 @@ ADB continues to develop, facilitate, and implement partnerships through [trust 
 
 * [Ireland Trust Fund for Building Climate Change and Disaster Resilience in Small Island Developing States (SIDS)](https://www.adb.org/site/funds/funds/ireland-trust-fund-climate-change-disaster-resilience-sids), with a €12 million contribution from Ireland, to help SIDS manage disasters caused by natural hazards and the impacts of climate change.
 
-* [ASEAN Australia Smart Cities](https://www.adb.org/site/funds/funds/asean-australia-smart-cities-fund), established under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) and with A$21.7 million contribution from [Australia]({{< ref "australia.md" >}}), aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
+* [ASEAN Australia Smart Cities Trust Fund](https://www.adb.org/site/funds/funds/asean-australia-smart-cities-fund) established under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) and with A$21.5 million contribution from [Australia]({{< ref "australia.md" >}}), aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
 
 <p class="dr-note">
 All figures in the Partnership Report 2019 are based on commitments. As defined by ADB, “commitment” is the financing approved by ADB’s Board of Directors or Management for which the investment agreement has been signed by the borrower, recipient, or the investee company and ADB. It is the amount indicated in the investment agreement that may or may not be equal to the approved amount, depending on the exchange rate at the time of signing.

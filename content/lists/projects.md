@@ -5,6 +5,7 @@ pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
 pdf: dr2019-resource-cofin-for-psc.pdf
+pagetype: list
 weight: 1
 draft: false
 ---

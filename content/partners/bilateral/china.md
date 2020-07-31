@@ -3,7 +3,7 @@ title: "China, People’s Republic of"
 date: 2020-04-11T19:25:03+08:00
 partner_type: Bilateral
 partner_logo:
-project_specific_cofinancing: "$75.6 million"
+project_specific_cofinancing: "$1.30 billion"
 trust_funds_contribution: "$90 million"
 draft: false
 ---
@@ -50,12 +50,19 @@ Supply Improvement Investment Program – Tranche 2</a></td>
 
 </tr>
 <tr>
-<td>Bangladesh</td>
+<td rowspan="32">Bangladesh</td>
 <td><a
 href="https://www.adb.org/projects/52121-001/main" target="_blank">Knowledge
 Solutions for Inclusive and Sustainable Development</a></td>
 <td>0.50 </td>
 <td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/51137-003/main" target="_blank">Dhaka and Western Zone Transmission Grid Expansion</a></td>
+<td>0.75 </td>
+<td>G</td>
 
 </tr>
 <tr>
@@ -97,7 +104,53 @@ the Ecosystem of Ravi River Basin</a></td>
 
 </tr>
 <tr>
-<td>People's Republic of China</td>
+<td>Papua New Guinea</td>
+<td><a
+href="https://www.adb.org/projects/50372-001/main" target="_blank">Water Supply Scheme for Tete Settlement</a></td>
+<td>0.80 </td>
+<td>G</td>
+
+</tr>
+<tr>
+<td rowspan="32">People's Republic of China</td>
+<td><a
+href="https://www.adb.org/projects/50096-002/main" target="_blank">Air Quality Improvement in the Greater Beijing–Tianjin–Hebei Region - China National Investment and Guaranty Corporation’s Green Financing Platform</a></td>
+<td>200.00</td>
+<td>L</td>
+
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50096-002/main" target="_blank">Air Quality Improvement in the Greater Beijing–Tianjin–Hebei Region - China National Investment and Guaranty Corporation’s Green Financing Platform</a></td>
+<td>400.00</td>
+<td>L</td>
+
+</tr>
+
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50096-002/main" target="_blank">Air Quality Improvement in the Greater Beijing–Tianjin–Hebei Region - China National Investment and Guaranty Corporation’s Green Financing Platform</a></td>
+<td>310.00</td>
+<td>L</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47051-002/main" target="_blank">Chemical Industry Energy Efficiency and Emission Reduction</a></td>
+<td>81.73</td>
+<td>L</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/47052-002/main" target="_blank">Low-Carbon District Heating Project in Hohhot in Inner Mongolia Autonomous Region</a></td>
+<td>162.38</td>
+<td>L</td>
+
+</tr>
+<tr>
 <td><a
 href="https://www.adb.org/projects/46058-002/main" target="_blank">Qinghai
 Delingha Concentrated Solar Thermal Power</a></td>
@@ -106,10 +159,18 @@ Delingha Concentrated Solar Thermal Power</a></td>
 
 </tr>
 <tr>
-<td>Uzbekistan</td>
+<td rowspan="32">Uzbekistan</td>
 <td><a
-href="https://www.adb.org/projects/51197-001/main" target="_blank">Water and
-Sanitation Strategy Development and Capacity Building</a></td>
+href="https://www.adb.org/projects/52317-001/main" target="_blank">Preparing Urban Development and Improvement Projects (Supplementary)</a></td>
+<td>1.00 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/52188-001/main" target="_blank">Assessing
+Economic Corridor Development Potential Among Kazakhstan, Uzbekistan, and
+Tajikistan</a></td>
 <td>0.80 </td>
 <td>TA</td>
 
@@ -131,6 +192,13 @@ href="https://www.adb.org/projects/52188-001/main" target="_blank">Assessing
 Economic Corridor Development Potential Among Kazakhstan, Uzbekistan, and
 Tajikistan</a></td>
 <td>0.80 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/53159-001/main" target="_blank">Better Customs for Better Client Services in Central Asia Regional Economic Cooperation Countries</a></td>
+<td>0.50 </td>
 <td>TA</td>
 
 </tr>
@@ -188,6 +256,27 @@ the Railways of the Greater Mekong Subregion</a></td>
 </tr>
 <tr>
 <td><a
+href="https://www.adb.org/projects/42518-025/main" target="_blank">Connecting the Railways of the Greater Mekong Subregion-Phase 2</a></td>
+<td>0.50 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/53140-001/main" target="_blank">Developing an Accountability Mechanism Framework for Financial Intermediaries</a></td>
+<td>0.23 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/53301-001/main" target="_blank">Developing Partnerships for Knowledge Sharing on Natural Capital Investment in the Yangtze River Economic Belt</a></td>
+<td>0.23 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
 href="https://www.adb.org/projects/52041-002/main" target="_blank">Energy
 System Analysis, Technology Road Maps and Feasibility Studies for Pilot
 Testing</a></td>
@@ -230,9 +319,23 @@ the Greater Mekong Subregion Power Systems to Facilitate Regional Power Trade</a
 </tr>
 <tr>
 <td><a
+href="https://www.adb.org/projects/52011-001/main" target="_blank">Implementing the Integrated Trade Agenda in the Central Asia Regional Economic Cooperation Program</a></td>
+<td>0.80 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
 href="https://www.adb.org/projects/48350-001/main" target="_blank">Infrastructure
 Public-Private Partnership Pipeline Development Support</a></td>
 <td>0.75 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/52041-002/main" target="_blank">Integrated High Impact Innovation in Sustainable Energy Technology-Energy System Analysis, Technology Road Maps and Feasibility Studies for Pilot Testing (Subproject 1)(Supplementary)</a></td>
+<td>0.30 </td>
 <td>TA</td>
 
 </tr>
@@ -259,6 +362,13 @@ href="https://www.adb.org/projects/49400-001/main" target="_blank">Policy
 Coordination and Planning of Border Economic Zones of the People's Republic
 of China and Viet Nam</a></td>
 <td>0.40 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/53222-001/main" target="_blank">Preparing Sustainable Energy Projects in Central Asia</a></td>
+<td>1.60 </td>
 <td>TA</td>
 
 </tr>
@@ -331,10 +441,17 @@ Asia's Financial Safety Nets and Resolution Mechanisms</a></td>
 </tr>
 <tr>
 <td><a
-href="https://www.adb.org/projects/51307-001/main" target="_blank">Strengthening
-Compliance Review and Accountability to Project Affected Persons of Financial
-Intermediaries</a></td>
-<td>0.23 </td>
+href="https://www.adb.org/projects/53081-001/main" target="_blank">Strengthening Fiscal Governance and Sustainability in Public-Private Partnerships (Supplementary)</a></td>
+<td>0.50 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/50385-001/main" target="_blank">Strengthening
+Institutions for Localizing Agenda 2030 for Sustainable Development
+(Supplementary)</a></td>
+<td>0.50 </td>
 <td>TA</td>
 
 </tr>

@@ -23,7 +23,7 @@
           <div class="dr-milestone">
             
             {{ with .img }} <img src="./images/timeline/{{ . }}" alt="" srcset="">{{ end }}
-            <h6><a href="{{ .link }}" target="_blank">{{ .title }}</a></h6>
+            <h6>{{ with .link }}<a href="{{ . }}" target="_blank">{{ end }}{{ .title }}{{ with .link }}</a>{{ end }}</h6>
             {{ $markdown := .text | markdownify }}
 
             {{ if not ( strings.Contains $markdown "<p>" ) }}

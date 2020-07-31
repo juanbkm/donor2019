@@ -423,6 +423,11 @@ Australia channels funds toward development work in infrastructure; trade facili
 			<td>TA</td>
 		</tr>
 		<tr>
+			<td><a href="https://www.adb.org/projects/52064-001/main" target="_blank" rel="noopener">Southeast Asia Urban Services Facility (Supplementary)</a></td>
+			<td>10.00</td>
+			<td>TA</td>
+		</tr>
+		<tr>
 			<td><a href="https://www.adb.org/projects/47264-001/main" target="_blank" rel="noopener">Strengthening Public Sector Management in the North Pacific</a></td>
 			<td>0.56</td>
 			<td>TA</td>

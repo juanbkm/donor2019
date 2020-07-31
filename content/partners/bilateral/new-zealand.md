@@ -43,14 +43,14 @@ Internet Connectivity for the South Pacific</a></td>
 <td rowspan="2">Fiji</td>
 <td><a
 href="https://www.adb.org/projects/53289-001/main" target="_blank">Supporting Competition Policy and Law Reform</a></td>
-<td>0.225 </td>
+<td>0.23 </td>
 <td>TA</td>
 </tr>
 
 <tr>
 <td><a
 href="https://www.adb.org/projects/48490-003/main" target="_blank">Sustained Private Sector-Led Growth Reform Program—Subprogram 2</a></td>
-<td>1.7 </td>
+<td>1.70 </td>
 <td>G</td>
 </tr>
 
@@ -141,7 +141,7 @@ Fiscal Sustainability Program</a></td>
 <tr>
 <td><a
 href="https://www.adb.org/projects/50377-001/main" target="_blank">Improved Fiscal and Infrastructure Management Program</a></td>
-<td>0.6 </td>
+<td>0.60 </td>
 <td>G</td>
 </tr>
 
@@ -180,10 +180,10 @@ and Thematic Analyses in Policy Development (Supplementary)</a></td>
 <tr>
 <td><a
 href="https://www.adb.org/projects/53103-001/main" target="_blank">Pacific Region Infrastructure Facility Coordination Office - Leveraging Infrastructure for Sustainable Development</a></td>
-<td>3 </td>
+<td>3.00 </td>
 <td>TA</td>
 </tr>
 
 </table>
 
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>

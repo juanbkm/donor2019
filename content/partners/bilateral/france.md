@@ -92,6 +92,14 @@ Roads Improvement II – Additional Financing</a></td>
 <td>40.00 </td>
 <td>L</td>                                              
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50394-001/main" target="_blank">Skills for Competitiveness (Supplementary)</a></td>
+<td>0.25 </td>
+<td>TA</td>                                              
+</tr>
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/46064-002/main" target="_blank">Technical
@@ -211,6 +219,15 @@ Transmission Enhancement Investment Program – Tranche 4</a></td>
 <td>L</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53070-002/main" target="_blank">Preparing the Punjab Agriculture Markets Development Project</a></td>
+<td>0.20 </td>
+<td>TA</td>
+
+</tr>
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/47015-003/main" target="_blank">Sustainable

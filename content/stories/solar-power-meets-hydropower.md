@@ -52,9 +52,9 @@ The Floating Solar Energy Project represents a unique financing partnership amon
 
 ### Interventions
 
-Viet Nam has been actively pushing its private sector to explore solar power technology to support the country’s urgent need to increase generation capacity and promote low emissions energy sources. The private sector is faced with the challenge of providing customers with reliable electricity and to meet future demand. DHD stepped up meeting this challenge.
+Viet Nam has been actively pushing its private sector to explore solar power technology to support the country’s urgent need to increase generation capacity and promote low emissions energy sources. The private sector is faced with the challenge of providing customers with reliable electricity and meeting future demand. DHD stepped up to meet this challenge.
 
-DHD beat the government’s deadline and completed the installation of the 47.5 MW peak floating solar photovoltaic power generation panels on the man-made reservoir of its existing 175 MW Da Mi hydropower plant. This is supported by a new floating central inverter, a grounded substation, and a 3.5 kilometer 110 kilovolt transmission line to connect with the national grid. The floating solar panels were operational by June 2019, and the facility became the largest installation in Southeast Asia
+DHD beat the government’s deadline and completed the installation of the 47.5 MW peak floating solar photovoltaic power generation panels on the reservoir of its existing 175 MW Da Mi hydropower plant. This is supported by a new floating central inverter, a grounded substation, and a 3.5 kilometer 110 kilovolt transmission line to connect with the national grid. The floating solar panels were operational by June 2019, and the facility became the largest installation in Southeast Asia.
 
 {{< dr-storyimage src="images/stories/solar-power-meets-hydropower-2.jpg" align="right" alt="" caption="This floating solar power facility over the Da Mi reservoir can generate 63 GWh of renewable energy per year and is capable of lowering Viet Nam’s carbon emissions annually." >}}
 

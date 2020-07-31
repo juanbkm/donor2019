@@ -5,6 +5,7 @@ pretitle: "Sovereign Cofinancing Commitments"
 date_range: "2019"
 units: "$ million"
 pdf: pr2019-project-specific.pdf
+pagetype: list
 weight: 3
 draft: false
 ---

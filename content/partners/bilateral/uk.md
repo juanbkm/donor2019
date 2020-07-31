@@ -302,6 +302,27 @@ Asia Economic Integration Partnership - Power Trading in Bangladesh and Nepal
 <td>TA</td>
 
 </tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/53112-001/main" target="_blank">Supporting Internationalization of Small and Medium Enterprises: Linking India and the Mekong Region</a></td>
+<td>3.00 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/53117-001/main" target="_blank">Supporting the Implementation of the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation Initiatives</a></td>
+<td>1.50 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/53148-001/main" target="_blank">Sustainable Tourism Development in the Central Asia Regional Economic Cooperation Region</a></td>
+<td>1.50 </td>
+<td>TA</td>
+
+</tr>
 
 </table>
 

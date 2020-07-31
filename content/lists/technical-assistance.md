@@ -5,6 +5,7 @@ pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ '000"
 pdf: dr2019-resource-cofin-for-ta.pdf
+pagetype: list
 weight: 2
 draft: false
 ---

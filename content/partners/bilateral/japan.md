@@ -23,10 +23,9 @@ In December 2015, ADB and JICA signed a [Memorandum of Understanding](https://ww
 
 Capitalized by $1.5 billion in equity from JICA, [LEAP](./modalities/trust-funds/single-partner-trust-funds/#lapsif)  stimulates investment in quality and sustainable private sector infrastructure in Asia and the Pacific, including through public–private partnerships. To date, 17 projects have been approved with LEAP cofinancing in the cumulative amount of $661.2 million.
 
-ADB and JICA have a standing commitment to achieve $10 billion in cofinancing for sovereign operations between 2016 and 2020. As of 31 December 2019 the combined cofinancing amount approved by ADB and JICA is roughly $7.3 billion, comprising $2.4 billion by ADB and $3.9 billion by JICA. 
+ADB and JICA have a standing commitment to achieve $10 billion in cofinancing for sovereign operations between 2016 and 2020. As of 31 December 2019 the combined cofinancing amount approved by ADB and JICA is roughly $7.3 billion, comprising $2.4 billion by ADB and $3.9 billion by JICA.
 
-
-#### Active Trust Funds 
+#### Active Trust Funds
 
 * [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf) 
 * [Asia Pacific Project Preparation Facility](./modalities/trust-funds/multi-partner-trust-funds/#apppf) 
@@ -40,13 +39,13 @@ ADB and JICA have a standing commitment to achieve $10 billion in cofinancing fo
 * [Japan Fund for Public Policy Training](./modalities/trust-funds/single-partner-trust-funds/#jfppt) 
 * [Japan Fund for the Joint Crediting Mechanism](./modalities/trust-funds/single-partner-trust-funds/#jfjcm) 
 * [Japan Scholarship Program](./modalities/trust-funds/single-partner-trust-funds/#jsp) 
-* [Leading Asia’s Private Sector Infrastructure Fund](./modalities/trust-funds/single-partner-trust-funds/#lapsif) 
+* [Leading Asia’s Private Sector Infrastructure Fund](./modalities/trust-funds/single-partner-trust-funds/#lapsif)
 
-#### Development Assistance Agencies 
+#### Development Assistance Agencies
 
 * [Ministry of Finance](https://www.mof.go.jp/english/) 
 * [Ministry of Foreign Affairs](https://www.mofa.go.jp/) 
-* [Japan International Cooperation Agency (JICA)](https://www.jica.go.jp/english/)  
+* [Japan International Cooperation Agency](https://www.jica.go.jp/english/)  
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Japan
@@ -110,6 +109,9 @@ Development for Renewable Energy Investment Programming and Implementation</a></
 <td>TA</td>
 
 </tr>
+
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/51400-001/main" target="_blank">Cornerstone
@@ -118,6 +120,15 @@ Investment in a Leading Power Developer</a></td>
 <td>E</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/51319-001/main" target="_blank">Institutionalizing Gender Equality Practices in the Local Government Engineering Department</a></td>
+<td>2.00 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/46284-001/main" target="_blank">Pilot
@@ -126,6 +137,15 @@ Project on Weather Index-Based Crop Insurance</a></td>
 <td>G</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50312-003/main" target="_blank">Railway Rolling Stock Operations Improvement</a></td>
+<td>0.50 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/32234-063/main" target="_blank">Railway
@@ -316,6 +336,17 @@ Sustainable Integrated Urban Public Transport Development</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td rowspan="14">Fiji</td>
+<td><a
+href="https://www.adb.org/projects/52233-002/main" target="_blank">Preparing the Nadi Flood Alleviation</a></td>
+<td>2.00 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td rowspan="14">India</td>
 <td><a
@@ -365,6 +396,15 @@ Pradesh Skills Development</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/46462-003/main" target="_blank">Odisha Skill Development</a></td>
+<td>2.00 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/44447-012/main" target="_blank">Preparing
@@ -433,12 +473,22 @@ Bengal Drinking Water Sector Improvement</a></td>
 <tr>
 <td rowspan="7">Indonesia</td>
 <td><a
+href="https://www.adb.org/projects/51313-001/main" target="_blank">Building Inclusive Social Assistance</a></td>
+<td>2.00 </td>
+<td>TA</td>
+
+</tr>
+
+<tr>
+<td><a
 href="https://www.adb.org/projects/51209-001/main" target="_blank">Eastern
 Indonesia Renewable Energy – Phase 1</a></td>
 <td>56.35 </td>
 <td>L</td>
 
 </tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/51209-002/main" target="_blank">Eastern
@@ -455,6 +505,16 @@ Indonesia Sustainable Energy Access Sector</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/51354-001/main" target="_blank">Impact of Adolescent Nutrition Support on Development Outcomes</a></td>
+<td>2.00 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/51112-001/main" target="_blank">Jawa-1
@@ -488,6 +548,16 @@ Laboh Geothermal Power</a></td>
 <td>L</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50395-007/main" target="_blank">Supporting the Advanced Knowledge and Skills for Sustainable Growth</a></td>
+<td>1.15 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td>Kazakhstan</td>
 <td><a
@@ -638,6 +708,16 @@ Inclusiveness and Service Delivery for Persons with Disabilities</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/48076-001/main" target="_blank">Ensuring Inclusiveness and Service Delivery for Persons with Disabilities</a></td>
+<td>2.00 </td>
+<td>G</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/50093-001/main" target="_blank">Gender-Responsive
@@ -654,6 +734,16 @@ Urban Planning</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/51106-001/main" target="_blank">Human Settlements Development Program</a></td>
+<td>2.00 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/51099-001/main" target="_blank">Implementing
@@ -670,6 +760,25 @@ Access to Health Services for Disadvantaged Groups</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/49173-003/main" target="_blank">Improving Access to Health Services for Disadvantaged Groups Investment Program—Tranche 1</a></td>
+<td>3.48 </td>
+<td>G</td>
+
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/51386-001/main" target="_blank">Improving Health Care Financing for Universal Health Coverage</a></td>
+<td>1.00 </td>
+<td>TA</td>
+
+</tr>
+
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/49168-001/main" target="_blank">Improving
@@ -678,6 +787,16 @@ School Dormitory Environment for Primary Students in Western Region</a></td>
 <td>G</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52019-001/main" target="_blank">Improving the Management of Hazardous Chemicals</a></td>
+<td>0.75 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/48216-001/main" target="_blank">Integrated
@@ -695,6 +814,16 @@ Soil Pollution in Ger Areas through Improved On-Site Sanitation</a></td>
 <td>G</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52314-001/main" target="_blank">Moving Gender Equality Forward through Civil Society Engagement</a></td>
+<td>0.50 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/49430-001/main" target="_blank">Preparing
@@ -711,6 +840,16 @@ Employment Opportunities for People with Disabilities</a></td>
 <td>G</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53054-001/main" target="_blank">Smart Energy System for Mongolia</a></td>
+<td>0.50 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/48062-002/main" target="_blank">Strategic
@@ -743,6 +882,16 @@ the Development of an Education Sector Master Plan</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53035-001/main" target="_blank">Sustainable Fodder Management</a></td>
+<td>1.00 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/48061-002/main" target="_blank">Sustainable
@@ -885,6 +1034,25 @@ Community Infrastructure and Basic Services</a></td>
 <td>G</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/51242-002/main" target="_blank">Resilient Community Development </a></td>
+<td>3.00 </td>
+<td>G</td>
+
+</tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/50381-007/main" target="_blank">Road Safety for Highway Development in the Greater Mekong Subregion East-West Economic Corridor </a></td>
+<td>1.00 </td>
+<td>TA</td>
+
+</tr>
+
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/47227-001/main" target="_blank">Skills
@@ -961,6 +1129,16 @@ Water Resources Development</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/48098-001/main" target="_blank">Balochistan Water Resources Development</a></td>
+<td>3.00 </td>
+<td>G</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/48098-002/main" target="_blank">Climate
@@ -969,6 +1147,16 @@ Resilient Water Resources Management</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52232-001/main" target="_blank">Enhancing Technology-Based Agriculture and Marketing in Rural Punjab</a></td>
+<td>2.00 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/49048-001/main" target="_blank">Institutional
@@ -1092,6 +1280,16 @@ the Capital Market</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52219-001/main" target="_blank">Enhancing Rural Micro and Small-Sized Enterprises Finance</a></td>
+<td>1.00 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/50373-002/main" target="_blank">Implementation
@@ -1224,6 +1422,16 @@ Bukhara Irrigation System Rehabilitation</a></td>
 <td>L</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52340-002/main" target="_blank">Integrated Perinatal Care</a></td>
+<td>1.20 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/49253-003/main" target="_blank">Power
@@ -1314,6 +1522,16 @@ Payment for Forest Ecosystem Service Implementation</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/40354-017/main" target="_blank">Second Health Human Resources Development</a></td>
+<td>3.00 </td>
+<td>G</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/47140-001/main" target="_blank">Second
@@ -1322,6 +1540,16 @@ Secondary Education Sector Development Program</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/49122-004/main" target="_blank">Skills and Knowledge for Inclusive Economic Growth</a></td>
+<td>3.00 </td>
+<td>G</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/46482-001/main" target="_blank">Strengthening
@@ -1387,6 +1615,16 @@ Agribusiness Value Chains Sector</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53370-001/main" target="_blank">Developing Innovative Community-Based Long-Term Care Systems and Services</a></td>
+<td>2.00 </td>
+<td>TA</td>
+
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/50231-001/main" target="_blank">DCDC Dialysis Network</a></td>
@@ -1457,6 +1695,15 @@ Finance for Inclusive Growth</a></td>
 <td>2.00 </td>
 <td>TA</td>
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53169-001/main" target="_blank">Promoting an Interconnected, Inclusive, and Resilient Association of Southeast Asian Nations Capital Market</a></td>
+<td>1.50 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/49049-001/main" target="_blank">Promoting Smart Systems in ADB's Future Cities Program</a></td>
@@ -1470,6 +1717,15 @@ href="https://www.adb.org/projects/48435-004/main" target="_blank">Promoting Sus
 <td>2.00 </td>
 <td>TA</td>
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/52112-002/main" target="_blank">Regional Cooperation on Increasing Cross-Border Energy Trading within the Central Asian Power System-Modernization of Coordinating Dispatch Center Energiya (Subproject 1)</a></td>
+<td>1.00 </td>
+<td>TA</td>
+</tr>
+
+
 <tr>
 <td><a
 href="https://www.adb.org/projects/51148-001/main" target="_blank">Regional Cooperation on Renewable Energy Integration to the Grid</a></td>
@@ -1604,6 +1860,14 @@ Transport Facilitation in the Pacific</a></td>
 <td>TA</td>
 
 </tr>
+
+<tr>
+<td><a
+href="https://www.adb.org/projects/53046-001/main" target="_blank">Upgrading the Asia Small and Medium-Sized Enterprise Monitor</a></td>
+<td>1.00 </td>
+<td>TA</td>
+
+</tr>
 </table>
 
-<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing.</p> 
+<p class="dr-footnote"><sup>a</sup> E = official equity cofinancing, G = official grant cofinancing, L = official loan cofinancing, TA = technical assistance cofinancing.</p>

@@ -52,6 +52,7 @@ The technical assistance supported a capacity building program for CEB staff to 
 To help prepare the CEB in facilitating public-private partnerships, the technical assistance supported the CEB in:
 
 * Preparing procurement packages and relevant bidding documents for the proposed CEB wind power generation, and competitive bidding documents for private sector participation
+
 * Preparing a road map and options for private sector involvement in further developing renewable energy sources in the country
 
 ### Results

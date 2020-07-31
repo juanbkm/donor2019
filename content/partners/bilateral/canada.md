@@ -9,8 +9,7 @@ draft: false
 ---
 [Canada](https://www.adb.org/publications/canada-fact-sheet)’s priority themes are: (i) gender equality; (ii) increasing food security: food aid and nutrition; sustainable agricultural development particularly for small-scale farmers and women; (iii) securing the future of children and youth: access to quality education; maternal and child health; (iv) stimulating sustainable and inclusive economic growth: building economic foundations; growing businesses; and (v) innovations in international assistance.  
 
-Canada’s priority sectors for development assistance are gender, governance, private sector development, and health, while special attention is given to fragile and conflict-affected and small island developing states. 
-
+Canada’s priority sectors for development assistance are gender, governance, private sector development, and health, while special attention is given to fragile and conflict-affected and small island developing states.
 
 #### Active Trust Funds
 
@@ -26,7 +25,7 @@ Canada’s priority sectors for development assistance are gender, governance, p
 
 #### Development Assistance Agency
 
-* [Global Affairs Canada](https://www.international.gc.ca/gac-amc/index.aspx?lang=eng) (formerly Department of Foreign Affairs, Trade, and Development 
+* [Global Affairs Canada](https://www.international.gc.ca/gac-amc/index.aspx?lang=eng) (formerly Department of Foreign Affairs, Trade, and Development)
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinancing with Canada
@@ -202,6 +201,13 @@ Use of Disaster Risk Information for Decision Making in Southeast Asia</a></td>
 </tr>
 <tr>
 <td><a
+href="https://www.adb.org/projects/53350-001/main" target="_blank">Integrated Disaster Risk Management Fund: Sharing Lessons, Achievements, and Best Practices</a></td>
+<td>0.23 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
 href="https://www.adb.org/projects/42384-012/main" target="_blank">Knowledge
 and Innovation Support for ADB's Water Financing Program—Supplementary</a></td>
 <td>0.25 </td>
@@ -223,6 +229,13 @@ href="https://www.adb.org/projects/51139-004/main" target="_blank">Olam
 International Limited: Inclusive, Sustainable, and Connected Coffee Value
 Chain (Subproject 2)</a></td>
 <td>0.16 </td>
+<td>TA</td>
+
+</tr>
+<tr>
+<td><a
+href="https://www.adb.org/projects/53142-001/main" target="_blank">Scoping of Community Resilience Partnership Program</a></td>
+<td>0.23 </td>
 <td>TA</td>
 
 </tr>

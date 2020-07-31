@@ -32,7 +32,7 @@ Many governments in Asia have been spending less than $10 per person per year on
 
 ### Improving Education and Training
 
-{{< dr-artimage src="images/pov-1-ino-generic.jpg" align="right" alt="" caption="Partnerships that improve education and training help raise the quality of formal and technical education. They ensure employablity of graduates." >}}
+{{< dr-artimage src="images/pov-1-ino-generic.jpg" align="right" alt="" caption="Partnerships that improve education and training help raise the quality of formal and technical education. They ensure employability of graduates." >}}
 
 Improving education and training ensures the employability and job readiness of graduates, who will be the pillars of sustainable economic growth in their respective countries. ADB in 2019 pursued projects that improve both formal and technical education in many countries across Asia. One example is the [Supporting the Advanced Knowledge and Skills for Sustainable Growth Project in Indonesia](https://www.adb.org/projects/50395-007/main#project-pds). Through the financing partnership of ADB, [Japan Fund for Poverty Reduction](./modalities/trust-funds/single-partner-trust-funds/#jfpr), and the [High-Level Technology Fund](./modalities/trust-funds/multi-partner-trust-funds/#hltf), this project will upgrade four public universities in Indonesia to improve the country’s skilled human capital. When the project is completed, these universities will be providing high-quality and demand-based programs, providing Indonesia with a highly skilled human capital ready to meet labor market demands.
 
@@ -52,6 +52,6 @@ One project designed to strengthen SMEs is the [Supporting Internationalization 
 
 ### Moving Forward
 
-{{< dr-artimage src="images/pov-3-fij-generic.jpg" align="left" alt="" caption="Partnerships that reduce poverty are investments for the people and their future." >}}
+{{< dr-artimage src="images/pov-3-fij-generic.jpg" align="right" alt="" caption="Partnerships that reduce poverty are investments for the people and their future." >}}
 
 Providing Asia with quality jobs, education, healthcare, and social protection is a tall task. This will be made harder with the impending global economic slow-down. In Asia and the Pacific, growth will fall to 2.2% this year, according to the [Asian Development Outlook 2020](https://www.adb.org/publications/asian-development-outlook-2020-innovation-asia). Partnerships can cushion this impact, helping the region to bounce back next year. Stronger partnerships can help ADB effectively respond to the region’s immediate needs while safeguarding the shared progress achieved through the years. They can scale up and widen the reach of poverty alleviation measures. They can help make access to quality education, health, jobs, and social protection, equitable. Partnerships can genuinely show that investing in poverty reduction initiatives is, ultimately, investing in people.

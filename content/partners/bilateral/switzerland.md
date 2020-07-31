@@ -13,16 +13,16 @@ draft: false
 ---
 [Switzerland](https://www.adb.org/publications/switzerland-fact-sheet)'s development cooperation is coordinated between the Swiss Agency for Development and Cooperation (SDC) within the Federal Department of Foreign Affairs, and the State Secretariat for Economic Affairs (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
 
-#### Active Trust Funds 
+#### Active Trust Funds
 
 * [Cities Development Initiative for Asia Trust Fund](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#cdiatf) 
 * [Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#uccrtf)
 * [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf)
 
-#### Development Assistance Agencies 
+#### Development Assistance Agencies
 
-* [Swiss Agency for Development and Cooperation (SDC)](https://www.eda.admin.ch/sdc)
-* [State Secretariat for Economic Affairs (SECO)](https://www.seco.admin.ch/seco/en/home.html) 
+* [Swiss Agency for Development and Cooperation](https://www.eda.admin.ch/sdc)
+* [State Secretariat for Economic Affairs](https://www.seco.admin.ch/seco/en/home.html) 
  
 <split>
 
@@ -60,7 +60,7 @@ Governments</a></td>
 <tr>
 <td><a
 href="https://www.adb.org/projects/50316-001/main" target="_blank">National Disaster Risk Management Fund (Additional Financing)</a></td>
-<td>1.5 </td>
+<td>1.50 </td>
 <td>G</td>
 </tr>
 
@@ -77,4 +77,4 @@ href="https://www.adb.org/projects/46173-001/main" target="_blank">Supporting th
 <td>TA</td>
 </tr>
 </table>
-<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p> 
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing, TA = technical assistance cofinancing</p>

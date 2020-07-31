@@ -2,7 +2,7 @@
 title: "Tackling Climate Change, Building Climate and Disaster Resilience, and Enhancing Environmental Sustainability"
 date: 2020-05-01T01:01:05+08:00
 weight: 3
-lead: "In 2019, about $700 million was mobilized from partners, prioritizing climate mitigation actions,  climate and disaster resilience interventions, climate resilient infrastructure, improving access to credit and insturance, and helping countries to transition to renewable and clean energy sources."
+lead: "In 2019, about $700 million was mobilized from partners, prioritizing climate mitigation actions,  climate and disaster resilience interventions, climate resilient infrastructure, improving access to credit and insurance, and helping countries to transition to renewable and clean energy sources."
 main_image: images/strategy-2030/climate-change.jpg
 main_image_thumb: images/strategy-2030/climate-change-th.jpg
 icon: images/strategy-2030/icn-climate.svg
@@ -49,7 +49,7 @@ This can be complemented by projects such as [Kiribati: South Tarawa Water Suppl
 
 [Strategy 2030’s](https://www.adb.org/sites/default/files/institutional-document/495961/strategy-2030-op3-climate-change-resilience-sustainability.pdf) approach to ensuring environmental sustainability promotes shifting to sustainable infrastructure and low carbon development, building climate resilience by investing in natural capital, and improving environmental governance and management capacity.
 
-{{< dr-artimage src="images/cli-2-vie-gen.jpg" align="left" alt="" caption="Cities should be green and climate resilient even with rapid urbanization" >}}
+{{< dr-artimage src="images/cli-2-vie-gen.jpg" align="right" alt="" caption="Cities should be green and climate resilient even with rapid urbanization" >}}
 
 In 2019, ADB approved the [Mainstreaming Climate Resilience and Environmental Protection for Secondary Green Cities Development Project](https://www.adb.org/projects/47274-003/main#project-pds). This aims to demonstrate how cities can be green and climate resilient even while being economically competitive. This project, with the support of the Global Environment Facility Grant and the Urban Climate Change Resilience Trust Fund under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/), is planting the seeds for a nationwide green secondary city development in Viet Nam. This type of project is critical for the region. Asia’s urbanization rate is accelerating quickly, and may well [reach above 64% by 2050](https://www.adb.org/sites/default/files/publication/524596/ado2019-update-theme-chapter.pdf) if not managed well, worsening the effects of climate change.
 

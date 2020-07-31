@@ -32,7 +32,7 @@ draft: false
 
 <div class="dr-results row">
   <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>$100 million successfully disbursed in 2016-2018 through ten local banks to 1,755 SMEs, out of which 484 (27%) are owned or led by women</span></div>
-  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>$75 million additional loan and $12.6 million additional grant from We-FI, after the success of the original $100 million credit line</span></div>
+  <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>$75 million additional loan and $12.6 million additional grant from We-Fi, after the success of the original $100 million credit line</span></div>
   <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>$71.9 million additional loan and $6.2 million We-Fi grant disbursed as of February 2019 to 1,739 SMEs, out of which 821 (47.2%) are women-led SMEs</span></div>
   <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>637 women-led SMEs benefited from the blended finance of ADB credit line and We-Fi grant, so far</span></div>
   <div class="col-md-6 mb-5"><i class="icon-check-circle"></i> <span>744 women trained on business development under the technical assistance funded by JFPR and We-Fi</span></div>
@@ -42,7 +42,7 @@ draft: false
 
 In Sri Lanka, women economic participation is well below potential despite its gender parity in access to education. They contribute only a little over 33% to the labor force. Even less are those who own or lead small to medium enterprises (SMEs). Disenfranchised, the women remain an untapped national resource. What a missed opportunity it is for the country that is transitioning to upper-middle-income status.  
 
-The International Finance Corporation estimates that 40%&mdash; or 65 million&mdash; of SMEs in the developing world have $5.2 trillion unmet financing needs. This shortfall is due to banks being more inclined to provide loans to bigger firms and businesses. SMEs, even though they make up 90% of businesses in the Asia-Pacific region, remain an unattractive prospect for capital lending. 
+The International Finance Corporation estimates that 40%&mdash;or 65 million&mdash;of SMEs in the developing world have $5.2 trillion unmet financing needs. This shortfall is due to banks being more inclined to provide loans to bigger firms and businesses. SMEs, even though they make up 90% of businesses in the Asia-Pacific region, remain an unattractive prospect for capital lending. 
 
 The Sri Lankan government decided to address this gap by enlisting the ADB's assistance in promoting women's entrepreneurship, a central pillar of [ADB's Strategy 2030 in promoting gender equality](https://www.adb.org/documents/strategy-2030-op2-gender-equality). 
 

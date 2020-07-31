@@ -7223,12 +7223,13 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     margin-left: -25px; }
 
 #dr-partners #content .dr-partner-list {
-  display: grid;
-  grid-template-columns: 1fr 1fr; }
+  column-count: 2;
+  -moz-column-count: 2;
+  -webkit-column-count: 2;
+  column-gap: 1rem; }
   #dr-partners #content .dr-partner-list li {
     font-size: 1rem;
-    margin-right: 10px;
-    margin-left: 25px; }
+    margin: 0 0 10px 20px; }
 
 #dr-partners #content .dr-partner-nav {
   display: grid;
@@ -7572,9 +7573,9 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 
 .dr-lists-nav li {
   color: #556773;
-  margin-left: 20px;
+  margin-left: 50px;
   margin-bottom: 5px; }
-  .dr-lists-nav li:nth-child(2), .dr-lists-nav li:nth-child(4) {
+  .dr-lists-nav li:nth-child(4) {
     margin-bottom: 20px; }
   .dr-lists-nav li a {
     font-weight: 700; }

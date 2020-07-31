@@ -19,7 +19,7 @@
         <div class="row">
             <div class="col py-4">
                 <div class="dr-story-summary">
-                    <p class="lead">{{ .Params.summary }}</p>
+                    <p class="lead">{{ .Params.summary | markdownify }}</p>
                 </div>
             </div>
         </div>

@@ -2,7 +2,7 @@
 title: "Achieving Climate-Friendly Energy Security"
 date: 2020-07-07T00:45:25+08:00
 image: images/stories/achieving-climate-friendly-energy-security.jpg
-image_caption: "**Environment-friendly power sources.** Nepal's rich water resources have great potential to help the country achieve energy security. (Photo source: Sundar1 / [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0))"
+image_caption: "**Environment-friendly power sources.** Nepal's rich water resources have great potential to help the country achieve energy security. (Photo: Sundar1 / [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0))"
 author: Admin
 description: "This is meta description"
 country: Nepal
