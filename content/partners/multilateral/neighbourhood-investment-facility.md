@@ -32,4 +32,4 @@ Officially launched in May 2008, <a href="https://ec.europa.eu/neighbourhood-enl
 </table>
 
 
-<p class="dr-footnote"><sup>a</sup> L = official loan cofinancing </p>
+<p class="dr-footnote"><sup>a</sup> G = official grant cofinancing </p>

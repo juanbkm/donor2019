@@ -37,6 +37,55 @@ title = "Partnership Report 2019"
   weight  = 4
 
 [[menu.main]]
+    identifier = "poverty"
+    name = "Poverty"
+    url = "/strategy-2030/addressing-remaining-poverty-and-reducing-inequalities/"
+    parent = "strategy-2030"
+    weight = 41
+
+[[menu.main]]
+    identifier = "gender-equality"
+    name = "Gender Equality"
+    url = "/strategy-2030/gender-equality/"
+    parent = "strategy-2030"
+    weight = 42
+
+[[menu.main]]
+    identifier = "climate-change"
+    name = "Climate Change"
+    url = "/strategy-2030/climate-change/"
+    parent = "strategy-2030"
+    weight = 43
+
+[[menu.main]]
+    identifier = "livable-cities"
+    name = "Livable Cities"
+    url = "/strategy-2030/livable-cities/"
+    parent = "strategy-2030"
+    weight = 44
+
+[[menu.main]]
+    identifier = "rural-development"
+    name = "Rural Development"
+    url = "/strategy-2030/rural-development-and-food-security/"
+    parent = "strategy-2030"
+    weight = 45
+
+[[menu.main]]
+    identifier = "governance"
+    name = "Governance"
+    url = "/strategy-2030/governance-and-capacity-building/"
+    parent = "strategy-2030"
+    weight = 46
+
+[[menu.main]]
+    identifier = "regional-cooperation-integration"
+    name = "Regional Cooperation and Integration"
+    url = "/strategy-2030/regional-cooperation-and-integration/"
+    parent = "strategy-2030"
+    weight = 47
+
+[[menu.main]]
   identifier = "stories"
   name = "Stories"
   url = "/stories/"
@@ -90,31 +139,38 @@ title = "Partnership Report 2019"
 
 [[menu.main]]
     identifier = "global-funds"
-    name = "Global Funds"
+    name = "&raquo; Global Funds"
     url = "/modalities/global-funds/"
     parent = "modalities"
     weight = 82
 
 [[menu.main]]
-    identifier = "single-partner-trust-funds"
-    name = "Single-Partner Trust Funds"
-    url = "/modalities/trust-funds/single-partner-trust-funds/"
+    identifier = "trust-funds"
+    name = "Trust Funds"
+    url = "/modalities/trust-funds/"
     parent = "modalities"
     weight = 83
 
 [[menu.main]]
-    identifier = "multi-partner-trust-funds"
-    name = "Multi-Partner Trust Funds"
-    url = "/modalities/trust-funds/multi-partner-trust-funds/"
+    identifier = "single-partner-trust-funds"
+    name = "&raquo; Single-Partner Trust Funds"
+    url = "/modalities/trust-funds/single-partner-trust-funds/"
     parent = "modalities"
     weight = 84
 
 [[menu.main]]
-    identifier = "financing-partnership-facilities"
-    name = "Financing Partnership Facilities"
-    url = "/modalities/financing-partnership-facilities/"
+    identifier = "multi-partner-trust-funds"
+    name = "&raquo; Multi-Partner Trust Funds"
+    url = "/modalities/trust-funds/multi-partner-trust-funds/"
     parent = "modalities"
     weight = 85
+
+[[menu.main]]
+    identifier = "financing-partnership-facilities"
+    name = "&raquo; Financing Partnership Facilities"
+    url = "/modalities/financing-partnership-facilities/"
+    parent = "modalities"
+    weight = 86
 
 [[menu.main]]
     identifier = "partnership-framework-arrangements"

@@ -252,7 +252,7 @@ Public–Private Partnership Investments in Sindh Province</a></td>
 
 </tr>
 <tr>
-<td rowspan="6">Regional</td>
+<td rowspan="9">Regional</td>
 <td><a
 href="https://www.adb.org/projects/46241-001/main" target="_blank">Asia
 Energy Efficiency Accelerator (Supplementary)</a></td>

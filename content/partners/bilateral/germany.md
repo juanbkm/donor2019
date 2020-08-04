@@ -151,7 +151,7 @@ Transmission Investment Program – Tranche 3</a></td>
 
 </tr>
 <tr>
-<td rowspan="3">Regional</td>
+<td rowspan="4">Regional</td>
 <td><a
 href="https://www.adb.org/projects/50404-001/main" target="_blank">Establishing
 a Support Facility for Article 6 of the Paris Agreement</a></td>

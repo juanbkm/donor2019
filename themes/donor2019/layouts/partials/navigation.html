@@ -4,9 +4,9 @@
     {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
         <li class="{{if or ($currentPage.IsMenuCurrent `main` .) ($currentPage.HasMenuCurrent `main` .) }}current{{end}}"><a href="{{ .URL }}" title="{{ .Title }}"><div>{{ .Name }}</div></a>
-            <ul>
+            <ul class="child-menu">
             {{ range .Children }}
-                <li><a href="{{ .URL }}" title="{{ .Title }}"><div>{{ .Name }}</div></a></li>
+                <li><a href="{{ .URL }}" title="{{ .Title }}"><div>{{ .Name | markdownify }}</div></a></li>
             {{ end }}
             </ul>
         </li>

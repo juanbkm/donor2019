@@ -43,7 +43,7 @@ A cofinancing arrangement with the Ministry of Agriculture, Food and Rural Affai
 </tr>
 
 <tr>
-<td rowspan="12">Azerbaijan</td>
+<td rowspan="">Azerbaijan</td>
 <td><a
 href="https://www.adb.org/projects/53105-001/main" target="_blank">Strengthening Tax Policy and Administration Capacity</a></td>
 <td>0.50 </td>
@@ -161,7 +161,7 @@ a Revenue Administration Management Information System</a></td>
 
 
 <tr>
-<td rowspan="12">Cambodia</td>
+<td rowspan="4">Cambodia</td>
 <td><a
 href="https://www.adb.org/projects/51182-001/main" target="_blank">Capacity Development in the Electric Utility Industry</a></td>
 <td>0.50 </td>
@@ -248,7 +248,7 @@ Urban Environmental Improvement</a></td>
 
 </tr>
 <tr>
-<td rowspan="6">Mongolia</td>
+<td rowspan="7">Mongolia</td>
 <td><a
 href="https://www.adb.org/projects/51282-001/main" target="_blank">Energy
 Storage Option for Accelerating Renewable Energy Penetration</a></td>
@@ -313,7 +313,7 @@ Transmission Improvement</a></td>
 
 </tr>
 <tr>
-<td>Pakistan</td>
+<td rowspan="2">Pakistan</td>
 <td><a
 href="https://www.adb.org/projects/53165-001/main" target="_blank">Energy Sector Reforms and Financial Sustainability Program—Subprogram 1</a></td>
 <td>80.00 </td>
@@ -356,7 +356,7 @@ Sector Enhancement Program</a></td>
 
 </tr>
 <tr>
-<td>Uzbekistan</td>
+<td rowspan="2">Uzbekistan</td>
 <td><a
 href="https://www.adb.org/projects/46444-001/main" target="_blank">E-Government
 for Effective Public Management (Supplementary)</a></td>
@@ -383,7 +383,7 @@ to Strengthening Local Health Care Program (Supplementary)</a></td>
 
 </tr>
 <tr>
-<td rowspan="25">Regional</td>
+<td rowspan="35">Regional</td>
 <td><a
 href="https://www.adb.org/projects/52239-001/main" target="_blank">Agricultural
 Value Chain Development in Selected Asian Countries</a></td>

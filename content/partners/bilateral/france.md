@@ -72,7 +72,7 @@ System Expansion and Efficiency Improvement Investment Plan – Tranche 2</a></t
 <td>L</td>
 </tr>
 <tr>
-<td rowspan="5">Cambodia</td>
+<td rowspan="6">Cambodia</td>
 <td rowspan="2"><a
 href="https://www.adb.org/projects/48158-002/main" target="_blank">Provincial
 Water Supply and Sanitation</a></td>
@@ -196,7 +196,7 @@ Urban Services Improvement</a></td>
 <td>L</td>
 </tr>
 <tr>
-<td rowspan="4">Pakistan</td>
+<td rowspan="5">Pakistan</td>
 <td><a
 href="https://www.adb.org/projects/49056-002/main" target="_blank">Access to
 Clean Energy Investment Program</a></td>

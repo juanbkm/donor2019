@@ -455,6 +455,11 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 	}
 }
 
+#primary-menu > ul > li:last-of-type
+{ 
+	background-color: $adb-gray-four;
+}
+
 #primary-menu > ul > li.sub-menu > a > div { border: none;  }
 
 body.no-superfish #primary-menu li:hover > ul:not(.mega-menu-column),
@@ -558,7 +563,9 @@ body.no-superfish #primary-menu li:hover > .mega-menu-content { display: block; 
 	}
 }
 
-
+.child-menu > li > a {
+	font-weight: 300 !important;
+}
 
 /* ----------------------------------------------------------------
 	Mega Menu

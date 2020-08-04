@@ -123,7 +123,7 @@ Efficiency Improvement in Drought-Affected Provinces</a></td>
 
 </tr>
 <tr>
-<td>Regional</td>
+<td rowspan="3">Regional</td>
 <td><a
 href="https://www.adb.org/projects/53263-001/main" target="_blank">Achieving Water Sector Priorities in Asia and the Pacific under Strategy 2030</a></td>
 <td>1.00 </td>

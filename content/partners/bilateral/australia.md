@@ -372,7 +372,7 @@ Australia channels funds toward development work in infrastructure; trade facili
 			<td>G</td>
 		</tr>
 		<tr>
-			<td rowspan="17">Regional</td>
+			<td rowspan="18">Regional</td>
 			<td><a href="https://www.adb.org/projects/49900-001/main" target="_blank" rel="noopener">Capacity Development for Expansion of the Trade Finance Program into the Pacific and Enhanced Safeguards and Integrity Measures for Trade Finance Program Banks</a></td>
 			<td>3.48</td>
 			<td>TA</td>

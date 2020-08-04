@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<div class="container clearfix dr-article-body">
+  {{- partial "sectiontitle.html" . -}}
+  
+  {{ $currentpages := where $.Site.RegularPages "Section" .CurrentSection }}
+  
+  <div class="row py-5">
+   <div class="col-md-10 mx-auto dr-partner-group">
+      <ul class="dr-partner-list">
+        {{ range .Pages.ByTitle }}
+        {{ $partner := .Params.partner_type }}
+        <li>
+          <a href="{{.Permalink}}">{{.Title}}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+  </div>
+  
+  
+</div>
+
+{{ end }}

@@ -50,7 +50,7 @@ Supply Improvement Investment Program – Tranche 2</a></td>
 
 </tr>
 <tr>
-<td rowspan="32">Bangladesh</td>
+<td rowspan="2">Bangladesh</td>
 <td><a
 href="https://www.adb.org/projects/52121-001/main" target="_blank">Knowledge
 Solutions for Inclusive and Sustainable Development</a></td>
@@ -112,7 +112,7 @@ href="https://www.adb.org/projects/50372-001/main" target="_blank">Water Supply 
 
 </tr>
 <tr>
-<td rowspan="32">People's Republic of China</td>
+<td rowspan="6">People's Republic of China</td>
 <td><a
 href="https://www.adb.org/projects/50096-002/main" target="_blank">Air Quality Improvement in the Greater Beijing–Tianjin–Hebei Region - China National Investment and Guaranty Corporation’s Green Financing Platform</a></td>
 <td>200.00</td>
@@ -159,7 +159,7 @@ Delingha Concentrated Solar Thermal Power</a></td>
 
 </tr>
 <tr>
-<td rowspan="32">Uzbekistan</td>
+<td rowspan="2">Uzbekistan</td>
 <td><a
 href="https://www.adb.org/projects/52317-001/main" target="_blank">Preparing Urban Development and Improvement Projects (Supplementary)</a></td>
 <td>1.00 </td>
@@ -176,7 +176,7 @@ Tajikistan</a></td>
 
 </tr>
 <tr>
-<td rowspan="32">Regional</td>
+<td rowspan="40">Regional</td>
 <td><a
 href="https://www.adb.org/projects/48176-001/main" target="_blank">Advancing
 Regional Cooperation and Integration through Brunei

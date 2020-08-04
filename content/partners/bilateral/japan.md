@@ -85,7 +85,7 @@ Waste Management Solutions for Remote and Small Communities</a></td>
 
 </tr>
 <tr>
-<td rowspan="14">Bangladesh</td>
+<td rowspan="16">Bangladesh</td>
 <td><a
 href="https://www.adb.org/projects/49423-005/main" target="_blank">Bangladesh
 Power System Enhancement and Efficiency Improvement</a></td>
@@ -338,7 +338,7 @@ Sustainable Integrated Urban Public Transport Development</a></td>
 </tr>
 
 <tr>
-<td rowspan="14">Fiji</td>
+<td rowspan="">Fiji</td>
 <td><a
 href="https://www.adb.org/projects/52233-002/main" target="_blank">Preparing the Nadi Flood Alleviation</a></td>
 <td>2.00 </td>
@@ -348,7 +348,7 @@ href="https://www.adb.org/projects/52233-002/main" target="_blank">Preparing the
 
 
 <tr>
-<td rowspan="14">India</td>
+<td rowspan="15">India</td>
 <td><a
 href="https://www.adb.org/projects/46166-001/main" target="_blank">Capacity
 Building for Supporting Human Capital Development in Meghalaya</a></td>
@@ -471,7 +471,7 @@ Bengal Drinking Water Sector Improvement</a></td>
 
 </tr>
 <tr>
-<td rowspan="7">Indonesia</td>
+<td rowspan="10">Indonesia</td>
 <td><a
 href="https://www.adb.org/projects/51313-001/main" target="_blank">Building Inclusive Social Assistance</a></td>
 <td>2.00 </td>
@@ -644,7 +644,7 @@ Outer Islands for Sustainable Energy Development – Additional Financing</a></t
 
 </tr>
 <tr>
-<td rowspan="28">Mongolia</td>
+<td rowspan="36">Mongolia</td>
 <td><a
 href="https://www.adb.org/projects/51217-001/main" target="_blank">Combating
 Domestic Violence against Women and Children</a></td>
@@ -945,7 +945,7 @@ Renewable Energy Sector</a></td>
 
 </tr>
 <tr>
-<td rowspan="13">Myanmar</td>
+<td rowspan="15">Myanmar</td>
 <td><a
 href="https://www.adb.org/projects/49297-001/main" target="_blank">Capacity
 Development for Project Implementation</a></td>
@@ -1121,7 +1121,7 @@ School Sector Development Plan</a></td>
 
 </tr>
 <tr>
-<td rowspan="6">Pakistan</td>
+<td rowspan="8">Pakistan</td>
 <td><a
 href="https://www.adb.org/projects/48098-001/main" target="_blank">Balochistan
 Water Resources Development</a></td>
@@ -1264,7 +1264,7 @@ href="https://www.adb.org/projects/52083-001/main" target="_blank">Malolos-Clark
 
 </tr>
 <tr>
-<td rowspan="8">Sri Lanka</td>
+<td rowspan="9">Sri Lanka</td>
 <td><a
 href="https://www.adb.org/projects/49273-001/main" target="_blank">Cluster
 Development and Small and Medium-Sized Enterprise Finance Innovation</a></td>
@@ -1414,7 +1414,7 @@ Energy Efficiency and Capacity</a></td>
 
 </tr>
 <tr>
-<td rowspan="4">Uzbekistan</td>
+<td rowspan="5">Uzbekistan</td>
 <td><a
 href="https://www.adb.org/projects/44458-013/main" target="_blank">Amu
 Bukhara Irrigation System Rehabilitation</a></td>
@@ -1466,7 +1466,7 @@ Pam School Reconstruction</a></td>
 
 </tr>
 <tr>
-<td rowspan="11">Viet Nam</td>
+<td rowspan="13">Viet Nam</td>
 <td><a
 href="https://www.adb.org/projects/48279-001/main" target="_blank">Capacity
 Building for Project Management Unit Professionalization</a></td>
@@ -1575,7 +1575,7 @@ to Viet Nam Academy of Social Sciences</a></td>
 
 </tr>
 <tr>
-<td rowspan="32">Regional</td>
+<td rowspan="36">Regional</td>
 <td><a
 href="https://www.adb.org/projects/50251-001/main" target="_blank">Advancing
 Time Release Studies in Southeast Asia</a></td>
