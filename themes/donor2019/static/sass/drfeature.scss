@@ -54,13 +54,16 @@
   width: 100%;
   height: 60px;
   background: $adb-gray-three;
+  display: flex;
+  align-items: center;
   li {
     margin: 0;
     padding: 0; 
-    float: left;
+    flex: auto;
     height: 60px;
     list-style-type: none;
-    border-right: 0.5vw solid #fff; 
+    border-right: none;
+    align-items: center;
     &:last-child {
       border-right: none; 
       background: white;
@@ -82,9 +85,17 @@
       margin-right: -3px;
     }
   }
-  .total a {
-    color: $body-color;
-    font-weight: 700;
+  .total {
+    .nso-total {
+      height: 60px;
+      color: $body-color;
+      font-weight: 700;
+      padding: 0 5px;
+      display: block;
+      text-align: center;
+      margin-right: -25%;
+    }
+    
   }
 }
 
@@ -116,35 +127,30 @@
       }
     }
     &:nth-of-type(2) {
-      left: 3%;
+      left: 4%;
       &:before {
         height: 300px;
       }
     }
     &:nth-of-type(3) {
-      left: 8%;
+      left: 15%;
       &:before {
         height: 230px;
       }
     }
     &:nth-of-type(4) {
-      left: 20%;
+      left: 35%;
       &:before {
-        height: 170px;
+        height: 140px;
       }
     }
     &:nth-of-type(5) {
-      left: 33%;
+      left: 41%;
       &:before {
-        height: 120px;
+        height: 80px;
       }
     }
-    &:nth-of-type(6) {
-      left: 38%;
-      &:before {
-        height: 60px;
-      }
-    }
+    
   }
   #lt {
     p {
@@ -162,7 +168,7 @@
         }
       }
       &:nth-of-type(2) {
-        left: 63%;
+        left: 67%;
         &:before {
           height: 30px;
         }
@@ -271,9 +277,13 @@
     .nav-link {
       border-radius: 0;
       font-weight: 200;
-      font-size: 1.2rem;
-      padding-left: 0;
+      font-size: 1.1rem;
+      padding-left: 10px;
       color: #555;
+    }
+    .active {
+      font-weight: 700;
+      color: $adb-accent-orange;
     }
   }
 }
@@ -305,8 +315,21 @@ ul.dr-fn {
       padding: 0 10px;
     }
     .nso-amount {
+      display: block;
       font-weight: 700;
       padding: 0 10px;
+      line-height: 1 !important;
+      margin: 0;
+    }
+    .nso-ratio {
+      display: block;
+      font-weight: 300;
+      padding: 0 10px;
+      line-height: 1 !important;
+      margin: 0;
+    }
+    .nso-total {
+      margin-right: -25%;
     }
     .nso-breakdown {
       background-color: $adb-gray-three;
@@ -321,7 +344,7 @@ ul.dr-fn {
         height: 60px;
         .item {
           font-size: .8rem;
-          line-height: 1 !important;
+          line-height: 1.2 !important;
           position: absolute;
           top: 70px;
           width: 300px;
@@ -331,12 +354,18 @@ ul.dr-fn {
         }
       }
       .nso-commercial .item {
+        margin-left: 10px;
         strong {
           color: #4db4c6;
         }
       }
+      .nso-official {
+        position: relative;
+      }
       .nso-official .item {
-        text-align: left;
+        text-align: right;
+        position: absolute;
+        right: 0;
         strong {
           color: #db5c3a;
         }

@@ -5,8 +5,8 @@
         <h6>Nonsovereign Cofinancing <em>2017-2019</em></h6>
         {{ "<!-- side nav -->" | safeHTML }}
         <div class="nav flex-column nav-pills dr-side-nav" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-          <a class="nav-link" id="nso-source-tab" data-toggle="pill" href="#nso-source" role="tab" aria-controls="nso-source" aria-selected="true">by Source</a>
-          <a class="nav-link" id="nso-svlt-tab" data-toggle="pill" href="#nso-svlt" role="tab" aria-controls="nso-svlt" aria-selected="false">Short- vs Long-Term</a>
+          <a class="nav-link sub-nav active" id="nso-source-tab" data-toggle="pill" href="#nso-source" role="tab" aria-controls="nso-source" aria-selected="true">by Source</a>
+          <a class="nav-link" id="nso-svlt-tab" data-toggle="pill" href="#nso-svlt" role="tab" aria-controls="nso-svlt" aria-selected="false">by Short- vs Long-Term</a>
         </div>
 
         {{ "<!-- /side nav -->" | safeHTML }}
@@ -16,34 +16,9 @@
        
       {{ "<!-- tab content -->" | safeHTML }}
       <div class="tab-content" id="v-pills-tabContent">
-        <div class="tab-pane fade show active" id="nso-default" role="tabpanel" aria-labelledby="nso-default-tab">
-        <ul class="nso-chart">
-          <li>
-            <span class="nso-year">2017</span>
-            <span class="nso-breakdown">
-              
-            </span>
-            <span class="nso-amount ">$5.95 billion</span>
-          </li>
-          <li>
-            <span class="nso-year">2018</span>
-            <span class="nso-breakdown">
-              <span class="nso-progress"></span>
-            </span>
-            <span class="nso-amount ">$7.15 billion</span>
-          </li>
-          <li>
-            <span class="nso-year">2019</span>
-            <span class="nso-breakdown">
-              <span class="nso-progress"></span>
-            </span>
-            <span class="nso-amount ">$6.97 billion</span>
-          </li>
-        </ul>
-          
-        </div>
+       
 
-        <div class="tab-pane fade" id="nso-source" role="tabpanel" aria-labelledby="nso-source-tab">
+        <div class="tab-pane fade show active" id="nso-source" role="tabpanel" aria-labelledby="nso-source-tab">
           <ul class="nso-chart">
             <li>
               <span class="nso-year">2017</span>
@@ -59,7 +34,10 @@
                   </p>
                 </span>
               </span>
-              <span class="nso-amount ">$5.95 billion</span>
+              <span class="nso-total">
+                <p class="nso-amount">$5.95 billion</p>
+                <p class="nso-ratio ">1.8 Cofinancing Ratio</p>
+              </span>
             </li>
             <li>
               <span class="nso-year">2018</span>
@@ -75,7 +53,10 @@
                   </p>
                 </span>
               </span>
-              <span class="nso-amount ">$7.15 billion</span>
+              <span class="nso-total">
+                <p class="nso-amount">$7.15 billion</p>
+                <p class="nso-ratio ">1.2 Cofinancing Ratio</p>
+              </span>
             </li>
             <li>
               <span class="nso-year">2019</span>
@@ -91,7 +72,10 @@
                   </p>
                 </span>
               </span>
-              <span class="nso-amount ">$6.97 billion</span>
+              <span class="nso-total">
+                <p class="nso-amount">$6.97 billion</p>
+                <p class="nso-ratio ">1.5 Cofinancing Ratio</p>
+              </span>
             </li>
           </ul>
             
@@ -113,7 +97,9 @@
                   </p>
                 </span>
               </span>
-              <span class="nso-amount ">$5.95 billion</span>
+              <span class="nso-total">
+                <p class="nso-amount">$5.95 billion</p>
+              </span>
             </li>
             <li>
               <span class="nso-year">2018</span>
@@ -129,7 +115,9 @@
                   </p>
                 </span>
               </span>
-              <span class="nso-amount ">$7.15 billion</span>
+              <span class="nso-total">
+                <p class="nso-amount">$7.15 billion</p>
+              </span>
             </li>
             <li>
               <span class="nso-year">2019</span>
@@ -145,7 +133,9 @@
                   </p>
                 </span>
               </span>
-              <span class="nso-amount ">$6.97 billion</span>
+              <span class="nso-total">
+                <p class="nso-amount">$6.97 billion</p>
+              </span>
             </li>
           </ul>
 

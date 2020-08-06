@@ -8024,14 +8024,17 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   position: relative;
   width: 100%;
   height: 60px;
-  background: #dddddd; }
+  background: #dddddd;
+  display: flex;
+  align-items: center; }
   .dr-sf-chart .chart li {
     margin: 0;
     padding: 0;
-    float: left;
+    flex: auto;
     height: 60px;
     list-style-type: none;
-    border-right: 0.5vw solid #fff; }
+    border-right: none;
+    align-items: center; }
     .dr-sf-chart .chart li:last-child {
       border-right: none;
       background: white; }
@@ -8049,9 +8052,14 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
       margin: 0;
       padding: 0;
       margin-right: -3px; }
-  .dr-sf-chart .chart .total a {
+  .dr-sf-chart .chart .total .nso-total {
+    height: 60px;
     color: #555;
-    font-weight: 700; }
+    font-weight: 700;
+    padding: 0 5px;
+    display: block;
+    text-align: center;
+    margin-right: -25%; }
 
 .dr-sf-chart .chart-content .item {
   width: 100%;
@@ -8076,29 +8084,24 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     height: 360px; }
 
 .dr-sf-chart #st .item:nth-of-type(2) {
-  left: 3%; }
+  left: 4%; }
   .dr-sf-chart #st .item:nth-of-type(2):before {
     height: 300px; }
 
 .dr-sf-chart #st .item:nth-of-type(3) {
-  left: 8%; }
+  left: 15%; }
   .dr-sf-chart #st .item:nth-of-type(3):before {
     height: 230px; }
 
 .dr-sf-chart #st .item:nth-of-type(4) {
-  left: 20%; }
+  left: 35%; }
   .dr-sf-chart #st .item:nth-of-type(4):before {
-    height: 170px; }
+    height: 140px; }
 
 .dr-sf-chart #st .item:nth-of-type(5) {
-  left: 33%; }
+  left: 41%; }
   .dr-sf-chart #st .item:nth-of-type(5):before {
-    height: 120px; }
-
-.dr-sf-chart #st .item:nth-of-type(6) {
-  left: 38%; }
-  .dr-sf-chart #st .item:nth-of-type(6):before {
-    height: 60px; }
+    height: 80px; }
 
 .dr-sf-chart #lt p {
   margin-left: 46%; }
@@ -8113,7 +8116,7 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     height: 30px; }
 
 .dr-sf-chart #lt .item:nth-of-type(2) {
-  left: 63%; }
+  left: 67%; }
   .dr-sf-chart #lt .item:nth-of-type(2):before {
     height: 30px; }
 
@@ -8191,9 +8194,13 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 .dr-chart-side .dr-side-nav .nav-link {
   border-radius: 0;
   font-weight: 200;
-  font-size: 1.2rem;
-  padding-left: 0;
+  font-size: 1.1rem;
+  padding-left: 10px;
   color: #555; }
+
+.dr-chart-side .dr-side-nav .active {
+  font-weight: 700;
+  color: #eb6440; }
 
 ul.dr-fn li {
   list-style: none; }
@@ -8216,8 +8223,19 @@ ul.dr-fn li {
       font-weight: 200;
       padding: 0 10px; }
     .nso-chart li .nso-amount {
+      display: block;
       font-weight: 700;
-      padding: 0 10px; }
+      padding: 0 10px;
+      line-height: 1 !important;
+      margin: 0; }
+    .nso-chart li .nso-ratio {
+      display: block;
+      font-weight: 300;
+      padding: 0 10px;
+      line-height: 1 !important;
+      margin: 0; }
+    .nso-chart li .nso-total {
+      margin-right: -25%; }
     .nso-chart li .nso-breakdown {
       background-color: #dddddd;
       flex-grow: 4;
@@ -8231,16 +8249,22 @@ ul.dr-fn li {
         height: 60px; }
         .nso-chart li .nso-breakdown .nso-progress .item {
           font-size: .8rem;
-          line-height: 1 !important;
+          line-height: 1.2 !important;
           position: absolute;
           top: 70px;
           width: 300px; }
           .nso-chart li .nso-breakdown .nso-progress .item strong {
             display: block; }
-      .nso-chart li .nso-breakdown .nso-commercial .item strong {
-        color: #4db4c6; }
+      .nso-chart li .nso-breakdown .nso-commercial .item {
+        margin-left: 10px; }
+        .nso-chart li .nso-breakdown .nso-commercial .item strong {
+          color: #4db4c6; }
+      .nso-chart li .nso-breakdown .nso-official {
+        position: relative; }
       .nso-chart li .nso-breakdown .nso-official .item {
-        text-align: left; }
+        text-align: right;
+        position: absolute;
+        right: 0; }
         .nso-chart li .nso-breakdown .nso-official .item strong {
           color: #db5c3a; }
 
