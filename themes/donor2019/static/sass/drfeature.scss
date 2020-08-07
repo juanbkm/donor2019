@@ -64,6 +64,7 @@
     list-style-type: none;
     border-right: none;
     align-items: center;
+    border-right: 0.5vw solid #fff;
     &:last-child {
       border-right: none; 
       background: white;
@@ -372,5 +373,118 @@ ul.dr-fn {
       }
     }
     
+  }
+}
+
+
+
+.nsov-projs-chart-nav {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: 60px;
+  background: $adb-gray-three;
+  display: flex;
+  align-items: center;
+  li {
+    margin: 0;
+    padding: 0; 
+    flex: auto;
+    height: 60px;
+    list-style-type: none;
+    border-right: none;
+    align-items: center;
+    border-right: 0.5vw solid #fff;
+    &:last-child {
+      border-right: none;
+    }
+  }
+  a {
+    display: block;
+    height: 60px;
+    background: none;
+    color: transparent;
+    &.active {
+      background-color: $adb-main-blue-eleven;
+    }
+  }
+}
+
+.nsov-projs-chart {
+  .proj-total {
+    font-size: 1.4rem;
+    font-weight: 300;
+    line-height: 1 !important;
+    strong {
+      color: $adb-main-blue-eleven;
+      display: block;
+      font-size: .8em;
+      font-weight: 700;
+    }
+  }
+  .ratio-bar {
+    display: flex;
+    margin: 0 auto;
+    width: 60%;
+    div {
+      flex: auto;
+      position: relative;
+      height: 40px;
+      margin-bottom: 20px;
+      &.adb {
+        background-color: #db5c3a;
+        text-align: right;
+        p {
+          left: -120px;
+        }
+      }
+      &.nsov {
+        background-color: #e88468;
+        p {
+          right: -120px;
+        }
+      }
+    }
+    p {
+      font-size: .8rem;
+      line-height: 1 !important;
+      position: absolute;
+      width: 120px;
+      padding: 5px;
+    }
+    strong {
+      color: #db5c3a;
+      display: block;
+      font-size: .7rem;
+      text-transform: uppercase;
+    }
+  }
+  .nsov-projects {
+    .ac {
+      margin-top: 2px;
+      border: none;
+      background-color: #f4f4f4;
+      box-sizing: border-box;
+    }
+    .ac > .ac-q {
+      font-weight: 200;
+      color: #111;
+      padding: 10px 30px 10px 10px;
+      margin: 0;
+      text-decoration: none;
+      display: block;
+      cursor: pointer;
+      position: relative;
+    }
+    table {
+      th, td {
+        font-size: .8rem;
+        text-align: left;
+      }
+      td:last-of-type {
+        text-align: left;
+      }
+    }
   }
 }

@@ -127,6 +127,18 @@
 	{{ end }}
 
 
+	{{ if eq $section "nonsovereign-cofinancing" }}
+	<!-- Map Scripts
+	============================================= -->
+	<script src="{{ `js/accordion.js` | absURL }}"></script>
+	<script>
+		new Accordion('#cwa .nsov-projects');
+		new Accordion('#ea .nsov-projects'); 
+		new Accordion('#sa .nsov-projects');
+		new Accordion('#sea .nsov-projects');
+	</script>
+	{{ end }}
+
 	<script>
     $(document).ready(function() {
       $('.tooltipper').tooltipster({
@@ -156,16 +168,19 @@
 	<script>
 		
 		$('.chart.nav.nav-pills > li > a').hover(function() {
-      	$(this).tab('show');
-      	});
+			$(this).tab('show');
+			});
 
-      	$('.chart.nav.nav-pills > li > a').mouseleave(function(){
-      	$(this).removeClass("active");
-      	$('.body-tab').removeClass("active");
+			$('.chart.nav.nav-pills > li > a').mouseleave(function(){
+			$(this).removeClass("active");
+			$('.body-tab').removeClass("active");
 
-      	});
-		
+		});
 
+		$('#nsov-projs a').on('click', function (e) {
+			e.preventDefault()
+			$(this).tab('show')
+		})
 
 		$(document).ready(function() {
 			$('#region-chart a').click(function() {
@@ -188,6 +203,7 @@
 					$(".dmc-"+num).addClass('show');
 					$(".dmcc-"+num).addClass('show');
 			});
+			
 		});
 	</script>
 

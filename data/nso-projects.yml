@@ -1,0 +1,8 @@
+regions: 
+  - name: Central and West Asia
+    id: cwa
+    total: $2.07 billion
+    adb: $922 million
+    adbprct: 45%
+    nsov: $1.15 billion
+    nsovprct: 55%

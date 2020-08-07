@@ -8034,7 +8034,8 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     height: 60px;
     list-style-type: none;
     border-right: none;
-    align-items: center; }
+    align-items: center;
+    border-right: 0.5vw solid #fff; }
     .dr-sf-chart .chart li:last-child {
       border-right: none;
       background: white; }
@@ -8267,6 +8268,97 @@ ul.dr-fn li {
         right: 0; }
         .nso-chart li .nso-breakdown .nso-official .item strong {
           color: #db5c3a; }
+
+.nsov-projs-chart-nav {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  height: 60px;
+  background: #dddddd;
+  display: flex;
+  align-items: center; }
+  .nsov-projs-chart-nav li {
+    margin: 0;
+    padding: 0;
+    flex: auto;
+    height: 60px;
+    list-style-type: none;
+    border-right: none;
+    align-items: center;
+    border-right: 0.5vw solid #fff; }
+    .nsov-projs-chart-nav li:last-child {
+      border-right: none; }
+  .nsov-projs-chart-nav a {
+    display: block;
+    height: 60px;
+    background: none;
+    color: transparent; }
+    .nsov-projs-chart-nav a.active {
+      background-color: #00B6C9; }
+
+.nsov-projs-chart .proj-total {
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1 !important; }
+  .nsov-projs-chart .proj-total strong {
+    color: #00B6C9;
+    display: block;
+    font-size: .8em;
+    font-weight: 700; }
+
+.nsov-projs-chart .ratio-bar {
+  display: flex;
+  margin: 0 auto;
+  width: 60%; }
+  .nsov-projs-chart .ratio-bar div {
+    flex: auto;
+    position: relative;
+    height: 40px;
+    margin-bottom: 20px; }
+    .nsov-projs-chart .ratio-bar div.adb {
+      background-color: #db5c3a;
+      text-align: right; }
+      .nsov-projs-chart .ratio-bar div.adb p {
+        left: -120px; }
+    .nsov-projs-chart .ratio-bar div.nsov {
+      background-color: #e88468; }
+      .nsov-projs-chart .ratio-bar div.nsov p {
+        right: -120px; }
+  .nsov-projs-chart .ratio-bar p {
+    font-size: .8rem;
+    line-height: 1 !important;
+    position: absolute;
+    width: 120px;
+    padding: 5px; }
+  .nsov-projs-chart .ratio-bar strong {
+    color: #db5c3a;
+    display: block;
+    font-size: .7rem;
+    text-transform: uppercase; }
+
+.nsov-projs-chart .nsov-projects .ac {
+  margin-top: 2px;
+  border: none;
+  background-color: #f4f4f4;
+  box-sizing: border-box; }
+
+.nsov-projs-chart .nsov-projects .ac > .ac-q {
+  font-weight: 200;
+  color: #111;
+  padding: 10px 30px 10px 10px;
+  margin: 0;
+  text-decoration: none;
+  display: block;
+  cursor: pointer;
+  position: relative; }
+
+.nsov-projs-chart .nsov-projects table th, .nsov-projs-chart .nsov-projects table td {
+  font-size: .8rem;
+  text-align: left; }
+
+.nsov-projs-chart .nsov-projects table td:last-of-type {
+  text-align: left; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes
