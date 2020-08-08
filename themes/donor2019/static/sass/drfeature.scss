@@ -296,9 +296,10 @@ ul.dr-fn {
 }
 
 .nso-chart {
-  border-left: 1px solid $body-color;
+  border-left: 1px solid #f4f4f4;
   padding: 10px 0;
   margin-left: 40px;
+  margin-top: -80px;
   li {
     list-style-type: none;
     margin: 80px 0;

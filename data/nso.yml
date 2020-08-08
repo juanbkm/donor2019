@@ -21,7 +21,7 @@ projects:
     completion: 
   - headline: Powering Up Thailand's Economic Corridor
     lead: |
-      An ADB-supported private investment project&mdash;cofinanced with the Leading Asia's Private Infrastructure Fund, Japan Bank for International Cooperation, commercial lenders, and others&mdash;will help Thailand advance to its desired high-income status by 2032 by establishing an independent power plant in its Eastern Economic Corridor. With this power plant, the economic corridor will become a hub of trade and investment and the modern gateway to the region.
+      An ADB-supported private investment project&mdash;cofinanced with the [Leading Asia's Private Infrastructure Fund](./modalities/trust-funds/single-partner-trust-funds/#lapsif), [Japan Bank for International Cooperation](https://www.jbic.go.jp/en/), commercial lenders, and others&mdash;will help Thailand advance to its desired high-income status by 2032 by establishing an independent power plant in its Eastern Economic Corridor. With this power plant, the economic corridor will become a hub of trade and investment and the modern gateway to the region.
     storylink: /stories/powering-up-thailands-economic-corridor/
     title: "Eastern Economic Corridor Independent Power Project "
     url: https://www.adb.org/projects/53239-001/main#project-pds
@@ -60,4 +60,24 @@ projects:
       - name: "Others"
         amount: "$584 million"
     approval: "12 April 2019"
+    completion: ""
+  - headline: Broadband Satellite for Remote Communities
+    lead: |
+      With the launch of the Kacific1 satellite in December 2019, people in remote areas in Southeast Asia and the Pacific are now able to join the global online community and enjoy the benefits of internet connectivity. The satellite, owned by Singapore-based Kacific Broadband Satellites International Limited, was financed by ADB and its Leading Asia’s Private Infrastructure Fund, among other cofinanciers.
+    storylink: /stories/broadband-satellite-for-remote-communities/
+    title: "Regional: Asia-Pacific Remote Broadband Internet Satellite Project"
+    url: https://www.adb.org/projects/53115-001/main
+    image: images/stories/broadband-satellite-for-remote-communities.jpg
+    cost: "Confidential"
+    fund_source: 
+      - name: "ADB"
+        amount: "$25 million"
+      - name: "Kacific Broadband Satellites International Limited"
+        amount: ""
+    fin_partners:
+      - name: "Leading Asia's Private Infrastructure Fund"
+        amount: "$25 million"
+      - name: "Other commercial lenders"
+        amount: ""
+    approval: "July 2019"
     completion: ""

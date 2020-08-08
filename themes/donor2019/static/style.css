@@ -8207,9 +8207,10 @@ ul.dr-fn li {
   list-style: none; }
 
 .nso-chart {
-  border-left: 1px solid #555;
+  border-left: 1px solid #f4f4f4;
   padding: 10px 0;
-  margin-left: 40px; }
+  margin-left: 40px;
+  margin-top: -80px; }
   .nso-chart li {
     list-style-type: none;
     margin: 80px 0;

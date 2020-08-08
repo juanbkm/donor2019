@@ -70,6 +70,8 @@ The successful implementation of the project provides a strong demonstration imp
 
 “This project will help boost the share of renewable energy in Viet Nam’s overall energy mix and decrease the dependence on imported fossil fuels such as coal,” said ADB Private Sector Operations Department Deputy Director General Mr. Christopher Thieme. “The pairing of these two clean energy technologies—hydropower and solar—is a simple but a highly innovative achievement, which can be replicated elsewhere in Viet Nam and across Asia and the Pacific.”
 
+In July 2020, Da Mi Floating Solar won the [IJGlobal Awards 2019 for Innovation in the Asia Pacific](https://awards.ijglobal.com/Global/FileLib/IJGlobal_Awards_2019/asia_pacific.pdf). IJGlobal (Infrastructure Journal and Project Finance Magazine) provides market leading intelligence for the energy and infrastructure finance industry. 
+
 #### Related Stories
 
 [A Private Financing Deal Helped Build Southeast Asia's Largest Floating Solar Project in Viet Nam](https://www.adb.org/news/videos/private-financing-deal-helped-build-southeast-asias-largest-floating-solar-project-viet) [Video]  
