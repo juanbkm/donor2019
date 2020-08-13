@@ -7,7 +7,7 @@ project_specific_cofinancing_2019:
   - item: "**$891.3 million** loan for 3 projects"
   - item: "**$380,000** grant for 1 technical assistance" 
 trust_funds_contribution_2019:
-  - item: "**€2 million** $2.22 million for the Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnership Facility" 
+  - item: "**€2 million** $2.22 million to Cities Development Initiative for Asia Trust Fund under the Urban Financing Partnership Facility" 
 trust_funds_contribution: "$122.5 million"
 partner_logo:
 draft: false

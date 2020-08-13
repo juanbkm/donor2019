@@ -89,14 +89,14 @@ gf:
 
       We-Fi works with six multilateral development banks as implementing partners: African Development Bank, Asian Development Bank, Inter-American Development Bank, European Bank for Reconstruction and Development, Islamic Development Bank and the World Bank Group.
 
-      In May 2019, ADB received funding from We-Fi to help provide [women-led small and medium-sized enterprises (WSMEs) with access to critical financing and training in Viet Nam and the Pacific](https://www.adb.org/projects/52214-001/main). We-fi also allocated $20.2 million in replenishment funds for allocation to future projects.
+      In May 2019, ADB received funding from We-Fi to help provide [women-led small and medium-sized enterprises (WSMEs) with access to critical financing and training in Viet Nam and the Pacific](https://www.adb.org/projects/52214-001/main). We-Fi also allocated $20.2 million in replenishment funds for allocation to future projects.
      
 weight: 
 draft: false
 ---
 Global funds are funding initiatives managed by other multilateral banks. Through ADB, the developing member countries can access these global funds, for which the International Bank for Reconstruction and Development serves as trustee.  
 
-{{< dr-artimage src="./images/modalities/tonga_energy.jpg" width="80%" caption="**Transitioning to a renewable energy future.** Tonga's aims to transform energy use and electricity production to low carbon, climate resilient pathways. [The Renewable Energy Project](https://www.adb.org/projects/49450-012/main#project-pds), with cofinancing support from Green Climate Fund, will expanded access to clean, resilient, and affordable energy for the population in Tonga at a lower cost." >}}
+{{< dr-artimage src="./images/modalities/tonga_energy.jpg" width="80%" caption="**Transitioning to a Renewable Energy Future.** Tonga's aims to transform energy use and electricity production to low carbon, climate resilient pathways. [The Renewable Energy Project](https://www.adb.org/projects/49450-012/main#project-pds), with cofinancing support from Green Climate Fund, will expanded access to clean, resilient, and affordable energy for the population in Tonga at a lower cost." >}}
 
 Global funds leverage public or private resources in support of international initiatives, enabling partners to provide direct and coordinated response to global priorities. ADB contributes to the Global Funds and assists developing member countries in gaining access to its financing.  
 

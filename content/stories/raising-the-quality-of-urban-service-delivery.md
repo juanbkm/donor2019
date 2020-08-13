@@ -24,7 +24,7 @@ completion: "June 2020"
 categories: [ "Poverty​" ]
 filter:
   - "dr-poverty"
-weight: 2
+weight: 3
 draft: false
 ---
 ### Partnership Results

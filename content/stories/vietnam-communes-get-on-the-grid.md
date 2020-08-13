@@ -24,7 +24,7 @@ completion: "May 2018"
 categories: [ "Climate change" ]
 filter:
   - "dr-climate"
-weight: 15
+weight: 19
 draft: false
 ---
 
@@ -58,7 +58,7 @@ In addition, the project had strong gender and ethnic minority components. These
 
 Household electrification in project targeted areas increased from 83.5% at appraisal to 96.8% at project completion. Because of electrification, economic activities increased among the households in the communes. Households consumed about 6 gigawatt-hour of electricity per year for income generating activities. This reduced the poverty rate in the project districts by 50% in 2017.
 
-* **Mini-hydro power plants developed**. The project successfully constructed five MHPs with total capacity of 32.5 megawatts (MW), which generate 124.4 gigawatt-hour (GWh) of renewable energy and abate 70.5 thousand tons of greenhouse gas emission per annum. From this, electricity was provided to 8,767 households in 36 villages, including to 827 households that gained access to electricity for the first time.
+* **Mini-hydropower plants developed**. The project successfully constructed five MHPs with total capacity of 32.5 megawatts (MW), which generate 124.4 gigawatt-hour (GWh) of renewable energy and abate 70.5 thousand tons of greenhouse gas emission per annum. From this, electricity was provided to 8,767 households in 36 villages, including to 827 households that gained access to electricity for the first time.
 
 * **Expanded and rehabilitated of existing networks**. The networks were rehabilitated and allowed more than 3,000 villages—or 300,000 households—to have reliable and affordable electricity.
 

@@ -1,7 +1,7 @@
 ---
 title: "Broadband Satellite for Remote Communities"
 date: 2020-08-07T08:59:58+08:00
-image: images/stories/broadband-satellite-for-remote-communities.jpg
+image: images/stories/adb-internet-phi.jpg
 image_caption: "**Internet for All.** School kids in far-flung areas are now able to access the internet through the Kacific1 satellite, built with financing from ADB and its Leading Asia's Private Infrastructure Fund."
 author: Admin
 description: "This is meta description"
@@ -26,7 +26,7 @@ categories: [ "Poverty, Regional Cooperation​" ]
 filter:
   - "dr-poverty"
   - "dr-regional"
-weight: 18
+weight: 9
 draft: false
 ---
 ### Partnership Results
@@ -62,6 +62,8 @@ Ground satellite antennas or teleport gateways connect the Kacific1 to land-base
 ### Results
 
 On 16 December 2019, Kacific1 was launched by SpaceX’s Falcon 9 rocket from Cape Canaveral, USA and has been fully operational since March 2020. Built to last an estimated 15 years, Kacific1 is now on its geostationary orbit, and streaming high-speed broadband internet to communities in Indonesia, the Philippines, and the Pacific island nations of Fiji, Kiribati, Niue, Papua New Guinea, Solomon Islands, Timor-Leste, Tonga, Tuvalu, and Vanuatu.
+
+{{< dr-artimage src="images/stories/broadband-satellite-for-remote-communities.jpg" align="" alt="" caption="Kacific1, launched on 16 December 2019 by SpaceX’s Falcon 9 rocket from Cape Canaveral, USA, is now streaming high-speed broadband internet to remote and fringe communities in Southeast Asia and the Pacific island nations. [Photo: [Kacific](https://kacific.com/)]" >}}
 
 ADB’s Jackie B. Surtani said, “Satellite internet services, like those that will be provided by Kacific1, are very effective in reaching the last mile of internet access, connecting remote areas that would otherwise remain isolated and lacking crucial services that can improve livelihoods and incomes.” Surtani is Infrastructure Finance Division Director for Southeast Asia, East Asia, and the Pacific at ADB's Private Sector Operations Department.
 

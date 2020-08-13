@@ -19,7 +19,7 @@
   <div class="col-md-7 offset-md-1">
     {{ range where $tf ".type" "single" }}
     <div id="{{ .id }}" class="dr-mod-partner dr-sptf">
-    <h5>{{ .name }} ({{ .year }})</h5>
+    <h5><a href="{{ .url }}" target="_blank">{{ .name }} ({{ .year }})</a></h5>
 
     
     <div class="dr-stat">

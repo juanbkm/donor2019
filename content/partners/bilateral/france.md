@@ -7,7 +7,7 @@ project_specific_cofinancing_2019:
   - item: "**$114.5 million** loan for 2 projects" 
 trust_funds_contribution: "$33.2 million"
 trust_funds_contribution_2019:
-  - item: "**€1 million** $1.1 million for Cooperation Fund for Project Preparation in the Greater Mekong Subregion and Other Specific Asian countries" 
+  - item: "**€1 million** $1.1 million to Cooperation Fund for Project Preparation in the Greater Mekong Subregion and Other Specific Asian countries" 
 partner_logo:
 draft: false
 ---

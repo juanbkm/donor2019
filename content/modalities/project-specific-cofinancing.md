@@ -57,7 +57,7 @@ projects:
 weight: 1
 draft: false
 ---
-{{< dr-global-funds src="./images/modalities/psc.jpg" caption="[Global Funds](./modalities/global-funds). ADB participates in and accesses funds from Global Funds where the International Bank for Reconstruction and Development acts as Trustee. These funds are designed for particular development projects or technical assistance." >}}
+{{< dr-global-funds src="./images/modalities/psc.jpg" title="Global Funds" titlelink="./modalities/global-funds" caption="ADB participates in and accesses funds from Global Funds where the International Bank for Reconstruction and Development acts as Trustee. These funds are designed for particular development projects or technical assistance." >}}
 
 Project-specific cofinancing (PSC) is using the financing partners' funds for individual development projects, programs, or technical assistance. In 2019, ADB mobilized $4.71 billion in loans and grants from partners, comprising 96% of total sovereign cofinancing commitments. This was divided among 54 individual projects.
 

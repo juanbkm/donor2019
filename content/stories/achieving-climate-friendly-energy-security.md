@@ -2,7 +2,7 @@
 title: "Achieving Climate-Friendly Energy Security"
 date: 2020-07-07T00:45:25+08:00
 image: images/stories/achieving-climate-friendly-energy-security.jpg
-image_caption: "**Environment-friendly power sources.** Nepal's rich water resources have great potential to help the country achieve energy security. (Photo: Sundar1 / [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0))"
+image_caption: "**Environment-friendly Power Sources.** Nepal's rich water resources have great potential to help the country achieve energy security. (Photo source: Sundar1 / [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0))"
 author: Admin
 description: "This is meta description"
 country: Nepal
@@ -24,7 +24,7 @@ categories: [ "​Climate Change, Gender " ]
 filter:
   - "dr-climate"
   - "dr-gender"
-weight: 17
+weight: 8
 draft: false
 ---
 
@@ -59,4 +59,4 @@ The project is consistent with ADB's Strategy 2030 where ADB works to expand and
 
 ### Expected Results
 
-The project will contribute to reducing inequalities and lifting the quality of the lives of people in the rural communities served by the power plant. The constructed 216 MW hydropower plant and installation of 1.2 km of 220 kilovolt transmission lines are expected to generate 1,282 GWh of clean electricity annually to be dispatched to the national grid. Local employment is also expected to rise from the construction of the project, create economic opportunities for women, and eventually, expand the local economy. 
+The project will contribute to reducing inequalities and lifting the quality of the lives of people in the rural communities served by the power plant. The constructed 216 MW hydropower plant and installation of 1.2 km of 220 kilovolt transmission lines are expected to generate 1,282 GWh of clean electricity annually to be dispatched to the national grid. Local employment is also expected to rise from the construction of the project, create economic opportunities for women, and eventually, expand the local economy.

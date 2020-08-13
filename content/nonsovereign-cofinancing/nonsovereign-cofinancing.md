@@ -15,6 +15,8 @@ Nonsovereign cofinancing amplifies the impact of ADB’s private sector operatio
 
 In 2019, cofinancing for ADB’s nonsovereign operations amounted to $6.97 billion.<sup>[1](./nonsovereign-cofinancing/#1)</sup>  Of this, $6.78 billion (97%) came from commercial cofinancing partners, and the rest from official sources.<sup>[2](./nonsovereign-cofinancing/#2)</sup> Of the 38 nonsovereign projects in 2019, 19 had cofinancing from partners.
 
+{{< dr-sf-nsov-projects >}}
+
 ADB’s Strategy 2030 sets a cofinancing target ratio<sup>[3](./nonsovereign-cofinancing/#3)</sup> of 2.5, which translates to $2.50 of cofinancing for every $1.00 of ordinary capital resources (OCR) deployed for private sector operations. In 2019, the cofinancing ratio was 1.5; every $1.00 of ADB’s own funds was matched by $1.50 cofinancing.  Steady progress toward this goal is underway as ADB continues to work on projects with the private sector.
 
 {{< dr-sf-chart-nso-cofin >}}

@@ -51,7 +51,7 @@ tf:
       - partner: Switzerland ($4.6 million)
    
     description: |
-      In 2019, CDIATF received contributions of $2.2 million (€2 million) from Germany and $565,686 from Switzerland (savings transferred from the closed technical assistance, [Regional: Managing Cities in Asia](https://www.adb.org/projects/39185-012/main)). 
+      In 2019, CDIATF received contributions of $2.2 million (€2 million) from Germany and $565,686 from Switzerland (savings transferred from the closed technical assistance, [Regional: Managing Cities in Asia](https://www.adb.org/projects/39185-012/main)). CDIATF management has approved 5 applications for project preparation studies this year worth $2.6 million.
       
       CDIATF assists secondary cities in preparing sustainable and bankable infrastructure projects; linking them with funding sources; and strengthening their capacities to develop and implement high priority investments.
   - name: Urban Climate Change Resilience Trust Fund (UCCRTF)
@@ -93,7 +93,7 @@ In April 2019, ADB approved the establishment of a fourth trust fund under the U
 
 Established in 2009, the UFPF supports the development of Asia’s cities while addressing pervasive urban issues such as pollution, uneven growth, and urban poverty.  
 
-In the next decade, the UFPF will be guided by ADB’s new Livable Cities Operational Priority Plan 2019–2024, which is in line with ADB 2030’s operational priority on [Making Cities More Livable](./strategy-2030/livable-cities/). The Livable Cities Operational Priority Plan is anchored on three main operational priorities: 
+In the next decade, the UFPF will be guided by ADB’s new [Livable Cities Operational Priority Plan 2019–2024](https://www.adb.org/documents/strategy-2030-op4-livable-cities), which is in line with ADB 2030’s operational priority on [Making Cities More Livable](./strategy-2030/livable-cities/). The Livable Cities Operational Priority Plan is anchored on three main operational priorities: 
 
 * improve the coverage, quality, efficiency, and reliability of services in urban areas 
 * strengthen urban planning and financial sustainability of cities 

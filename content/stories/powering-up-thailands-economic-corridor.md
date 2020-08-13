@@ -2,15 +2,14 @@
 title: "Powering Up Thailand's Economic Corridor"
 date: 2020-07-07T22:32:35+08:00
 image: images/stories/powering-up-thailands-economic-corridor.jpg
-image_caption: "**Energizing Thailand's Economy.** Sustainable energy sources power Thailand's economy and its cities, similar to one in the photo. With an independent power plant, the country's Easter Economic Corridor is on course to become a hub of trade and investment."
+image_caption: "**Energizing Thailand's Economy.** With an independent power plant, the country's Eastern Economic Corridor is on course to become a hub of trade and investment in the region."
 image_thumb: images/stories/
 author: Admin
 description: "This is meta description"
 country: Thailand
-summary: "An ADB-supported private investment project─ cofinanced with the Leading Asia's Private Infrastructure Fund, Japan Bank for International Cooperation, commercial lenders, and others&mdash;will help Thailand advance to its desired high-income status by 2032 by establishing an independent power plant in its Easter Economic Corridor. With this power plant, the economic corridor will become a hub of trade and investment and the modern gateway to the region."
+summary: "An ADB-supported private investment project─ cofinanced with the Leading Asia's Private Infrastructure Fund, Japan Bank for International Cooperation, commercial lenders, and others&mdash;will help Thailand advance to its desired high-income status by 2032 by establishing an independent power plant in its Eastern Economic Corridor. With this power plant, the economic corridor will become a hub of trade and investment and the modern gateway to the region."
 project_title: "Eastern Economic Corridor Independent Power Project "
 project_url: https://www.adb.org/projects/53239-001/main#project-pds
-cost: "Confidential"
 fund_source: 
   - name: "ADB"
     amount: "$50 million"
@@ -27,7 +26,7 @@ fin_partners:
     amount: ""
 approval: "24 October 2019"
 completion: ""
-cost: "confidential"
+cost: "Confidential"
 categories: [ "​Climate Change, Energy" ]
 filter:
   - "dr-climate"
@@ -59,4 +58,4 @@ The project aligns with ADB’s [Strategy 2030](https://www.adb.org/documents/st
 
 ### Expected Results
 
-The project, once completed, will help improve Thailand’s power system stability and reliability. The output, including the construction and commissioning of a combined cycle natural gas power plant, will deliver a stable and reliable power to the EEC area by annually delivering at least 16,000 gigawatt-hours of electricity. Furthermore, the plant will avoid at least one million tons of carbon dioxide equivalent emissions yearly. 
+The project, once completed, will help improve Thailand’s power system stability and reliability. The output, including the construction and commissioning of a combined cycle natural gas power plant, will deliver a stable and reliable power to the EEC area by annually delivering at least 16,000 gigawatt-hours of electricity. Furthermore, the plant will avoid at least one million tons of carbon dioxide equivalent emissions yearly.

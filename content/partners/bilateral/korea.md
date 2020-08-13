@@ -8,7 +8,7 @@ project_specific_cofinancing_2019:
   - item: "**$1 million** grant for 3 technical assistances"
 trust_funds_contribution: "$138.8 million"
 trust_funds_contribution_2019:
-  - item: "**W19.8 billion** $16.6 million for the Republic of Korea e-Asia and Knowledge Partnership Fund" 
+  - item: "**W19.8 billion** $16.6 million to Republic of Korea e-Asia and Knowledge Partnership Fund" 
 partner_logo:
 draft: false
 ---

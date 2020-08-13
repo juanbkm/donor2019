@@ -7759,18 +7759,18 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 #dr-modalities #dr-psc {
   padding: 80px 20px; }
   #dr-modalities #dr-psc h3 a {
-    color: #eb6440; }
+    color: #007db7; }
 
 #dr-modalities #dr-tf {
   padding: 80px 20px; }
   #dr-modalities #dr-tf h3 a {
-    color: #98cc52; }
+    color: #007db7; }
 
 #dr-modalities #dr-pfa {
   background-color: #f2f2f2;
   padding: 80px 20px; }
   #dr-modalities #dr-pfa h3 a {
-    color: #555; }
+    color: #007db7; }
 
 #dr-modalities #dr-sptf h3:first-child {
   margin-top: 0; }
@@ -7906,6 +7906,12 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   height: auto;
   margin: 0 40px 40px 0; }
 
+#dr-modalities .dr-mod-main-image-right {
+  float: right;
+  width: 50%;
+  height: auto;
+  margin: 0 0 40px 40px; }
+
 .dr-fpf-intro h3 {
   clear: both;
   font-size: 1.5rem;
@@ -7949,13 +7955,29 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   .dr-tf-nav img {
     margin-bottom: 10px; }
   .dr-tf-nav h5 a {
-    color: #555; }
+    color: #007db7; }
 
-.dr-box-nav {
+#dr-modalities .dr-article-body .dr-box-nav {
   background-color: #f2f2f2;
   margin: 0 0 40px 0;
   padding: 20px; }
-  .dr-box-nav p {
+  #dr-modalities .dr-article-body .dr-box-nav h4 {
+    clear: both;
+    font-size: 1.8rem;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: #556773;
+    margin-top: 0;
+    margin-bottom: 20px; }
+    #dr-modalities .dr-article-body .dr-box-nav h4:after {
+      content: '';
+      display: block;
+      width: auto;
+      border-top: none;
+      margin: 0; }
+  #dr-modalities .dr-article-body .dr-box-nav p {
     font-size: 1.2rem; }
 
 .dr-mod-proj {
@@ -8276,10 +8298,10 @@ ul.dr-fn li {
   position: relative;
   width: 100%;
   height: 60px;
-  background: #dddddd;
   display: flex;
   align-items: center; }
   .nsov-projs-chart-nav li {
+    background: #dddddd;
     margin: 0;
     padding: 0;
     flex: auto;
@@ -8289,7 +8311,8 @@ ul.dr-fn li {
     align-items: center;
     border-right: 0.5vw solid #fff; }
     .nsov-projs-chart-nav li:last-child {
-      border-right: none; }
+      border-right: none;
+      background-color: transparent; }
   .nsov-projs-chart-nav a {
     display: block;
     height: 60px;
@@ -8297,6 +8320,13 @@ ul.dr-fn li {
     color: transparent; }
     .nsov-projs-chart-nav a.active {
       background-color: #00B6C9; }
+  .nsov-projs-chart-nav li:nth-of-type(2) a.active {
+    background-color: #db5c3a; }
+  .nsov-projs-chart-nav li:last-of-type a {
+    color: #555;
+    font-weight: 700;
+    text-align: center;
+    line-height: 60px; }
 
 .nsov-projs-chart .proj-total {
   font-size: 1.4rem;
@@ -8307,6 +8337,12 @@ ul.dr-fn li {
     display: block;
     font-size: .8em;
     font-weight: 700; }
+
+.nsov-projs-chart #ofcof .proj-total {
+  margin-right: 20%;
+  text-align: right; }
+  .nsov-projs-chart #ofcof .proj-total strong {
+    color: #db5c3a; }
 
 .nsov-projs-chart .ratio-bar {
   display: flex;
@@ -8350,16 +8386,28 @@ ul.dr-fn li {
   padding: 10px 30px 10px 10px;
   margin: 0;
   text-decoration: none;
-  display: block;
+  display: flex;
   cursor: pointer;
   position: relative; }
+  .nsov-projs-chart .nsov-projects .ac > .ac-q span {
+    color: #555;
+    flex: auto;
+    text-align: right; }
 
-.nsov-projs-chart .nsov-projects table th, .nsov-projs-chart .nsov-projects table td {
-  font-size: .8rem;
-  text-align: left; }
-
-.nsov-projs-chart .nsov-projects table td:last-of-type {
-  text-align: left; }
+.nsov-projs-chart .nsov-projects table {
+  margin: 0 auto;
+  width: 95%; }
+  .nsov-projs-chart .nsov-projects table th, .nsov-projs-chart .nsov-projects table td {
+    font-size: .8rem;
+    text-align: left; }
+  .nsov-projs-chart .nsov-projects table td:last-of-type,
+  .nsov-projs-chart .nsov-projects table th:last-of-type {
+    text-align: right; }
+  .nsov-projs-chart .nsov-projects table th {
+    border-bottom: 3px solid #000; }
+  .nsov-projs-chart .nsov-projects table th span {
+    display: block;
+    font-size: .6rem; }
 
 /*-----------------------------------------------------------------------------------
 	shortcodes

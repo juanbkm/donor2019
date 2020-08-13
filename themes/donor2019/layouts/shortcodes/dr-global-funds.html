@@ -3,7 +3,10 @@
     <div class="col-md-6">
         <img src="{{.Get `src` }}" alt="{{.Get `alt` }}" data-animate="fadeIn" data-delay="200">
     </div>
-    <div class="col-md-6 d-flex align-items-center">
+    <div class="col-md-6 align-items-center">
+        
+        <h4><a href="{{ .Get `titlelink` }}">{{ .Get `title` }}</a></h4>
+        
         {{ with .Get `caption` }}
         <p class="">{{ . | markdownify }}</p>
         {{ end }}

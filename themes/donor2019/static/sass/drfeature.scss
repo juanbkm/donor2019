@@ -385,10 +385,10 @@ ul.dr-fn {
   position: relative;
   width: 100%;
   height: 60px;
-  background: $adb-gray-three;
   display: flex;
   align-items: center;
   li {
+    background: $adb-gray-three;
     margin: 0;
     padding: 0; 
     flex: auto;
@@ -399,6 +399,7 @@ ul.dr-fn {
     border-right: 0.5vw solid #fff;
     &:last-child {
       border-right: none;
+      background-color: transparent;
     }
   }
   a {
@@ -409,6 +410,15 @@ ul.dr-fn {
     &.active {
       background-color: $adb-main-blue-eleven;
     }
+  }
+  li:nth-of-type(2) a.active {
+    background-color: #db5c3a;
+  }
+  li:last-of-type a {
+    color: $body-color;
+    font-weight: 700;
+    text-align: center;
+    line-height: 60px;
   }
 }
 
@@ -422,6 +432,13 @@ ul.dr-fn {
       display: block;
       font-size: .8em;
       font-weight: 700;
+    }
+  }
+  #ofcof .proj-total {
+    margin-right: 20%;
+    text-align: right;
+    strong {
+      color: #db5c3a;
     }
   }
   .ratio-bar {
@@ -467,6 +484,7 @@ ul.dr-fn {
       border: none;
       background-color: #f4f4f4;
       box-sizing: border-box;
+
     }
     .ac > .ac-q {
       font-weight: 200;
@@ -474,17 +492,32 @@ ul.dr-fn {
       padding: 10px 30px 10px 10px;
       margin: 0;
       text-decoration: none;
-      display: block;
+      display: flex;
       cursor: pointer;
       position: relative;
+      span {
+        color: $body-color;
+        flex: auto;
+        text-align: right;
+      }
     }
     table {
+      margin: 0 auto;
+      width: 95%;
       th, td {
         font-size: .8rem;
         text-align: left;
       }
-      td:last-of-type {
-        text-align: left;
+      td:last-of-type,
+      th:last-of-type {
+        text-align: right;
+      }
+      th {
+        border-bottom: 3px solid #000;
+      }
+      th span {
+        display: block;
+        font-size: .6rem;
       }
     }
   }

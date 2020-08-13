@@ -23,7 +23,7 @@ completion: "August 2017"
 categories: [ "Regional Cooperation and Integration​" ]
 filter:
   - "dr-regional"
-weight: 13
+weight: 15
 draft: false
 ---
 ### Partnership Results
@@ -65,7 +65,7 @@ The new road has made land travel faster, safer, and cheaper.
 
 Travel time from Ayni to the Uzbekistan border has been reduced from 3.5 hours to 1.4 hours for cars and taxis and 1.8 hours for buses and trucks.  
 
-Shops, street vendors, and a small hotel have sprouted along the rehabilitated road. The roadside has been bustling with activity as more tourists visit. Taxi drivers and small businesses have more customers. The new road has made land travel faster, safer, and cheaper.
+Shops, street vendors, and a small hotel have sprouted along the rehabilitated road. The roadside has been bustling with activity as more tourists visit. Taxi drivers and small businesses have more customers.
 
 “I used to spend 7 to 8 hours on the road between Dushanbe and Panjakent,” recalled Hikmat Sanginov, 36, a taxi driver of 10 years. “Now, I can make the trip in 4 hours thanks to the improved road.”
 

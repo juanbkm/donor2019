@@ -68,20 +68,21 @@
   #dr-psc {
     padding: 80px 20px;
     h3 a {
-      color: $adb-accent-orange;
+      //color: $adb-accent-orange;
+      color: $adb-main-blue-one;
     }
   }
   #dr-tf {
     padding: 80px 20px;
     h3 a {
-      color: $adb-accent-green;
+      color: $adb-main-blue-one;
     }
   }
   #dr-pfa {
     background-color: $adb-gray-four;
     padding: 80px 20px;
     h3 a {
-      color: $body-color;
+      color: $adb-main-blue-one;
     }
   }
   #dr-sptf {
@@ -244,6 +245,12 @@
     height: auto;
     margin: 0 40px 40px 0;
   }
+  .dr-mod-main-image-right {
+    float: right;
+    width: 50%;
+    height: auto;
+    margin: 0 0 40px 40px;
+  }
 }
 
 .dr-fpf-intro {
@@ -299,14 +306,32 @@
     margin-bottom: 10px;
   }
   h5 a {
-    color: $body-color;
+    color: $adb-main-blue-one;
   }
 }
 
-.dr-box-nav {
+#dr-modalities .dr-article-body .dr-box-nav {
   background-color: $adb-gray-four;
   margin: 0 0 40px 0;
   padding: 20px;
+  h4 {
+    clear: both;
+    font-size: 1.8rem;
+    text-align: left;
+    text-transform: capitalize;
+    font-weight: 700;
+    letter-spacing: 0;
+    color: #556773;
+    margin-top: 0;
+    margin-bottom: 20px;
+    &:after {
+      content: '';
+      display: block;
+      width: auto;
+      border-top: none;
+      margin: 0;
+    }
+  }
   p {
     font-size: 1.2rem;
   }

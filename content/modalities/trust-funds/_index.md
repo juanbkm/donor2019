@@ -40,7 +40,7 @@ stories:
     project_url: https://www.adb.org/projects/53237-002/main
     cost: "$1.25 million"
     fin_partners:
-     - name: "The Netherlands Trust Fund under the Water Financing Partnership Facility"
+     - name: "Netherlands Trust Fund under the Water Financing Partnership Facility"
        amount: "$750,000"
     approval: "December 2019"
     completion: "November 2020"

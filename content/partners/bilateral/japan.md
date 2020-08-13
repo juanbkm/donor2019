@@ -9,8 +9,8 @@ trust_funds_contribution: "$1.86 billion"
 trust_funds_contribution_2019:
   - item: "**$1.8 million** Domestic Resource Mobilization Trust Fund" 
   - item: "**$15.2 million** High-Level Technology Fund "
-  - item: "**Y1 billion** $9.3 million for the Japan Fund for the Joint Crediting Mechanism "
-  - item: "**Y1.94 billion** $17.8 million for the Japan Fund for Poverty Reduction "
+  - item: "**Y1 billion** $9.3 million to Japan Fund for the Joint Crediting Mechanism "
+  - item: "**Y1.94 billion** $17.8 million to Japan Fund for Poverty Reduction "
   - item: "**$4.3 million** Japan Scholarship Program "
   - item: "**$109 million** Leading Asia’s Private Infrastructure Fund "
 partner_logo:

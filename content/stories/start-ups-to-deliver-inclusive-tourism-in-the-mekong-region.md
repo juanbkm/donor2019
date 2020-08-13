@@ -19,7 +19,7 @@ completion: "October 2018"
 categories: [ "​Regional Cooperation and Integration​" ]
 filter:
   - "dr-regional"
-weight: 9
+weight: 11
 draft: false
 ---
 

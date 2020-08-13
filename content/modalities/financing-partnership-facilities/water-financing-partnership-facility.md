@@ -34,12 +34,12 @@ tf:
     contributor:
       - partner: Australia ($24.4 million) 
       - partner: Austria ($8.7 million) 
-      - partner: Norway* ($4.6 million)
+      - partner: Norway ($4.6 million)
       - partner: Spain ($9.5 million; net of $500,000 for water expert)
       - partner: Switzerland ($5.1 million)
   
     description: |
-      The MDTF received a contribution of $700,000 (A$1 million) from Australia in 2019.
+      The MDTF received a contribution of $709,700 (A$1 million) from Australia in 2019.
 
       The MDTF prioritizes activities designed to result in significantly more people with access to safe drinking water and improved sanitation, higher productivity and efficiency of irrigation and drainage services, more people with reduced risk of flooding; sustainable  management of water resources; increased knowledge and capacity; and improved sector governance. Norway was a contributor to the MDTF from 2007 to 2017.
   - name: Netherlands Trust Fund (NTF)
