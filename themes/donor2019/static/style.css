@@ -6994,7 +6994,9 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 
 .dr-pre-head {
   font-size: 16px;
-  font-weight: 200;
+  color: #dddddd;
+  letter-spacing: 1px;
+  font-weight: 700;
   margin: 0;
   text-transform: uppercase; }
 
@@ -7214,6 +7216,67 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 #dr-res-gf em {
   font-size: .8rem;
   display: block; }
+
+/* ----------------------------------------------------------------
+	DR What
+-----------------------------------------------------------------*/
+#dr-nsov .breakdown-bar a {
+  display: flex !important; }
+  #dr-nsov .breakdown-bar a span {
+    border-right: 0.5vw solid #fff;
+    flex: auto;
+    height: 130px;
+    margin: 0;
+    padding: 0; }
+    #dr-nsov .breakdown-bar a span:last-of-type {
+      display: none; }
+
+#dr-nsov .breakdown-bar a:hover span {
+  background-color: #fdb715; }
+  #dr-nsov .breakdown-bar a:hover span:nth-of-type(2) {
+    background-color: #f4aa3c;
+    border-right: none; }
+
+#dr-nsov .dr-qt em {
+  color: #fdb715; }
+
+#dr-nsov .chart li a:hover,
+#dr-nsov .chart li a:focus,
+#dr-nsov .chart li a.active,
+#dr-nsov .openchart li a:hover,
+#dr-nsov .openchart li a:focus,
+#dr-nsov .openchart li a.active {
+  background-color: #fdb715; }
+
+#dr-nsov .nav-link.active, #dr-nsov .show > .nav-link {
+  color: #fdb715; }
+
+#dr-nsov .dr-cofin-type {
+  color: #fdb715; }
+
+#dr-nsov .dr-typeof {
+  float: left; }
+
+#dr-nsov .dr-amount {
+  font-size: 1.4rem !important;
+  font-weight: 200;
+  line-height: 1;
+  display: block; }
+
+#dr-nsov .dr-total {
+  padding-top: 40px;
+  clear: both;
+  font-size: 2rem !important;
+  font-weight: 200;
+  line-height: 1; }
+  #dr-nsov .dr-total strong {
+    display: block;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 700; }
+
+#dr-nsov #nonsovereign {
+  text-align: right; }
 
 #dr-partners #content .dr-why-partner {
   display: grid;
@@ -7581,7 +7644,7 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   color: #556773;
   margin-left: 50px;
   margin-bottom: 5px; }
-  .dr-lists-nav li:nth-child(4) {
+  .dr-lists-nav li:nth-child(3) {
     margin-bottom: 20px; }
   .dr-lists-nav li a {
     font-weight: 700; }
@@ -8225,6 +8288,44 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   font-weight: 700;
   color: #eb6440; }
 
+.dr-chart-side .dr-pre-head {
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 0;
+  text-transform: uppercase; }
+
+.dr-chart-side .dr-fund-total {
+  color: #dddddd;
+  font-size: 72px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
+  text-align: left;
+  letter-spacing: 0;
+  line-height: .8;
+  margin: 0;
+  padding: 0;
+  display: inline-block; }
+  .dr-chart-side .dr-fund-total em {
+    font-size: 28px;
+    font-weight: 200;
+    font-style: normal;
+    vertical-align: top;
+    display: inline-block; }
+  .dr-chart-side .dr-fund-total strong {
+    display: block;
+    font-weight: 700;
+    font-size: 34px;
+    padding-top: 5px;
+    text-transform: lowercase;
+    letter-spacing: 0; }
+  .dr-chart-side .dr-fund-total:after {
+    content: '';
+    display: none;
+    width: 100px;
+    border-top: 1px solid #c2ccd2;
+    margin: 20px auto 80px auto; }
+
 ul.dr-fn li {
   list-style: none; }
 
@@ -8299,7 +8400,13 @@ ul.dr-fn li {
   width: 100%;
   height: 60px;
   display: flex;
-  align-items: center; }
+  align-items: center;
+  /*li:last-of-type a {
+    color: $body-color;
+    font-weight: 700;
+    text-align: center;
+    line-height: 60px;
+  }*/ }
   .nsov-projs-chart-nav li {
     background: #dddddd;
     margin: 0;
@@ -8311,8 +8418,7 @@ ul.dr-fn li {
     align-items: center;
     border-right: 0.5vw solid #fff; }
     .nsov-projs-chart-nav li:last-child {
-      border-right: none;
-      background-color: transparent; }
+      border-right: none; }
   .nsov-projs-chart-nav a {
     display: block;
     height: 60px;
@@ -8322,11 +8428,6 @@ ul.dr-fn li {
       background-color: #00B6C9; }
   .nsov-projs-chart-nav li:nth-of-type(2) a.active {
     background-color: #db5c3a; }
-  .nsov-projs-chart-nav li:last-of-type a {
-    color: #555;
-    font-weight: 700;
-    text-align: center;
-    line-height: 60px; }
 
 .nsov-projs-chart .proj-total {
   font-size: 1.4rem;
@@ -8339,7 +8440,7 @@ ul.dr-fn li {
     font-weight: 700; }
 
 .nsov-projs-chart #ofcof .proj-total {
-  margin-right: 20%;
+  margin-right: 0;
   text-align: right; }
   .nsov-projs-chart #ofcof .proj-total strong {
     color: #db5c3a; }

@@ -187,6 +187,8 @@
   color: transparent;
 }
 
+
+
 .chart-content {
   position: relative;
   width: 100%;
@@ -223,7 +225,9 @@
 }
 .dr-pre-head {
   font-size: 16px;
-  font-weight: 200;
+  color: $adb-gray-three;
+  letter-spacing: 1px;
+  font-weight: 700;
   margin: 0;
   text-transform: uppercase;
 }
@@ -516,5 +520,76 @@
   em {
     font-size: .8rem;
     display: block;
+  }
+}
+
+/* ----------------------------------------------------------------
+	DR What
+-----------------------------------------------------------------*/
+#dr-nsov {
+  
+.breakdown-bar a {
+  display: flex !important;
+    span {
+      border-right: 0.5vw solid #fff;
+      flex: auto;
+      height: 130px;
+      margin: 0;
+      padding: 0;
+      &:last-of-type {
+        display: none;
+      }
+      
+    }
+  }
+  .breakdown-bar a:hover span {
+    background-color: $adb-accent-orange-three;
+    &:nth-of-type(2) {
+      background-color: #f4aa3c;
+      border-right: none;
+    }
+  }
+  .dr-qt em {
+    color: $adb-accent-orange-three;
+  }
+  .chart li a:hover,
+  .chart li a:focus,
+  .chart li a.active,
+  .openchart li a:hover,
+  .openchart li a:focus,
+  .openchart li a.active {
+    background-color: $adb-accent-orange-three;
+  }
+  .nav-link.active, .show > .nav-link {
+    color: $adb-accent-orange-three;
+  }
+  .dr-cofin-type {
+    color: $adb-accent-orange-three;
+  }
+  .dr-typeof {
+    float: left;
+  }
+  .dr-amount {
+    font-size: 1.4rem !important;
+    font-weight: 200;
+    line-height: 1;
+    display: block;
+  }
+  .dr-total {
+    padding-top: 40px;
+    clear: both;
+    font-size: 2rem !important;
+    font-weight: 200;
+    line-height: 1;
+    strong {
+      display: block;
+      font-size: 1rem;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+  }
+
+  #nonsovereign {
+    text-align: right;
   }
 }

@@ -26,7 +26,7 @@ fin_partners:
     amount: ""
 approval: "24 October 2019"
 completion: ""
-cost: "Confidential"
+cost: "Not disclosed"
 categories: [ "​Climate Change, Energy" ]
 filter:
   - "dr-climate"

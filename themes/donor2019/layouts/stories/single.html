@@ -48,6 +48,7 @@
                                 {{ range .Params.fin_partners}}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}
                             </ul>
                         </li>
+                        {{ with .Params.other_partners}}{{ range . }}<li>{{ .name }} <strong>{{ .amount }}</strong></li>{{ end }}{{ end }}
                     </ul>
                     
                     <h4>Approval Date</h4>

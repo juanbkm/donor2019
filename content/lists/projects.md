@@ -4,7 +4,7 @@ date: 2020-04-18T00:24:25+08:00
 pretitle: "Sovereign Cofinancing for"
 date_range: "2019"
 units: "$ million"
-pdf: dr2019-resource-cofin-for-psc.pdf
+pdf: pr2019-psc.pdf
 pagetype: list
 weight: 1
 draft: false
@@ -432,11 +432,11 @@ draft: false
     <td>HLTF</td>
   </tr>
   <tr>
-    <td>National Solar Park <sup>b</span></td>
+    <td>National Solar Park</td>
     <td>7.64</td>
     <td>3.00</td>
     <td>11.00</td>
-    <td>Strategic Climate Fund (CIF-SCF) <span class="s6">b</span></td>
+    <td>Strategic Climate Fund (CIF-SCF) <sup>b</sup></td>
   </tr>
   <tr>
     <td>Third Rural Water Supply and Sanitation Services Sector Development Program</td>

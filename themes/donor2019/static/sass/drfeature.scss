@@ -287,6 +287,47 @@
       color: $adb-accent-orange;
     }
   }
+  .dr-pre-head {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin: 0;
+    text-transform: uppercase;
+  }
+  .dr-fund-total {
+    color: $adb-gray-three;
+    font-size: 72px;
+    font-family: $body-font;
+    font-weight: 700;
+    text-align: left;
+    letter-spacing: 0;
+    line-height: .8;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+    em {
+      font-size: 28px;
+      font-weight: 200;
+      font-style: normal;
+      vertical-align: top;
+      display: inline-block;
+    }
+    strong {
+      display: block;
+      font-weight: 700;
+      font-size: 34px;
+      padding-top: 5px;
+      text-transform: lowercase;
+      letter-spacing: 0;
+    }
+    &:after {
+      content: '';
+      display: none;
+      width: 100px;
+      border-top: 1px solid #c2ccd2;
+      margin: 20px auto 80px auto;
+    }
+  }
 }
 
 ul.dr-fn {
@@ -399,7 +440,7 @@ ul.dr-fn {
     border-right: 0.5vw solid #fff;
     &:last-child {
       border-right: none;
-      background-color: transparent;
+      //background-color: transparent;
     }
   }
   a {
@@ -414,12 +455,12 @@ ul.dr-fn {
   li:nth-of-type(2) a.active {
     background-color: #db5c3a;
   }
-  li:last-of-type a {
+  /*li:last-of-type a {
     color: $body-color;
     font-weight: 700;
     text-align: center;
     line-height: 60px;
-  }
+  }*/
 }
 
 .nsov-projs-chart {
@@ -435,7 +476,7 @@ ul.dr-fn {
     }
   }
   #ofcof .proj-total {
-    margin-right: 20%;
+    margin-right: 0;
     text-align: right;
     strong {
       color: #db5c3a;

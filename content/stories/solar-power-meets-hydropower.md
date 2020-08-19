@@ -9,7 +9,7 @@ country: Viet Nam
 summary: "Viet Nam’s Da Nhim-Ham Thuan-Da Mi Hydro Power Joint Stock Company installed floating solar panels over the reservoir of a hydropower plant to address the country’s increasing demand for electricity. A unique financing package from ADB, Canada, and Japan supported the project."
 project_title: "Viet Nam: Floating Solar Energy Project"
 project_url: "https://www.adb.org/projects/51327-001/main"
-cost: ""
+cost: "Not disclosed"
 fund_source: 
   - name: "ADB"
     amount: "$17.6 million"
