@@ -20,6 +20,7 @@ fin_partners:
   - name: "Sanitation Financing Partnership Trust Fund"
     amount: "$2 million"
 approval: "October 2014"
+signing: "11 Sep 2015"
 completion: "June 2020"
 categories: [ "Poverty​" ]
 filter:

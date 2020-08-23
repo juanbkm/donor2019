@@ -20,6 +20,7 @@ fin_partners:
   - name: "Clean Energy Fund under the Clean Energy Financing Partnership Facility"
     amount: "US$3 million"
 approval: "April 2014"
+signing: "30 November 2015"
 completion: "May 2018"
 categories: [ "Climate change" ]
 filter:

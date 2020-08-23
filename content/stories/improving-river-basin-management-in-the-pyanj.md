@@ -20,6 +20,7 @@ fin_partners:
   - name: "Japan Fund for Poverty Reduction"
     amount: "$5 million"
 approval: "September 2016"
+signing: "15 Nov 2016"
 completion: "June 2024"
 categories: [ "Climate Change​" ]
 filter:

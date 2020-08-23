@@ -7,6 +7,7 @@ footnote:
   - item: <sup><a name="2">2</a></sup> Cofinancing with multilateral agencies, and with bilateral agencies under ODA or sovereign recourse (https://www.adb.org/sites/default/files/institutional-document/31483/om-e1.pdf)
   - item: <sup><a name="3">3</a></sup> The cofinancing ratio is the ratio of long-term cofinancing to NSO borrowers divided by private sector operations ordinary capital resources (net of risk transfers). Long-term cofinancing to NSO borrowers includes concessional funding, B-loans, parallel cofinancing, bonds and equity, risk transfers of ADB exposure to independent counterparties, the uncovered portion of loans and bonds guaranteed by ADB, and financing by third parties of projects that are closed following an OPPP advisory mandate.
   - item: <sup><a name="4">4</a></sup> Risk transfers are contracts between ADB and third parties, where ADB’s counterparty agrees to assume a portion of the credit risk in a loan or guarantee provided by ADB in exchange for payment of a premium.
+  - item: <sup><a name="5">5</a></sup> An agreement between ADB and an Eligible Counterparty under which, further to a legally binding guarantee, insurance policy, risk participation agreement or other similar contract, the Eligible Counterparty assumes a portion or all of ADB’s risk of loss  occurring as a result of primary borrower default under one or more of ADB’s transactions.
 weight: 
 draft: false
 ---
@@ -17,15 +18,15 @@ In 2019, cofinancing for ADB’s nonsovereign operations amounted to $6.97 billi
 
 {{< dr-sf-nsov-projects >}}
 
-ADB’s Strategy 2030 sets a cofinancing target ratio<sup>[3](./nonsovereign-cofinancing/#3)</sup> of 2.5, which translates to $2.50 of cofinancing for every $1.00 of ordinary capital resources (OCR) deployed for private sector operations. In 2019, the cofinancing ratio was 1.5; every $1.00 of ADB’s own funds was matched by $1.50 cofinancing.  Steady progress toward this goal is underway as ADB continues to work on projects with the private sector.
+ADB’s Strategy 2030 sets a cofinancing target ratio<sup>[3](./nonsovereign-cofinancing/#3)</sup> of $2.50 for every $1.00 of ordinary capital resources (OCR) deployed for private sector operations. In 2019, the cofinancing ratio was 1.5; every $1.00 of ADB’s own funds was matched by $1.50 cofinancing.  Steady progress toward this goal is underway as ADB continues to work on projects with the private sector.
 
 {{< dr-sf-chart-nso-cofin >}}
 
 ### Cofinancing by Product
 
-With Strategy 2030 aiming for a 2.5 cofinancing ratio, cofinancing becomes more crucial to nonsovereign operations, and ADB relies on its full suite of financing products to meet the S2030 target and achieve scale. These cofinancing products—including lending instruments, credit enhancement products, risk transfers,blended finance structures, and funding platforms—can be categorized as short- or long-term.
+ADB relies on its full suite of financing products to meet the S2030 target and achieve scale. These cofinancing products—including lending instruments, credit enhancement products, risk transfers, blended finance structures, and parallel cofinancing—can be categorized as short- or long-term.
 
-Short-term cofinancing has a turn-around time of 140 days. Of the $6.97 billion nonsovereign cofinancing in 2019, about $3.56 billion came from short-term cofinancing (through the ADB’s trade finance program and supply chain finance program) while $3.41 billion were long-term cofinancing through a range of financial products. The long-term cofinancing was against ADB’s own nonsovereign financing commitment of $2.4 billion (net of risk transfers).<sup>[4](./nonsovereign-cofinancing/#4)</sup>
+Short-term cofinancing has tenor of less than one year. Of the $6.97 billion nonsovereign cofinancing in 2019, about $3.56 billion came from short-term cofinancing (through the ADB’s trade finance program and supply chain finance program) while $3.41 billion were long-term cofinancing through a range of financial products. The long-term cofinancing was against ADB’s own nonsovereign financing commitment of $2.4 billion (net of risk transfers).<sup>[4](./nonsovereign-cofinancing/#4)</sup>
 
 {{< dr-sf-chart-svl >}}
 
@@ -73,6 +74,6 @@ Moreover, ADB supports capital market issuances, particularly green and climate 
 
 **Risk Transfers.** Risk transfers are contracts between ADB and third parties such as insurance companies and banks, where ADB’s counterparty agrees to assume a portion of the credit risk in a loan or guarantee provided by ADB in exchange for payment of a premium. Risk transfers allow ADB to lend or guarantee amounts that are beyond ADB’s prudential limits or risk appetite without the need for the borrower to interact with additional lenders. In 2019, ADB transferred $861 million of its credit exposure on loans and guarantees to independent counterparties, translated into $649 million cofinancing with adjustments for counterparty risk on ADB's counter parties, and adjustments for effective cover.
 
-Among MDBs, ADB has pioneered the unfunded risk transfer product for private sector loans. Insurance companies provide a flexible and important distribution channel of private sector exposure, often at attractive terms, or where commercial banks lack credit appetite or local currency capabilities. Generally, however, ADB will prioritize funded distribution options to banks and investors, where markets are available, over unfunded risk transfers because of counterparty and documentation risks that are inherent to risk transfers.
+Among MDBs, ADB has pioneered the unfunded risk transfer<sup>[5](./nonsovereign-cofinancing/#5)</sup> product for private sector loans. Insurance companies provide a flexible and important distribution channel of private sector exposure, often at attractive terms, or where commercial banks lack credit appetite or local currency capabilities. Generally, however, ADB will prioritize funded distribution options to banks and investors, where markets are available, over unfunded risk transfers because of counterparty and documentation risks that are inherent to risk transfers.
 
 </div>

@@ -54,6 +54,11 @@
                     <h4>Approval Date</h4>
                     <p>{{ .Params.approval }}</p>
 
+                    {{ with .Params.signing }}
+                    <h4>Signing Date</h4>
+                    <p>{{ . }}</p>
+                    {{ end }}
+
                     {{ with .Params.completion }}
                     <h4>Completion</h4>
                     <p>{{ . }}</p>

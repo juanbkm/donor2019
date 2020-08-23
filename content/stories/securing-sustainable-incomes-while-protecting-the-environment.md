@@ -15,6 +15,7 @@ fin_partners:
   - name: "Japan Fund for Poverty Reduction"
     amount: "$2 million"
 approval: "November 2011"
+signing: "15 May 2012"
 completion: "October 2019"
 categories: [ "Poverty​" ]
 filter:

@@ -22,6 +22,7 @@ fin_partners:
   - name: "Australia"
     amount: "$19 million"
 approval: "December 2010"
+signing: "16 February 2016"
 completion: "May 2017"
 categories: [ "Governance" ]
 filter:

@@ -20,6 +20,7 @@ fin_partners:
   - name: "New Development Bank"
     amount: "$260 million"
 approval: "February 2019"
+signing: "01 March 2019"
 completion: "June 2023"
 categories: [ "Livable Cities" ]
 filter:

@@ -20,6 +20,7 @@ fin_partners:
   - name: "Women Entrepreneurs Finance Initiative (We-Fi)"
     amount: "$12.6 million"
 approval: "15 Feb 2016"
+signing: "06 July 2018"
 completion: "30 Sep 2020"
 categories: [ "Gender​" ]
 filter:

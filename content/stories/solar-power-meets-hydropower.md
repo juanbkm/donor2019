@@ -64,7 +64,7 @@ Progressive in its employment and community outreach practices, DHD incorporated
 
 ### Results
 
-The floating solar power facility is estimated to generate 63 gigawatt-hour (GWh) of renewable energy per year and lower carbon emissions by 30,302 tCO2e (tons of carbon dioxide equivalent) annually. Solar power is a welcome addition to Viet Nam’s energy mix and directly complements hydropower. The solar power plant generates electricity during daytime and the hydropower plant generates power during peak hours at night. During the dry season when reservoir water levels are low, the solar power plant can use the existing hydropower plant's transmission line.
+The floating solar power facility is estimated to generate 63 gigawatt-hour (GWh) of renewable energy per year and lower carbon emissions by 30,302 tCO<sub>2</sub>e (tons of carbon dioxide equivalent) annually. Solar power is a welcome addition to Viet Nam’s energy mix and directly complements hydropower. The solar power plant generates electricity during daytime and the hydropower plant generates power during peak hours at night. During the dry season when reservoir water levels are low, the solar power plant can use the existing hydropower plant's transmission line.
 
 The successful implementation of the project provides a strong demonstration impact, could generate momentum for subsequent renewable energy investments, and could catalyze long-term loans from international commercial banks and other development finance institutions.
 
