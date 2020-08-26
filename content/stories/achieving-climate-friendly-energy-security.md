@@ -19,6 +19,7 @@ fin_partners:
   - name: "Others"
     amount: "$584 million"
 approval: "12 April 2019"
+signing: "28 October 2019"
 completion: ""
 categories: [ "​Climate Change, Gender " ]
 filter:

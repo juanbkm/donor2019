@@ -23,6 +23,7 @@ fin_partners:
   - name: "Leading Asia's Private Infrastructure Fund"
     amount: "$4.4 million"
 approval: "October 2018"
+signing: "26 September 2019"
 completion: ""
 categories: [ "Climate Change​" ]
 filter:

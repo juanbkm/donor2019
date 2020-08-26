@@ -25,6 +25,7 @@ fin_partners:
   - name: "Other commercial lenders"
     amount: ""
 approval: "24 October 2019"
+signing: "18 November 2019"
 completion: ""
 cost: "Not disclosed"
 categories: [ "​Climate Change, Energy" ]

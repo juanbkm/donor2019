@@ -20,7 +20,7 @@ fin_partners:
   - name: "Netherlands Trust Fund"
     amount: "$750,000" 
 approval: "November 2018"
-signing: "28 Dec 2018"
+signing: "28 December 2018"
 completion: "June 2026"
 categories: [ "Climate Change​" ]
 filter:

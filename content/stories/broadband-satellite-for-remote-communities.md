@@ -22,6 +22,7 @@ other_partners:
   - name: "Other commercial lenders"
     amount: ""
 approval: "July 2019"
+signing: "30 November 2019"
 completion: ""
 categories: [ "Poverty, Regional Cooperation​" ]
 filter:
