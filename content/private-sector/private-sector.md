@@ -1,5 +1,5 @@
 ---
-title: "Nonsovereign Cofinancing"
+title: "Private Sector"
 date: 2020-07-05T22:28:32+08:00
 lead: "Partnerships with the private sector is crucial to achieving a prosperous, inclusive, resilient, and sustainable Asia and the Pacific region by 2030. Under Strategy 2030, ADB has strengthened partnerships with the private sector and increasingly [mainstreamed](https://www.adb.org/sites/default/files/institutional-document/558661/op-private-sector-operations-2019-2024.pdf) into each Country Partnership Strategy comprehensive market assessments and inputs relevant to private sector development and private sector operations. By [2024](https://www.adb.org/sites/default/files/institutional-document/435391/strategy-2030-main-document.pdf), ADB envisions that its private sector operations will reach one-third of its operations in number."
 footnote:
@@ -12,7 +12,7 @@ weight:
 draft: false
 ---
 
-Nonsovereign cofinancing amplifies the impact of ADB’s private sector operations by attracting financing from other parties. It facilitates investment, trade, and capital flows into developing member countries (DMCs). Both private and public institutions provide nonsovereign cofinancing. The funds are usually sourced from financial markets and priced at commercial terms. Such arrangements are particularly effective for projects and programs that commercial partners would consider risky without ADB involvement.
+Private sector or nonsovereign cofinancing amplifies the impact of ADB’s private sector operations by attracting financing from other parties. It facilitates investment, trade, and capital flows into developing member countries (DMCs). Both private and public institutions provide nonsovereign cofinancing. The funds are usually sourced from financial markets and priced at commercial terms. Such arrangements are particularly effective for projects and programs that commercial partners would consider risky without ADB involvement.
 
 In 2019, cofinancing for ADB’s nonsovereign operations amounted to $6.97 billion.<sup>[1](./nonsovereign-cofinancing/#1)</sup>  Of this, $6.78 billion (97%) came from commercial cofinancing partners, and the rest from official sources.<sup>[2](./nonsovereign-cofinancing/#2)</sup> Of the 38 nonsovereign projects in 2019, 19 had cofinancing from partners.
 
