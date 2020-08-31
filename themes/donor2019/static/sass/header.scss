@@ -455,7 +455,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 	}
 }
 
-#primary-menu > ul > li:last-of-type
+#primary-menu > ul > li:nth-of-type(3)
 { 
 	background-color: $adb-gray-four;
 }

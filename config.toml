@@ -18,72 +18,78 @@ title = "Partnership Report 2019"
 #   url = "/"
 #   weight  = 1
 
-[[menu.main]]
-  identifier = "overview"
-  name = "Overview"
-  url = "/overview/"
-  weight  = 2
+# [[menu.main]]
+#   identifier = "overview"
+#   name = "Overview"
+#   url = "/overview/"
+#   weight  = 2
 
 [[menu.main]]
   identifier = "data"
   name = "Data"
   url = "/data/"
-  weight  = 3
+  weight  = 2
 
 [[menu.main]]
   identifier = "strategy-2030"
   name = "Strategy 2030"
   url = "/strategy-2030/"
-  weight  = 4
+  weight  = 3
 
 [[menu.main]]
     identifier = "poverty"
     name = "Poverty"
     url = "/strategy-2030/addressing-remaining-poverty-and-reducing-inequalities/"
     parent = "strategy-2030"
-    weight = 41
+    weight = 31
 
 [[menu.main]]
     identifier = "gender-equality"
     name = "Gender Equality"
     url = "/strategy-2030/gender-equality/"
     parent = "strategy-2030"
-    weight = 42
+    weight = 32
 
 [[menu.main]]
     identifier = "climate-change"
     name = "Climate Change"
     url = "/strategy-2030/climate-change/"
     parent = "strategy-2030"
-    weight = 43
+    weight = 33
 
 [[menu.main]]
     identifier = "livable-cities"
     name = "Livable Cities"
     url = "/strategy-2030/livable-cities/"
     parent = "strategy-2030"
-    weight = 44
+    weight = 34
 
 [[menu.main]]
     identifier = "rural-development"
     name = "Rural Development"
     url = "/strategy-2030/rural-development-and-food-security/"
     parent = "strategy-2030"
-    weight = 45
+    weight = 35
 
 [[menu.main]]
     identifier = "governance"
     name = "Governance"
     url = "/strategy-2030/governance-and-capacity-building/"
     parent = "strategy-2030"
-    weight = 46
+    weight = 36
 
 [[menu.main]]
     identifier = "regional-cooperation-integration"
     name = "Regional Cooperation and Integration"
     url = "/strategy-2030/regional-cooperation-and-integration/"
     parent = "strategy-2030"
-    weight = 47
+    weight = 37
+
+[[menu.main]]
+  identifier = "private-sector"
+  name = "Private Sector"
+  url = "/private-sector/"
+  weight  = 4
 
 [[menu.main]]
   identifier = "stories"
@@ -178,12 +184,6 @@ title = "Partnership Report 2019"
     url = "/modalities/partnership-framework-arrangements/"
     parent = "modalities"
     weight = 86
-
-[[menu.main]]
-  identifier = "nonsovereign-cofinancing"
-  name = "Nonsovereign"
-  url = "/nonsovereign-cofinancing/"
-  weight  = 9
 
 
   [markup]
