@@ -71,7 +71,7 @@ By product type and source, the PSCs are distributed as follows:
 
 Following the course set by Strategy 2030, ADB will explore innovative funding solutions to increase the availability of resources for project and strengthen its collaboration with new multilateral partners such as the [Asian Infrastructure Investment Bank]({{< ref "asian-infrastructure-investment-bank.md" >}}) and the [New Development Bank]({{< ref "new-development-bank.md" >}}).
 
-These are some of the more notable PSCs in 2019.
+These are some examples of PSCs in 2019.
 
 ### Malolos-Clark Railway Project
 

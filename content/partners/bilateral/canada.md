@@ -28,7 +28,7 @@ Canada’s priority sectors for development assistance are gender, governance, p
 * [Global Affairs Canada](https://www.international.gc.ca/gac-amc/index.aspx?lang=eng) (formerly Department of Foreign Affairs, Trade, and Development)
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Canada
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

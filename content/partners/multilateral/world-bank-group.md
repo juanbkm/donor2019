@@ -18,7 +18,7 @@ In 2019, the World Bank cofinanced projects in the Pacific to support reforms on
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with World Bank 
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

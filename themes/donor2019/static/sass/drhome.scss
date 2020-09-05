@@ -130,6 +130,10 @@
     height: 195px;
   }
 
+  .section-1 .flex-container-1a .fb:nth-child(5) {
+    background-color: #d0d0d0;
+  }
+
   @media only screen and (max-width: 767px) {
     .section-1 .flex-container-1a .fb:nth-child(4),
     .section-1 .flex-container-1a .fb:nth-child(5),
@@ -820,8 +824,28 @@
     height: 195px;
     width: 16.66666666666667%;
     position: relative;
-
+    background-color: #d0d0d0;
   }
+
+
+  .flex-container-3 .fb14 .content-text {
+    background-color: transparent;
+    opacity: 1; 
+    img {
+      display: block;
+      margin: 60px auto 30px auto;
+    }
+    p {
+      font-size: 13px;
+      text-align: center;
+      width: 100%;
+      font-style: italic;
+    }
+   
+  }
+  .flex-container-3 .fb14 a {
+      color: $body-color;
+    }
 
   @media only screen and (max-width: 767px) {
     .flex-container-3 .fb14 {

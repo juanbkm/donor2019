@@ -30,8 +30,16 @@
 		position: relative;
 		padding: $content-padding 0;
 	}
-	#copyrights p {
+	#copyrights p
+	 {
 		margin: 0;
+		color:  darken( #ffffff, 30% );
+	}
+	#copyrights #socmed span
+	 {
+		display: block;
+		float: left;
+		margin: 0 10px 0 0;
 		color:  darken( #ffffff, 30% );
 	}
 	a {

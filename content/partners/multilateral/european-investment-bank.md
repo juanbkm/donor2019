@@ -13,7 +13,7 @@ EIB’s cofinancing with ADB focuses on projects that mitigate carbon emissions 
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with European Bank for European Investment Bank
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

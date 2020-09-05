@@ -26,7 +26,7 @@ The [United States Agency for International Development](https://www.usaid.gov/)
   
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Unites States of America
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

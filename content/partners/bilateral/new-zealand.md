@@ -20,7 +20,7 @@ In 2019, New Zealand expressed support to the [Pacific Renewable Energy Program]
 * [New Zealand’s International Aid and Development Agency](https://www.mfat.govt.nz/en/aid-and-development/)  
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with New Zealand
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
                                     

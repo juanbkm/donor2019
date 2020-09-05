@@ -15,7 +15,7 @@ In 2019, the EU cofinanced projects on sustainable rural infrastructure in Lao P
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with European Union
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

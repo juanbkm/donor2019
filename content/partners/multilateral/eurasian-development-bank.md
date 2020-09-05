@@ -14,7 +14,7 @@ EDB started working with ADB in 2013 in the areas of agriculture, transport, ene
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Eurasian Development Bank
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

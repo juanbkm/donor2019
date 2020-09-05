@@ -15,7 +15,7 @@ The priority focus of OFID’s Corporate Plan 2016–2025 is the energy–water�
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with OPEC Fund for International Development
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

@@ -12,7 +12,7 @@ Officially launched in May 2008, <a href="https://ec.europa.eu/neighbourhood-enl
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Neighbourhood Investment Facility
+##### _1 January 2014–31 December 2019_ Cofinanced Project
 
 <table class="table dr-partner-table">
 <tr>

@@ -9,14 +9,10 @@ draft: false
 ---
 [Belgium](https://www.adb.org/publications/belgium-fact-sheet)’s priorities are humanitarian aid, agriculture and food security, infrastructure, innovative financing, social development, education, health, climate change, biodiversity, gender equality, and migration. Belgium has cofinanced investment projects in Azerbaijan, Cambodia, India, and Sri Lanka. 
 
+[International and European Financial Affairs, Belgian Federal Treasury](https://finance.belgium.be/en/IEFA), is Belgium’s contact point with the international financial institutions. The [Directorate-General for Development Cooperation and Humanitarian Aid integrated into the Federal Public Service Foreign Affairs, Foreign Trade and Development Cooperation](https://diplomatie.belgium.be/en/policy/development_cooperation/who_we_are/our_organisation/dgd) (DGD) is responsible for drafting development policies, allocating Belgium’s official development assistance, planning and monitoring governmental cooperation programs. DGD partners with the [Belgian Technical Cooperation](https://www.enabel.be/) as the implementing agency that carries out study and training grants as well as assignments on sustainable development on both national and international level. 
+
 #### Active Trust Fund 
 
 * [Future Carbon Fund](./modalities/trust-funds/multi-partner-trust-funds/#fcf) 
-
-#### Development Assistance Agencies 
-
-* [International and European Financial Affairs, Belgian Federal Treasury](https://finance.belgium.be/en/IEFA) 
-* [Directorate-General for Development Cooperation and Humanitarian Aid integrated into the Federal Public Service Foreign Affairs, Foreign Trade and Development Cooperation](https://diplomatie.belgium.be/en/policy/development_cooperation/who_we_are/our_organisation/dgd) 
-* [Belgian Technical Cooperation](https://www.enabel.be/) 
 
 <p class="dr-fn">Last approved cofinanced project in 2012</p>

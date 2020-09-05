@@ -15,7 +15,7 @@ The Bill & Melinda Gates Foundation is the single donor to ADB’s Sanitation Fi
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Bill & Melinda Gates Foundation
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

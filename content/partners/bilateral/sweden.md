@@ -28,7 +28,7 @@ In Asia, Sweden prioritizes Afghanistan, Bangladesh, Cambodia, and regional prog
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Sweden
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

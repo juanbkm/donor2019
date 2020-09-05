@@ -25,7 +25,7 @@ Cumulative project-specific cofinancing: $480,000
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with United Nations Children's Fund
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

@@ -29,7 +29,7 @@ ADB and KfW signed a second amendment to the [ADB–KfW Cofinancing Memorandum o
 * [Deutsche Gesellschaft für Internationale Zusammenarbeit](https://www.giz.de/en/html/index.html)
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Germany
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

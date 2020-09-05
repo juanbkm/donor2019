@@ -12,7 +12,7 @@ The <a href="https://www.isdb.org/">Islamic Development Bank (IsDB)</a> was esta
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Islamic Development Bank
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

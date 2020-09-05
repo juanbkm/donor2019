@@ -31,7 +31,7 @@ PRC prioritizes investments on projects that promote regional connectivity and c
 * [Shanghai Pudong Development Bank](https://eng.spdb.com.cn/) 
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with the People's Republic of China
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

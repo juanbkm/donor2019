@@ -9,13 +9,13 @@ trust_funds_contribution:
 partner_logo: images/partners/ndb.png
 draft: false
 ---
-The <a href="https://www.ndb.int/">New Development Bank (NDB)</a> was established by the Governments of Brazil, Russia, India, PRC and South Africa (BRICS), with the agreement creating the bank entering into force in July 2015. The NDB headquarters is in Shanghai, PRC. The main objectives of NDB operations are: (i) fostering development of member countries, (ii) supporting economic growth, (iii) promoting competitiveness and facilitating job creation, and (iv) building a knowledge sharing platform among developing countries. NDB’s key areas of operation include, but are not limited to: i) clean energy; ii) transport infrastructure; iii) irrigation, water resource management and sanitation; iv) sustainable urban development; and v) economic cooperation and integration among member countries. NDB started collaborating with ADB in 2015.
+The <a href="https://www.ndb.int/">New Development Bank (NDB)</a> was established by the Governments of Brazil, Russia, India, PRC and South Africa (BRICS), with the agreement creating the bank entering into force in July 2015. The NDB headquarters is in Shanghai, PRC. The main objectives of NDB operations are: (i) fostering development of member countries, (ii) supporting economic growth, (iii) promoting competitiveness and facilitating job creation, and (iv) building a knowledge sharing platform among developing countries. NDB’s key areas of operation include, but are not limited to: i) clean energy; ii) transport infrastructure; iii) irrigation, water resource management and sanitation; iv) sustainable urban development; and v) economic cooperation and integration among member countries. 
 
 In 2019, NDB cofinanced a project seeking to improve urban mobility in India by improving and expanding its railway system.  
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with New Development Bank
+##### _1 January 2014–31 December 2019_ Cofinanced Project
 
 <table class="table dr-partner-table">
 <tr>

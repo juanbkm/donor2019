@@ -16,7 +16,7 @@ In April 2019, NDF partnered with ADB in designing the [ADB Ventures](https://ve
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Nordic Development Fund
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

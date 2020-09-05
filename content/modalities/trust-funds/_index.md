@@ -63,7 +63,7 @@ draft: false
 
 Trust funds provide platforms for partners to channel restricted grants for a specific group of countries, focus areas, or program. These single-partner and multi-partner trust funds are fully administered by ADB as trustee. Some of these trust funds also fall under umbrella financing partnership facilities, which serve as platforms for long-term and multipartner cooperation that links various forms of assistance in a coordinated matter.
 
-ADB continues to develop, facilitate, and implement partnerships through trust funds with specific thematic focus. As of 2019, ADB managed a total of 45 trust funds. These trust funds allocated $181 million of their resources to sovereign projects in 2019. While this represents only 4% of the $4.89 billion total sovereign cofinancing for the year, it funded 97 of 2019’s 148 cofinanced activities.
+ADB continues to develop, facilitate, and implement partnerships through trust funds with specific thematic focus. As of 2019, ADB managed a total of 45 trust funds. These trust funds allocated $181 million of their resources to sovereign projects in 2019, funding 97 of the year's 148 cofinanced activities.
 
 The largest commitments in support of the ADB’s sovereign operations were from the [Asia Project Preparation Facility](./modalities/trust-funds/multi-partner-trust-funds/#apppf), a multi-donor trust fund funded by Australia, Canada and Japan, and its $45 million grant to support the preparation of infrastructure projects in the region. The [Japan Fund for Poverty Reduction](./modalities/trust-funds/single-partner-trust-funds/#jfpr) supported the greatest number of projects, 21, with grant cofinancing totaling $37.9 million. This support spans across agriculture, e.g., the enhancement of technology-based agriculture and marketing in [Pakistan](https://www.adb.org/projects/52232-001/main#project-pds); health, e.g., [reducing maternal and child mortality in Uzbekistan](https://www.adb.org/projects/52340-002/main#project-pds) and [supporting adolescent nutrition in Indonesia](https://www.adb.org/projects/51354-001/main#project-pds); and disaster resilience, e.g., [preparations to alleviate effects of floods in Fiji](https://www.adb.org/projects/52233-002/main#project-pds). 
 
@@ -75,7 +75,7 @@ Of the 45 ADB-managed trust funds, 14 are part of ADB’s [Financing Partnership
 
 FPFs are operational mechanisms for strategic, long-term, multi-partner cooperation. They have set targets and objectives, ensure a steady and coordinated flow of funds, and are intensively managed to ensure that these goals are achieved, from application processing to project development and results monitoring. In 2019, the ASEAN Australia Smart Cities was established under the [Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/) with an initial funding of $15.2 million. It aims to improve systems and governance among participating ASEAN cities through the adaptation and adoption of digital solutions.
 
-In 2019, ADB’s trust funds received replenishments (green boxes) totaling $297.7 million and contributions for new trust funds (yellow boxes) amounting to $28.7 million. The breakdown is as follows:
+In 2019, ADB’s trust funds received replenishments (green boxes) totaling $297.1 million and contributions for new trust funds (yellow boxes) amounting to $28.7 million. The breakdown is as follows:
 
 {{< dr-artimage src="./images/modalities/tf-chart.svg" width="100%" >}}
 

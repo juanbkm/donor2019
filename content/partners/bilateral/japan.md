@@ -17,7 +17,7 @@ partner_logo:
 draft: false
 ---
 
-[Japan](https://www.adb.org/publications/japan-fact-sheet) provides extensive development support to its Asia-Pacific neighbors. Japan’s official development assistance is coordinated mainly through the [Japan International Cooperation Agency](./modalities/partnership-framework-arrangements/#jica) (JICA), in the forms of loan aid, technical cooperation, and grant aid. JICA’s work is concentrated on (i) strengthening the human capacity of individuals who will be key players in their countries’ development; (ii) fortifying partnerships between actors in Japan who are involved in, and contributing to, development cooperation and regional vitalization; (iii) contributing to international commitments and serving as a leader in the international community; and (iv) strengthening security measures. 
+[Japan](https://www.adb.org/publications/japan-fact-sheet) provides extensive development support to its Asia-Pacific neighbors. Japan’s official development assistance is coordinated by the [Ministry of Finance](https://www.mof.go.jp/english/), [Ministry of Foreign Affairs](https://www.mofa.go.jp/), and the [Japan International Cooperation Agency](./modalities/partnership-framework-arrangements/#jica) (JICA), in the forms of loan aid, technical cooperation, and grant aid. JICA’s work is concentrated on (i) strengthening the human capacity of individuals who will be key players in their countries’ development; (ii) fortifying partnerships between actors in Japan who are involved in, and contributing to, development cooperation and regional vitalization; (iii) contributing to international commitments and serving as a leader in the international community; and (iv) strengthening security measures. 
 
 In December 2015, ADB and JICA signed a [Memorandum of Understanding](https://www.jica.go.jp/english/news/press/2015/151217_01.html) for Strategic Partnership for Sustainable and Inclusive Development through Promotion of Quality Infrastructure Investment in Asia and the Pacific. Under this partnership, ADB and JICA (i) established the Leading Asia's Private Sector Infrastructure Fund (LEAP Fund), and (ii) promoted quality public infrastructure development in the region through a total of $10 billion in cofinancing.     
 
@@ -41,14 +41,8 @@ ADB and JICA have a standing commitment to achieve $10 billion in cofinancing fo
 * [Japan Scholarship Program](./modalities/trust-funds/single-partner-trust-funds/#jsp) 
 * [Leading Asia’s Private Sector Infrastructure Fund](./modalities/trust-funds/single-partner-trust-funds/#lapsif)
 
-#### Development Assistance Agencies
-
-* [Ministry of Finance](https://www.mof.go.jp/english/) 
-* [Ministry of Foreign Affairs](https://www.mofa.go.jp/) 
-* [Japan International Cooperation Agency](https://www.jica.go.jp/english/)  
-
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Japan
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

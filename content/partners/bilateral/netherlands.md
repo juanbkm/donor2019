@@ -21,7 +21,7 @@ Its support to the Netherlands Trust Funds under the Water Financing Partnership
 * [Ministry of Foreign Affairs](https://www.government.nl/ministries/ministry-of-foreign-affairs)  
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Netherlands, The
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

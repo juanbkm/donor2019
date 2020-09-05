@@ -31,7 +31,7 @@ A cofinancing arrangement with the Ministry of Agriculture, Food and Rural Affai
 * [Korea International Cooperation Agency](http://www.koica.go.kr/sites/koica_en/index.do) under the Ministry of Foreign Affairs 
 * [Korea Energy Agency](https://www.energy.or.kr/renew_eng/main/main.aspx) 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Korea, Republic of
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

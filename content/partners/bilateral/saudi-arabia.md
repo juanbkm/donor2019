@@ -17,7 +17,7 @@ The [Saudi Fund](https://www.sfd.gov.sa/en/) provided US$20 million cofinancing 
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Saudi Arabia
+##### _1 January 2014–31 December 2019_ Cofinanced Project
 
 <table class="table dr-partner-table">
 

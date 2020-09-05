@@ -29,7 +29,7 @@ Several departments coordinated through the Ministry of Cooperation and External
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Spain
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

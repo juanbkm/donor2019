@@ -20,7 +20,7 @@ Despite Asia and the Pacific showing signs of better governance and institutiona
 
 ADB's vision under Strategy 2030 requires effective governance and improved institutional capacity in its DMCs.
 
-{{< dr-yt video="_76iHGFzXBs" align="" title="Kiribati: Lone Highway Made Safer, Better" cover="cover-yt-lone-highway-made-safer-better.jpg" caption="After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the World Bank, Government of Australia, and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape." >}}
+{{< dr-yt video="WsGa6_VUkXM" align="" title="Kiribati: Lone Highway Made Safer, Better" cover="cover-yt-lone-highway-made-safer-better.jpg" caption="After decades of neglect, Kiribati’s South Tarawa road network gets much-needed repair through a partnership between ADB, the World Bank, Government of Australia, and the Government of Kiribati. To make sure the outcomes of the project are sustained, local governments and enterprises were trained in routine maintenance to keep the road in top shape." >}}
 
 Governance interventions cut across a wide array of sectors and themes, among them education, energy, finance, health, transport, urban, water, climate change and disaster risk management, gender, social development, rural development and food security, regional cooperation, and public-private partnership.
 

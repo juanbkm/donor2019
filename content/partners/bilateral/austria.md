@@ -7,7 +7,9 @@ project_specific_cofinancing: "$13.3 million"
 trust_funds_contribution: "$11 million"
 draft: false
 ---
-[Austria](https://www.adb.org/publications/austria-fact-sheet)’s development assistance is felt through its support for the urban and water sectors and knowledge exchange via provision of experts as secondees with ADB.  
+[Austria](https://www.adb.org/publications/austria-fact-sheet)’s development assistance is felt through its support for the urban and water sectors and knowledge exchange via provision of experts as secondees with ADB. ADB collaborates with Austria through the [Federal Ministry of Finance](https://www.bmf.gv.at/en.html) (MOF), whose responsibilities range from budgetary planning, economic policy and financial services to customs and taxation, and the [Federal Ministry for Europe, Integration and Foreign Affairs](https://www.bmeia.gv.at/en/) (FMEIA), which is responsible for strategic planning and alignment of Austrian Development Cooperation.    
+
+The [Austrian Development Agency](https://www.entwicklung.at/en/) (ADA) is an operational unit of the Austrian Development Cooperation under the FMEIA and is tasked with implementing Austrian development cooperation strategy and programs, managing bilateral development cooperation budget, undertaking policy dialogue in Austria and partner countries, and advising FMEIA.  
 
 Austria works with ADB on education, ensuring peace, human security, human rights, migration, water, energy, food security, private sector and development. Austria’s priority countries are Armenia (agriculture, good governance), Bhutan (energy, tourism, good governance), and Georgia (forestry agriculture, good governance). 
 
@@ -16,14 +18,8 @@ Austria works with ADB on education, ensuring peace, human security, human right
 * [Cities Development Initiative for Asia Trust Fund](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#cdiatf) 
 * [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf) 
 
-#### Development Assistance Agencies
-
-* [Federal Ministry of Finance](https://www.bmf.gv.at/en.html) 
-* [Federal Ministry for Europe, Integration and Foreign Affairs](https://www.bmeia.gv.at/en/)    
-* [Austrian Development Agency](https://www.entwicklung.at/en/)  
-
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Austria
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
     <tr>

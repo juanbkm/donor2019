@@ -31,7 +31,7 @@ ADB and UK sought ways to deepen their collaboration in Asia and the Pacific dur
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with United Kingdom
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

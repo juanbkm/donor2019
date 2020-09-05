@@ -24,7 +24,7 @@ Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the 
 * [Danish International Development Agency](https://um.dk/en/danida-en/) under the Ministry of Foreign Affairs 
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Denmark
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

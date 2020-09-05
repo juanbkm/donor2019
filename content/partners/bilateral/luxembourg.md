@@ -22,7 +22,7 @@ Its main partner countries in Asia include Lao PDR, where it supports initiative
 * [Lux-Development](https://luxdev.lu/en/home)  
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Luxembourg
+##### _1 January 2014–31 December 2019_ Cofinanced Project
 
 <table class="table dr-partner-table">
 

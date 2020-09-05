@@ -15,7 +15,7 @@ In 2019, the ADB and EBRD signed an [agreement](https://www.adb.org/news/adb-sig
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with European Bank for Reconstruction and Development
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

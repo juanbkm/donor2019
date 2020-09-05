@@ -14,7 +14,7 @@ In April 2019, AIF launched the [ASEAN Catalytic Green Finance Facility (ACGF)](
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with ASEAN Infrastructure Fund
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 <tr>

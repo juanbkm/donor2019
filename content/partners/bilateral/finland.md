@@ -24,7 +24,7 @@ Finland’s priority countries are Afghanistan, Nepal, and Myanmar. The country 
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinanced with Finland
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

@@ -13,7 +13,7 @@ The Fund has partnered with foreign investors, international financial instituti
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Uzbekistan Fund for Reconstruction and Development
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

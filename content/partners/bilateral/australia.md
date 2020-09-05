@@ -13,9 +13,9 @@ trust_funds_contribution_2019:
 draft: false
 ---
 
-In 2019, the ADB-Australia High-Level Consultations held in Manila focused on the reaffirmation of the partnerships between [Australia](https://www.adb.org/publications/australia-fact-sheet) and ADB. Discussions emphasized the need to adapt to the changing context in the Asia-Pacific; private sector operations and public-private partnerships; thematic and sectoral topics such as climate change and disaster risk management; private sector and infrastructure; inclusiveness; innovation and risk; enhanced knowledge cooperation; and engagement in the Pacific and Southeast Asia. Australia plays a huge role in the economic stability and growth of the Indo-Pacific region and provides more aid to the Pacific island countries than any other donor.
+In 2019, the ADB-Australia High-Level Consultations held in Manila focused on the reaffirmation of the partnerships between [Australia](https://www.adb.org/publications/australia-fact-sheet) and ADB. Discussions emphasized the need to adapt to the changing context in the Asia-Pacific; private sector operations and public-private partnerships; thematic and sectoral topics such as climate change and disaster risk management; private sector and infrastructure; inclusiveness; innovation and risk; enhanced knowledge cooperation; and engagement in the Pacific and Southeast Asia. Australia plays a significant role in the economic stability and growth of the Indo-Pacific region and provides more aid to the Pacific island countries than any other donor.
 
-Australia channels funds toward development work in infrastructure; trade facilitation and international competitiveness; agriculture, fisheries and water; governance (policies, institutions and functioning economies); education; health; building resilience (humanitarian assistance, disaster risk reduction and social protection); climate change; and gender equality and empowering women and girls.
+The [Department of Foreign Affairs and Trade](https://www.dfat.gov.au/) channels funds toward development work in infrastructure; trade facilitation and international competitiveness; agriculture, fisheries and water; governance (policies, institutions and functioning economies); education; health; building resilience (humanitarian assistance, disaster risk reduction and social protection); climate change; and gender equality and empowering women and girls.
 
 
 #### Active Trust Funds 
@@ -30,12 +30,9 @@ Australia channels funds toward development work in infrastructure; trade facili
 * [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf)
 * [Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility](./modalities/financing-partnership-facilities/health-financing-partnership-facility/#rmocdttf)
 
-#### Development Assistance Agency
-
-* [Department of Foreign Affairs and Trade](https://www.dfat.gov.au/)
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Australia
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
  
 <table class="table dr-partner-table">
 	<tbody>

@@ -11,12 +11,8 @@ Kuwait, in 1975, cofinanced with ADB a $25 million agriculture project in Sri La
 
 In 2015, ADB and the Kuwait Fund signed a [Memorandum of Understanding (MOU)](https://www.adb.org/news/adb-kuwait-fund-arab-economic-development-sign-agreement-community-managed-irrigation-systems) on establishing cooperation arrangements to strengthen partnership at the institutional level and the programmatic project cofinancing. Under the MOU, the two institutions also signed a project-specific arrangement. The Kuwait Fund also provided $17 million collaborative additional cofinancing for an agriculture project in Nepal.
 
-#### Development Assistance Agency 
-
-* [Kuwait Fund for Arab Economic Development](https://www.kuwait-fund.org/en/web/kfund) 
-
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Kuwait
+##### _1 January 2014–31 December 2019_ Cofinanced Project
 
 <table class="table dr-partner-table">
 

@@ -29,7 +29,7 @@ In November 2019, ADB and the Government of Norway signed the cofinancing agreem
 * [Norwegian Agency for Development Cooperation](https://norad.no/en/front/)
 
 <split>
-##### _1 January 2014–31 December 2019_ Cofinancing with Norway
+##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">
 

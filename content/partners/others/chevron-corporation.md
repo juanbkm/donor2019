@@ -14,7 +14,7 @@ Chevron has committed to support the scaling-up of high-quality training program
 
 <split>
 
-##### _1 January 2014–31 December 2019_ Cofinancing with Chevron Corporation
+##### _1 January 2014–31 December 2019_ Cofinanced Project
 
 <table class="table dr-partner-table">
 
