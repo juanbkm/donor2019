@@ -77,6 +77,12 @@
     font-size: 5rem;
     font-weight: 700;
   }
+  @include media-breakpoint-down(sm) {
+    font-size: 2rem;
+    em {
+      font-size: 3rem;
+    }
+  }
 }
 
 .chart-content {
@@ -221,7 +227,14 @@
     font-size: 54px;
     padding-top: 5px;
   }
-
+  @include media-breakpoint-down(sm) {
+    font-size: 54px;
+    margin-bottom: 10px;
+    strong {
+      font-size: 34px;
+      padding-top: 5px;
+    }
+  }
 }
 .dr-pre-head {
   font-size: 16px;
@@ -273,6 +286,59 @@
     width: 100%;
     .dr-amount {
       font-size: 1.2rem !important;
+    }
+  }
+}
+
+
+
+/* ----------------------------------------------------------------
+	DR NSOV Commitments
+-----------------------------------------------------------------*/
+
+#dr-data-nsovcommitments {
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+
+  .dr-qt em {
+    color: $adb-accent-orange-two;
+  }
+
+  .chart li a:hover,
+  .chart li a:focus,
+  .chart li a.active {
+    background-color: $adb-accent-orange-two;
+  }
+  .dr-partner,
+  .dr-country,
+  .dr-sector,
+  .dr-cofin-type {
+    color: $adb-accent-orange-two;
+  }
+  .openchart li a:hover,
+  .openchart li a:focus,
+  .openchart li a.active,
+  .openchart li.active {
+    background-color: $adb-accent-orange-three;
+  }
+  .adb-chart .dr-typeof {
+    //text-align: right;
+    width: 100%;
+  }
+  .adb-chart .tab-pane:nth-child(2) .dr-typeof {
+    text-align: left;
+    width: 70%;
+    margin-left: 30%;
+  }
+  .chart li a {
+    span {
+      display: inline-block;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      opacity: 0;
+    }
+    &:hover span {
+      opacity: 1;
     }
   }
 }
@@ -447,6 +513,12 @@
     margin: 0;
     padding: 0;
   }
+  @include media-breakpoint-down(sm) {
+    margin-bottom: 20px;
+    .dr-side-nav {
+      text-align: left;
+    }
+  }
 }
 .dr-hl-group {
   padding: 0 40px;
@@ -527,7 +599,7 @@
 	DR What
 -----------------------------------------------------------------*/
 #dr-nsov {
-  
+  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
 .breakdown-bar a {
   display: flex !important;
     span {

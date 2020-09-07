@@ -8,7 +8,9 @@ trust_funds_contribution: "$90 million"
 draft: false
 ---
 
-The [People’s Republic of China](https://www.adb.org/publications/peoples-republic-china-fact-sheet) (PRC) is a major contributor to ADB development finance and knowledge sharing initiatives and is the singular donor to the [PRC Poverty Reduction and Regional Cooperation Fund (PRCF)](./modalities/trust-funds/single-partner-trust-funds/#prcprrcf). Established in 2005, PRCF has supported development in Central Asia and the Greater Mekong Subregion. PRCF prioritizes technical assistance that directly benefits a project, particularly project preparation, in its future funding consideration. 
+The [People’s Republic of China](https://www.adb.org/publications/peoples-republic-china-fact-sheet) (PRC) is a major contributor to ADB development finance and knowledge sharing initiatives. ADB works with PRC's [Ministry of Finance](http://english.www.gov.cn/state_council/2014/09/09/content_281474986284115.htm) and domestic commercial entities such as the [Bank of Beijing](http://www.bankofbeijing.com.cn/en2011/), [China Construction Bank Corporation](http://www.ccb.com/en/home/index.html), [Export-Import Bank of China](http://english.eximbank.gov.cn/) (China Eximbank), [Huaxia Bank](https://www.hxb.com.cn/index.shtml), and [Shanghai Pudong Development Bank](https://eng.spdb.com.cn/) on directing development finance to investment projects.
+
+PRC is the singular donor to the [PRC Poverty Reduction and Regional Cooperation Fund (PRCF)](./modalities/trust-funds/single-partner-trust-funds/#prcprrcf). Established in 2005, PRCF has supported development in Central Asia and the Greater Mekong Subregion. PRCF prioritizes technical assistance that directly benefits a project, particularly project preparation, in its future funding consideration. 
 
 PRC prioritizes investments on projects that promote regional connectivity and cooperation, poverty reduction, and knowledge sharing. ADB works with the PRC’s Ministry of Finance and domestic commercial entities on directing development finance to investment projects. Among the commercial entities are the following: 
 
@@ -20,15 +22,6 @@ PRC prioritizes investments on projects that promote regional connectivity and c
 #### Active Trust Fund 
 
 * [People's Republic of China Poverty Reduction and Regional Cooperation Fund](./modalities/trust-funds/single-partner-trust-funds/#prcprrcf) 
-
-#### Development Assistance Agencies 
-
-* [Ministry of Finance](http://english.www.gov.cn/state_council/2014/09/09/content_281474986284115.htm) 
-* [Bank of Beijing](http://www.bankofbeijing.com.cn/en2011/) 
-* [China Construction Bank Corporation](http://www.ccb.com/en/home/index.html) 
-* [Export-Import Bank of China](http://english.eximbank.gov.cn/) (China Eximbank) 
-* [Huaxia Bank](https://www.hxb.com.cn/index.shtml) 
-* [Shanghai Pudong Development Bank](https://eng.spdb.com.cn/) 
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects

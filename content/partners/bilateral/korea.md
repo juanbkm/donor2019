@@ -18,18 +18,13 @@ In May 2019, ADB and Korea signed a Declaration of Intent for Korea to pledge $3
 
 A cofinancing arrangement with the Ministry of Agriculture, Food and Rural Affairs signed in May 2019 for the grant transfer of W1,400,000,000 to support [TA 9689: Agricultural Value Chain Development in Selected Asian Countries](https://www.adb.org/projects/52239-001/main). A memorandum of understanding to strengthen cooperation in information exchange, knowledge sharing, and capacity building of ADB’s developing member countries was signed in June 2019.  
 
+Korea channels its work in international cooperation and development assistance through several offices. The	[Economic Development Cooperation Fund](https://www.edcfkorea.go.kr/site/main/index004) (EDCF), oversees the official development assistance loan program that promotes economic cooperation between the ROK and developing countries. The [Korea International Cooperation Agency](http://www.koica.go.kr/sites/koica_en/index.do) under the Ministry of Foreign Affairs is responsible for grant aid and technical cooperation for developing countries. Other agencies involved in international cooperation include the [Ministry of Economy and Finance](https://english.moef.go.kr/), the [Export–Import Bank of Korea](https://www.koreaexim.go.kr/site/main/index001), and the [Korea Energy Agency](https://www.energy.or.kr/renew_eng/main/main.aspx). 
+  
 #### Active Trust Funds
 
 * [Republic of Korea e-Asia and Knowledge Partnership Fund](./modalities/trust-funds/single-partner-trust-funds/#rkakpf) 
 * [Future Carbon Fund](./modalities/trust-funds/multi-partner-trust-funds/#fcf) 
 
-#### Development Assistance Agencies 
-
-* [Ministry of Economy and Finance](https://english.moef.go.kr/)  
-* [Economic Development Cooperation Fund](https://www.edcfkorea.go.kr/site/main/index004)  
-* [Export–Import Bank of Korea](https://www.koreaexim.go.kr/site/main/index001) 
-* [Korea International Cooperation Agency](http://www.koica.go.kr/sites/koica_en/index.do) under the Ministry of Foreign Affairs 
-* [Korea Energy Agency](https://www.energy.or.kr/renew_eng/main/main.aspx) 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects
 

@@ -14,19 +14,13 @@ draft: false
 ---
 ADB and KfW signed a second amendment to the [ADB–KfW Cofinancing Memorandum of Understanding (MOU)](https://www.adb.org/news/adb-kfw-expand-cofinancing-partnership-additional-2-billion) in November 2019, extending the MoU to 2023, increasing cofinancing amount by another $2 billion and expanding priority countries and themes. The original MOU, totaling $2 billion, was first signed in July 2017 and later amended in September 2017 to extend its validity to 2020 with an additional $2 billion.  
 
-[Germany](https://www.adb.org/publications/germany-fact-sheet)’s priority sectors and themes are: (i) extending global partnerships and regional cooperation; (ii) supporting vocational training, sustainable and social economic development, and employment promotion; (iii) protecting the climate and biodiversity; (iv) combating the causes of conflict and displacement – assisting refugees; (v) strengthening human rights, participation and the capacity of state institutions; (vi) improving structures and living conditions in cities; and (vii) improving health and social protection systems. Priority countries include Afghanistan, Bangladesh, Cambodia, People’s Republic of China (PRC), India, Indonesia, Kyrgyzstan, Lao PDR, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Tajikistan, Timor-Leste, Uzbekistan, and Viet Nam. GIZ also prioritizes Kazakhstan, Maldives, Thailand, and the Pacific region.
+[Germany](https://www.adb.org/publications/germany-fact-sheet)’s priority sectors and themes are: (i) extending global partnerships and regional cooperation; (ii) supporting vocational training, sustainable and social economic development, and employment promotion; (iii) protecting the climate and biodiversity; (iv) combating the causes of conflict and displacement – assisting refugees; (v) strengthening human rights, participation and the capacity of state institutions; (vi) improving structures and living conditions in cities; and (vii) improving health and social protection systems. Priority countries include Afghanistan, Bangladesh, Cambodia, People’s Republic of China (PRC), India, Indonesia, Kyrgyzstan, Lao PDR, Mongolia, Myanmar, Nepal, Pakistan, Philippines, Tajikistan, Timor-Leste, Uzbekistan, and Viet Nam. GIZ also prioritizes Kazakhstan, Maldives, Thailand, and the Pacific region. The country's provision of development assistance is managed by the [Federal Ministry for Economic Cooperation and Development](https://www.bmz.de/en/), [KfW](https://www.kfw.de/KfW-Group/), and  [Deutsche Gesellschaft für Internationale Zusammenarbeit](https://www.giz.de/en/html/index.html) 
 
 #### Active Trust Funds 
 
 * [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf) 
 * [Asia Pacific Climate Finance Fund](./modalities/trust-funds/multi-partner-trust-funds/#apcff) 
 * [Cities Development Initiative for Asia Trust Fund](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#cdiatf)
-
-#### Development Assistance Agencies 
-
-* [Federal Ministry for Economic Cooperation and Development](https://www.bmz.de/en/)
-* [KfW](https://www.kfw.de/KfW-Group/) 
-* [Deutsche Gesellschaft für Internationale Zusammenarbeit](https://www.giz.de/en/html/index.html)
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects

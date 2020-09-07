@@ -11,18 +11,14 @@ new_trust_funds_contribution:
 partner_logo:
 draft: false
 ---
-[Switzerland](https://www.adb.org/publications/switzerland-fact-sheet)'s development cooperation is coordinated between the Swiss Agency for Development and Cooperation (SDC) within the Federal Department of Foreign Affairs, and the State Secretariat for Economic Affairs (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
+[Switzerland](https://www.adb.org/publications/switzerland-fact-sheet)'s development cooperation is coordinated between the [Swiss Agency for Development and Cooperation](https://www.eda.admin.ch/sdc) (SDC) within the Federal Department of Foreign Affairs, and the [State Secretariat for Economic Affairs](https://www.seco.admin.ch/seco/en/home.html) (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
+
 
 #### Active Trust Funds
 
 * [Cities Development Initiative for Asia Trust Fund](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#cdiatf) 
 * [Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#uccrtf)
 * [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf)
-
-#### Development Assistance Agencies
-
-* [Swiss Agency for Development and Cooperation](https://www.eda.admin.ch/sdc)
-* [State Secretariat for Economic Affairs](https://www.seco.admin.ch/seco/en/home.html) 
  
 <split>
 

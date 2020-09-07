@@ -11,7 +11,7 @@ trust_funds_contribution_2019:
 partner_logo:
 draft: false
 ---
-Under its "Regional Development Cooperation in Asia and the Pacific" strategy for 2016-2021, [Sweden](https://www.adb.org/publications/sweden-fact-sheet)’s development assistance covers the entire region and focuses on two areas: environmental improvement, reduced impacts of climate change, and disaster risk management and strengthening of democracy and gender equality, and respect for human rights.  
+Under its "Regional Development Cooperation in Asia and the Pacific" strategy for 2016-2021, [Sweden](https://www.adb.org/publications/sweden-fact-sheet)’s development assistance covers the entire region and focuses on two areas: environmental improvement, reduced impacts of climate change, and disaster risk management and strengthening of democracy and gender equality, and respect for human rights.  Two agencies, the [Ministry for Foreign Affairs](https://www.government.se/government-of-sweden/ministry-for-foreign-affairs/) and the [Swedish International Development Cooperation Agency](https://www.sida.se/English/) oversee the country's provision of development assistance. 
 
 In Asia, Sweden prioritizes Afghanistan, Bangladesh, Cambodia, and regional programs in South Asia, Southeast Asia, and small islands states in the Pacific. It focuses on initiatives that address democracy and human rights, conflict prevention and support to migration, gender equality, regional cooperation and integration, climate and environment and inclusive growth. In cofinancing projects with ADB, Sweden provides grants for investment and technical assistance projects through trust funds or on a project-specific basis and guarantees for the public and private sector. It also has a Guarantee Agreement with ADB relating to a risk transfer arrangement on a portfolio of ADB sovereign loans.
 
@@ -21,11 +21,6 @@ In Asia, Sweden prioritizes Afghanistan, Bangladesh, Cambodia, and regional prog
 * [Future Carbon Fund](./modalities/trust-funds/multi-partner-trust-funds/#fcf) 
 * [Urban Environmental Infrastructure Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility//#ueif)
  
-#### Development Assistance Agencies 
-
-* [Ministry for Foreign Affairs](https://www.government.se/government-of-sweden/ministry-for-foreign-affairs/) 
-* [Swedish International Development Cooperation Agency](https://www.sida.se/English/)  
-
 <split>
 
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects

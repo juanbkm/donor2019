@@ -112,6 +112,9 @@ body.stretched .container-fullwidth .breadcrumb { right: $section-padding !impor
 		line-height: 1;
 		padding-bottom: 20px;
 		margin: 0;
+		@include media-breakpoint-down(sm) {
+			font-size: 54px;
+		}
 	}
 	h3 {
 		color: $adb-dr-gray;

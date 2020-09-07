@@ -51,6 +51,8 @@ ADB’s [Regional: Asia-Pacific Remote Broadband Internet Satellite Project](htt
 
 “ADB’s role was key in getting this transaction closed,” Christian Patouraux, Kacific Founder and CEO said. “ADB’s involvement has helped secure the necessary financing for this highly developmental project. The benefits of connectivity are life-changing—from increased tourism, access to information, financial services, to healthcare and education for many remote communities in the region.”
 
+{{< dr-bc video="6188381131001" align="" title="Regional: Asia-Pacific Remote Broadband Internet Satellite Project" cover="cover-yt-broadband-satellite-for-remote-communities.jpg" caption="With the launch of the Kacific1 satellite in December 2019, people in remote areas in Southeast Asia and the Pacific are now able to join the global online community and enjoy the benefits of internet connectivity. The satellite, owned by Singapore-based Kacific Broadband Satellites International Limited, was financed by ADB and its Leading Asia’s Private Infrastructure Fund, among other cofinanciers." >}}
+
 ### Interventions
 
 The Asia-Pacific Remote Broadband Internet Satellite Project supports the construction, launch, and operation of Kacific1, a geostationary earth orbit, high throughput communications satellite that would bring internet connections to remote rural areas where no or very limited internet coverage is currently available. Kacific1 was launched in December 2019.

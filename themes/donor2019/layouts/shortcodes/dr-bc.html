@@ -1,0 +1,11 @@
+<div class="dr-yt {{ with .Get `align` }}float-{{ . }}{{ end }}">
+    <div class="center">
+      <a href="https://players.brightcove.net/791607097001/9fa20be7-aba0-42f9-92b4-438ab9db690a_default/index.html?videoId={{ .Get `video` }}" data-lightbox="iframe" style="position: relative;">
+        <img src="./images/stories/{{ .Get `cover` }}" alt="Video">
+        <span class="i-overlay nobg"><img src="./images/video-play.png" alt="Play"></span>
+      </a>
+      {{ with .Get `caption` }}
+      <p class="dr-caption">{{ . | markdownify }}</p>
+      {{ end }}
+    </div>
+</div>

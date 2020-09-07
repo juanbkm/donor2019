@@ -8,7 +8,9 @@ trust_funds_contribution: "$14.8 million"
 draft: false
 ---
 
-[Denmark](https://www.adb.org/publications/denmark-fact-sheet)’s priority interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development.  
+ADB works with [Denmark](https://www.adb.org/publications/denmark-fact-sheet)’s [Ministry of Foreign Affairs](https://um.dk/en/), which administers development cooperation. The [Danish International Development Agency](https://um.dk/en/danida-en/) under the Ministry of Foreign Affairs is responsible for the planning, implementation and quality assurance of Denmark’s development cooperation.  
+
+Denmark's priority interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development.  
 
 Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the past, country policy papers also existed for the following Asian countries: Indonesia, Nepal, Pakistan, Viet Nam. 
 
@@ -17,11 +19,6 @@ Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the 
 * [Danish Cooperation Fund for Renewable Energy and Energy Efficiency in Rural Areas I and II](./modalities/trust-funds/single-partner-trust-funds/#dcfreeera)
 * [Gender and Development Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gdcf)
 * [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf) 
-
-#### Development Assistance Agencies 
-
-* [Ministry of Foreign Affairs](https://um.dk/en/) 
-* [Danish International Development Agency](https://um.dk/en/danida-en/) under the Ministry of Foreign Affairs 
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects

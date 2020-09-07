@@ -121,4 +121,9 @@ h5 {
 
 .dr-pager {
   text-align: right;
+  @include media-breakpoint-down(sm) {
+    .btn {
+      display: block;
+    }
+  }
 }

@@ -1,8 +1,37 @@
 <head>
 	{{$section := .Section}}
+	<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <meta name="author" content="{{ .Site.Params.author }}">
-  <base href="{{ .Site.BaseURL }}">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<base href="{{ .Site.BaseURL }}">
+
+	<meta name="author" content="{{ .Site.Params.author }}">
+	<meta name="description" content="{{ .Site.Params.description }}" />
+
+	<meta name="keywords" content="{{ .Site.Params.keywords }}" />
+	
+	<meta name="revised" content="" />
+	<link rel="canonical" href="http://www.adb.org/" />
+	<link rel="shortlink" href="http://www.adb.org/" />
+	<link rel="publisher" href="http://www.adb.org" />
+
+	<meta name="original-source" content="{{ .Site.BaseURL }}" />
+	<meta property="og:title" content="{{ .Site.Params.keywords }}" />
+	<meta property="og:site_name" content="Asian Development Bank" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="{{ .Site.BaseURL }}" />
+	<meta property="og:image" content="{{ .Site.BaseURL }}images/pr-social-cover.jpg" />
+	<meta property="og:description" content="{{ .Site.Params.description }}" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@ADB_HQ" />
+	<meta name="twitter:url" content="{{ .Site.BaseURL }}" />
+	<meta name="twitter:title" content="{{ .Site.Params.title }}" />
+	<meta name="twitter:image" content="{{ .Site.BaseURL }}images/pr-social-cover.jpg" />
+	<meta name="twitter:description" content="{{ .Site.Params.description }}" />
+
+	
+
 
 	<!-- Stylesheets
 	============================================= -->

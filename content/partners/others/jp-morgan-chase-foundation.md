@@ -9,7 +9,7 @@ trust_funds_contribution:
 partner_logo: images/partners/jpmc.png
 draft: false
 ---
-The [JPMorgan Chase Foundation] (https://impact.jpmorganchase.com/impact) supports programs designed to promote workforce readiness, small business expansion, financial capability, and community development. Special emphasis is directed toward neighborhoods located in areas of JPMorgan chase's major operations.
+The [JPMorgan Chase Foundation](https://impact.jpmorganchase.com/impact) supports programs designed to promote workforce readiness, small business expansion, financial capability, and community development. Special emphasis is directed toward neighborhoods located in areas of JPMorgan chase's major operations.
 
 In 2019, JPMorgan Chase Foundation contributed $1.3 million to ADB’s <a href="https://www.adb.org/projects/52214-001/main">Regional: Promoting Transformative Gender Equality Agenda in Asia and the Pacific</a> project.
 

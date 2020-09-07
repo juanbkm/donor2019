@@ -1458,7 +1458,10 @@ body.stretched #header.full-header .container {
     margin-top: 20px;
     margin-bottom: 20px;
     max-width: 100%; }
-
+    @media (max-width: 767.98px) {
+      #logo img {
+        margin-top: 10px;
+        margin-bottom: 10px; } }
 #header.transparent-header.full-header #logo {
   border-right-color: rgba(0, 0, 0, 0.1); }
 
@@ -5141,6 +5144,9 @@ body.stretched .container-fullwidth .breadcrumb {
     line-height: 1;
     padding-bottom: 20px;
     margin: 0; }
+    @media (max-width: 767.98px) {
+      #dr-page-title h2 {
+        font-size: 54px; } }
   #dr-page-title h3 {
     color: #556773;
     font-size: 24px;
@@ -5284,13 +5290,13 @@ body.stretched .container-fullwidth .breadcrumb {
     @media (max-width: 767.98px) {
       .dr-section-title h2 {
         line-height: 1.5;
-        font-size: 24px; } }
+        font-size: 48px; } }
   #dr-section-overview.dr-section-title h2 {
     font-size: 64px; }
     @media (max-width: 767.98px) {
       #dr-section-overview.dr-section-title h2 {
         line-height: 1.5;
-        font-size: 24px; } }
+        font-size: 48px; } }
   .dr-section-title p {
     padding: 0;
     margin: 0 0 40px 0;
@@ -5298,6 +5304,10 @@ body.stretched .container-fullwidth .breadcrumb {
     letter-spacing: 1px;
     font-size: 18px;
     font-weight: 300; }
+    @media (max-width: 767.98px) {
+      .dr-section-title p {
+        line-height: 1.5;
+        font-size: 16px; } }
   .dr-section-title span {
     display: block;
     margin-top: 10px;
@@ -6718,7 +6728,11 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     font-style: normal;
     font-size: 5rem;
     font-weight: 700; }
-
+  @media (max-width: 767.98px) {
+    .dr-qt {
+      font-size: 2rem; }
+      .dr-qt em {
+        font-size: 3rem; } }
 .chart-content {
   width: 100%;
   margin: 0;
@@ -6856,7 +6870,13 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     font-weight: 700;
     font-size: 54px;
     padding-top: 5px; }
-
+  @media (max-width: 767.98px) {
+    .dr-fund-total {
+      font-size: 54px;
+      margin-bottom: 10px; }
+      .dr-fund-total strong {
+        font-size: 34px;
+        padding-top: 5px; } }
 .dr-pre-head {
   font-size: 16px;
   color: #dddddd;
@@ -6896,6 +6916,42 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     width: 100%; }
     #dr-data-commitments .scf-chart .dr-typeof .dr-amount {
       font-size: 1.2rem !important; }
+
+/* ----------------------------------------------------------------
+	DR NSOV Commitments
+-----------------------------------------------------------------*/
+#dr-data-nsovcommitments {
+  border-bottom: 1px solid #c2ccd2; }
+  #dr-data-nsovcommitments .dr-qt em {
+    color: #f68c3e; }
+  #dr-data-nsovcommitments .chart li a:hover,
+  #dr-data-nsovcommitments .chart li a:focus,
+  #dr-data-nsovcommitments .chart li a.active {
+    background-color: #f68c3e; }
+  #dr-data-nsovcommitments .dr-partner,
+  #dr-data-nsovcommitments .dr-country,
+  #dr-data-nsovcommitments .dr-sector,
+  #dr-data-nsovcommitments .dr-cofin-type {
+    color: #f68c3e; }
+  #dr-data-nsovcommitments .openchart li a:hover,
+  #dr-data-nsovcommitments .openchart li a:focus,
+  #dr-data-nsovcommitments .openchart li a.active,
+  #dr-data-nsovcommitments .openchart li.active {
+    background-color: #fdb715; }
+  #dr-data-nsovcommitments .adb-chart .dr-typeof {
+    width: 100%; }
+  #dr-data-nsovcommitments .adb-chart .tab-pane:nth-child(2) .dr-typeof {
+    text-align: left;
+    width: 70%;
+    margin-left: 30%; }
+  #dr-data-nsovcommitments .chart li a span {
+    display: inline-block;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    opacity: 0; }
+  #dr-data-nsovcommitments .chart li a:hover span {
+    opacity: 1; }
 
 /* ----------------------------------------------------------------
 	DR Raised
@@ -7030,7 +7086,11 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     font-size: 2rem;
     margin: 0;
     padding: 0; }
-
+  @media (max-width: 767.98px) {
+    .dr-hl-side {
+      margin-bottom: 20px; }
+      .dr-hl-side .dr-side-nav {
+        text-align: left; } }
 .dr-hl-group {
   padding: 0 40px; }
   .dr-hl-group h3 {
@@ -7085,63 +7145,56 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 /* ----------------------------------------------------------------
 	DR What
 -----------------------------------------------------------------*/
-#dr-nsov .breakdown-bar a {
-  display: flex !important; }
-  #dr-nsov .breakdown-bar a span {
-    border-right: 0.5vw solid #fff;
-    flex: auto;
-    height: 130px;
-    margin: 0;
-    padding: 0; }
-    #dr-nsov .breakdown-bar a span:last-of-type {
-      display: none; }
-
-#dr-nsov .breakdown-bar a:hover span {
-  background-color: #fdb715; }
-  #dr-nsov .breakdown-bar a:hover span:nth-of-type(2) {
-    background-color: #f4aa3c;
-    border-right: none; }
-
-#dr-nsov .dr-qt em {
-  color: #fdb715; }
-
-#dr-nsov .chart li a:hover,
-#dr-nsov .chart li a:focus,
-#dr-nsov .chart li a.active,
-#dr-nsov .openchart li a:hover,
-#dr-nsov .openchart li a:focus,
-#dr-nsov .openchart li a.active {
-  background-color: #fdb715; }
-
-#dr-nsov .nav-link.active, #dr-nsov .show > .nav-link {
-  color: #fdb715; }
-
-#dr-nsov .dr-cofin-type {
-  color: #fdb715; }
-
-#dr-nsov .dr-typeof {
-  float: left; }
-
-#dr-nsov .dr-amount {
-  font-size: 1.4rem !important;
-  font-weight: 200;
-  line-height: 1;
-  display: block; }
-
-#dr-nsov .dr-total {
-  padding-top: 40px;
-  clear: both;
-  font-size: 2rem !important;
-  font-weight: 200;
-  line-height: 1; }
-  #dr-nsov .dr-total strong {
-    display: block;
-    font-size: 1rem;
-    text-transform: uppercase;
-    font-weight: 700; }
-
-#dr-nsov #nonsovereign {
-  text-align: right; }
+#dr-nsov {
+  border-bottom: 1px solid #c2ccd2; }
+  #dr-nsov .breakdown-bar a {
+    display: flex !important; }
+    #dr-nsov .breakdown-bar a span {
+      border-right: 0.5vw solid #fff;
+      flex: auto;
+      height: 130px;
+      margin: 0;
+      padding: 0; }
+      #dr-nsov .breakdown-bar a span:last-of-type {
+        display: none; }
+  #dr-nsov .breakdown-bar a:hover span {
+    background-color: #fdb715; }
+    #dr-nsov .breakdown-bar a:hover span:nth-of-type(2) {
+      background-color: #f4aa3c;
+      border-right: none; }
+  #dr-nsov .dr-qt em {
+    color: #fdb715; }
+  #dr-nsov .chart li a:hover,
+  #dr-nsov .chart li a:focus,
+  #dr-nsov .chart li a.active,
+  #dr-nsov .openchart li a:hover,
+  #dr-nsov .openchart li a:focus,
+  #dr-nsov .openchart li a.active {
+    background-color: #fdb715; }
+  #dr-nsov .nav-link.active, #dr-nsov .show > .nav-link {
+    color: #fdb715; }
+  #dr-nsov .dr-cofin-type {
+    color: #fdb715; }
+  #dr-nsov .dr-typeof {
+    float: left; }
+  #dr-nsov .dr-amount {
+    font-size: 1.4rem !important;
+    font-weight: 200;
+    line-height: 1;
+    display: block; }
+  #dr-nsov .dr-total {
+    padding-top: 40px;
+    clear: both;
+    font-size: 2rem !important;
+    font-weight: 200;
+    line-height: 1; }
+    #dr-nsov .dr-total strong {
+      display: block;
+      font-size: 1rem;
+      text-transform: uppercase;
+      font-weight: 700; }
+  #dr-nsov #nonsovereign {
+    text-align: right; }
 
 #dr-partners #content .dr-why-partner {
   display: grid;
@@ -7236,7 +7289,9 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
 
 .dr-pager {
   text-align: right; }
-
+  @media (max-width: 767.98px) {
+    .dr-pager .btn {
+      display: block; } }
 #content .dr-stories-single .dr-story-title h2 {
   color: #3f4d56;
   font-size: 78px;
@@ -7244,7 +7299,10 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   line-height: 1;
   margin: 0;
   margin-bottom: 10px; }
-
+  @media (max-width: 767.98px) {
+    #content .dr-stories-single .dr-story-title h2 {
+      line-height: 1.2;
+      font-size: 48px; } }
 #content .dr-stories-single .dr-story-title h3 {
   border-bottom: 1px solid #c2ccd2;
   color: #556773;
@@ -7314,6 +7372,10 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     letter-spacing: .8rem;
     color: #556773;
     margin-top: 80px; }
+    @media (max-width: 767.98px) {
+      #content .dr-stories-single .dr-story-content h3 {
+        font-size: 18px !important;
+        letter-spacing: .4rem; } }
   #content .dr-stories-single .dr-story-content h3:after {
     content: '';
     display: block;
@@ -7391,6 +7453,14 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     font-style: italic;
     padding: 10px;
     margin-bottom: 0; }
+  @media (max-width: 767.98px) {
+    .dr-art-image.float-right, .dr-art-image.float-left {
+      float: none !important;
+      width: 100%;
+      margin: 10px; } }
+@media (max-width: 767.98px) {
+  .dr-results {
+    text-align: center; } }
 
 #content .dr-sector-img {
   margin-bottom: 20px; }
@@ -7440,6 +7510,17 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
   margin-right: 120px;
   padding: 20px 0; }
 
+@media (max-width: 991.98px) {
+  #content .dr-s2030-page-sector .lead {
+    font-size: 1rem;
+    margin: 0; }
+  #content .dr-s2030-page-sector .dr-icon {
+    display: block;
+    position: relative;
+    top: auto;
+    right: auto;
+    margin-top: 0; } }
+
 #content .dr-op-box {
   padding: 20px;
   padding-top: 0; }
@@ -7474,6 +7555,11 @@ body.device-touch.device-sm .portfolio-notitle .portfolio-overlay, body.device-t
     @media (min-width: 992px) {
       #content .dr-storybox.float-right {
         margin-right: -10% !important; } }
+  @media (max-width: 767.98px) {
+    #content .dr-storybox.float-right, #content .dr-storybox.float-left {
+      float: none !important;
+      width: 100%;
+      margin: 10px; } }
 #content .dr-icon-close {
   display: block;
   width: 48px;
@@ -14417,7 +14503,10 @@ button.toast-close-button {
     font-size: .8rem;
     padding: 10px;
     margin-bottom: 0; }
-
+    @media (max-width: 767.98px) {
+      .dr-yt .dr-caption {
+        font-size: .7rem !important;
+        padding: 3px; } }
 /* ----------------------------------------------------------------
 
 	footer.scss

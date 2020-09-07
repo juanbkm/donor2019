@@ -7,7 +7,7 @@ trust_funds_contribution: "$78.2 million"
 partner_logo:
 draft: false
 --- 
-Currently, [The Netherlands](https://www.adb.org/publications/netherlands-fact-sheet) focuses its development support on Afghanistan, Bangladesh, Cambodia, Indonesia, India, Lao PDR, Myanmar, Nepal, Pakistan, and Viet Nam. Its aid focuses on reproductive and sexual health and rights, water, food security, and security and the rule of law. It also provides support to gender equality, environment and climate change.
+Currently, [The Netherlands](https://www.adb.org/publications/netherlands-fact-sheet) focuses its development support on Afghanistan, Bangladesh, Cambodia, Indonesia, India, Lao PDR, Myanmar, Nepal, Pakistan, and Viet Nam. Its aid, channeled through the [Ministry of Foreign Affairs](https://www.government.nl/ministries/ministry-of-foreign-affairs), focuses on reproductive and sexual health and rights, water, food security, and security and the rule of law. It also provides support to gender equality, environment and climate change.
 
 Its support to the Netherlands Trust Funds under the Water Financing Partnership Facility extends until 2020,through its $9.5 million additional contribution to the Fund in 2017. The country is the sole contributor to this fund. The fund prioritizes activities designed to increase access to safe drinking water and improved sanitation, enhance productivity and efficiency of irrigation and drainage services, and reduce risk of flooding. Their activities also seek to improve sustainable management of water resources, increase knowledge and capacity, improve sector governance, and increase focus on water-food security nexus. 
 
@@ -15,12 +15,7 @@ Its support to the Netherlands Trust Funds under the Water Financing Partnership
 
 * [Cooperation Fund in Support of Managing for Development Results](./modalities/trust-funds/multi-partner-trust-funds/#cfsmdr) 
 * [Netherlands Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#ntf) 
- 
-#### Development Assistance Agency
-
-* [Ministry of Foreign Affairs](https://www.government.nl/ministries/ministry-of-foreign-affairs)  
-
-<split>
+ <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects
 
 <table class="table dr-partner-table">

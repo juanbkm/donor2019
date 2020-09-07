@@ -7,20 +7,16 @@ trust_funds_contribution: "$21.4 million"
 partner_logo:
 draft: false
 ---
-[Luxembourg](https://www.adb.org/publications/luxembourg-fact-sheet) supports local development (agriculture and food security, decentralization and local governance, natural resources management, water and sanitation); education (vocational training and access to employment); health; microfinance and finance; renewable energies.
+[Luxembourg](https://www.adb.org/publications/luxembourg-fact-sheet) supports local development (agriculture and food security, decentralization and local governance, natural resources management, water and sanitation); education (vocational training and access to employment); health; microfinance and finance; and renewable energies.
 
 Its main partner countries in Asia include Lao PDR, where it supports initiatives on health, Technical and Vocational Education and Training, and local development, and Viet Nam, where it supports local development, health, and vocational training. It also provides development assistance to Myanmar in the fields of education and tourism. Its financing partnership with ADB has included support for technnical assistance on financial system strengthening in Azerbaijan, Cambodia, Indonesia, Kyrgyz, Mongolia, Lao PDR, and Viet Nam. 
+
+Luxembourg manages its international cooperation and official development assistance (ODA) through the [Development Cooperation Directorate of the Ministry of Foreign and European Affairs](https://cooperation.gouvernement.lu/en.html) while its [Ministry of Finance](https://mfin.gouvernement.lu/en.html) (MOF)handles cooperation with international financial institutions. The [Lux-Development](https://luxdev.lu/en/home) (LuxDev) implements Luxembourg’s bilateral ODA and implements cooperation projects with partners in developing countries. 
 
 #### Active Trust Fund
 
 * [Financial Sector Development Partnership Fund](./modalities/trust-funds/multi-partner-trust-funds/#fsdpf) 
- 
-#### Development Assistance Agencies
- 
-* [Development Cooperation Directorate of the Ministry of Foreign and European Affairs](https://cooperation.gouvernement.lu/en.html) 
-* [Ministry of Finance](https://mfin.gouvernement.lu/en.html)  
-* [Lux-Development](https://luxdev.lu/en/home)  
-
+  
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Project
 

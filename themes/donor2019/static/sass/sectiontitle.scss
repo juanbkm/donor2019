@@ -41,14 +41,14 @@
 		.dark & { color: rgba($white,0.9) !important; }
 		@include media-breakpoint-down(sm) {
 			line-height: 1.5;
-			font-size: round($page-title-size / 1.17);
+			font-size: round($page-title-size / .58);
 		}
 	}
 	&#dr-section-overview h2 {
 		font-size: 64px;
 		@include media-breakpoint-down(sm) {
 			line-height: 1.5;
-			font-size: round($page-title-size / 1.17);
+			font-size: round($page-title-size / .58);
 		}
 	}
 
@@ -60,6 +60,10 @@
 		letter-spacing: 1px;
 		font-size: 18px;
 		font-weight: 300;
+		@include media-breakpoint-down(sm) {
+			line-height: 1.5;
+			font-size: 16px;
+		}
 	}
 	span {
 		display: block;

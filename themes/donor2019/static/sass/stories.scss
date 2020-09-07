@@ -9,6 +9,10 @@
             line-height: 1;
             margin: 0;
             margin-bottom: 10px;
+            @include media-breakpoint-down(sm) {
+                line-height: 1.2;
+                font-size: round($page-title-size / .58);
+            }
         }
         h3 {
             border-bottom: 1px solid lighten($adb-dr-gray, 40%);
@@ -19,6 +23,8 @@
             margin-bottom: 20px;
             padding: 20px 0;
             //text-transform: capitalize;
+           
+            
         }
         
         
@@ -93,6 +99,10 @@
             letter-spacing: .8rem;
             color: $adb-dr-gray;
             margin-top: $margin-big;
+            @include media-breakpoint-down(sm) {
+                font-size: 18px !important;    
+                letter-spacing: .4rem;
+            }
         }
         h3:after {
             content: '';
@@ -194,4 +204,17 @@
         padding: 10px;
         margin-bottom: 0;
     }
+    @include media-breakpoint-down(sm) {
+        &.float-right, &.float-left {
+            float: none !important;
+            width: 100%;
+            margin: 10px;
+        }
+    }
+}
+
+.dr-results {
+    @include media-breakpoint-down(sm) {
+        text-align: center;
+    }   
 }

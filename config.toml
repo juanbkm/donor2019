@@ -6,8 +6,10 @@ title = "Partnership Report 2019"
 
 [params]
   # meta data
-  author = "Juan"
-  description = "This is meta description"
+  author = "Asian Development Bank (ADB)"
+  title = "ADB Partnership Report 2019: Building Strong Partnerships for Shared Progress"
+  description = "ADB Strategy 2030 works to eradicate extreme poverty while expanding its vision of a prosperous, inclusive, resilient, and sustainable Asia and the Pacific. Financing partnerships are critical to delivering this vision. The 2019 ADB Partnership Report highlights many exciting and impactful examples of ADB financing partnerships (“cofinancing”) in both the ADB’s sovereign and nonsovereign operations. These examples illustrate how cofinancing partnerships are delivering concrete impacts on the ground, how they are aligned with the ADB Strategy 2030’s seven operational priorities, and how cofinancing amplifies ADB’s private sector operations. It features stories and summaries of how these partnerships have made a significant difference in the lives of the poor."
+  keywords = "Sovereign financing partnerships, cofinancing, co-financing, private sector cofinancing, nonsovereign cofinancing, ADB Partnerships Report, ADB Donor Report, development cofinancing, ADB cofinancing operations, strong partnerships, shared progress, ADB Strategy 2030 operational priorities, trust funds, project specific cofinancing, financing partnership facilities"
 
 # Site Menus
 [menu]

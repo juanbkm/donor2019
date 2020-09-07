@@ -57,7 +57,7 @@ An important part of the project is the development of a National Road Safety St
 
 At the Sarazm border post, new facilities provide comfort and ease to tourists&mdash;a new administrative building, a new customs control building, two new checkpoints, gender-friendly toilet facilities, parking lots, street lighting, and landscaping.
 
-{{< dr-yt video="l2A3PZMSfyA" align="" title="Rebuilding the Road to the Border" cover="cover-yt-rebuilding-the-road-to-the-border.jpg" caption="Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the OPEC Fund for International Development, the new road links to a cross-country highway that serves as conduit for trade goods." >}}
+{{< dr-bc video="6188383390001" align="" title="Rebuilding the Road to the Border" cover="cover-yt-rebuilding-the-road-to-the-border.jpg" caption="Trade and tourism are booming in western Tajikistan after the rehabilitation of a road that leads to the border with Uzbekistan. A collaboration between the ADB and the OPEC Fund for International Development, the new road links to a cross-country highway that serves as conduit for trade goods." >}}
 
 ### Results
 

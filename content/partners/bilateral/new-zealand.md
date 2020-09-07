@@ -10,14 +10,9 @@ partner_logo:
 draft: false
 ---
 
-[New Zealand](https://www.adb.org/publications/new-zealand-fact-sheet) extends development assistance primarily to Pacific countries and the ASEAN, including Cambodia, Indonesia, the Lao People's Democratic Republic, Myanmar, the Philippines, Timor-Leste, and Viet Nam. The sectors it prioritizes include ICT, education, energy, oceans and fisheries, health, rural development, transport. Its development support also tackles themes such as governance, security, economic development, climate change, disaster risk management, economic and policy work, human development and labor mobility, social protection, trade and private sector.  
+[New Zealand](https://www.adb.org/publications/new-zealand-fact-sheet) extends development assistance primarily to Pacific countries and the ASEAN, including Cambodia, Indonesia, the Lao People's Democratic Republic, Myanmar, the Philippines, Timor-Leste, and Viet Nam. The sectors it prioritizes include ICT, education, energy, oceans and fisheries, health, rural development, transport. Its development support, provided through the [Ministry of Foreign Affairs and Trade](https://www.mfat.govt.nz/) and [New Zealand’s International Aid and Development Agency](https://www.mfat.govt.nz/en/aid-and-development/), also tackles themes such as governance, security, economic development, climate change, disaster risk management, economic and policy work, human development and labor mobility, social protection, trade and private sector.  
 
 In 2019, New Zealand expressed support to the [Pacific Renewable Energy Program](https://www.adb.org/projects/52329-001/main), an umbrella facility financing support to private sector investment in renewable power projects in Pacific island countries. The same year, ADB and New Zealand co-chaired high-level consultation meetings in Manila. The discussed topics related to implementing organizational strategies, ADB financing and business processes, promoting good governance, thematic issues, and future cooperation between New Zealand and ADB. 
-
-#### Development Assistance Agencies 
-
-* [Ministry of Foreign Affairs and Trade](https://www.mfat.govt.nz/)  
-* [New Zealand’s International Aid and Development Agency](https://www.mfat.govt.nz/en/aid-and-development/)  
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects

@@ -10,7 +10,7 @@ partner_logo:
 draft: false
 ---
 
-Although trade issues have become a major part of its foreign policy agenda in recent years, the <a href="https://www.adb.org/publications/united-states-fact-sheet" target="_blank">United States of America (USA)</a> has continued to support development in Asia, especially in the sectors of agriculture, democracy and governance, economic growth; environment, education and training, global health, global partnerships, and humanitarian assistance. Its priority themes include broadly shared economic prosperity; democracy and good governance; global health, food security, environmental sustainability and education; prevention and recovery from conflicts; and humanitarian assistance in the wake of natural and man-made disasters. 
+Although trade issues have become a major part of its foreign policy agenda in recent years, the [United States of America (USA)](https://www.adb.org/publications/united-states-fact-sheet) has continued to support development in Asia, especially in the sectors of agriculture, democracy and governance, economic growth; environment, education and training, global health, global partnerships, and humanitarian assistance. Its priority themes include broadly shared economic prosperity; democracy and good governance; global health, food security, environmental sustainability and education; prevention and recovery from conflicts; and humanitarian assistance in the wake of natural and man-made disasters. 
 
 The [United States Agency for International Development](https://www.usaid.gov/) (USAID) is the country’s lead development institution. It advances U.S. national security and economic prosperity and promotes a path to recipient self-reliance and resilience. In 2019, it merged the offices of US Foreign Disaster Assistance and Food for Peace to create the Bureau for Humanitarian Assistance. It also created three new bureaus: Bureau for Conflict-Prevention and Stabilization, Bureau for Resilience and Food Security, and Bureau for Asia. 
 
@@ -20,9 +20,6 @@ The [United States Agency for International Development](https://www.usaid.gov/)
 * [Afghanistan Infrastructure Trust Fund](./modalities/trust-funds/multi-partner-trust-funds/#aitf)  
 * [Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#uccrtf)
 
-#### Development Assistance Agency 
-
-* [United States Agency for International Development]((https://www.usaid.gov/))  
   
 <split>
 

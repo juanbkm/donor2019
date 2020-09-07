@@ -11,7 +11,7 @@ trust_funds_contribution_2019:
 partner_logo:
 draft: false
 ---
-[Norway](https://www.adb.org/publications/norway-fact-sheet)’s development aid prioritizes education, global health and vaccination, macroeconomics and public administration, private sector development, climate change adaptation and mitigation, environment, energy, democracy and good governance, marine pollution, and human rights. It has supported Afghanistan, Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, the People's Republic of China, Sri Lanka, and Viet Nam. 
+[Norway](https://www.adb.org/publications/norway-fact-sheet)’s development aid prioritizes education, global health and vaccination, macroeconomics and public administration, private sector development, climate change adaptation and mitigation, environment, energy, democracy and good governance, marine pollution, and human rights. Through its [Ministry of Foreign Affairs](https://www.regjeringen.no/en/dep/ud/id833/) and the [Norwegian Agency for Development Cooperation](https://norad.no/en/front/), Norway has supported Afghanistan,Bangladesh, India, Indonesia, Myanmar, Nepal, Pakistan, the People's Republic of China, Sri Lanka, and Viet Nam. 
 
 In November 2019, ADB and the Government of Norway signed the cofinancing agreement for an untied grant amounting to $40 million to support the proposed South Asia Subregional Economic Cooperation Power Transmission and Distribution Sector Strengthening Project. In December 2019, Norway made an additional US$3.25 million contribution to the Clean Energy Fund. 
 
@@ -23,11 +23,6 @@ In November 2019, ADB and the Government of Norway signed the cofinancing agreem
 * [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf) 
 * [Multi-Donor Trust Fund under the Water Financing Partnership Facility](./modalities/financing-partnership-facilities/water-financing-partnership-facility/#mdtf)  
  
-#### Development Assistance Agencies 
-
-* [Ministry of Foreign Affairs](https://www.regjeringen.no/en/dep/ud/id833/)  
-* [Norwegian Agency for Development Cooperation](https://norad.no/en/front/)
-
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects
 

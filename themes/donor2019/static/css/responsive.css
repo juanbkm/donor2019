@@ -1576,7 +1576,7 @@
 		padding: 0 15px;
 	}
 
-	.portfolio-filter li { width: 50%; }
+	.portfolio-filter li { width: 100%; }
 
 	.portfolio:not(.portfolio-1) { margin: 0; }
 

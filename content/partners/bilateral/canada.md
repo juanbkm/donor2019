@@ -7,7 +7,9 @@ project_specific_cofinancing: "$234.8 million"
 trust_funds_contribution: "$264.6 million"
 draft: false
 ---
-[Canada](https://www.adb.org/publications/canada-fact-sheet)’s priority themes are: (i) gender equality; (ii) increasing food security: food aid and nutrition; sustainable agricultural development particularly for small-scale farmers and women; (iii) securing the future of children and youth: access to quality education; maternal and child health; (iv) stimulating sustainable and inclusive economic growth: building economic foundations; growing businesses; and (v) innovations in international assistance.  
+ADB works mainly with [Global Affairs Canada](https://www.international.gc.ca/gac-amc/index.aspx?lang=eng) (formerly Department of Foreign Affairs, Trade, and Development), which manages [Canada](https://www.adb.org/publications/canada-fact-sheet)'s diplomatic and consular relations, encourages Canadian international trade, and leads Canada's international development and humanitarian assistance.
+
+Canada’s priority themes are: (i) gender equality; (ii) increasing food security: food aid and nutrition; sustainable agricultural development particularly for small-scale farmers and women; (iii) securing the future of children and youth: access to quality education; maternal and child health; (iv) stimulating sustainable and inclusive economic growth: building economic foundations; growing businesses; and (v) innovations in international assistance.  
 
 Canada’s priority sectors for development assistance are gender, governance, private sector development, and health, while special attention is given to fragile and conflict-affected and small island developing states.
 
@@ -22,10 +24,6 @@ Canada’s priority sectors for development assistance are gender, governance, p
 * [Governance Cooperation Fund](./modalities/trust-funds/multi-partner-trust-funds/#gcf) 
 * [Integrated Disaster Risk Management Fund](./modalities/trust-funds/single-partner-trust-funds/#idrmf)
 * [Regional Malaria and Other Communicable Disease Threats Trust Fund under the Health Financing Partnership Facility](./modalities/financing-partnership-facilities/health-financing-partnership-facility/#rmocdttf)
-
-#### Development Assistance Agency
-
-* [Global Affairs Canada](https://www.international.gc.ca/gac-amc/index.aspx?lang=eng) (formerly Department of Foreign Affairs, Trade, and Development)
 
 <split>
 ##### _1 January 2014–31 December 2019_ Cofinanced Projects

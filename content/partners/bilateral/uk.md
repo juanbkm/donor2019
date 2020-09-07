@@ -9,9 +9,10 @@ trust_funds_contribution_2019:
 partner_logo:
 draft: false
 ---
-The <a href="https://www.adb.org/publications/united-kingdom-fact-sheet" target="_blank">United Kingdom’s (UK)</a> development assistance aims to promote sustainable development and eliminate world poverty. Through the [Department of International Development](https://www.gov.uk/government/organisations/department-for-international-development) (DFID), UK has been supporting projects in Afghanistan, Bangladesh, selected states in India, Myanmar, Nepal, and Pakistan. DFID has different priority themes for each of these countries, but generally, its projects prioritize job creation, gender, health care, education, private sector and trade, and governance. At the regional level, DFID also supports trade and connectivity programs in Central West and South Asia.  
+The [United Kingdom]("https://www.adb.org/publications/united-kingdom-fact-sheet")’s (UK)</a> development assistance aims to promote sustainable development and eliminate world poverty. Through the [Department of International Development](https://www.gov.uk/government/organisations/department-for-international-development) (DFID), UK has been supporting projects in Afghanistan, Bangladesh,selected states in India, Myanmar, Nepal, and Pakistan. DFID has different priority themes for each of these countries, but generally, its projects prioritize job creation, gender, health care, education, private sector and trade, and governance. At the regional level, DFID also supports trade and connectivity programs in Central West and South Asia. Other UK agencies involved in international coordination and the provision of development assistance include the (i) [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy), (ii) the [Foreign Commonwealth Office](https://www.gov.uk/government/organisations/foreign-commonwealth-office), (iii) the [Conflict, Stability and Security Fund](https://www.gov.uk/government/organisations/conflict-stability-and-security-fund), (iv) [the Department for Environment, Food and Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs), (v) [the BBC World Service](https://www.bbc.com/), (vi) [HM Revenue and Customs](https://www.gov.uk/government/organisations/hm-revenue-customs/about/our-governance), (vii) [Prosperity Fund](https://www.gov.uk/government/publications/cross-government-prosperity-fund-programme) and (viii) [the Scottish Government](https://www.gov.scot/).   
 
 ADB and UK sought ways to deepen their collaboration in Asia and the Pacific during a high-level consultation in January 2019 and ADB President Nakao’s visit to the UK in September 2019. The topics they discussed included gender, climate change, differentiated pricing, and areas of mutual interest such as integrity (including safeguards and supply chains, gender, sexual harassment, procurement and fraud reporting), gender, climate change, disability and fragile, conflict affected situations. 
+
 
 #### Active Trust Funds 
 
@@ -22,12 +23,6 @@ ADB and UK sought ways to deepen their collaboration in Asia and the Pacific dur
 * United Kingdom Fund for Asia Regional Trade and Connectivity under the Regional Cooperation and Integration Financing Partnership Facility
 * [Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility](./modalities/financing-partnership-facilities/urban-financing-partnership-facility/#uccrtf)
 
-#### Development Assistance Agencies 
-
-* [Department for International Development](https://www.gov.uk/government/organisations/department-for-international-development) 
-* [Department for Business, Energy & Industrial Strategy](https://www.gov.uk/government/organisations/department-for-business-energy-and-industrial-strategy) 
-* [Foreign Commonwealth Office](https://www.gov.uk/government/organisations/foreign-commonwealth-office) 
-* Other key agencies, including the [Conflict, Stability and Security Fund](https://www.gov.uk/government/organisations/conflict-stability-and-security-fund), [the Department for Environment, Food and Rural Affairs](https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs), [the BBC World Service](https://www.bbc.com/), [HM Revenue and Customs](https://www.gov.uk/government/organisations/hm-revenue-customs/about/our-governance), [Prosperity Fund](https://www.gov.uk/government/publications/cross-government-prosperity-fund-programme), and [the Scottish Government](https://www.gov.scot/) 
 
 <split>
 

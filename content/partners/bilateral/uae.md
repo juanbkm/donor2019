@@ -11,6 +11,3 @@ The United Arab Emirates prioritizes education, energy, finance and trade, healt
 
 In 2012, ADB and Abu Dhabi Fund signed a [Memorandum of Understanding](https://www.adfd.ae/Lists/Publications%20Image%20Library/English%20Annual%20Report%202012.pdf) on cofinancing arrangements 2012–2015. This has since been extended to cover 2015–2020.
 
-#### Development Assistance Agency 
-
-* [Abu Dhabi Fund for Development](https://www.adfd.ae/english/Pages/Home.aspx)
