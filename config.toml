@@ -1,4 +1,13 @@
+# test
 baseURL = "http://fightpompe.com/donor2019/"
+
+# staging
+# baseURL = "http://adbpublicstg.prod.acquia-sites.com/multimedia/partnership-report2019/"
+
+# live
+#baseURL = "https://www.adb.org/multimedia/partnership-report2019/"
+
+
 languageCode = "en-us"
 theme = "donor2019"
 summaryLength = 10

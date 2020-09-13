@@ -36,6 +36,10 @@ li {
       line-height: 1;
       margin: 0;
       margin-bottom: 20px;
+      @include media-breakpoint-down(sm) {
+        line-height: 1.2;
+        font-size: round($page-title-size / .58);
+      }
     }
     p {
       font-size: 1.2rem;

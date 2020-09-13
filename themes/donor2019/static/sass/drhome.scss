@@ -12,6 +12,14 @@
     font-size: 4.3rem;
     color: $adb-accent-orange;
   }
+
+  @include media-breakpoint-down(lg) {
+    h1 {
+      font-size: 3.6rem;
+    }
+  }
+
+  /*
   @media only screen and (max-width: 940px) {
     h1 {
       font-size: 3.8rem;
@@ -20,10 +28,12 @@
   } 
   @media only screen and (max-width: 839px) {
     h1 {
-      font-size: 3.4rem;
+      font-size: 3rem;
     }
 
   }  
+  */
+
 
   .section-1 .section-1a {
     padding-left: 30px;
@@ -194,6 +204,13 @@
 
   .section-1 .flex-container-1a .fb:nth-child(3) .content-text img {
     margin: 0 auto;
+    transition: all ease-in-out 0.3s;
+    
+  }
+
+  .section-1 .flex-container-1a .fb:nth-child(3) .content-text img:hover {
+    transform: scale(1.2);
+    transition: all ease-in-out 0.3s;
   }
 
   .section-1 .flex-container-1a .fb:nth-child(7) .content-text {

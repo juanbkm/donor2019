@@ -1,5 +1,14 @@
 <head>
 	{{$section := .Section}}
+
+	{{ "<!-- Google Tag Manager -->" | safeHTML }}
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-T2CG99');</script>
+	{{ "<!-- End Google Tag Manager -->" | safeHTML }}
+
 	<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -16,7 +25,7 @@
 	<link rel="publisher" href="http://www.adb.org" />
 
 	<meta name="original-source" content="{{ .Site.BaseURL }}" />
-	<meta property="og:title" content="{{ .Site.Params.keywords }}" />
+	<meta property="og:title" content="{{ .Site.Params.title }}" />
 	<meta property="og:site_name" content="Asian Development Bank" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="{{ .Site.BaseURL }}" />
@@ -37,26 +46,26 @@
 	============================================= -->
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
   {{ "<!-- bootstrap css -->" | safeHTML}}
-	<link rel="stylesheet" href="{{ `css/bootstrap.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/bootstrap.css` | relURL }}" type="text/css" />
 
-	<link rel="stylesheet" href="{{ `style.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/swiper.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/dark.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/font-icons.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/animate.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `style.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/swiper.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/dark.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/font-icons.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/animate.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/magnific-popup.css` | relURL }}" type="text/css" />
 
-	<link rel="stylesheet" href="{{ `css/responsive.css` | absURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/responsive.css` | relURL }}" type="text/css" />
 
-  <link rel="stylesheet" href="{{ `css/tooltipster.bundle.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/tooltipster-sideTip-shadow.min.css` | absURL }}" type="text/css" />
+  <link rel="stylesheet" href="{{ `css/tooltipster.bundle.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/tooltipster-sideTip-shadow.min.css` | relURL }}" type="text/css" />
 	{{ if eq $section "projects" }}
-  <link rel="stylesheet" href="{{ `css/accordion.css` | absURL }}" type="text/css" />
-	<link rel="stylesheet" href="{{ `css/map.css` | absURL }}" type="text/css" />
+  <link rel="stylesheet" href="{{ `css/accordion.css` | relURL }}" type="text/css" />
+	<link rel="stylesheet" href="{{ `css/map.css` | relURL }}" type="text/css" />
 	{{ end }}
 
 	{{ if eq $section "private-sector" }}
-  <link rel="stylesheet" href="{{ `css/accordion.css` | absURL }}" type="text/css" />
+  <link rel="stylesheet" href="{{ `css/accordion.css` | relURL }}" type="text/css" />
 	{{ end }}
 
 	<meta name="viewport" content="width=device-width, initial-scale=1" />

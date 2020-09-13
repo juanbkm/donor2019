@@ -5,9 +5,9 @@
       <h2>{{ range .Pages }}{{ .Title }}{{ end }}</h2>
       <p class="lead">{{ range .Pages }}{{.Params.lead | markdownify}}{{ end }}</p>
     </div>
-    <div class="col-md-5">
+    <div class="col-md-5 dr-sectionimage">
       {{ with .Params.section_image }}
-        <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
+        <img src="{{ . | absURL }}" alt="">
       {{ end }}
     </div>
   </div>

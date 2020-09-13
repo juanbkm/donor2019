@@ -82,7 +82,7 @@ Decentralized Wastewater Treatment Plants</a></td>
 </tr>
 
 <tr>
-<td>People's Republic of China</td>
+<td rowspan="2">People's Republic of China</td>
 <td><a href="https://www.adb.org/projects/53088-001/main" target="_blank">Rural Vitalization—Rural Wastewater Treatment and Environmental Management</a></td>
 <td>0.50 </td>
 <td>TA</td>
@@ -95,7 +95,7 @@ Decentralized Wastewater Treatment Plants</a></td>
 </tr>
 
 <tr>
-<td rowspan="3">Regional</td>
+<td rowspan="4">Regional</td>
 <td><a href="https://www.adb.org/projects/42384-012/main" target="_blank">Knowledge and Innovation Support for ADB's Water Financing Program (Supplementary)</a></td>
 <td>2.00 </td>
 <td>TA</td>

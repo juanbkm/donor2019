@@ -12,9 +12,9 @@
         {{ end }}
         
     </div>
-    <div class="col-md-6">
+    <div class="col-md-6 dr-sectionimage">
         {{ with .Params.section_image }}
-        <div class="dr-sectionimage"><img src="{{ . | absURL }}" alt=""></div>
+        <img src="{{ . | absURL }}" class="img-fluid" alt="">
         {{ end }}
     </div>
 </div>

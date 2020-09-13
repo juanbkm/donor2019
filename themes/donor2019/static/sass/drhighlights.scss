@@ -251,7 +251,7 @@
 -----------------------------------------------------------------*/
 
 #dr-data-commitments {
-  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+  .col-md-9 {border-bottom: 1px solid lighten($adb-dr-gray, 40%);}
 
   .dr-qt em {
     color: $adb-main-blue-one;
@@ -392,7 +392,7 @@
 	DR Who
 -----------------------------------------------------------------*/
 #dr-who {
-  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+  .chart-border-bottom {border-bottom: 1px solid lighten($adb-dr-gray, 40%);}
   .dr-qt em {
     color: $adb-accent-orange;
   }
@@ -443,7 +443,7 @@
 	DR Where
 -----------------------------------------------------------------*/
 #dr-where {
-  border-bottom: 1px solid lighten($adb-dr-gray, 40%);
+  .chart-border-bottom {border-bottom: 1px solid lighten($adb-dr-gray, 40%);}
   .dr-qt em {
     color: $adb-main-blue-eleven;
     

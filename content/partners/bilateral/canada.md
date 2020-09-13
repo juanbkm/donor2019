@@ -174,7 +174,7 @@ Additional Financing</a></td>
 
 </tr>
 <tr>
-<td rowspan="10">Regional</td>
+<td rowspan="12">Regional</td>
 <td><a
 href="https://www.adb.org/projects/50410-001/main" target="_blank">ASEAN Distributed Power</a></td>
 <td>20.00 </td>

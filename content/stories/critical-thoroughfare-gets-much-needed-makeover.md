@@ -1,7 +1,7 @@
 ---
 title: "Critical Thoroughfare Gets Much Needed Makeover"
 date: 2020-05-30T08:15:00+08:00
-image: images/stories/critical-thoroughfare-gets-much-eeded-makeover.jpg
+image: images/stories/south-tarawa.jpg
 image_caption: "**Island Connection.** People from the western and eastern parts of Tarawa Atoll in Kiribati now have safer and more efficient mobility after the South Tarawa Road is rehabilitated."
 image_thumb: images/stories/critical-thoroughfare-gets-much-eeded-makeover-th.jpg
 author: Admin

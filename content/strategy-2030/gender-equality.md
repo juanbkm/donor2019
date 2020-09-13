@@ -36,7 +36,7 @@ ADB was awarded a further $20.2 million from We-Fi to finance the [Women Acceler
 
 ### Gender Equality in Human Development
 
-{{< dr-storybox src="images/stories/smes-mainstream-women-into-sri-lankas-economy-th.jpg" url="/stories/access-to-credit-empowers-sri-lankan-women/" title="Women Entrepreneurs Gain Credit Access" align="right" alt="" caption="Entrepreneurial women in Sri Lanka are getting access to credit lines in local banks through a financing partnership between ADB, We-Fi, and JFPR." >}}
+{{< dr-storybox src="images/stories/smes-mainstream-women-into-sri-lankas-economy-th.jpg" url="./stories/access-to-credit-empowers-sri-lankan-women/" title="Women Entrepreneurs Gain Credit Access" align="right" alt="" caption="Entrepreneurial women in Sri Lanka are getting access to credit lines in local banks through a financing partnership between ADB, We-Fi, and JFPR." >}}
 
 ADB and its partners continue to support its developing member countries in fostering a gender-responsive environment conducive to human development. The [Indonesia: Impact of Adolescent Nutrition Support on Development Outcomes](https://www.adb.org/projects/51354-001/main#project-pds), supported by a $2 million grant from the [Japan Fund for Poverty Reduction](./modalities/trust-funds/single-partner-trust-funds/#jfpr) (JFPR), will develop nutrition-enhancing programs and policies targeting adolescent girls and young women.
 

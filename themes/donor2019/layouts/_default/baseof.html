@@ -3,6 +3,11 @@
 	{{- partial "head.html" . -}}
 	{{$section := .Section}}
 <body id="dr-{{$section}}" class="stretched">
+	{{ "<!-- Google Tag Manager (noscript) -->" | safeHTML }}
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T2CG99"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	{{ "<!-- End Google Tag Manager (noscript) -->" | safeHTML }}
+
 	{{ "<!-- Document Wrapper -->" | safeHTML }}
 	
 	<div id="wrapper" class="clearfix">
@@ -19,8 +24,8 @@
 					<!-- Logo
 					============================================= -->
 					<div id="logo">
-						<a href="{{ .Site.BaseURL }}" class="standard-logo" data-dark-logo="images/logo-dark.png"><img src="images/logo.png" alt="Asian Development Bank"></a>
-						<a href="{{ .Site.BaseURL }}" class="retina-logo" data-dark-logo="images/logo-dark@2x.png"><img src="images/logo@2x.png" alt="Asian Development Bank"></a>
+						<a href="{{ .Site.BaseURL }}" class="standard-logo"><img src="{{ `./images/logo.png` | relURL }}" alt="Asian Development Bank"></a>
+						<a href="{{ .Site.BaseURL }}" class="retina-logo"><img src="{{ `./images/logo@2x.png` | relURL }}" alt="Asian Development Bank"></a>
 					</div><!-- #logo end -->
 
 					<!-- Primary Navigation
@@ -61,13 +66,13 @@
 
 	<!-- External JavaScripts
 	============================================= -->
-	<script src="{{ `js/jquery.js` | absURL }}"></script> 
-	<script src="{{ `js/plugins.js` | absURL }}"></script>
+	<script src="{{ `js/jquery.js` | relURL }}"></script> 
+	<script src="{{ `js/plugins.js` | relURL }}"></script>
 
 	
 	{{$section := .Section}}
 	{{ if eq $section "projects" | or $section "overview" }}
-	<script src="{{ `js/tooltipster.bundle.js` | absURL }}"></script>
+	<script src="{{ `js/tooltipster.bundle.js` | relURL }}"></script>
   <script>
     $(document).ready(function() {
       $('.maptooltip').tooltipster({
@@ -91,12 +96,12 @@
 
 	<!-- Footer Scripts
 	============================================= -->
-	<script src="{{ `js/functions.js` | absURL }}"></script>
+	<script src="{{ `js/functions.js` | relURL }}"></script>
 
 	{{ if eq $section "projects" }}
 	<!-- Map Scripts
 	============================================= -->
-	<script src="{{ `js/accordion.js` | absURL }}"></script>
+	<script src="{{ `js/accordion.js` | relURL }}"></script>
 	<script>
 		new Accordion('.reg-container'); 
 		new Accordion('.azerbaijan-container');
@@ -130,7 +135,7 @@
 	{{ if eq $section "private-sector" }}
 	<!-- Map Scripts
 	============================================= -->
-	<script src="{{ `js/accordion.js` | absURL }}"></script>
+	<script src="{{ `js/accordion.js` | relURL }}"></script>
 	<script>
 		new Accordion('#comcof .nsov-projects');
 		new Accordion('#ofcof .nsov-projects'); 

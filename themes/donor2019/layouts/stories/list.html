@@ -26,10 +26,10 @@
                 <article class="portfolio-item {{ range .Params.filter }}{{ . }} {{ end }} clearfix">
                     <div class="portfolio-image">
                         <a href="{{.Permalink}}">
-                            <img src="{{ with .Params.image }}{{ . | absURL }}{{ end }}" alt="">
+                            <img src="{{ with .Params.image }}{{ . | relURL }}{{ end }}" alt="">
                         </a>
                         <div class="portfolio-overlay">
-                            <a href="{{ with .Params.image }}{{ . | absURL }}{{ end }}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
+                            <a href="{{ with .Params.image }}{{ . | relURL }}{{ end }}" class="left-icon" data-lightbox="image"><i class="icon-line-plus"></i></a>
                             <a href="{{.Permalink}}" class="right-icon"><i class="icon-line-ellipsis"></i></a>
                         </div>
                     </div>
