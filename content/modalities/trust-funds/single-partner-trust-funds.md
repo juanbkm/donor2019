@@ -172,10 +172,10 @@ tf:
       This fund provides financial incentives to promote the adoption of advanced low carbon technologies in ADB financed sovereign and nonsovereign projects. It provides grants and technical assistance to ADB projects that use the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. In 2019, the fund was replenished by $9.25 million. It also cofinanced a project with ADB that seeks to improve [Mongolia’s health system](https://www.adb.org/projects/49173-004/main#project-pds) to benefit its disadvantaged groups.
   - item:
     type: single
-    name: Japan Scholarship Program
+    name: ADB-Japan Scholarship Program
     id: jsp
     url: https://www.adb.org/site/funds/funds/japan-scholarship-program-jsp
-    year: 2014
+    year: 1988
     image:
     tcc: $186.6 million  
     sa: 3,917 
@@ -285,4 +285,4 @@ Of the $181 million allocated by trust funds, $58 million (32%) were from single
 
 {{< dr-artimage src="./images/modalities/sptf-chart.svg" width="100%" >}}
 
-{{< sptf >}}
+{{< sptf >}} 

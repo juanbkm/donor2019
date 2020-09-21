@@ -17,7 +17,7 @@ fund_source:
   - name: "Viet Nam"
     amount: "$23.2 million"
 fin_partners: 
-  - name: "Netherlands Trust Fund"
+  - name: "Netherlands Trust Fund under the Water Financing Partnership Facility"
     amount: "$750,000" 
 approval: "November 2018"
 signing: "28 December 2018"

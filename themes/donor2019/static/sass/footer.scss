@@ -29,6 +29,12 @@
 	.footer-widgets-wrap {
 		position: relative;
 		padding: $content-padding 0;
+		a {
+			color: rgba($color: #ffffff, $alpha: 1.0);
+		}
+		a:hover {
+			color: rgba($color: #ffffff, $alpha: 0.5);
+		}
 	}
 	#copyrights p
 	 {

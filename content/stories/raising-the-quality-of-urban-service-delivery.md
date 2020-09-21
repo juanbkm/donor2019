@@ -17,7 +17,7 @@ fund_source:
   - name: "India"
     amount: "$110 million"
 fin_partners:
-  - name: "Sanitation Financing Partnership Trust Fund"
+  - name: "Sanitation Financing Partnership Trust Fund under the Water Financing Partnership Facility"
     amount: "$2 million"
 approval: "October 2014"
 signing: "11 Sep 2015"

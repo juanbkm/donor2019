@@ -25,7 +25,7 @@ tf:
       In 2019, through the Afghanistan Infrastructure Trust Fund (AITF), the ANA Trust Fund provided $93 million in replenishment funds. AITF is a platform that facilitates financing for infrastructure development in Afghanistan. It provides technical assistance and grants for the construction of roads, railways, airports, energy infrastructure, and water management and irrigation facilities. AITF’s investments are closely aligned with Afghanistan’s development priorities, including the National Peace and Development Framework, the self-reliance agendas, the National Infrastructure Plan, and other national priority programs. Both ADB and Afghanistan are working together to attract more donors and partners to finance and cofinance projects for Afghanistan by contributing to the AITF. 
   - item:
     type: multi
-    name: Asia Pacific Climate Finance Fund 
+    name: Asia-Pacific Climate Finance Fund 
     id: apcff
     url: https://www.adb.org/site/funds/funds/asia-pacific-climate-finance-fund
     year: 2017
@@ -35,7 +35,7 @@ tf:
     contributor:
       - partner: Germany
     description: |
-      The Asia Pacific Climate Finance Fund supports the development and implementation of financial risk management products, focused on climate change mitigation, adaptation, and disaster risk management. It provides grants and technical assistance to ADB projects utilizing the Joint Crediting Mechanism, a bilateral carbon market mechanism initiated by the government of Japan. The fund’s work puts emphasis on financial risk management products that have been proven elsewhere but are not yet widely commercially available in ADB's developing member countries. These financial risk management products will help developing member countries to invest in new climate technologies as well as expand the dissemination of climate risk insurance. All developing member countries of the bank are eligible for funding and nonsovereign projects.
+      The Asia-Pacific Climate Finance Fund (ACliFF) supports the development and implementation of financial risk management products alongside ADB projects and non-ADB projects in order to address climate risks and the risks associated with investments in climate mitigation and adaptation.  It provides grants, technical assistance, and other financing instruments to support utilization of financial risk management products that will help ADB's developing members invest in new climate technologies, scale up private sector climate financing, promote investment into climate-sensitive sectors, as well as expand the penetration of climate risk insurance and other tools that address extreme weather events.  Projects from  all developing members (sovereign and non-sovereign), including from some third party organizations, are eligible for ACliFF support.
 
   - item:
     type: multi
@@ -215,5 +215,4 @@ In 2019, 14 projects were approved with funding from multi-partner trusts funds.
 
 All ADB-approved projects is net of savings for financially completed projects and direct charges.
 
-{{< mptf >}}
-
+{{< mptf >}} 
