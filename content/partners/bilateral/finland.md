@@ -11,9 +11,11 @@ The [Finland](https://www.adb.org/publications/finland-fact-sheet) [Ministry of 
 
 In March 2019, ADB and the Ministry for Foreign Affairs signed an agreement to support two mid-career professionals under ADB’s Sponsor-funded Staffing Program. Two Finnish nationals have been selected for 2-year staff position assignments, one Private Sector Development Specialist in the Viet Nam Resident Mission and one Social Sector Specialist for the Education Sector Group.  
 
-Finland has four specific priorities: (i) rights and status of women and girls; (ii) growth of developing countries’ economies to generate more jobs, livelihood opportunities and well-being; (iii) democratic and better-functioning societies; and (iv) food security, access to water and energy, and sustainable use of natural resources. 
+Finland has four specific priorities: (i) rights and status of women and girls; (ii) growth of developing countries’ economies to generate more jobs, livelihood opportunities and well-being; (iii) democratic and better-functioning societies; and (iv) food security, access to water and energy, and sustainable use of natural resources.
 
 Finland’s priority countries are Afghanistan, Nepal, and Myanmar. The country also supports the Central Asia region, particularly Kyrgyzstan and Tajikistan, to strengthen human rights, the rule of law, sustainable economic growth, water resource management, and climate change preparedness.
+
+ADB's [Trade Finance Program](https://www.adb.org/what-we-do/trade-supply-chain-finance-program/main) (TFP) supported 89 Finnish export and import transactions (through Finnish and non-Finnish banks) to developing Asia valued at over $233.96 million as of October 2019. Exports and imports were to 6 countries, but mostly to Bangladesh, Pakistan, and Viet Nam. Isolating TFP’s work with Finnish banks, TFP works with two banks domiciled in France and has provided guarantees supporting $8.38 million in trade in over 5 transactions.
 
 #### Active Trust Fund 
 

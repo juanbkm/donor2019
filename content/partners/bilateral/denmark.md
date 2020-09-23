@@ -12,7 +12,9 @@ ADB works with [Denmark](https://www.adb.org/publications/denmark-fact-sheet)’
 
 Denmark's priority interests include security and development; migration and development; inclusive, sustainable growth and development; and freedom and development.  
 
-Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the past, country policy papers also existed for the following Asian countries: Indonesia, Nepal, Pakistan, Viet Nam. 
+Denmark’s priority countries are Afghanistan, Bangladesh, and Myanmar. In the past, country policy papers also existed for the following Asian countries: Indonesia, Nepal, Pakistan, Viet Nam.
+
+ADB's [Trade Finance Program](https://www.adb.org/what-we-do/trade-supply-chain-finance-program/main) (TFP) supported 20 Danish export and import transactions (through Danish and non-Danish banks) to developing Asia valued at over $15.76 million as of October 2019. Exports and imports were to 9 countries, but mostly to Bangladesh, Pakistan, and Sri Lanka. Isolating TFP’s work with Danish banks, TFP works with one bank domiciled in Denmark and has provided a guarantee supporting $0.57 million in trade in one transaction.
 
 #### Active Trust Funds 
 

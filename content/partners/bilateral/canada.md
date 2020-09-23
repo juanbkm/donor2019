@@ -13,6 +13,8 @@ Canada’s priority themes are: (i) gender equality; (ii) increasing food securi
 
 Canada’s priority sectors for development assistance are gender, governance, private sector development, and health, while special attention is given to fragile and conflict-affected and small island developing states.
 
+ADB's [Trade Finance Program](https://www.adb.org/what-we-do/trade-supply-chain-finance-program/main) (TFP) supported 128 Canadian export and import transactions (through Canadian and non-Canadian banks) to developing Asia valued at over $357.97 million as of October 2019. Exports and imports were to 9 countries, but mostly to Bangladesh, Sri Lanka, and Viet Nam. Isolating TFP’s work with Canadian banks, TFP works with 3 banks domiciled in Canada and has provided guarantees supporting $561 million in trade in over 122 transactions. The TFP has mobilized $143.86 million in cofinancing with banks domiciled in Canada. This cofinancing helps leverage ADB resources and brings more support for developing members.
+
 #### Active Trust Funds
 
 * [Asia Pacific Project Preparation Facility](./modalities/trust-funds/multi-partner-trust-funds/#apppf) 

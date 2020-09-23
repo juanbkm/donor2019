@@ -14,6 +14,10 @@ draft: false
 
 Several departments coordinated through the Ministry of Cooperation and External Affairs manage development cooperation, whereas the [Ministry of Economy and Competitiveness](https://www.mineco.gob.es/) is responsible for the relationship with ADB and other MDBs. Also involved in the provision of development assistance are the [Ministry of Treasury and Public Function (Ministry of Finance)](https://www.hacienda.gob.es/) and the [Ministry of Foreign Affairs, European Union and Cooperation](http://www.exteriores.gob.es/Portal/es/Paginas/inicio.aspx). Apart from the Spanish Cooperation Fund for Technical Assistance, Spain contributes to the Clean Energy Fund and the Multi-Donor Trust Fund under the Water Financing Partnership Facility.
 
+Spain also participated in ADB’s nonsovereign operations. Through its [Trade Finance Program](https://www.adb.org/what-we-do/trade-supply-chain-finance-program/main), ADB supported 277 Spanish export and import transactions (through Spanish and non-Spanish banks) to developing Asia valued at over $415.23 million as of October 2019. Exports and imports were to 11 countries, but mostly to Bangladesh, Pakistan and Viet Nam.
+
+TFP works with 10 banks domiciled in Spain and has supported guarantees supporting $548.49 million in trade in over 1,309 transactions.  The TFP has mobilized $1.11 million in cofinancing with banks domiciled in Spain. This cofinancing helps leverage ADB resources and brings more support for DMCs as well as exports, imports, growth and job creation.
+
 #### Active Trust Funds 
 
 * [Clean Energy Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cef)

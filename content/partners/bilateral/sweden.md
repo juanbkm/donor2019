@@ -15,6 +15,10 @@ Under its "Regional Development Cooperation in Asia and the Pacific" strategy fo
 
 In Asia, Sweden prioritizes Afghanistan, Bangladesh, Cambodia, and regional programs in South Asia, Southeast Asia, and small islands states in the Pacific. It focuses on initiatives that address democracy and human rights, conflict prevention and support to migration, gender equality, regional cooperation and integration, climate and environment and inclusive growth. In cofinancing projects with ADB, Sweden provides grants for investment and technical assistance projects through trust funds or on a project-specific basis and guarantees for the public and private sector. It also has a Guarantee Agreement with ADB relating to a risk transfer arrangement on a portfolio of ADB sovereign loans.
 
+Sweden also collaborated with ADB’s private sector operations through the [Trade Finance Program](https://www.adb.org/what-we-do/trade-supply-chain-finance-program/main) (TFP). TFP supported 36 Swedish export and import transactions (through Swedish and non-Swedish banks) to developing Asia valued at over $75.60 million as of October 2019. Exports and imports were to 8 countries, but mostly to Bhutan, Sri Lanka and Viet Nam.
+
+TFP’s work with Swedish banks involved 4 banks domiciled in Sweden that has provided guarantees supporting $75.87 million in trade in over 10 transactions.  The TFP has also mobilized $49.34 million in cofinancing with banks domiciled in Sweden. This cofinancing helps leverage ADB resources and brings more support for DMCs as well as exports, imports, growth and job creation.
+
 #### Active Trust Funds 
 
 * [Clean Energy Fund under the Clean Energy Financing Partnership Facility](./modalities/financing-partnership-facilities/clean-energy-financing-partnership-facility/#cef)  

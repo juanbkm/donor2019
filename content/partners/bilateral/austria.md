@@ -11,7 +11,9 @@ draft: false
 
 The [Austrian Development Agency](https://www.entwicklung.at/en/) (ADA) is an operational unit of the Austrian Development Cooperation under the FMEIA and is tasked with implementing Austrian development cooperation strategy and programs, managing bilateral development cooperation budget, undertaking policy dialogue in Austria and partner countries, and advising FMEIA.  
 
-Austria works with ADB on education, ensuring peace, human security, human rights, migration, water, energy, food security, private sector and development. Austria’s priority countries are Armenia (agriculture, good governance), Bhutan (energy, tourism, good governance), and Georgia (forestry agriculture, good governance). 
+Austria works with ADB on education, ensuring peace, human security, human rights, migration, water, energy, food security, private sector and development. Austria’s priority countries are Armenia (agriculture, good governance), Bhutan (energy, tourism, good governance), and Georgia (forestry agriculture, good governance).
+
+ADB's [Trade Finance Program](https://www.adb.org/what-we-do/trade-supply-chain-finance-program/main) (TFP) supported 61 Austrian export and import transactions (through Austrian and non-Austrian banks) to developing Asia valued at over $36.68 million as of October 2019. Exports and imports were to 9 countries, but mostly to Armenia, Bangladesh, and Georgia. Isolating TFP’s work with Austrian banks, TFP has works with four banks domiciled in Austria and has provided guarantees supporting $182.85 million in trade in over 296 transactions. The TFP has mobilized $1 million in cofinancing with banks domiciled in Austria. This cofinancing helps leverage ADB resources and brings more support for developing members as well as exports, imports, growth, and job creation.
 
 #### Active Trust Funds 
 

@@ -11,7 +11,9 @@ draft: false
 
 Its main partner countries in Asia include Lao PDR, where it supports initiatives on health, Technical and Vocational Education and Training, and local development, and Viet Nam, where it supports local development, health, and vocational training. It also provides development assistance to Myanmar in the fields of education and tourism. Its financing partnership with ADB has included support for technnical assistance on financial system strengthening in Azerbaijan, Cambodia, Indonesia, Kyrgyz, Mongolia, Lao PDR, and Viet Nam. 
 
-Luxembourg manages its international cooperation and official development assistance (ODA) through the [Development Cooperation Directorate of the Ministry of Foreign and European Affairs](https://cooperation.gouvernement.lu/en.html) while its [Ministry of Finance](https://mfin.gouvernement.lu/en.html) (MOF)handles cooperation with international financial institutions. The [Lux-Development](https://luxdev.lu/en/home) (LuxDev) implements Luxembourg’s bilateral ODA and implements cooperation projects with partners in developing countries. 
+Luxembourg manages its international cooperation and official development assistance (ODA) through the [Development Cooperation Directorate of the Ministry of Foreign and European Affairs](https://cooperation.gouvernement.lu/en.html) while its [Ministry of Finance](https://mfin.gouvernement.lu/en.html) (MOF)handles cooperation with international financial institutions. The [Lux-Development](https://luxdev.lu/en/home) (LuxDev) implements Luxembourg’s bilateral ODA and implements cooperation projects with partners in developing countries.
+
+ADB's [Trade Finance Program](https://www.adb.org/what-we-do/trade-supply-chain-finance-program/main) (TFP) supported 11 export and import transactions with Luxembourg to developing Asia valued at over $9.82 million as of October 2019. Exports and imports were to 5 countries, but mostly to Pakistan, Sri Lanka, and Viet Nam.
 
 #### Active Trust Fund
 

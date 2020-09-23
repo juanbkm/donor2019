@@ -13,6 +13,9 @@ draft: false
 ---
 [Switzerland](https://www.adb.org/publications/switzerland-fact-sheet)'s development cooperation is coordinated between the [Swiss Agency for Development and Cooperation](https://www.eda.admin.ch/sdc) (SDC) within the Federal Department of Foreign Affairs, and the [State Secretariat for Economic Affairs](https://www.seco.admin.ch/seco/en/home.html) (SECO) within the Federal Department of Economic Affairs, Education and Research. SECO’s priority countries in Asia are Indonesia and Viet Nam, while SDC’s priority countries in Asia are in the Mekong subregion (Cambodia, the Lao People's Democratic Republic, and Myanmar), Afghanistan, Bangladesh, Mongolia, Nepal, and Pakistan.  
 
+Switzerland also collaborated with ADB’s nonsovereign operations through the [Trade Finance Program](https://www.adb.org/what-we-do/trade-supply-chain-finance-program/main) (TFP). ADB’s TFP supported 645 Swiss export and import transactions (through Swiss and non-Swiss banks) to developing Asia valued at over $2.66 billion as of October 2019. Exports and imports were to 12 countries, but mostly to Bangladesh, Pakistan, and Viet Nam.
+
+Isolating TFP’s work with Swiss banks, TFP works with 7 banks domiciled in Switzerland and has provided guarantees supporting $429.24 million in trade in over 111 transactions.  The TFP has also mobilized $171.54 million in cofinancing with banks domiciled in Switzerland. This cofinancing helps leverage ADB resources and brings more support for DMCs as well as exports, imports, growth and job creation.
 
 #### Active Trust Funds
 
