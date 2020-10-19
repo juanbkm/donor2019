@@ -5,7 +5,7 @@ baseURL = "http://fightpompe.com/donor2019/"
 # baseURL = "http://adbpublicstg.prod.acquia-sites.com/multimedia/partnership-report2019/"
 
 # live
-#baseURL = "https://www.adb.org/multimedia/partnership-report2019/"
+# baseURL = "https://www.adb.org/multimedia/partnership-report2019/"
 
 
 languageCode = "en-us"
@@ -17,8 +17,8 @@ title = "Partnership Report 2019"
   # meta data
   author = "Asian Development Bank (ADB)"
   title = "ADB Partnership Report 2019: Building Strong Partnerships for Shared Progress"
-  description = "ADB Strategy 2030 works to eradicate extreme poverty while expanding its vision of a prosperous, inclusive, resilient, and sustainable Asia and the Pacific. Financing partnerships are critical to delivering this vision. The 2019 ADB Partnership Report highlights many exciting and impactful examples of ADB financing partnerships (“cofinancing”) in both the ADB’s sovereign and nonsovereign operations. These examples illustrate how cofinancing partnerships are delivering concrete impacts on the ground, how they are aligned with the ADB Strategy 2030’s seven operational priorities, and how cofinancing amplifies ADB’s private sector operations. It features stories and summaries of how these partnerships have made a significant difference in the lives of the poor."
-  keywords = "Sovereign financing partnerships, cofinancing, co-financing, private sector cofinancing, nonsovereign cofinancing, ADB Partnerships Report, ADB Donor Report, development cofinancing, ADB cofinancing operations, strong partnerships, shared progress, ADB Strategy 2030 operational priorities, trust funds, project specific cofinancing, financing partnership facilities"
+  description = "The ADB Partnership Report 2019 highlights examples of ADB financing partnerships (“cofinancing”) in both ADB’s sovereign and nonsovereign operations. These examples illustrate how cofinancing partnerships are delivering concrete impacts on the ground, how they are aligned with the ADB Strategy 2030’s seven operational priorities, and how cofinancing amplifies ADB’s private sector operations. It features stories and summaries of how these partnerships have made a significant difference in the lives of the poor."
+  keywords = "Sovereign financing partnerships, cofinancing, co-financing, private sector cofinancing, nonsovereign cofinancing, ADB Partnership Report, ADB Donor Report, development cofinancing, strategic partnerships, ADB partners, ADB Strategy 2030, ADB Trust Funds, project-specific cofinancing, financing partnership facilities, global funds, framework cofinancing agreements, partnership framework agreements, partnering for development, ADB publications"
 
 # Site Menus
 [menu]
